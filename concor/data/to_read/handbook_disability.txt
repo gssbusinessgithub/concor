@@ -1,0 +1,807 @@
+19. Disability inclusion and social protection
+Alexandre Côte
+
+19.1
+
+INTRODUCTION
+
+Persons with disabilities comprise 15 per cent of the world’s population, and are more likely to
+live in poverty, face catastrophic health expenditures, have lower levels of education and economic participation and live in households more exposed to economic insecurity and shocks
+than persons without disabilities (Mizunoya and Mitra 2013; Mizunoya et al. 2016; WHO and
+World Bank 2011; UN DESA 2018; Mitra 2018; Trani et al. 2015). These inequalities arise
+from multiple barriers such as stigma, inaccessible infrastructure, information and services as
+well as lack of support (WHO and World Bank 2011; UN DESA 2018). Disability-, gender- or
+ethnicity-related barriers often intersect leading to compound discriminations, in particular for
+women and girls with disabilities.
+Fewer than one in five persons with significant disabilities access disability-related social
+protection benefits in low- and middle-income countries (LICs and MICs) (Durán Valverde,
+et al. 2019). Moreover, existing social protection policies focus mostly on incapacity to
+work and poverty rather than providing adequate support for inclusion, which limits their
+effectiveness and perpetuates prejudices (Banks et al. 2018a, 2018b; Kidd et al. 2018, 2019a;
+Hanass-Hancock et al. 2017; Kelly 2019).
+In the last decade, implementation of the United Nations Convention on the Rights of
+Persons with Disabilities (CRPD)1 has triggered a wide range of policy changes across
+countries. The no one left behind focus of the Sustainable Development Goals (SDGs) has
+amplified this momentum and fuelled the consensus about the critical role of social protection
+in reducing vulnerability and supporting inclusion of persons with disabilities across the life
+cycle (ILO 2017, 2019; UN 2015; UN DESA 2018). Building on the 2019 joint statement on
+inclusive social protection (ILO 2019), recent studies and ongoing debates,2 this chapter therefore reviews key elements for developing inclusive and universal social protection systems,
+with a focus on LICs and MICs. Section 19.2 presents the status quo and reform needs. Section
+19.3 reviews the building blocks of an inclusive social protection system, looking at gaining
+better insights in the situation of persons with disabilities, addressing access problems and
+shortcomings in current programming.
+
+Adopted in 2006 and ratified by 181 countries as of March 2020 (UN DESA 2020).
+This chapter draws from recent reports from Development Pathways and the International
+Centre of Disability Evidence, funded either by the United Kingdom’s Department for International
+Development or the Australian Department of Foreign Affairs and Trade, as well as from an ongoing
+project implemented by the International Labour Organization and UNICEF. All views expressed and
+possible errors remain the sole responsibility of the author.
+1
+2
+
+354
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+Disability inclusion and social protection 355
+
+19.2
+
+RETHINKING THE RATIONALE OF SOCIAL PROTECTION
+FOR PERSONS WITH DISABILITIES
+
+19.2.1
+
+Coverage
+
+Through a combination of contributory and tax-financed schemes, most high-income countries provide a quasi-universal social protection coverage to persons with disabilities (OECD
+2010; Grammenos 2016). In 2019, 68.0 per cent of the European Union population (aged 16
+and over) likely to live with a disability would have been at risk of poverty without social
+protection benefits (Eurostat 2020). By contrast, only 18.5 per cent of persons with significant
+disabilities in LICs and MICs have access to disability-related social protection benefits,
+ranging from 95 per cent coverage in Eastern Europe to 7 per cent or less in southern Asia and
+Sub-Saharan Africa (Durán Valverde et al. 2019). LICs and MICs systems tend to combine
+contributory (ILO 2017) and poverty-targeted tax-financed schemes leaving the majority of
+persons with disabilities who are not in formal employment and not poor enough unsupported
+– the ‘missing middle’ (Larasati et al. 2019; UN DESA 2018; Kidd et al. 2019a).
+These differences are reflected in the level of disability-related social protection expenditures which represent on average 2.1 per cent of gross domestic product (GDP) in European
+Union countries (Grammenos 2016) while few LICs and MICs with tax-financed disability
+benefits invest more than 0.3 per cent of GDP (Kidd et al. 2019a).
+Most recent global estimates consider that a basic universal disability benefit for persons
+with disabilities3 would require at least 0.6 per cent of GDP on average in LICs and MICs
+(Durán Valverde et al. 2020). Next to additional financial resources, inclusive social protection
+systems also require a departure from outlived concepts of disability and from limited consideration for disability-related costs (Diwakar and Shepherd 2018).
+19.2.2
+
+Beyond Incapacity to Work
+
+Historically, social protection policies have considered disability from the perspective of loss
+of capacity to earn income and the need for rehabilitation and care (UN 2015). This approach
+has guided the adoption of ILO Conventions 102, 121 and 128 and national disability contributory income security schemes (ILO 2017). While providing essential protection for workers,
+it has cemented a dichotomy between persons with disabilities deemed able or unable to work
+and participate in society contributing to schemes fostering ‘dependence, segregation and
+institutionalization of persons with disabilities’ (Devandas Aguilar 2017, 46).
+The human rights-based approach to disability, which contributed to the adoption of disability anti-discrimination legislations in the 1990s and the United Nations CRPD in 2006, challenged this entrenched perspective. It reconceptualised disability as the result of the interaction
+between persons with impairments and diverse barriers which may restrict their participation.
+This implies policies across sectors that combine the removal of barriers (awareness raising,
+non-discrimination, accessibility) with the provision of required support (assistive devices,
+rehabilitation, support services, social protection).
+
+3
+Calculations are based on the payment of a periodic disability benefit at 100 per cent of the full
+national poverty line, granted to persons with any severe disability.
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+356
+
+Handbook on social protection systems
+
+While some reforms partly motivated by the intention to cut public expenditures have
+had adverse effects (Beatty and Fothergill 2018; Hauben et al. 2012), this understanding of
+disability has led to significant evolutions in social protection for persons with disabilities in
+Organisation for Economic Co-operation and Development (OECD) countries, with policies
+that moved from passive compensation of incapacity to work to support for socio-economic
+inclusion (OECD 2010; Böheim and Leoni 2016).
+19.2.3
+
+The Importance of Understanding Disability-Related Costs
+
+Many social protection policies in LICs and MICs have not adequately factored in
+disability-related costs (Braithwaite and Mont 2009; Mitra et al. 2017; Carraro and Castro
+Cumpa 2014), which vary depending on support requirements, barriers, health-care needs and
+the level of participation of persons with disabilities. They comprise:
+●● Indirect costs, such as loss of earnings due to barriers faced in education and employment,
+as well as the opportunity cost for family members providing support (Hanass-Hancock et
+al. 2017).
+●● Direct costs related to greater consumption of ordinary goods and services such as health
+care or private transport and disability-specific services such as assistive devices, personal
+assistance, sign language interpretation, etc.
+●● These costs, unaffordable for most, limit their capacity to convert income into the same
+standard of living and level of participation as those without disabilities.
+While inclusive public transportation, labour markets and public services will eventually
+lower some barriers, other expenses such as assistive devices or personal assistance may be
+incompressible, irrespective of the environment.
+Most studies carried out to assess disability-related expenditures use the Standard of Living
+method, which estimates the additional resources needed by a household with a person with
+disability to achieve the same standard of living as an otherwise similar household without
+a person with disability. Additional expenditure ranges from 16 per cent to 70 per cent of
+average income (Mitra et al. 2017), with greater costs for those with severe disabilities.
+Adjusting the poverty line in light of the additional costs increases the poverty rate for
+households with persons with disabilities from 18 per cent to 34 per cent in Cambodia (Palmer
+et al. 2015) and 38.5 per cent to 52.9 per cent in Ghana (Asuman, Ackah and Agyire-Tettey
+2020). This points to the importance of disability-adjusted poverty lines (Braithwaite and
+Mont 2009) and higher eligibility thresholds for means tests in social assistance programmes.
+One shortcoming of the Standard of Living method is that it does not provide insight into
+the diversity of costs or what additional expenses are required to achieve equal access and
+participation. One of the few studies in LICs and MICs (South African Department of Social
+Development 2016) assessing indirect and direct disability-related costs showed that costs
+vary greatly according to the level of support required and participation (see Figure 19.1). The
+minimum costs reflect lower levels of socio-economic participation with costs being pushed
+onto the family, while the maximum includes for instance transport and paid human assistance
+used by those who seek participation.
+For people with significant support needs, disability-related costs represented up to 15 times
+the national poverty line (Statistics South Africa 2017). With a disability grant, comparatively
+higher in South Africa than in most LICs and MICs (UN DESA 2018), many persons with
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+Disability inclusion and social protection 357
+disabilities, including those living in non-poor households, cannot cover their common and
+disability-related expenses (Hanass-Hancock et al. 2017).
+
+Sources: Author’s own illustration based on DSD South Africa, 2015, South African Rand converted to USD by
+author using EC-infoeuro rate for January 2014).
+
+Figure 19.1
+
+19.3
+
+Disability-related costs per group of persons with disabilities
+
+TOWARDS INCLUSIVE SOCIAL PROTECTION SYSTEMS
+SUPPORTING EMPOWERMENT OF PERSONS WITH
+DISABILITIES
+
+Making social protection systems inclusive requires first understanding the diversity of
+persons with disabilities, the inequalities and barriers they face and the support they require.
+Second, delivery mechanisms must be fully accessible. Finally, it requires investments in
+a blend of cash transfers, in-kind support, including services.
+19.3.1
+
+Understanding the Situation Support Requirements
+
+Disability statistics
+Since the World Disability Report (WHO and World Bank 2011), there has been a global
+consensus that 15 per cent of the world adult population4 live with some form of disability
+and 3 to 4 per cent experiences significant difficulties. However, disability prevalence at
+national level remains a debated issue. The few censuses or surveys that identified people as
+having a disability did so through questions such as ‘Do you have a disability?’ and/or a list of
+4
+Estimates for people aged 60 years were up to 43.4 per cent and for children below 15 years old
+5.4 per cent.
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+358
+
+Handbook on social protection systems
+
+predefined disability/impairment/health conditions. Such an approach led to low prevalence
+estimates capturing mostly persons with very significant disabilities. Additionally, many older
+people, who do not self-identify as being ‘disabled’, would not be counted.
+In the last decade, the Washington Group’s short set of questions,5 based on a functional
+approach which does not carry such stigma, has become the standard recommended by most
+United Nations agencies and the World Bank (Tiberti and Costa 2020) and is increasingly
+used around the world (Groce and Mont 2017). It is easily implementable and cost-effective,
+generating more reliable and internationally comparable estimates (Madans et al. 2011). The
+requirement to disaggregate statistical and administrative data by disability under the CRPD
+(Article 31) and for the monitoring of the SDGs has further fuelled its use.
+Other stand-alone surveys have been developed to provide more detailed insights into the
+situation of persons with disabilities and the barriers they face, such as the World Health
+Organization Model Disability Survey6 and the SINTEF surveys.7 This significant progress
+has contributed to break the invisibility of persons with disabilities in data.
+Direct engagement
+The unique perspective of persons with disabilities’ lived experience is critical to providing
+data with context and meaning in relation to the barriers they face, the type of support they
+value or the groups that are most marginalised. As universal and adequate coverage can only
+be achieved progressively, it is critical to consult with representative organisations of persons
+with disability to prioritise resource allocation and phase investments. Such consultation at
+all stages of policy development is an obligation of the national government under the CRPD
+(Article 4.3) to ensure systematic inclusion. In addition, such meaningful engagement will
+lead to greater ownership and advocacy that is critical for social protection reforms requiring
+significant resources and political will.
+Disability assessments
+Disability assessments can produce a better understanding of individual support requirements.
+Until recently, most countries used medical assessments focused on health conditions and
+impairments (medical model). While valued for their apparent objectivity, they leave out
+significant parts of what constitutes disability and provide little information about the actual
+support required. Medical assessments are often perceived as a burden by overloaded doctors
+in LICs and MICs, who often do not have specific training (Kelly 2016). The United Nations
+CRPD committee has consistently recommended going beyond medical assessment and considering support requirements and barriers. Additionally, the need for a medical certificate is
+a significant barrier for poorer persons or those living in remote areas.
+The starting point for reform, which many countries such as Armenia, Georgia and Timor
+Leste have recently engaged in, should be equal and effective access to all persons with disabilities to the assessment mechanism. A few countries have therefore moved away from medical
+assessment as the main requirement and introduced simple instruments,8 used by village
+
+See www​.washingtongroup​-disability​.com/​ for more details.
+See www​.who​.int/​disabilities/​data/​mds/​en/​ for more details.
+7
+See www​.sintef​.no/​en/​projects/​studies​-on​-living​-conditions/​ for more details.
+8
+Countries have been adapting or combining tools such as the Functional Independence Measure,
+the Washington Group’s short set of questions, WHODAS 2.0 and the Disability Creation Process.
+5
+6
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+Disability inclusion and social protection 359
+committees as in Vietnam (Banks et al. 2018b) or social workers as in Fiji (Pacific Disability
+Forum 2018). They identify functional limitations and/or the person’s support requirements
+in carrying out basic daily life activities. A medical certificate is required only when there is
+no clear decision, or in case of an appeal, and its costs are partly borne by the administration.
+In Fiji, the process has been implemented in close collaboration with organisations of persons
+with disabilities guaranteeing strong ownership and support.
+Information collected during assessments is not only useful to determine eligibility but can
+also be used to inform policy planning. Some countries have developed systems to use this
+information, such as Senegal with a disability registry related to its Equal Opportunity Card, or
+France which has recently launched a national information system for all the centres in charge
+of disability assessment. Combined with statistical data, such registries can guide schemes and
+policy design, facilitate the planning costing and budget by extending social protection. They
+can also eliminate the need for repetitive assessments and allow fast relief to persons with
+disability during times of crises, as the recent COVID-19 pandemic has illustrated.
+19.3.2
+
+Making Delivery Mechanisms Inclusive
+
+Recent studies highlight distance, administrative complexity, inaccessibility of information
+and facilities and exclusionary design as important barriers to access (Banks et al. 2018a,
+2018b; Kidd et al. 2018, 2019a, 2019b). Many of those barriers stem from a lack of awareness
+of social protection personnel about the diversity of persons with disabilities and their inclusion requirements, compounded with a lack of disability-disaggregated data. For instance,
+programmes which require school attendance (conditional cash transfers, school feeding,
+etc.) may inadvertently discriminate against children with disabilities who are often excluded
+from education and are invisible to social protection systems. Corrective measures could be to
+waive the requirement or, better, to ensure that children with disabilities can actually access
+schools. In Brazil, social workers collaborate with the education system to include children
+benefiting from the main disability scheme (Wapling and Schjoedt 2020).
+Minimum standards for accessibility and non-discrimination in operation manuals and
+tenders could significantly improve access to public information, administrative forms, websites, payment points and offices. There should also be provisions for persons who are unable
+to reach offices or payment points. In Fiji, eligibility determination for the disability allowance
+was based on a home visit and included the delivery of identity documents, opening of a bank
+account and a review of eligibility for other benefits.9 During the COVID-19 crisis, Armenia
+adopted home delivery of cash transfers for persons with disabilities to lessen their risks of
+being contaminated.
+19.3.3
+
+Essential Schemes
+
+Inclusive social protection combines a diversity of schemes to provide basic income security,
+to cover disability-related costs including support services as well as to grant access to health
+care and other essential services, as shown in Table 19.1.
+
+9
+
+Exchange of author and Fiji government disability focal point, February 2020.
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+360
+
+Handbook on social protection systems
+
+Table 19.1
+
+Different types of social protection schemes that can support persons with
+disabilities
+Childhood
+
+Working age
+
+Old age
+
+Income security
+
+Family assistance benefits
+
+Poverty assistance, unemployment benefit, Old age pension
+
+Coverage of
+
+Child with disability benefit
+
+Disability/inclusion support allowance covering disability-related costs
+
+disability-related
+
+Concessions
+
+and compatible with paid work and other benefits
+
+costs, including
+
+Caregivers benefit
+
+Concessions
+
+support services
+
+Early identification and intervention, Personal assistance schemes, third-person support benefit, caregivers
+
+disability pension
+
+counselling, respite care
+
+benefit, interpreters, etc.
+
+Health care
+
+Universal health-care coverage, including rehabilitation and assistive technology
+
+Interlinkage
+
+Connection with early childhood
+
+Economic empowerment programmes, return to work programmes,
+
+development programmes, education public works, women’s empowerment, etc.
+
+Sources: Author’s own based on ILO (2019); UN DESA (2018); Kidd et al. (2019a).
+
+Often LICs or MICs do not provide such a combination, and have issues of accessibility,
+adequacy or coverage. However, countries such as Georgia, Thailand, South Africa, Nepal
+and Vietnam have developed some of the main building blocks. Considering the low coverage of contributory schemes in most LICs and MICs (see Chapter 3), this section focuses on
+tax-financed instruments such as cash transfers, in-kind support, concessions and services.
+Cash transfers
+Countries have adopted different tax-financed cash transfers which can be broadly divided
+into three categories depending on their purpose: basic income security, coverage of
+disability-related costs and hybrids whose purpose depends on the individuals’ circumstances (see Table 19.2). Basic income security can be provided through mainstreamed or
+disability-targeted cash transfers. The grant to cover additional costs can be universal or means
+tested.
+Hybrid benefits are universal individual disability benefits, which are provided regardless
+of a person’s income from work such as in Namibia, and regardless of other public support as
+in Thailand, Georgia and Fiji. For persons with disabilities with no or low income they act as
+income security. For those who have work or live in non-poor or otherwise supported households they tend to cover disability-related costs.
+In-kind support and concessions
+Most high-income countries and many LICs and MICs grant a wide diversity of in-kind
+support and concessions which can be categorised in three broad groups: free goods and services, discounts or subsidies and exemption on taxation. In-kind support and concessions can
+respond directly to a disability-related need such as health care, assistive devices or support
+services which are quite costly and cannot be covered by a basic disability allowance. Other
+concessions such as free public transportation or tax exemption for disability card holders can
+contribute to offset some disability-related costs.
+Concessions that appear to be the most valued are free or heavily subsidised health care,
+assistive devices and transport and housing and utility bill subsidies. Income tax exemptions
+are valued in countries with a wide formal sector as they provide relief to many parents of
+children with disabilities and increase benefits of entering the formal economy.
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+Disability inclusion and social protection 361
+Table 19.2
+
+Selected examples of cash transfer schemes for persons with disabilities and
+their families
+
+Cash transfers
+Mainstream and poverty
+targeted
+
+Basic income security
+Disability-related costs
+Household benefits
+
+Hybrid
+
+Philippines
+
+Poverty and partially disability Ethiopia, Ghana, Rwanda,
+targeted
+
+Tanzania, Malawi and Uganda
+Brazil Continuous Cash Benefit Benefits for households with persons
+
+Poverty and disability targeted
+
+Programme for children with
+
+requiring permanent care (Kenya,
+
+disabilities
+
+Indonesia)
+
+Affluence tested and disability
+
+Child disability grant (South Africa,
+
+targeted
+
+Mauritius)
+Asignación Universal por Hijo
+
+Mainstream universal
+
+(Argentina)
+Special maintenance allowance
+
+Disability targeted universal
+Mainstream and poverty
+targeted
+
+(Namibia)
+Individual benefits
+Old age pension (India)
+Brazil Continuous Cash Benefit
+
+Poverty and disability targeted
+
+Programme for children with
+disabilities
+
+Affluence tested and disability
+targeted
+Mainstream universal
+
+Disability grant (South Africa)
+
+Grant-in-aid (South Africa)
+
+Old age pension (Georgia,
+Lesotho, Mauritius)
+Disability allowance
+
+Universal disability targeted
+
+Disability pension (Timor
+
+Third-person support allowance
+
+(Fiji, Mauritius,
+
+Leste)
+
+(Mauritius)
+
+Vietnam, Thailand,
+Georgia, Nepal)
+
+Sources: Kidd et al. (2019a); World Bank and ILO (2016); Banks et al. (2018c); Pacific Disability Forum (2018);
+Chiripanhura and Niño-Zarazúa (2013); Cirillo and Tebaldi (2016).
+
+In many LICs and MICs, concessions have been unsystematically adopted by successive governments leading to a patchwork of measures that might not be the most efficient or progressive. For instance, income tax credits or duty tax exemptions in countries with large informal
+sectors mostly benefit better-off residents, while free health care and public transportation
+benefit all persons with disabilities and have the greatest impact on the most vulnerable.
+Access to health care, including rehabilitation and assistive technology
+Persons with disabilities are more likely to have unmet general and disability-related
+health-care needs and to face catastrophic health expenditures (WHO and World Bank 2011;
+Bright and Kuper 2018; Kuper and Heydt 2019). The vast majority needing assistive devices
+do not access them (Rohwerder 2018).
+Countries like Vietnam, Tunisia, Ghana and the Philippines have adopted subsidies to
+public health insurance which are sometimes more valued by persons with disabilities than
+low disability cash transfer (Banks et al. 2018c), reflecting the importance of covering
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+362
+
+Handbook on social protection systems
+
+health-care costs. However, national packages often miss essential specific services such as
+rehabilitation and assistive devices (Bright et al. 2018). The Philippines (Bundoc et al. 2019)
+and Vietnam (Banks et al. 2018b) have recently expanded those services within their universal
+health-care package10 while Georgia and Kenya cover or subsidise some assistive devices from
+different budgetary sources (Kabare 2018).
+Access to support services
+Support services such as personal assistance, sign language interpreters, circles of support for
+persons with intellectual disabilities and respite services are critical for both the survival and
+basic socio-economic participation of many persons with significant disabilities (UN 2017).
+Unfortunately, globally, most of the support has to be provided by families due to a lack of
+publicly funded support services, with little to no such services in LICs and MICs (WHO and
+World Bank 2011). This deprives persons with disabilities of equal opportunities for education, work and independent life, creates significant opportunity costs for households, increases
+the risks of neglect and abuse of children and adults alike (Kelly 2019) and burns out family
+members who are providing support, often women and girls. In some regions, such as in
+Europe and Central Asia, the lack of investment in support services maintains an overreliance
+on residential institutions (UNICEF 2013, 2019; Petrowski et al. 2017).
+In OECD countries, social protection has played a key role in the development and financing of existing support services. In the Global South, few research or pilot programmes exist
+on how best to provide such support, including via cash-plus interventions (Roelen et al. 2017)
+(see Chapter 14). Thailand and Tunisia are among the few LICs and MICs that are working
+on developing personal assistance service schemes. Recently attention has grown in LICs and
+MICs on the significant gap in long-term care services for older persons (Feng 2019). This
+could open a window of opportunity to think more broadly about the development of support
+services across the life cycle providing that it is framed with the objective of inclusion in the
+community and not institutionalisation. The challenge remains in any case to find culturally
+acceptable and viable approaches that progressively develop services while fostering choice
+and control of persons with disabilities as well as gender equality.
+19.3.4
+
+Inclusive Programming
+
+Inclusive combinations of scheme
+In their efforts to provide more support to persons with disabilities and their families, LICs
+and MICs have taken different approaches in phasing and combining the different schemes.
+Senegal and the Philippines have adopted a disability or equal opportunity card to provide
+access to in-kind support and concessions, including health care, and are now moving towards
+the adoption of cash transfers. South Africa, Brazil, Nepal and Georgia started early on with
+disability benefits for children and adults with disabilities, complemented with concessions.
+Fiji started with household poverty assistance benefits partially targeting disability and old
+age, before creating a stand-alone disability allowance and social pension, together with
+transport and health-care concessions. All, however, converge towards a combination of
+The World Health Organization has developed a priority assistive product list to guide inclusion
+in a universal health-care package, see www​.who​.int/​phi/​implementation/​assistive​_technology/​low​_res​
+_english​.pdf
+10
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+Disability inclusion and social protection 363
+cash transfers, in-kind support and concessions, unfortunately with few countries investing in
+support services to date.
+Many countries are also developing more accessible disability assessments that consider
+support requirements, together with national disability registries and disability/equal opportunity cards to streamline access of persons with disabilities to different benefits. Those evolutions increasingly acknowledge the central issue of disability-related costs. Still, significant
+differences exist as to whether those evolutions are framed by a shift towards inclusion.
+Many countries have adopted schemes that are often poverty targeted, with low coverage
+and low value, based on a dichotomy between those deemed able and unable to work, and that
+emphasise the need for care. Some countries are in-between such as South Africa or Brazil:
+both have cash transfers that are relatively high in value, wide in coverage and also that cover
+children with disability, but cash transfers to adults with disability are based on their incapacity to work. While Brazil has poverty-targeted disability schemes compared to affluence-tested
+schemes in South Africa, it has initiated a challenging reform process to support persons with
+disabilities who start working.
+Fiji, Georgia, Nepal, Thailand, Vietnam and Mauritius, among others, started shifting
+towards support for inclusion and economic empowerment, adopting a combination of universal schemes across the life cycle that are compatible with work and sometimes with other
+benefits.
+Inclusive design choices
+There are some general design choices to be considered that can have significant impact on
+effective support for inclusion of a given scheme. These include:
+●● Individual versus household as recipient: While cash transfers for children with disabilities
+are paid to parents, it is critical that benefits for adults are paid to themselves, including
+caregiver grants or vouchers, to foster control over the benefits. Some countries have
+adapted their household schemes to reflect disability-related costs with higher eligibility thresholds, as in Moldova (Carraro and Castro Cumpa 2014), Tunisia and Palestine
+(ESCWA 2017), or a disability top-up such as in Indonesia (Rahayu Kusumastuti et al.
+2018). If this approach seems convenient at first, it is unlikely that it would effectively
+empower persons with disabilities, as they have very low control over benefits received by
+households. Even if individual disability benefits are often too low to foster autonomy and
+may be used for household consumption (Kidd et al. 2018; Banks et al. 2018a, 2018b), the
+person’s contribution can have a positive impact on their agency and social position (Banks
+et al. 2018a, 2018b) and may help them secure support from family members (Kelly 2019).
+●● Universal versus poverty targeting: While income security schemes are often means
+tested or poverty targeted, schemes aimed at coverage of disability-related costs or
+hybrid schemes tend to be universal or affluence tested. Georgia, Mauritius and South
+Africa’s well-resourced universal or affluence-tested schemes cover around 3 per cent
+of the working age population on a par with many OECD countries. Countries with
+poverty-targeted schemes such as Kenya, India or Indonesia have expectedly much lower
+coverage, with a high risk of exclusion errors due to a combination of inherent challenges
+of poverty targeting with issues in disability determination (Kidd et al. 2019a).
+●● Adequacy: Whether universal or poverty targeted, most existing schemes offer low benefits, insufficient for covering basic expenses let alone disability-related extra costs. Few
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+364
+
+Handbook on social protection systems
+
+countries provide relatively high coverage and high levels of benefits such as Georgia,
+Mauritius, South Africa (50 per cent of minimum wage) and Brazil (minimum wage).
+●● Compatibility with work: Many schemes have incapacity to work as an explicit or implicit
+criterion and are often the only support available. While the overall impact on labour
+supply might be low in countries with high structural unemployment (Mitra 2010),
+this criterion may create undesirable disincentives for persons with disability and their
+households. Engaging in economic activity means risking losing the main stable source of
+income. Also, such benefits are often incompatible with programmes such as vocational
+training or support for small businesses. On top of this, a fair assessment of the inability
+to work is challenging (Kelly 2016). A few LMICs have avoided these issues by adopting
+universal disability benefits compatible with paid work.
+●● Compatibility with other benefits: To be effective, cash transfers covering disability-related
+costs should also be compatible with other cash benefits. In Thailand or South Africa, old
+age pension recipients requiring human assistance are eligible for additional disability
+benefit. Unfortunately, in many countries cash transfers are mutually exclusive which
+undermines their effectiveness.
+
+19.4
+
+CONCLUSION
+
+The review of LMICs experiences shows that while no system has it all, their efforts to support
+inclusion of persons with disabilities are slowly drawing a road towards an inclusive social
+protection system. This includes:
+1. Better understanding of the situation of persons with disabilities and their extra costs
+through collection and analysis of disability data, consultation with persons with disabilities and easily accessible disability assessments focused on support requirements.
+2. National disability registries and disability/equal opportunity cards that facilitate access to
+diverse schemes and greater responsiveness in crisis.
+3. Investment ensuring accessibility and non-discrimination across social protection schemes
+so that persons with disabilities can make the most of existing programmes.
+4. A meaningful combination of cash transfers, in-kind support, including support services,
+and concessions. Considering LIC and MIC resource limitations, the hybrid universal
+disability support allowance scheme – compatible with work and further public support –
+together with free or heavily subsidised health care, assistive devices, public transportation
+and support services seems to have become a blueprint.
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+Disability inclusion and social protection 365
+
+REFERENCES
+Asuman, D., C.G. Ackah, and F. Agyire-Tettey (2020). Disability and Household Welfare in Ghana:
+Costs and Correlates. Journal of Family and Economic Issues, 1–17.
+Banks, L.M., M. Walsham, S. Neupane, Y. Pradhananga, M. Maharjan, K. Blanchet and H. Kuper
+(2018a). Disability-inclusive social protection in Nepal: A national overview with a case study from
+Tanahun district. International Centre for Evidence in Disability Research Report. London.
+Banks, L.M., M. Walsham, H. Van Minh, V. Duy Kien, V. Quynh Mai, T. Thu Ngan, B. Bich Phuong,
+D. Ha Son, N. Bao Ngoc, D. Thi Thuy Duong, K. Blanchet and H. Kuper (2018b). Disability-inclusive
+social protection in Vietnam: A national overview with a case study from Cam Le district. International
+Centre for Evidence in Disability Research Report. London.
+Banks, L.M., H. Kuper and S. Polack (2018c). Poverty and disability in low- and middle-income countries: A systematic review. PLOS ONE 13 (9), e0204881.
+Beatty, C. and S. Fothergill (2018). Welfare reform in the United Kingdom 2010–16: Expectations,
+outcomes, and local impacts. Social Policy and Administration 52 (5), 950–68.
+Böheim, R. and T. Leoni (2016). Disability policies: Reform strategies in a comparative perspective (No.
+w22206). Cambridge, MA: National Bureau of Economic Research.
+Braithwaite, J. and D. Mont (2009). Disability and poverty: A survey of World Bank poverty assessments
+and implications. Alter 3 (3), 219–32.
+Bright, T. and H. Kuper (2018). A systematic review of access to general healthcare services for
+people with disabilities in low and middle income countries. International Journal of Environmental
+Research and Public Health 15 (9), 1879.
+Bright, T., S. Wallace and H. Kuper (2018). A systematic review of access to rehabilitation for people
+with disabilities in low-and middle-income countries. International Journal of Environmental
+Research and Public Health 15 (10), 2165.
+Bundoc, J., I.I.I. Melanio Mauricio, G.M. Regis, P.M. Valera and M.R. David (2019). Development
+of a financing mechanism for assistive technologies through the Philippine Health Insurance
+Corporation. Global Perspectives on Assistive Technology, 515.
+Carraro, L. and M. Castro Cumpa (2014). Accounting for different needs when identifying the poor
+and targeting social assistance. Paper prepared for the IARIW 33rd General Conference, Rotterdam,
+24–30 August.
+Chiripanhura, B. and M. Niño-Zarazúa (2013). Social safety nets in Namibia: Structure, effectiveness
+and the possibility for a universal cash transfer scheme. www​.bon​.com​.na/​CMSTemplates/​Bon/​Files/​
+bon​.com​.na/​88/​8836bf27​-7f47​-4b0c​-9744​-f124611e6abb​.pdf
+Cirillo, C. and R. Tebaldi (2016). Social protection in Africa: Inventory of non-contributory programmes.
+International Policy Centre for Inclusive Growth Working Paper.
+Devandas Aguilar, C. (2017). Social protection and persons with disabilities. International Social
+Security Review 70, 45–65.
+Diwakar, V. and A. Shepherd (2018). Sustaining escapes from poverty. Working Paper 539. London:
+Overseas Development Institute. www​.odi​.org/​publications/​11214​-sustaining​-escapes​-poverty
+Durán Valverde, F., J.F. Pacheco-Jiménez, T. Muzaffar and H. Elizondo-Barboza (2020). Financing gaps
+in social protection: Global estimates and strategies for developing countries in light of the COVID-19
+crisis and beyond, ILO Working Paper (Geneva, ILO).
+ESCWA (2017). Strengthening social protection for persons with disabilities in Arab countries. https://​
+reliefweb​.int/​sites/​reliefweb​.int/​files/​resources/​social​-protection​-persons​-disabilities​-english​.pdf
+Eurostat (2020). Disability statistics: Poverty and income inequalities. https://​ec​.europa​.eu/​eurostat/​
+statistics​-explained/​index​.php​?title​=​Disability​_statistics​_​-​_poverty​_and​_income​_inequalities​&​oldid​
+=​515162​#Being​_at​-risk​-of​-poverty​_or​_social​_exclusion​_​.28AROPE​.29:​_higher​_prevalence​_among​
+_the​_population​_with​_activity​_limitation
+Feng, Z. (2019). Global convergence: Aging and long-term care policy challenges in the developing
+world. Journal of Aging and Social Policy 31 (4), 291–7.
+Grammenos, S. (2016). Adequate standard of living and social protection (Article 28 of UN CRPD):
+Statistical indicators annex to the Academic Network of European Disability Experts (ANED). Social
+protection for disabled people in Europe: Synthesis report by R. Sainsbury, A.M.M. Lawson and M.
+Priestley.
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+366
+
+Handbook on social protection systems
+
+Groce, N.E. and D. Mont (2017). Counting disability: Emerging consensus on the Washington Group
+questionnaire. The Lancet Global Health 5 (7), e649–e650.
+Hanass-Hancock, J., S. Nene, N. Deghaye and S. Pillay (2017). ‘These are not luxuries, it is essential for
+access to life’: Disability related out-of-pocket costs as a driver of economic vulnerability in South
+Africa. African Journal of Disability 6, 1–10.
+Hauben, H., M. Coucheir, J. Spooren, D. McAnaney and C. Delfosse (2012). Assessing the impact of
+European governments’ austerity plans on the rights of people with disabilities. European Foundation
+Centre and Bernard Brunhes International/BPI Group.
+ILO (2017). World social protection report 2017–19: Universal social protection to achieve the
+Sustainable Development Goals. Geneva: International Labour Office, 66–73.
+ILO (2019). Joint statement: Towards inclusive social protection system supporting full and effective
+participation of persons with disabilities. www​.social​-protection​.org/​gimi/​gess/​RessourcePDF​.action​
+?ressource​.ressourceId​=​54258
+Kabare, K. (2018). Social protection and disability in Kenya. Nairobi: Development Pathways.
+Kelly, G. (2016). Hard and soft medicine: Doctors’ framing and application of the disability category in
+their assessments of grant claimants’ fitness to work in South Africa. Working Paper No. 384. Centre
+for Social Science Research University of Cape Town.
+Kelly, G. (2019). Disability, cash transfers and family practices in South Africa. Critical Social Policy
+39 (4), 541–59.
+Kidd, S., L. Wapling, D.B. Athias and A. Tran (2018). Social protection and disability in South Africa.
+Development Pathways.
+Kidd, S., L. Wapling, R. Schjoedt, B. Gelders, D.B. Athias and A. Tran (2019a). Leave no one behind:
+Building inclusive social protection systems for persons with disabilities. Development Pathways.
+Kidd, S., L. Wapling and K. Kabare (2019b). Social protection and disability in Zambia. Development
+Pathways.
+Kuper, H. and P. Heydt (2019). The missing billion: Access to health services for one billion people with
+disabilities. www​.lshtm​.ac​.uk/​TheMissingBillion
+Larasati, D., K. Huda, A. Côte, S.K. Rahayu and M. Siyaranamual (2019). Policy brief: Inclusive social
+protection for persons with disability in Indonesia. TNP2K.
+Madans, J.H., M.E. Loeb and B.M. Altman (2011). Measuring disability and monitoring the UN
+Convention on the Rights of Persons with Disabilities: The work of the Washington Group on
+Disability Statistics. BMC Public Health 11 (4), 1–8.
+Mitra, S. (2010). Disability cash transfers in the context of poverty and unemployment: The case of South
+Africa. World Development 38 (12), 1692–709.
+Mitra, S. (2018). Disability, Health and Human Development. New York: Palgrave Macmillan.
+Mitra, S., M. Palmer, H. Kim, D. Mont and N. Groce (2017). Extra costs of living with a disability:
+A review and agenda for research. Disability and Health Journal 10 (4), 475–84.
+Mizunoya, S. and S. Mitra (2013). Is there a disability gap in employment rates in developing countries? World Development 42, 28–43.
+Mizunoya, S., S. Mitra and I. Yamasaki (2016). Towards inclusive education: The impact of disability on
+school attendance in developing countries. UNICEF. www​.unicef​-irc​.org/​publications/​845​-towards​
+-inclusive​-education​-the​-impact​-of​-disability​-on​-school​-attendance​-in​-developing​.html
+OECD (2010). Sickness, disability and work: Breaking the barriers: A synthesis of findings across
+OECD countries. OECD Publishing.
+Pacific Disability Forum (2018). From recognition to realisation of rights, furthering partnership for an
+inclusive Pacific 2030, 18.
+Palmer, M., N. Groce, D. Mont, O.H. Nguyen and S. Mitra (2015). The economic lives of people with
+disabilities in Vietnam. PLOS ONE July.
+Petrowski, N., C. Cappa and P. Gross (2017). Estimating the number of children in formal alternative
+care: Challenges and results. Child Abuse and Neglect 70, 388–98.
+Rahayu Kusumastuti, S., D. Larasati, M. Siyaranamual, K. Huda, S. Kidd and B. Gelders (2018). The
+Future of The Social Protection System in Indonesia: Social Protection for All. Jakarta: TNP2K
+Publications.
+Roelen, K., S. Devereux, A.G. Abdulai, B. Martorano, T. Palermo and L.P. Ragno (2017). How to make
+‘cash plus’ work: Linking cash transfers to services and sectors. UNICEF Office of Research.
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+Disability inclusion and social protection 367
+Rohwerder, B. (2018). Assistive technologies in developing countries. K4D Helpdesk Report. Brighton:
+Institute of Development Studies.
+South African Department of Social Development (2016). Elements of the financial and economic
+costs of disability to households in South Africa. Results from a pilot study. Johannesburg: DSD and
+UNICEF.
+Statistics South Africa (2017). Poverty trends in South Africa: An examination of absolute poverty in
+South Africa between 2006 and 2015. www​.statssa​.gov​.za/​publications/​Report​-03​-10​-06/​Report​-03​
+-10​-062015​.pdf
+Tiberti, M. and V. Costa (2020). Disability measurement in household surveys: A guidebook for designing household survey questionnaires. Washington, DC: World Bank Group.
+Trani, J.F., P. Bakhshi, S. Myers Tlapek, D. Lopez and F. Gall (2015). Disability and poverty in Morocco
+and Tunisia: A multidimensional approach. Journal of Human Development and Capabilities 16 (4),
+518–48.
+UN (2015). Report of the Special Rapporteur on the rights of persons with disabilities: Social protection.
+A/70/297.
+UN (2017). Report of the Special Rapporteur on the rights of persons with disabilities: Access to
+rights-based support for persons with disabilities. A/HRC/34/58.
+UN DESA (2018). UN flagship report on disability and development 2018: Realizing the SDGs by, for
+and with persons with disabilities. www​.un​.org/​development/​desa/​disabilities/​publication​-disability​
+-sdgs​.html
+UN DESA (2020). Convention on the rights of persons with disabilities. www​.un​.org/​development/​desa/​
+disabilities/​convention​-on​-the​-rights​-of​-persons​-with​-disabilities​.html
+UNICEF (2013). Children under the age of three in formal care in Eastern Europe and Central Asia:
+A rights-based regional situation analysis. https://​bettercarenetwork​.org/​library/​particular​-threats​-to​
+-childrens​-care​-and​-protection/​effects​-of​-institutional​-care/​children​-under​-the​-age​-of​-three​-in​-formal​
+-care​-in​-eastern​-europe​-and​-central​-asia​-a​-rights​-based
+UNICEF (2019). Inclusive social protection systems for children with disabilities in Europe and Central
+Asia. Social Protection Regional Issue Brief 3.
+Wapling, L. and R. Schjoedt (2020). Social protection and disability in Brazil. Development Pathways.
+WHO and World Bank (2011). World report on disability. www​
+.who​
+.int/​
+teams/​
+noncommunicable​
+-diseases/​sensory​-functions​-disability​-and​-rehabilitation/​world​-report​-on​-disability
+World Bank and ILO (2016). Universal social protection: Country cases. Global Partnership for
+Universal Social Protection. USP2030.
+
+Alexandre Côte - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:19AM
+via William and Mary School of Law
+
+

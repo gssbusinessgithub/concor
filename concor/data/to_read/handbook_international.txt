@@ -1,0 +1,784 @@
+29. International actors and social protection
+Jeremy Seekings
+
+29.1
+
+INTRODUCTION
+
+Social protection policy has long been shaped and sometimes driven by international or transnational actors (see Chapter 10). Imperial states sometimes imposed policies on their colonies,
+the International Labour Organization (ILO) actively promoted employment-related models of
+social protection (drawing heavily on the German model) and, from the 1960s, the World Food
+Programme (WFP) led responses to drought that over time often evolved into ongoing social
+protection programmes. In the 1990s, the World Bank promoted the privatization of heavily
+subsidized social insurance systems, including especially contributory or employment-linked
+old-age pensions. Across much of Latin America and the post-Communist countries of Central
+and Eastern Europe and Central Asia, public programmes were dismantled, sometimes without
+any significant alternatives (Cook 2007; Orenstein 2008).
+In the 2000s, the landscape of social protection reform shifted, from retrenchment to expansion, and involving many more international and transnational actors. These actors – including
+inter-governmental agencies (including the World Bank and United Nations (UN) agencies), government aid agencies operating internationally (such as Britain’s Department for
+International Development, DfID), and international non-governmental organizations (such as
+HelpAge International or the Friedrich-Ebert-Stiftung, linked to the German Social Democratic
+Party) – have assumed newly important roles in driving and reshaping the social protection
+agenda. They have commissioned research on the design and effects of programmes, collated
+data on their reach and cost, supported policy experts, published evidence-based but nonetheless promotional literature and funded seminars, workshops and training courses to promote
+not only social protection in general but their favoured models in particular. Moreover, many
+international organizations worked to incorporate the idea of a right to social protection into
+international agreements, especially the ILO Recommendation on Social Protection Floors (in
+2012) and Sustainable Development Goal 1.3 (in 2015). Social protection – like other fields
+of social policy – has indeed become ‘global’, generating a growing scholarly literature (and
+even a specialist journal, Global Social Policy).
+The crescendo of attention from diverse international organizations has encouraged national
+governments to expand social protection. When national governments have been reluctant
+or unable to do so, international organizations have often stepped in to introduce or operate
+programmes. In many African countries, ‘pilot’ programmes were initiated by international
+organizations, with external funding and ‘technical’ assistance. In some countries, dedicated
+‘government’ or parastatal agencies have been established, run by international organizations
+with the approval of national governments. In other countries, international organizations have
+operated primarily through local civil society organizations, some of which were established
+for the express purpose of implementing foreign-funded programmers. International organizations have generally taken the lead in monitoring and evaluating the programmes they have
+491
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+492
+
+Handbook on social protection systems
+
+funded. Faced with underenthusiastic national governments, international organizations have
+sponsored local civil society organizations to mobilize pressure within the affected countries.
+International organizations hold many of the strong cards in this game. But they are rarely
+strong enough to bend national governments – even in low-income countries – to their will. In
+most countries, social protection reforms are ‘negotiated’, not only between domestic political
+actors but also between them and international organizations (Hickey et al. 2019a). Sometimes
+national governments even introduce reforms that are opposed by international organizations.
+In these negotiations, it is rare for either international organizations or the national government to speak with one voice. Rather, diverse international organizations promote varied
+approaches and models, whilst government departments and individual politicians differ in
+their enthusiasm for reform. The result is a complex political landscape marked by considerable uncertainty as well as variation in the scale and form of reform.
+This chapter surveys the roles of international organizations in the expansionary phase of
+social protection reform in the 2000s, focusing primarily on Sub-Saharan Africa. The next
+section examines the rise in enthusiasm for social protection across a range of international
+organizations. The following section examines the models promoted by, discourses used and
+ideologies underlying the major influence of international organizations, focusing primarily on
+the World Bank and ILO. The final section considers the influence of national organizations
+at the national level, pointing to some of the growing number of country case studies of the
+politics of policy reform.
+
+29.2
+
+INTERNATIONAL ORGANIZATIONS AND THE NEW
+SOCIAL PROTECTION AGENDA
+
+Whilst international organizations have been involved in the promotion of (what has much
+more recently come to be called) ‘social protection’ reforms for almost a century, the terrain
+was uncluttered until the 2000s. From the 1930s until the 1960s the ILO was by far the most
+active of the international organizations. The ILO’s pursuit of compromise between employers, workers and states – in order to discourage revolution – expanded from the regulation of
+wages to the regulation of forms of social protection linked to wage employment, generally
+along German lines. The ILO facilitated the expansion of social insurance programmes
+for formally employed workers, including in parts of Central America. Imperial networks
+also served as mechanisms for the international diffusion of ideas and models. The French
+extended to their colonies employment-linked family allowance programmes (together with
+other contributory social insurance programmes). In some parts of the British Empire, colonial
+governments introduced tax-financed social assistance programmes (as well as tax-financed
+health systems), aimed not at waged workers but at those poor people who were unable to
+work because of age or disability. The imperial British state generally discouraged social
+assistance reforms, preferring instead contributory programmes (including provident funds)
+for formally employed workers and rural development programmes for smallholder farmers.
+Indeed, from the 1940s, all of the imperial states and most other international organizations
+prioritized (economic) ‘development’ which (they believed) would reduce or remove the need
+for any social assistance and would in time lead to the expansion of employment-related social
+protection.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+International actors and social protection 493
+The first major shift in the approach of international organizations came in the 1960s with
+the establishment of the WFP to coordinate humanitarian relief operations. If development
+was the preferred long-term solution to predominantly rural poverty, emergency relief was
+required in the short term in response to drought, floods or other disasters that prevented poor
+people from providing for themselves. The WFP ensured that large volumes of food were provided through feeding programmes (especially for children) and food-for-work programmes
+(for able-bodied adults) either through government or civil society channels.
+The next major shift came in the late 1980s and early 1990s. A series of economic crises –
+first in Latin America, then following the collapse of the Soviet Empire, led to the International
+Monetary Fund (IMF) and World Bank imposing structural adjustment programmes. In
+countries with expensive contributory pension systems – especially post-Soviet Europe and
+the more industrialized Latin American countries – the World Bank promoted energetically
+the privatization of social insurance (Orenstein 2008). Austerity required the introduction of
+user fees which had massive consequences, especially in health services. The World Bank
+(and other organizations) established ‘social funds’ to mitigate the effects of austerity on the
+poor. In parts of Africa, AIDS added to the urgency of addressing ‘social risks’. In 1993, the
+IMF and World Bank formally recognized the importance of ‘social safety nets’ in mitigating
+the adverse effects of economic reform (and thus offset political opposition to reforms). The
+following year the World Bank published a major report outlining its proposals for comprehensive old-age pensions, including non-contributory pensions for the very poor. In 1996, the
+World Bank established a Social Protection and Labour Unit and began to prepare a new social
+protection strategy. Despite these initiatives, social protection was not mentioned in the 2000
+Millennium Development Goals.
+In 2001, the World Bank published its first Social Protection Sector Strategy (2001a) and
+applied this to Africa (2001b). It also began to fund experimental conditional cash transfer programmes (promoting versions of the models initiated in Brazil and Mexico). From 2002, the
+World Bank organized major conferences to promote conditional cash transfer programmes
+(World Bank 2012a, appendix A). At the same time the ILO re-examined its approach to social
+protection, in part in order to push back against the World Bank’s trespassing on what the
+ILO considered to be its turf. ILO researchers recognized that a focus on employment-related
+social insurance left a massive ‘coverage gap’. The ILO’s 2000 World Labor Report examined
+Income Security and Social Protection in a Changing World. In 2003, the ILO launched a
+‘Global Campaign on Social Security and Coverage for All’ and began to develop the concept
+of a ‘Social Protection Floor’ (Cichon and Hagemejer 2007). In 2005, both the ILO and
+World Bank published their first studies of the cost of social protection programmes. Both
+concluded that a significant expansion of social protection was affordable in low- as well as
+middle-income countries (Kakwani and Subbarao 2005; Pal et al. 2005). The World Bank’s
+embrace of social protection was part of a broader re-engagement with ‘social’ dimensions of
+development (Vetterlein 2017).
+Other international organizations became similarly enthused with pro-poor social protection. DfID established within its Policy Division in 2002–2003 a ‘Reaching the Very Poorest’
+team, focusing on cash transfers. This later evolved into a Social Protection team (Hickey and
+Seekings 2019). The Organisation for Economic Co-operation and Development established
+in 2004, within its Network on Poverty Reduction, a Task Team on Risk, Vulnerability and
+Social Protection (later renamed Social Protection and Social Policy), bringing together
+experts from government, international and civil society organizations (Voipio 2007). German
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+494
+
+Handbook on social protection systems
+
+agencies first engaged with the idea of cash transfers in 1998–99 and embraced it strongly
+from 2004. Nordic agencies developed a particular interest in social protection for the disabled.
+Reform accelerated during and after the financial and economic crisis of 2008–2009.
+The ILO persuaded the other UN agencies to launch a Social Protection Floor Initiative as
+one of nine UN joint initiatives to cope with the effects of the economic crisis. The World
+Bank initiated a review of social protection in Africa. In 2010, the ILO published a guide to
+Extending Social Security to All (ILO 2010a) as well as its first (and, it turned out, only) World
+Social Security Report (ILO 2010b). In 2012, the International Labour Conference adopted
+Recommendation 202 on Social Protection Floors (i.e. covering basic income security and
+access to health care). The World Bank itself restated its case for social protection in a new
+strategy document (World Bank 2012a), published its study of cash transfers in Africa as The
+Cash Dividend (Garcia and Moore 2012) and followed this with a dedicated ‘Social Protection
+Strategy for Africa’ (World Bank 2012b). As Garcia and Moore enthused, experiences with
+cash transfers in Africa suggested that ‘the question is not whether cash transfers can be used
+in the region, but how they should be used, and how they can be adapted and developed to meet
+social protection and development goals’ (2012, 9).
+The embrace of social protection became yet more evident in 2014, when the ILO published
+its first World Social Protection Report (ILO 2014) – at least in part as a mechanism to monitor
+progress towards the realization of the Social Protection Floors Recommendation – and the
+World Bank published its first State of Social Safety Nets Report (World Bank 2014). As the
+ILO put it, social protection was now at the ‘forefront of the development agenda’ (ILO 2014,
+xix). The ILO published a second World Social Protection Report, 2017–19 (ILO 2017) whilst
+the World Bank published further full-length State of Social Safety Nets Reports (World Bank
+2015, 2018). Almost all of the major international organizations have published their own
+strategy documents staking out their commitment to social protection (FAO 2017; UNDP
+2016; UNICEF 2012, 2019). In 2019, the UN Development Programme published a major
+report on The State of Social Assistance in Africa. Even the IMF weighed in, working with the
+World Bank especially to support increased expenditures on social protection (Zhou 2017).
+Some regional organizations have also chimed in. The Asian Development Bank, for example,
+followed the World Bank’s lead in adopting a Social Protection Strategy as early as 2001
+(ADB 2001). More recently, it adopted an operational plan in 2014 and publishes a Social
+Protection Index.1
+Whilst many international organizations endorsed and promoted social protection, the
+World Bank and ILO took the lead. This was reflected in a flood of further reports on social
+protection. In 2018–19 alone, the World Bank published two major reports (Beegle et al.
+2018; Packard et al. 2019). The ILO published the first volume of a compendium celebrating
+100 Years of Social Protection (Ortiz et al. 2019a), a report on the implementation of social
+protection floors (ILO 2019) and an updated handbook on Fiscal Space for Social Protection
+(Ortiz et al. 2019b).
+Coordination between international organizations at the global level was initially facilitated through the Social Protection Floor Initiative, co-chaired by the ILO and World Health
+Organization. From 2012, the coordinating role was taken over by a new Social Protection
+Inter-Agency Cooperation Board (SPIAC-B), in which the World Bank played a much more
+
+1
+
+www​.adb​.org/​themes/​social​-development/​social​-protection/​index.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+International actors and social protection 495
+prominent role (Deacon 2013b). At the country level, the UN Development Programme
+assumed the lead in establishing ‘One-UN’ social protection country teams. Government
+aid agencies also sought to coordinate their expenditures at the country level. International
+organizations involved in humanitarian relief sought to coordinate their involvement in social
+protection. In 2015–16, aid donors (such as DfID), UN agencies and non-governmental organizations negotiated and signed a ‘Grand Bargain’ that charted a way forward for coordinated
+and effective humanitarian expenditure, including a clear commitment to the increased use
+of ‘cash-based programming’ in alignment with national social protection systems. In 2016,
+the ILO, World Bank and a host of other international organizations launched a ‘Global
+Partnership for Universal Social Protection’, all endorsing the view that ‘social protection is
+a primary development priority’.2
+Those international organizations with financial resources invested heavily in social protection, especially during the 2007–2009 crisis. There is a paucity of good data on expenditure
+on social protection by most international organizations. In the years preceding the crisis the
+World Bank spent on average only about USD 500 million per annum. Between 2009 and
+2013 it spent on average about USD 2 billion per annum (Andrews et al. 2014, 10). DfID’s
+expenditure on social protection similarly quadrupled following the crisis, although at a much
+lower level than the World Bank’s (Hickey and Seekings 2019, 259). The total value of
+international organizations’ expenditure on humanitarian relief – much of which should be
+considered as social protection – was estimated at USD 2.8 billion in 2016 (and this amounted
+to just 10 per cent of the total value of humanitarian relief, most of which is distributed in
+kind) (CaLP 2018). In many countries, especially lower-income countries, international organizations funded most or all expenditure on social protection. The World Bank reports that, in
+Africa, ‘development partners finance an average 55 percent of program spending’ on social
+safety nets (Beegle et al. 2018, 153–4).
+In part because of their expenditures and in part because of their concern to improve
+design, international organizations funded many monitoring and evaluation projects. These
+also served to demonstrate the benefits of social protection to sceptical national governments
+(Davis et al. 2016). Evaluations that demonstrated that social protection reduced poverty and
+were developmental served to legitimate the programmes and the organizations promoting
+them (Peck and Theodore 2015; Teichman 2017).
+International organizations also sponsored training courses, not only to improve the
+implementation of social protection programmes but also to encourage national political and
+bureaucratic elites to support their adoption. Goldman quotes a World Bank official explaining
+the objective of a training seminar:
+The purpose of this training seminar is to try to create an epistemic community in Africa so that you
+can have more power with your governments when negotiating for institutional reform. You won’t
+feel alone. We’ll help you set up networks and share information. You will be able to say to your
+bosses: ‘Hey, but that’s how they’re doing it next door, and look how successful they are.’ We are
+prepared to offer you support … And when you return home after this workshop, we would like you to
+initiate your own training workshops … This way we can change decision-making in your countries.
+(Goldman 2005, 21)
+
+2
+
+www​.social​-protection​.org/​gimi/​gess/​RessourcePDF​.action​?id​=​53992.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+496
+
+Handbook on social protection systems
+
+This particular seminar was not concerned with social protection, but the same could be said
+of the many seminars and courses on social protection that have been organized or funded by
+the World Bank and many other international organizations.3 The World Bank, for example,
+ran a series of ‘South-South Learning Forums’ on social protection.4 In 2017–18, the ILO
+initiated the development of the primarily online ‘Transform’ programme for politicians and
+officials engaged in building and managing social protection in Africa.5 Ostensibly developed
+for the African Union, the objective is described as ‘to help decision makers and practitioners
+take ownership in building national social protection systems through continuous learning and
+reflective practice’, i.e. training was part of a conscious effort among international organizations to hand over the initiative in policy reform to national governments and local civil society
+organizations.
+International organizations present themselves as the guardians of ‘technical’ knowledge
+and expertise. Rendering questions of policy reform as ‘technical’ serves to legitimate and
+empower ‘experts’ – and the organizations that employ or mobilize them – and to depoliticize the choices that must be made about the allocation of scarce resources (Ferguson 1990;
+Goldman 2005; Li 2007). The considerable resources of international organizations have been
+used to strongly promote the idea that the expansion of social protection is not only technically
+appropriate and feasible but also rooted in generally agreed norms and values. Scepticism
+about reform is delegitimated.
+A wide array of international organizations thus constructed in the 2000s what might be considered a global ‘epistemic community’ (Haas 1992) or ‘policy network’ (Marsh and Rhodes
+1992) around social protection. This community or network spanned the international organizations themselves. As importantly, the various organizations attracted or recruited into the
+community or network activists in civil society, officials within the state and politicians in or
+out of government in countries across the global South. With their Southern allies or recruits,
+they sought to establish expansionary social protection as the norm in poverty reduction.
+
+29.3
+
+MODELS, DISCOURSES AND IDEOLOGIES
+
+International organizations may have been united in their intensifying advocacy of social protection and sometimes drew attention to the similarities in their positions (see, e.g. Rawlings
+et al. 2013). But they also competed with each other in terms of their preferred models, their
+underlying objectives and the discourses employed. von Gliszczynski and Leisering (2016)
+identify four predominant models of social cash transfers, each with their own champions. In
+their account, the United Nations Children’s Fund (UNICEF) advocated family allowances,
+the World Bank championed conditional cash transfers, ‘general household assistance’
+was supported by the ILO and DfID, whilst social pensions were championed by HelpAge
+International (among others). Further models – such as workfare and universal basic income
+
+See socialprotection.org.
+See, for 2014: www​.worldbank​.org/​en/​events/​2014/​03/​17/​south​-south​-learning​-forum​-2014​
+-desig​ning​-and​-delivering​-social​-protection​-and​-labor​-systems.
+5
+See
+https://​thl​.fi/​en/​web/​thlfi​-en/​research​-and​-expertwork/​projects​-and​-programmes/​eu​-social​
+-prot​ection​-systems​-programme​-eu​-sps/​capacity​-development/​transform​-african​-social​-protection​
+-leadership​-curriculum.
+3
+4
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+International actors and social protection 497
+– failed to attract comparable support. Whilst this precise identification of models is open to
+debate, von Gliszczynski and Leisering are clearly correct to point to the differences between
+international organizations with regard to their approaches to social protection.
+Competition was most evident between the World Bank and ILO. Their respective publications, workshops and sponsored training courses were intended not simply to promote social
+protection, but to promote their particular version. When the World Bank ventured onto the
+field of social protection in the 1990s, the ILO appeared to see this not only as trespassing
+but as an invasion by a hostile force (from across the Atlantic) with quite different values and
+objectives. The ILO pushed back against the World Bank’s influence on the reform of welfare
+systems in post-Communist Eastern Europe (Deacon et al. 1997; Deacon and Stubbs 2007).
+The ILO’s reassessment of its approach to social protection entailed part of what Deacon
+(drawing on Gramsci) called a ‘war of position’ (Deacon 2007, 16; see also Deacon 2013a;
+Charlton and McKinnon 2002). The 2007–2009 crisis provided conditions in which the ILO
+was able to regain a prominent position in the global debate over social protection (Heneghan
+and Orenstein 2019).
+The differences between the World Bank and ILO were evident even in their definitions of
+social protection, and especially on the scope of social transfers (see Chapter 2). The World
+Bank focused specifically on social safety nets targeted on the poor, whether the benefits were
+paid in cash or in kind. The World Bank thus included feeding schemes as well as workfare
+programmes in its definition of social protection. The ILO, in contrast, focused on cash transfer programmes, collating data on some but not all workfare programmes and on few if any
+feeding schemes. Estimates of the total number of people benefitting from social protection
+across the developing world varied from fewer than 1 billion people (using a definition similar
+to the ILO’s) (Hanlon et al. 2010) to closer to 2 billion (according to the World Bank 2015, 1).
+Organizations differ also in terms of the data they collect and publish. The World Bank’s
+Atlas of Social Protection Indicators of Resilience and Equity database primarily uses
+household survey data to document the distribution of benefits from different programmes in
+order to identify how effective the programmes are in reducing poverty. Some programmes –
+including general consumer subsidies (whether of fuel or basic foods) as well as contributory,
+employment-related programmes – generally benefit non-poor households disproportionately
+or even exclusively. Means-tested programmes and self-targeted programmes (especially
+low-benefit workfare programmes) are much more likely to benefit the poor. The ILO’s objective is social protection for all, not only for the poor. Their database collates data (provided by
+national governments) on overall ‘coverage’ without regard for whether the beneficiaries are
+poor or non-poor.
+The World Bank and ILO differ also in their underlying objectives. The Bank’s approach
+to social protection originally focused on ‘social risks’ but came to focus more on need. The
+Bank’s goal has been the reduction of poverty, in the long run (through ‘development’) as
+well as the short run (through ‘social safety nets’). Its favoured programmes have therefore
+been safety nets that are also developmental, i.e. programmes that not only meet immediate
+needs but are also investments in future production and the future capabilities of currently
+poor people. The 2001 Social Protection Sector Strategy was thus subtitled ‘From safety net
+to springboard’ (World Bank 2001a). The Bank’s vice-president for Africa explained:
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+498
+
+Handbook on social protection systems
+
+The strategy is not about relief or welfare hand-outs, but rather investments that prevent irreversible
+human development losses by the poor, thereby protecting their future productivity. School-fee
+waivers, self-targeted public workfare, community empowerment, and microfinance are likely to be
+important activities to reduce risk and vulnerability. For example, public assistance to ensure that
+orphans go to school could be an important social protection intervention to lift these children out of
+poverty traps and also to prevent a potential erosion of human capital. Such programs can constitute
+legitimate investment priority, even for very poor countries in Africa. (World Bank 2001b, iii)
+
+For the World Bank, school feeding schemes and conditional cash transfers (such as Brazil’s
+Bolsa Familia) entail investments in human capital, whilst workfare programmes entail an
+investment in infrastructure. Social protection for children is a higher priority than social
+protection for the elderly. The World Bank became especially concerned with the ‘shocks’ –
+including climatic events – that made it difficult for the poor to raise themselves out of poverty.
+The ILO, in contrast, focuses on rights. Historically, it was concerned with the rights of
+workers in formal wage employment. In the 2000s, it redefined its goal as rights for all people,
+in all stages of life. The primary architect of the Social Protection Floor initiative, Michael
+Cichon (2013), gushingly described Recommendation 202 as the ‘Magna Carta’ of social
+protection (referring to the charter of 1215 in which the then King of England recognized that
+at least some of his subjects had civil and political rights). The Recommendation opened with
+a preamble that reaffirmed that ‘the right to social security is a human right’. The word ‘right’
+appears almost 300 times in the ILO’s 2017–19 World Social Protection Report (ILO 2017). In
+contrast, the World Bank rarely refers to rights. In its 2018 State of Social Safety Nets Report,
+the word appears only once in the main text (World Bank 2018, 34). Peck and Theodore (2015)
+argue that the World Bank’s preference for the Mexican model of a conditional cash transfer
+over the Brazilian model reflected the Bank’s wariness of Brazilian rights discourses.
+The ILO was not alone in emphasizing rights. A rights-based approach was promoted also
+by DfID, some of the other European donor agencies, HelpAge International and some other
+non-governmental organizations, as well as UN special rapporteurs (see, especially, Sepúlveda
+2014).
+Whilst there is a clear contrast in their respective emphases on need (and risk) and rights,
+the ILO shares the Bank’s concern with development. The ILO also employs developmental
+discourses, although with a somewhat different emphasis to the World Bank:
+The lack of access to social protection constitutes a major obstacle to economic and social development. Inadequate or absent social protection coverage is associated with high and persistent levels
+of poverty and economic insecurity, growing levels of inequality, insufficient investments in human
+capital and human capabilities, and weak aggregate demand in a time of recession and slow growth.
+(ILO 2014, xix)
+
+The idea of development may not have been as central to the ILO’s discourse and practices as
+to the World Bank’s, but the ILO from the outset believed that a compromise between capital
+and labour would require economic growth as well as facilitating a just distribution of the
+benefits thereof.
+Whereas the differences between inter-governmental (‘multilateral’) agencies were due
+to their varied mandates as well as ideological differences, the ‘bilateral’ donor agencies
+generally had the same mandates. The differences between their approaches thus reflected ideological or cultural differences, often rooted in the dominant ideologies of welfare in their own
+countries. DfID, for example, was rooted in British welfare doctrines. Like the World Bank, it
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+International actors and social protection 499
+prioritized poverty reduction. But it was less inclined to see cash transfers as developmental.
+It tended to favour targeted but unconditional programmes for the deserving poor and had
+some sympathy for the rights-based approach favoured strongly by the ILO and some other
+(especially Nordic) donor agencies (Hickey and Seekings 2019).
+International organizations thus formed a number of separate (perhaps overlapping) epistemic communities or policy networks within a broader, overarching social-protectionist
+community or network. The World Bank attracts most critical attention, but it was just one
+of a number of organizations promoting diverse models and ideologies of social protection.
+Recognizing that unrestricted competition might be counter-productive to the overall goal
+of expanding social protection, international organizations sought to coordinate at the global
+level as well as in individual countries across the global South. Unsurprisingly, such interorganizational coordination was not uncomplicated. The shift from the Social Protection Floor
+Initiative to the Social Protection Inter-Agency Cooperation Board from 2012 was seen within
+the ILO as in part the attempted reassertion of World Bank authority. In this context of competition, the organizations themselves have been sites of struggle. Deacon (2013a) demonstrated
+how officials within the ILO competed in the early 2000s to determine the ILO’s new strategy.
+Heneghan and Orenstein (2019) show that there were struggles within the World Bank also,
+both in its embrace of pension privatization (in the 1990s) and then its retreat from this (in the
+2000s). Indeed, the shift in influence from the World Bank to the ILO in the 2010s reflected
+the Bank’s internal tensions as well as the changed external context – and probably also contributed to the internal tensions.
+
+29.4
+
+INFLUENCE ON NATIONAL POLICYMAKING
+
+The various international organizations were competing (and cooperating) with the primary
+goal of influencing national governments. Despite the relentless tide of publications and activities – and the considerable financial as well as technical resources at the disposal of some of
+the organizations – they had much less influence over most national governments than they
+wanted. They generally succeeded in placing expansionary reforms of social protection on the
+policymaking agenda. They were often able to persuade officials in departments responsible
+for prospective social protection or in civil society and very often succeeded in pushing governments to adopt or at least draft documents setting out a national social protection strategy.
+But they were less successful in persuading parliamentarians and government ministers.
+National governments tended to view international organizations as promoting their own
+agenda rather than solving the problems of primary concern to the governments themselves.
+The result was that social protection was expanded, but not to the extent recommended by
+international organizations and with less buy-in from national governments than the international organizations had hoped.
+Brooks (2009) and others have demonstrated similar patterns in the 1990s when the World
+Bank enjoyed uneven success in promoting its preferred multi-pillar model of pension reforms.
+Some governments in Latin America and post-Soviet Eastern Europe and Western Asia privatized their government-run pension funds, but most implemented reforms in part only.
+In the 2000s, some countries across the global South had already pioneered and institutionalized the expansion of social assistance. Old-age pensions and other programmes in South
+Africa and Mauritius long preceded the 2000s, whilst old-age pensions in Botswana and
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+500
+
+Handbook on social protection systems
+
+conditional cash transfers in Brazil and Mexico were more recent precedents. Moreover, in the
+early 2000s some governments introduced similar reforms without international organizations
+playing a major role, or even in the face of opposition from international organizations. In
+Lesotho, for example, the government introduced old-age pensions in 2004 against the advice
+of international organizations (Granvik Saminathen 2019). Ethiopia’s government similarly
+introduced the Productive Safety Net Programme in defiance of international organizations
+(Lavers 2019a). In four major Latin American countries – Argentina, Brazil, Chile and Mexico
+– Garay (2016, 14) found that international organizations had not played a significant role in
+the expansion of social cash transfers prior to 2010 (contrary to the argument by Teichman
+(2017) that international organizations did influence the design and implementation of social
+cash transfers in both Chile and Mexico). These precedents led Hanlon et al. (2010) to proclaim that the rise of social cash transfers was a ‘quiet revolution’ from the global South.
+Despite these precedents, when international organizations swung behind the expansion
+of social assistance, there was wide variation in terms of their ‘success’ in persuading other
+governments to implement social protection reforms. The governments of many lower- and
+middle-income countries proved resistant to the blandishments offered by international
+organisations. When national governments did implement reforms, they did so because there
+were pressing local political reasons for doing so. International organizations had no power
+to impose reforms and their powers of persuasion often proved limited. They have had to
+negotiate reforms, as many case studies have demonstrated (see, for example, the case studies
+in Hickey et al. 2019b). In Africa, almost no country had been as bold in reform – or spends
+anywhere near as much – as either the World Bank or ILO recommend.
+The limits to influence as well as occasional success can be illustrated in the case of
+Tanzania. The World Bank trumpets Tanzania as one of its success stories, pointing to the
+dramatic increase in the number of beneficiaries of as well as expenditure on cash transfers
+through the Productive Social Safety Nets programme (see, e.g. World Bank 2018, 28; Beegle
+et al. 2018, 6). In reality, however, Tanzania’s government – controlled since independence by
+a single party, Chama Cha Mapinduzi – stands out in its disinterest in social assistance. It has
+emphasized consistently and strongly self-reliance, responsibility and hard work. It was the
+World Bank that pushed for, funded and in practice operated the social protection programmes.
+Despite the Bank’s developmental arguments and insistence that the cash transfers were not
+‘handouts’, the Tanzanian government declined to take full ownership of the programme,
+declining even to contribute its promised share of the funding. HelpAge International, DfID
+and the ILO also promoted unsuccessfully the idea of a social pension (Ulriksen 2019; Jacob
+and Pedersen 2018). Were the donors to withdraw, the government would probably suspend
+the programme – as the government of Zambia did in 2018–19. There was one exception to
+this picture of disinterest in Tanzania. In self-governing Zanzibar, as on the mainland, the ILO
+failed to persuade the government to introduce social pensions. But HelpAge International
+patiently nurtured a pro-reform coalition, culminating in the introduction of pensions in
+2015–16 (Seekings 2016).
+No single country should be considered typical of Africa. Some governments (such as those
+in Ethiopia and Rwanda) have – like Zanzibar’s – embraced at least some kinds of social
+protection programme. Tanzania was far from unique, however, in that its governments have
+been sceptical about social protection programmes. If social assistance is to be considered,
+then workfare is favoured, perhaps with parsimonious social grants for very poor households
+with children or elderly members.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+International actors and social protection 501
+Part of the gap between international organizations and national governments reflects
+ideological differences. In Zanzibar, HelpAge chose not to emphasize a discourse of rights
+– although rights are fundamental to HelpAge’s general approach – but rather framed the
+proposed pensions in terms of responsibilities. In Zanzibar, HelpAge and reformist officials
+argued, responsibility for the elderly had previously been effected through kin and religious
+charity. Reforms to public policy were warranted because the institutions of kinship and
+religious charity were no longer able to cope with the challenge of poverty among the elderly.
+Political elites across much of Africa are wary of the discourse of individual social and economic rights – rooted in Western liberal and social democratic thought – that predominated in
+many international organizations. Citizens are viewed not so much as rights-bearing individuals but as persons embedded in networks of relationships – both within and beyond kinship
+networks – in which claims are bound up with obligations. These norms are reflected in the
+ways that ‘global’ discourses of social and economic rights have been ‘vernacularized’ in the
+charters and protocols adopted by the African Union (or its predecessor, the Organisation of
+African Unity). The responsibility of society for poor people is reciprocated by the responsibility of poor people to help themselves and (when they can) others. This normative approach
+underpins the horror of ‘dependency’ across much of Africa: dependency entails the denial of
+reciprocal responsibility (see Seekings 2019a on Botswana). Across Africa, national governments may appear to endorse international agreements such as the ILO’s Recommendation on
+Social Protection Floors, but they rarely feel invested in such agreements, which were usually
+drafted without much consideration for conditions and norms in Africa (Seekings 2019b).
+Most African national governments have adopted typically ambitious social protection
+strategy documents.6 But, as Kaltenborn et al. (2018) argue, there is little or no correlation
+between the vision set out in such documents and the reality of programmatic reform. A key
+reason for this is that such documents are typically written by expatriate consultants paid (for
+this and other work) by one or other international organization.
+Pointing to the limits of their influence does not mean that international organizations have
+no influence. On the contrary, when programmes are introduced, the fingerprints of international organizations are often (but not always) evident. The national officials charged with
+developing proposals typically work closely with one or other international organization, are
+taken to workshops and on sponsored study tours and courses and are backed up with extensive ‘technical assistance’ (see, e.g. Foli 2016 on Ghana). Indeed, the design and emphasis of
+specific programmes often reveals the fingerprints of whichever individual champion of social
+protection played a key role in each reform. As Deacon (2013a, 2014) noted with respect to
+policy shifts within the ILO, individuals have mattered in social protection reform. Across
+Africa, this has been even more true of both globe-trotting consultants and senior political
+leaders.
+It is not easy to discern any clear pattern in the relative influence of the various international
+organizations in individual countries. An organization’s visibility is more likely to reflect
+its public efforts to influence government than its actual influence, especially in private. In
+Zambia, for example, the German aid agency Gesellschaft für Technische Zusammenarbeit
+and later DfID prominently backed (and publicized) pilot cash transfer programmes in the
+2000s, but there was little indication that they exerted much influence over government
+6
+The UN Development Programme lists a total of 31 countries: https://​social​-assistance​.africa​.undp​
+.org/​resources​?category​=​1.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+502
+
+Handbook on social protection systems
+
+decision makers beyond being permitted to run very limited pilots (Pruce and Hickey 2019;
+Kabandula and Seekings 2016). The World Bank appears to have been the ‘lead’ agency in
+several African countries. In Ethiopia, the Bank’s influence appears to have been primarily
+over the design (Lavers 2019a). In Tanzania, as we saw above, the Bank persuaded the government to allow the Bank to set up and fund a major programme (influenced by the Ethiopian
+model) but has not persuaded the government to take ownership of the programme. In Uganda
+and Rwanda, DfID has been the most prominent of the international organizations (Bukenya
+and Hickey 2019; Lavers 2019b). UNICEF appears to have been the lead agency in Kenya
+(with some success), Malawi and Lesotho (less successfully). HelpAge International was
+integral to reform in Zanzibar. If there is any pattern here, it is not obvious.
+
+29.5
+
+CONCLUSION
+
+International organizations have played a central role in reshaping the global social protection
+agenda. They have spent heavily on literature, workshops, training, monitoring and evaluation
+in order to promote their preferred models of social protection. They have lobbied national
+governments directly and indirectly, via local civil society and other organizations. Their role
+has gone beyond agenda setting, however. The well-resourced international organizations –
+i.e. the World Bank and the aid agencies – have funded not only pilot programmes but also the
+much more extensive roll-out of national programmes. Yet there are clear limits to the power
+of international organizations: whilst they have pushed and pulled national governments to
+roll out programmes and, in some cases at least, to assume some fiscal responsibility for the
+modest programmes that have been introduced, neither coverage nor national government
+expenditure have expanded on the scale that international organizations desired.
+Looking forward, there are pressures for the expansion of social protection through social
+assistance programmes within as well as beyond individual countries. It is clear that, across
+much of Africa at least, economic growth is not going to reduce poverty as dramatically
+as it did in East Asia. Rising landlessness, urbanization and the weakening of kin- and
+community-based provision for the poor are all likely to increase the need – and demand
+– for public provision. The investments by international organizations in promoting social
+protection are likely to expand support for expansion within many countries. Both the international organizations, looking over their shoulders at taxpayers in the global North, and the
+governments of countries across the global South are likely to incline more strongly towards
+pro-poor social protection programmes as it becomes clear that many countries – especially
+across Africa – are going to fall far short of achieving Sustainable Development Goal 1 by the
+target date of 2030. International organizations will remain powerful players in the politics of
+reform, even if they are neither united nor all-powerful.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+International actors and social protection 503
+
+REFERENCES
+ADB (2001). Social Protection Strategy. Manila: Asian Development Bank.
+Andrews, Colin, Adea Kryeziu and Dahye Seo (2014). World Bank support for social safety nets,
+2007–2013: A review of financing, knowledge services and results. Social Protection and Labor
+Discussion Paper 1422. Washington, DC: World Bank.
+Beegle, Kathleen, Aline Coudouel and Emma Monsalve (2018). Realizing the Full Potential of Social
+Safety Nets in Africa. Washington, DC: World Bank.
+Brooks, Sarah (2009). Social Protection and the Market: The Transformation of Social Security
+Institutions in Latin America. Cambridge: Cambridge University Press.
+Bukenya, Badru and Sam Hickey (2019). The politics of promoting social protection in Uganda: A comparative analysis of social cash transfers and social health insurance. In Sam Hickey, Tom Lavers,
+Miguel Niño-Zarazúa and Jeremy Seekings (eds), The Politics of Social Protection in Eastern and
+Southern Africa. Oxford: Oxford University Press, 202–24.
+CaLP (2018). The State of the World’s Cash Report: Cash Transfer Programming in Humanitarian Aid.
+Cash Learning Partnership.
+Charlton, Roger and Roddy McKinnon (2002). International organizations, pension system reform and
+alternative agendas: Bringing older people back in? Journal of International Development 14 (8),
+1175–86.
+Cichon, Michael (2013). The social protection floors recommendation, 2012 (No. 202): Can a six-page
+document change the course of social history? International Social Security Review 66 (3–4), 21–43.
+Cichon, Michael and K. Hagemejer (2007). Changing the development policy paradigm: Investing in
+a social security floor for all. International Social Security Review 60 (2–3), 169–96.
+Cook, Linda (2007). Postcommunist Welfare States: Reform Politics in Russia and Eastern Europe.
+Ithaca, NY: Cornell University Press.
+Davis, B., S. Handa, N. Hypher, N.W. Rossi, P. Winters and J. Yablonski (eds) (2016). From Evidence
+to Action: The Story of Cash Transfers and Impact Evaluation in Sub-Saharan Africa. Oxford: Oxford
+University Press, FAO and UNICEF.
+Deacon, Bob (2007). Global Social Policy and Governance. London: Sage.
+Deacon, Bob (2013a). Global Social Policy in the Making: The Foundations of the Social Protection
+Floor. Bristol: Policy Press.
+Deacon, Bob (2013b). The social protection floor and global social governance: Towards policy synergy
+and cooperation between international organizations. International Social Security Review 66 (3–4),
+45–67.
+Deacon, Bob (2014). Career, charisma, conviction and the challenges facing the social protection floor.
+Global Social Policy 14 (3), 406–16.
+Deacon, Bob and Paul Stubbs (eds) (2007). Social Policy and International Interventions in South East
+Europe. Cheltenham, UK and Northampton, MA, USA: Edward Elgar Publishing.
+Deacon, Bob, with Michelle Hulse and Paul Stubbs (1997). Global Social Policy: International
+Organisations and the Future of Welfare. London: Sage.
+FAO (2017). FAO Social Protection Framework: Promoting Rural Development for All. Rome: Food
+and Agriculture Organization.
+Ferguson, James (1990). The Anti-Politics Machine: ‘Development’, Depoliticization, and Bureaucratic
+Power in Lesotho. Cambridge: Cambridge University Press.
+Foli, Rosina (2016). Transnational actors and policy-making in Ghana: The case of the Livelihood
+Empowerment against Poverty (LEAP). Global Social Policy 16 (3), 268–86.
+Garay, Candelaria (2016). Social Policy Expansion in Latin America. Cambridge: Cambridge University
+Press.
+Garcia, Marito and Charity Moore (2012). The Cash Dividend: The Rise of Cash Transfer Programs in
+Sub-Saharan Africa. Washington, DC: World Bank.
+Goldman, Michael (2005). Imperial Nature: The World Bank and Struggles for Social Justice in the Age
+of Globalization. New Haven, CT: Yale University Press.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+504
+
+Handbook on social protection systems
+
+Granvik Saminathen, Maria (2019). Policy diffusion, domestic politics and social assistance in Lesotho,
+1998–2012. In Sam Hickey, Tom Lavers, Miguel Niño-Zarazúa and Jeremy Seekings (eds), The
+Politics of Social Protection in Eastern and Southern Africa. Oxford: Oxford University Press,
+148–75.
+Haas, Peter (1992). Introduction: Epistemic communities and international policy coordination.
+International Organization 46 (1), 1–35.
+Hanlon, Joseph, Armando Barrientos and David Hulme (2010). Just Give Money to the Poor: The
+Development Revolution from the Global South. Sterling, VA: Kumarian Press.
+Heneghan, Martin and Mitchell Orenstein (2019). Organizing for impact: International organizations and
+global pension policy. Global Social Policy 19 (1–2), 65–86.
+Hickey, Sam and Jeremy Seekings (2019). Who should get what, how and why? DfID and the transnational politics of social cash transfers. In Sam Hickey, Tom Lavers, Miguel Niño-Zarazúa and Jeremy
+Seekings (eds), The Politics of Social Protection in Eastern and Southern Africa. Oxford: Oxford
+University Press, 249–76.
+Hickey, Sam, Tom Lavers, Miguel Niño-Zarazúa and Jeremy Seekings (2019a). The negotiated politics
+of social protection in Sub-Saharan Africa. In Sam Hickey, Tom Lavers, Miguel Niño-Zarazúa and
+Jeremy Seekings (eds), The Politics of Social Protection in Eastern and Southern Africa. Oxford:
+Oxford University Press, 1–41.
+Hickey, Sam, Tom Lavers, Miguel Niño-Zarazúa and Jeremy Seekings (eds) (2019b). The Politics of
+Social Protection in Eastern and Southern Africa. Oxford: Oxford University Press.
+ILO (2000). World Labour Report. Geneva: International Labour Office.
+ILO (2010a). Extending Social Security to All. Geneva: International Labour Office.
+ILO (2010b). World Social Security Report. Geneva: International Labour Office.
+ILO (2014). World Social Protection Report 2014/15. Geneva: International Labour Office.
+ILO (2017). World Social Protection Report 2017–19. Geneva: International Labour Office.
+ILO (2019). Universal social protection for human dignity, social justice and sustainable development.
+General survey concerning the Social Protection Floors Recommendation, 2012 (No. 202). Report
+of the Committee of Experts on the Application of Conventions and Recommendations for the 108th
+Session of the International Labour Conference, Geneva.
+Jacob, Thabit and Rasmus Pedersen (2018). Social protection in an electorally competitive environment: The politics of Productive Social Safety Nets (PSSN) in Tanzania. ESID Working Paper 109.
+Manchester: University of Manchester, Effective States and Inclusive Development Research Centre.
+Kabandula, Abigail and Jeremy Seekings (2016). Donor influence, the minister of finance and welfare
+policy reform in Zambia, 2003–11. CSSR Working Paper 395. Cape Town: Centre for Social Science
+Research, University of Cape Town.
+Kakwani, N. and K. Subbarao (2005). Aging and Poverty in Africa and the Role of Social Pensions.
+Washington, DC: World Bank.
+Kaltenborn, Markus, Abdul-Gafaru Abdulai, Keetie Roelen and Sarah Hague (2018). The influence of
+policy and legal frameworks on the development of national social protection systems. IDS Working
+Paper 2017-501. Brighton: Institute of Development Studies.
+Lavers, Tom (2019a). Social protection in an aspiring ‘developmental state’: The political drivers of
+Ethiopia’s PSNP. African Affairs 184 (473), 646–71.
+Lavers, Tom (2019b). Understanding elite commitment to social protection: Rwanda’s Vision 2030
+Umurenge programme. In Sam Hickey, Tom Lavers, Miguel Niño-Zarazúa and Jeremy Seekings
+(eds), The Politics of Social Protection in Eastern and Southern Africa. Oxford: Oxford University
+Press, 95–121.
+Li, Tania Murray (2007). The Will to Improve: Governmentality, Development and the Practice of
+Politics. Durham, NC: Duke University Press.
+Marsh, David and Roderick Rhodes (1992). Policy Networks in British Government. Oxford: Clarendon
+Press.
+Orenstein, Michael (2008). Privatizing Pensions: The Transnational Campaign for Social Security
+Reform. Princeton, NJ: Princeton University Press.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+International actors and social protection 505
+Ortiz, Isabel, Valérie Schmitt and Loveleen De (eds) (2019a). 100 Years of Social Protection: The Road
+to Universal Social Protection Systems and Floors, Vol. 1: 50 Country Studies. Geneva: International
+Labour Office.
+Ortiz, Isabel, Anis Chowdhury, Fabio Durán-Valverde, Taneem Muzaffar and Stefan Urban (eds)
+(2019b). Fiscal Space for Social Protection: A Handbook for Assessing Financing Options. Geneva:
+International Labour Office.
+Packard, Truman, Ugo Gentilini, Margaret Grosh, Philip O’Keefe, Robert Palacios, David Robalino and
+Indhira Santos (2019). Protecting All: Risk Sharing for a Diverse and Diversifying World of Work.
+Washington, DC: World Bank.
+Pal, K., C. Behrendt, F. Leger, M. Cichon and K. Hagemejer (2005). Can low-income countries afford
+basic social security? First results of a modelling exercise. Issues in Social Protection discussion paper
+13. Geneva: International Labour Office.
+Peck, Jamie and Nic Theodore (2015). Fast Policy: Experimental Statecraft at the Thresholds of
+Neoliberalism. Minneapolis, MN: University of Minnesota Press.
+Pruce, Kate and Sam Hickey (2019). The politics of promoting social cash transfers in Zambia. In
+Sam Hickey, Tom Lavers, Miguel Niño-Zarazúa and Jeremy Seekings (eds), The Politics of Social
+Protection in Eastern and Southern Africa. Oxford: Oxford University Press, 176–201.
+Rawlings, Laura, Sheila Murthy and Natalia Winder (2013). Common ground UNICEF and World Bank
+approaches to building social protection systems. World Bank Social Protection and Labor Policy
+Note 15 (June). Washington, DC: World Bank.
+Seekings, Jeremy (2016). The introduction of old age pensions in Zanzibar. CSSR Working Paper 393.
+Cape Town: Centre for Social Science Research, University of Cape Town.
+Seekings, Jeremy (2019a). Building a conservative welfare state in Botswana. In Sam Hickey, Tom
+Lavers, Miguel Niño-Zarazúa and Jeremy Seekings (eds), The Politics of Social Protection in Eastern
+and Southern Africa. Oxford: Oxford University Press, 42–67.
+Seekings, Jeremy (2019b). The limits to ‘global’ social policy: The ILO, the social protection floor and
+the politics of welfare in Southern Africa. Global Social Policy 19 (1–2), 139–58.
+Sepúlveda, Magdalena (2014). From undeserving poor to rights-holder: A human rights perspective on
+social protection systems. Development Pathways Working Paper. Banbury: Development Pathways.
+Teichman, Judith (2017). Multilateral lending institutions and transnational policy networks in Mexico
+and Chile. Global Governance 13 (4), 557–73.
+Ulriksen, Marianne (2019). The development of social protection policies in Tanzania, 2000–2015. In
+Sam Hickey, Tom Lavers, Miguel Niño-Zarazúa and Jeremy Seekings (eds), The Politics of Social
+Protection in Eastern and Southern Africa. Oxford: Oxford University Press, 122–47.
+UNDP (2016). Leaving No One Behind: A Social Protection Primer for Practitioners. New York: United
+Nations Development Programme.
+UNDP (2019). The State of Social Assistance in Africa. New York: United Nations Development
+Programme.
+UNICEF (2012). Integrated Social Protection Systems: Enhancing Equity for Children; UNICEF Social
+Protection Framework. New York: United Nations Children’s Fund.
+UNICEF (2019). UNICEF’s Global Social Protection Framework for Children. New York: United
+Nations Children’s Fund.
+Vetterlein, Antje (2017). Economic growth, poverty reduction, and the role of social policies: The evolution of the World Bank’s social development approach. Global Governance 13 (4), 513–33.
+Voipio, Timo (2007). Social protection for poverty reduction: The OECD/DAC/POVNET view. IDS
+Bulletin 38 (3), 45–50.
+von Gliszczynski, Moritz and Lutz Leisering (2016). Constructing new global models of social security.
+How international organizations defined the field of social cash transfers in the 2000s. Journal of
+Social Policy 45 (2), 325–43.
+World Bank (2001a). Social Protection Sector Strategy: From Safety Net to Springboard. Washington,
+DC: World Bank.
+World Bank (2001b). Dynamic Risk Management and the Poor: Developing a Social Protection Strategy
+for Africa. Washington, DC: World Bank.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+506
+
+Handbook on social protection systems
+
+World Bank (2012a). Social Protection Strategy, 2012–2022. Washington, DC: World Bank.
+World Bank (2012b). Social Protection Strategy for Africa. Washington, DC: World Bank.
+World Bank (2014). State of Social Safety Nets 2014. Washington, DC: World Bank.
+World Bank (2015). State of Social Safety Nets 2015. Washington, DC: World Bank.
+World Bank (2018). State of Social Safety Nets 2018. Washington, DC: World Bank.
+Zhou, Jianping (2017). IMF collaboration with partner institutions on social protection. Background
+Document BD/17-01/07. Washington, DC: International Monetary Fund, Independent Evaluation
+Office.
+
+Jeremy Seekings - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:35:07AM
+via William and Mary School of Law
+
+

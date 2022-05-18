@@ -1,0 +1,1264 @@
+Systematic reviews
+
+The impact of health insurance in Africa and Asia: a systematic review
+Ernst Spaan,a Judith Mathijssen,b Noor Tromp,a Florence McBain,c Arthur ten Haveb & Rob Baltussena
+Objective To evaluate the impact of health insurance on resource mobilization, financial protection, service utilization, quality of care, social
+inclusion and community empowerment in low- and lower-middle-income countries in Africa and Asia.
+Methods A systematic search for randomized controlled trials, quasi-experimental and observational studies published before the end
+of 2011 was conducted in 20 literature databases, reference lists of relevant studies, web sites and the grey literature. Study quality was
+assessed with a quality grading protocol.
+Findings Inclusion criteria were met by 159 studies – 68 in Africa and 91 in Asia. Most African studies reported on community-based health
+insurance (CBHI) and were of relatively high quality; social health insurance (SHI) studies were mostly Asian and of medium quality. Only
+one Asian study dealt with private health insurance (PHI). Most studies were observational; four had randomized controls and 20 had a
+quasi-experimental design. Financial protection, utilization and social inclusion were far more common subjects than resource mobilization,
+quality of care or community empowerment. Strong evidence shows that CBHI and SHI improve service utilization and protect members
+financially by reducing their out-of-pocket expenditure, and that CBHI improves resource mobilization too. Weak evidence points to a positive
+effect of both SHI and CBHI on quality of care and social inclusion. The effect of SHI and CBHI on community empowerment is inconclusive.
+Findings for PHI are inconclusive in all domains because of insufficient studies.
+Conclusion Health insurance offers some protection against the detrimental effects of user fees and a promising avenue towards universal
+health-care coverage.
+
+Introduction
+Health insurance is attracting more and more attention in lowand middle-income countries as a means for improving health
+care utilization and protecting households against impoverishment from out-of-pocket expenditures. The health financing
+mechanism was developed to counteract the detrimental effects of user fees introduced in the 1980s, which now appear
+to inhibit heath care utilization, particularly for marginalized
+populations, and to sometimes lead to catastrophic health
+expenditures. 1–3 The World Health Organization (WHO)
+considers health insurance a promising means for achieving
+universal health-care coverage.4
+Various types of health insurance are available. National or
+social health insurance (SHI) is based on individuals’ mandatory enrolment. Several low- and middle-income countries,
+including the Philippines, Thailand and Viet Nam, are establishing SHI. Voluntary insurance mechanisms include private
+health insurance (PHI), which is implemented on a large scale
+in countries like Brazil, Chile, Namibia and South Africa,5 and
+community-based health insurance (CBHI), now available in
+countries like the Democratic Republic of the Congo, Ghana,
+Rwanda and Senegal.6–10 The various types of health insurance
+have different impacts on the populations they serve. For example, PHI is said to mainly serve the affluent segments of a
+population, but CBHI is often put forward as a health financing
+mechanism that can especially benefit the poor.11–16 Countries
+wishing to introduce health insurance schemes into their
+health systems should be aware of how their impact varies.
+The impact of health insurance in low-and-middleincome countries has unfortunately been documented only
+partially. Previous reviews have evaluated the performance
+
+of CBHI in terms of enrolment, financial management and
+sustainability.12,17–19 A recent review20 provides an overview of
+the scope and origin of CHI in low- and middle-income countries, with a particular focus on China, Ghana, India, Mali,
+Rwanda and Senegal, and also assesses CHI’s performance in
+terms of population coverage, range of services included and
+reimbursement rate. The authors concluded that the picture
+in Africa and Asia is very patchy, with large heterogeneity in
+institutional designs and organizational models and enormous
+variation in population coverage, services covered and costs
+achieved. No systematic reviews are available on the impact
+of SHI and PHI, which limits a direct comparison of their options and limitations. Also, health insurance is known to have
+effects on domains beyond those reported in existing reviews,
+such as social inclusion.9 Furthermore, most reviews available
+on the rapid development of health insurance in low- and
+middle-income countries are somewhat outdated.
+To address the gaps described, this paper provides an
+up-to-date review of the impact of SHI, PHI and CBHI on
+a comprehensive set of domains. Following the conceptual
+framework by Preker & Carrin,9 we evaluate whether the different types of health insurance can: (i) mobilize resources,
+i.e. generate sufficient and stable resources for adequate
+functioning of health services; (ii) provide financial protection to clients against catastrophic health expenditures;
+(iii) improve utilization of health-care services by all socioeconomic groups; (iv) improve health care quality; (v) improve social inclusion, i.e. the provision of health services
+in alignment with the needs of various population groups,
+especially the poor and vulnerable; and (vi) improve community empowerment, i.e. involvement of the community in
+the organization of health services. Our review covers all low-
+
+Department of Primary and Community Care, Radboud University Nijmegen Medical Centre, PO Box 9101, 6500HB Nijmegen, Netherlands.
+Ecorys Research and Consulting, Rotterdam, Netherlands.
+c
+Centre for Development Research, University of Bonn, Bonn, Germany.
+Correspondence to Ernst Spaan (e-mail: e.spaan@elg.umcn.nl).
+(Submitted: 13 January 2012 – Revised version received: 16 May 2012 – Accepted: 23 May 2012 – Published online: 13 June 2012 )
+a
+
+b
+
+Bull World Health Organ 2012;90:685–692A | doi:10.2471/BLT.12.102301
+
+685
+
+Systematic reviews
+Ernst Spaan et al.
+
+Health insurance in Africa and Asia
+
+and lower-middle-income countries in
+Africa and Asia.
+
+Methods
+We carried out a systematic review of
+studies on the impact of SHI, PHI and
+CBHI in Africa and Asia that were
+published any year up to the end of
+2011. Our search strategy is described
+in Box 1.
+Studies were included if they:
+(i) were randomized controlled trials,
+cohort, case-control or cross-sectional
+studies, or qualitative descriptive case
+studies; (ii) studied the impact of health
+insurance on resource mobilization,
+service utilization, quality of care, financial protection, social inclusion or
+community empowerment; (iii) were
+carried out in a low- or lower-middleincome country either in 1987 or in
+2007, to allow for changes in countries’
+income status over time21 (Appendix A,
+available at: http://www.niche1.nl/
+publications); and (iv) were written in
+English, French, Spanish or Portuguese.
+Studies were excluded if they: (i) were
+policy reviews, opinion pieces, editorials, letters to the editor, commentaries
+or conference abstracts; (ii) originated
+from a country on the American continent or (iii) were duplicate references
+from different databases.
+Two pairs of independent reviewers (ES and NT, JM and FM) screened
+all titles and abstracts of the initially
+identified studies to determine if they
+satisfied the inclusion criteria. Any
+disagreement was resolved through consensus. Full text articles were retrieved
+for the selected titles. Reference lists of
+the retrieved articles, as well as previous
+review articles,12,17–19 were searched for
+additional publications (referred to as
+“snowballing”).
+
+Data extraction
+The reviewers used a data collection
+form to extract the relevant information from the selected studies from
+Africa (ES and NT) and Asia (JM and
+FM). The data collection form included
+questions on qualitative aspects of the
+studies (such as date of publication,
+design, geographical origin and setting),
+health insurance scheme characteristics
+(such as type of scheme, starting year
+and target group), study characteristics
+(such as study design and period), and
+information on the reported impact
+domains, including reported strengths
+686
+
+Box 1. Search strategy employed in systematic review of studies on health insurance in
+Africa and Asia
+We searched Medline; PubMed; PopLine; Arts and Humanities Citation Index; World Health
+Organization Library Information System; International Bibliography in Social Sciences; Cochrane
+Library; Health Care Management Information System; Journal Storage; ScienceDirect; CSA
+Sociological Abstracts; American Economic Association’s electronic bibliography; National Bureau
+of Economic Research; Research Papers in Economics; Institute of Development Studies, Sussex;
+ELDIS/International Development Studies, United Kingdom (ID21); British Library of Development
+Studies; Database of Institut de l’Information Scientifique et Technique; Banque de Données en Santé
+Publique and the Institute of Tropical Medicine Antwerp online library.
+We used combinations of text words and thesaurus terms that included health insurance [Mesh
+term], health insurance [Title/Abstract], community-based health insurance [Title/Abstract], social
+health insurance [Title/Abstract], private health insurance [Title/Abstract], developing countries
+[Mesh term] and developing countries [Title/Abstract]. For databases lacking a thesaurus system
+we used free text searches using similar search terms. Below is an example of the search syntax
+we used for MedLine:
+
+Example of MedLine (exploded) search terms:
+DEVELOPING COUNTRIES (MedLine Thesaurus Term) [Including: developing countries; countries,
+developing; country, developing; developing country; under-developed countries; countries,
+underdeveloped; country, under-developed; under developed countries; under-developed country;
+third-world countries; countries, third-world; country, third-world; third world countries; third-world
+country; developing nations; developing nation; nation, developing; nations, developing; underdeveloped nations; nation, under-developed; nations, under-developed; under developed nations;
+under-developed nation; third-world nations; nation, third-world; nations, third-world; third world
+nations; third-world nation; less-developed countries; countries, less-developed; country, lessdeveloped; less developed countries; less-developed country; less-developed nations; less developed
+nations; less-developed nation; nation, less-developed; nations, less-developed] AND HEALTH
+INSURANCE (Thesaurus term) [Including: insurance, health; health insurance; health insurance,
+voluntary; insurance, voluntary health; voluntary health insurance; group health insurance; health
+insurance, group; insurance, group health].
+
+Other examples of search syntax used:
+PubMed: insurance, health [Mesh] AND developing countries [Mesh] AND ((English[lang] OR
+French[lang] OR Spanish[lang] OR Portuguese[lang].
+
+and weaknesses of schemes and main
+study conclusions. Reviewers graded
+the impact according to the following
+categories: positive effect (A); negative
+effect (B); no effect (C); inconclusive or
+not assessed.
+
+Quality evaluation
+The pairs of reviewers evaluated the
+quality of the included studies using
+a quality-grading protocol adapted
+from existing protocols known as the
+HIP study Review Protocol on Health
+Insurance.17,22,23 The protocol, which is
+available from the corresponding author
+on request, covers 19 indicators to assess
+rigour, bias, validity and generalizability
+of the studies, type of study (qualitative; quantitative), whether research
+question(s), concepts, methods, sampling, and data eliciting are adequately
+described, and whether the robustness
+of presented data and results is critically
+examined. For each item 0–2 points are
+given and these are added up to get an
+overall quality score (ranging from 0 to
+38 points). Studies were categorized as
+low quality (0–14 points), medium quality (15–29) or high quality (≥ 30). One
+
+in five studies was randomly selected for
+assessment by a second reviewer. Any
+disagreements on the quality evaluation
+between the pairs of reviewers were
+resolved through consensus.
+
+Impact judgements
+We formulated overall judgements on
+the impact of SHI, PHI and CBHI on
+the various domains if at least 10 studies of medium or better quality were
+performed in those domains. We judged
+the evidence as strongly positive if
+A ÷ (A + B + C) ≥  60%; weakly positive if
+A ÷ (A + B + C) ≥  30% and < 60%; strongly negative if B ÷ (A + B + C) ≥  60%;
+weakly negative if B ÷ (A + B + C) ≥  30%
+and < 60%; and inconclusive otherwise.
+We adhered to PRISMA guidelines
+for the conduct of systematic reviews.24
+
+Results
+From the initial search for peer-reviewed
+articles based on title (8689 references),
+8459 references were excluded and 230
+full text references were retained for
+further scrutiny. Detailed inspection
+of abstracts and texts resulted in 159
+
+Bull World Health Organ 2012;90:685–692A | doi:10.2471/BLT.12.102301
+
+Systematic reviews
+Health insurance in Africa and Asia
+
+Ernst Spaan et al.
+
+Identification
+
+Fig. 1. Flow diagram showing study selection for systematic review of studies on health
+insurance in Africa and Asia
+
+Records identified through database
+searching (n = 8599)
+
+Additional records identified through
+other sources (n = 90)
+
+Screening
+
+Records after duplicates removed
+(n = 8385)
+
+Eligibility
+
+Full-text articles
+assessed for eligibility
+(n = 230)
+
+Included
+
+Records screened
+(n = 8385)
+
+Studies included in
+qualitative synthesis
+(n = 159)
+
+articles. This includes references found
+through screening reference lists in
+retrieved articles, snowballing and additional screening of organizational web
+sites (Fig. 1).
+
+Characteristics of included
+studies
+Table 1 shows the summary characteristics of the 159 included studies – 68
+from Africa and 91 from Asia (Appendix B, available at: http://www.niche1.
+nl/publications). Some studies stem
+from the same reference but are listed
+here individually. In Africa, most of
+the studies stem from only seven countries: the Democratic Republic of the
+Congo, Ghana, Kenya, Rwanda, Senegal,
+Uganda and the United Republic of
+Tanzania. The majority of these studies
+reported on CBHI and were of relative
+high quality. Fewer studies were on SHI
+and PHI, and these were of lower quality. In Asia, almost all studies originate
+from five countries only: China, India,
+the Philippines, Thailand and Viet Nam.
+The majority of Asian studies were on
+SHI and were, on average, of medium
+quality. Fewer studies were on CBHI
+and only one on PHI. Most studies
+
+Records excluded
+(n = 8155)
+
+Full-text articles excluded,
+(not on impact of health
+insurance) (n = 71)
+
+used an observational design and only
+a few used a randomized controlled (4)
+or quasi-experimental design (20). The
+number of studies increased over time,
+with almost half of them published in
+2005–2011.
+
+Impact of health insurance
+High and medium quality studies
+reported frequently on the impact of
+health insurance on financial protection (90), utilization (91) and social
+inclusion (65), but less often on resource
+mobilization (28), quality of care (21) or
+community empowerment (6). A full
+overview of the included studies and
+the detailed impact reported by each
+on the various domains is provided in
+Appendix B; the indicators employed
+in the included studies are listed in
+Appendix C (available at: http://www.
+niche1.nl/publications).
+Table 2 shows that studies on the
+impact of CBHI on resource mobilization for health showed an overall positive effect. For example, studies in Bangladesh,25 Cambodia,26 the Democratic
+Republic of the Congo 13,14,20,27–29 and
+India26 reported improved cost recovery
+ratios after implementation of CBHI.
+
+Bull World Health Organ 2012;90:685–692A | doi:10.2471/BLT.12.102301
+
+Still, other schemes in countries such
+as Rwanda13 and Uganda30 showed weak
+financial sustainability because of low
+renewal rates, high claims-to-revenue
+ratios and high operational costs. There
+is no conclusive evidence that SHI or
+PHI affects, positively or negatively,
+resource mobilization for health.
+There is, however, strong evidence
+that CBHI and SHI provide financial
+protection for their members in terms
+of reducing their out-of-pocket expenditures, and that they improve utilization
+of inpatient and outpatient services.
+Weak evidence suggests that both SHI
+and CBHI have a positive impact on
+the quality of care. To illustrate this,
+CBHI schemes in Kenya, Uganda and
+the United Republic of Tanzania were
+found to improve service quality in
+health facilities, increase essential drug
+availability and shorten waiting times.
+Another study on a CBHI scheme in
+Burundi reported that health workers
+discriminated against card holders and
+provided preferential treatment to patients paying in cash.31
+There is weak evidence that both
+SHI and CBHI have a positive impact
+on social inclusion as indicated by enrolment and utilization patterns among
+vulnerable groups. Health insurance
+schemes undertake various initiatives
+to reach the vulnerable segments of
+the populations, such as discount
+cards, exemption schemes or free enrolment for vulnerable populations.
+For example, targeted policies of the
+National Health Insurance Program in
+the Philippines32–34 and the Thai universal coverage scheme34 increased the
+number of insured indigents and poor.
+In other countries, social inclusion is
+not achieved to the same extent, and
+in Cameroon,35 Guinea36 and Senegal,37
+to name a few examples, premiums that
+the poor cannot afford are reportedly
+the main reason. Both SHI and CBHI
+yield inconclusive findings on community empowerment, primarily because
+very few studies have been carried out.
+Findings for PHI are inconclusive on all
+domains because of insufficient studies.
+
+Discussion
+This study is the first systematic review
+to broadly examine the impact of different types of health insurance schemes
+in low- and lower-middle-income
+countries in Africa and Asia on various domains. Our review points to an
+687
+
+Systematic reviews
+Ernst Spaan et al.
+
+688
+
+8
+49
+25
+14
+3
+81
+RCT, randomized controlled trial.
+a
+Some articles refer to more than one study, and the number of articles can therefore be less than the number of studies.
+
+16
+2
+–
+–
+–
+70a
+99
+
+21a
+
+2
+14
+10
+4
+2
+24
+4
+2
+23
+60
+17
+22
+30
+
+8
+
+0
+0
+0
+1
+0
+1
+0
+0
+100
+0
+0
+1
+1
+
+0
+
+6
+29
+15
+9
+1
+56
+12
+0
+21
+59
+21
+17
+48
+68
+
+Asia (n = 91)
+Social health
+insurance
+Private health
+insurance
+Community-based
+health insurance
+Total
+
+9
+25
+23
+13
+7
+71
+4
+2
+–
+–
+–
+38a
+77
+
+30a
+
+3
+16
+17
+10
+4
+45
+3
+2
+22
+48
+30
+24
+50
+
+26
+
+2
+3
+2
+1
+1
+9
+0
+0
+22
+11
+67
+6
+9
+
+3
+
+4
+6
+4
+2
+2
+17
+1
+0
+22
+44
+33
+11
+7
+18
+
+Africa (n = 68)
+Social health
+insurance
+Private health
+insurance
+Communitybased health
+insurance
+Total
+
+1990–1994 1995–1999 2000–2004 2005–2009 2010–2011
+Observational
+Quasiexperimental
+Peerreviewed
+
+Grey
+
+Low
+
+Medium
+
+High
+
+RCT
+
+Study design
+Quality (% of observations)
+Type of article
+
+No. of
+observations
+Study site
+
+Table 1. Key characteristics of studies included in systematic review of studies on the impact of health insurance in Africa and Asia
+
+Year of publication
+
+Health insurance in Africa and Asia
+
+incomplete evidence base. Despite an
+increasing volume of studies, especially
+in recent years, the generated knowledge
+is patchy and of variable quality.
+Despite the above, the available evidence clearly demonstrates that health
+insurance can be an alternative to user
+fees as a health financing mechanism.
+The strong evidence that CBHI and SHI
+can improve financial protection and
+enhance service utilization patterns is
+especially critical in this respect, but
+the weaker evidence that CBHI and
+SHI can foster social inclusion is also
+important. Although this type of impact
+is not unexpected in the case of CBHI
+because of its community orientation,38
+it is more surprising in the case of SHI,
+which some claim underrepresents the
+informal sector.39 Yet targeted policies
+in the Philippines and Thailand have
+shown that SHI can reach this sector.
+Our findings thereby support the view
+of entities such as WHO that consider
+prepaid health financing mechanisms an
+important alternative capable of mitigating the detrimental effects of user fees,40
+as well as a promising means for achieving universal coverage.4 The review is
+inconclusive concerning any impact
+of PHI because very few studies have
+been conducted. Hence, the absence of
+evidence of impact does not mean that
+PHI has no impact.
+There is very little evidence on the
+impact of health insurance on quality of
+care and community empowerment, and
+no (strong) conclusions can be drawn in
+this regard. Nonetheless, these domains
+are of critical importance to the performance of health insurance schemes.
+Many believe that health insurance
+schemes, through increased utilization
+patterns and subsequent income generation, can improve the quality of care,
+and that this, in turn, can lead to higher
+health insurance enrolment.41 Research
+is needed to explore this mutual reinforcement. The lack of evidence on the
+impact of CBHI schemes on community
+empowerment is especially disappointing. Such schemes have large potential
+to explicitly involve the community in
+the organization of health services, and
+whether this actually happens is a question deserving more attention.
+The findings of the review should
+be interpreted with caution and obviously should not be taken as a basis for
+implementing any type of health insur-
+
+Bull World Health Organ 2012;90:685–692A | doi:10.2471/BLT.12.102301
+
+Systematic reviews
+Health insurance in Africa and Asia
+
+Inconclusive
+0/0
+
+Inconclusive
++1/5
+
+Inconclusive
+
++1/1
+
+ance anywhere. Whether SHI and CBHI
+have the same potential impact in settings other than those where the studies
+were conducted is highly dependent on
+a particular country’s socioeconomic,
+cultural and political context.2,12,38,42–44
+This is illustrated by the few studies that
+showed negative impacts of SHI and
+CBHI on certain domains. Similarly,
+the review does not provide an answer
+to the question of whether SHI, CBHI
+or PHI is the optimal type of health
+financing mechanism, or of how it
+compares with tax-based systems – this
+is also highly dependent on context.
+Different types of health insurance can
+also coexist in the same country and
+serve different populations (e.g. CBHI
+and PHI in India)45 or they can follow
+each other in succession (e.g. CBHI and
+SHI in Ghana).46
+We observed that only a small
+proportion of all health insurance
+schemes in Africa and Asia have ever
+been subjected to impact analysis,
+and as such included in our review.
+For example, an overview of CBHI
+schemes in francophone western Africa in 200638 identified 625 functional
+schemes in 12 countries, while we only
+included studies on 47 schemes (half of
+them in western Africa) in our analysis.
+Experiences from Chad, Guinea, Niger
+and Togo are absent in the literature,
+despite the fact that CBHI schemes
+are present in these countries. Likewise, countries like Kenya, Nigeria
+and Tunisia are experimenting with
+or implementing SHI, but we did not
+identify studies of these cases in our
+review. We also failed to find studies on
+PHI in countries like South Africa and
+Zimbabwe, even though PHI schemes
+exist in these countries. This suggests
+a certain bias in reporting on health
+insurance schemes, possibly driven
+by national government, donor or research priorities, data availability and
+difficulty in publishing negative impact
+results. Despite the reporting bias, we
+observed that studies on SHI were predominantly carried out in Asia, while
+those on CBHI were largely carried out
+in Africa. To some extent this reflects
+the prevalence of both types of health
+insurance in the two regions.
+The review revealed a large variation in study design and quality. Very
+few studies used experimental or quasiexperimental study designs, and most
+
+relied on observational analysis to
+compare, for example, patterns of utilization among insured individuals with
+those in a control group (perhaps the
+same individuals but formerly insured,
+or different individuals without prior
+insurance) – a design that can introduce
+a selection bias and affect results. Relatively few studies reported on resource
+mobilization and community empowerment, and those that did were of poor
+quality, which illustrates the challenges
+involved in measuring impact in these
+domains. Overall, our review shows the
+need to develop more rigorous study
+designs and impact indicators for health
+insurance scheme impact evaluations. It
+also suggests the potential usefulness of
+developing guidelines for appropriately
+measuring impact.
+
+Limitations of the review
+Our study has several limitations. First,
+we observed a large variety of study
+designs and indicators for assessing the
+impact of health insurance and their
+interpretation was not always straightforward. For those studies that used a
+control group, the use of self-selected
+controls in many cases may have biased
+the results and we carefully considered
+this in discussions among the pairs of
+reviewers. Second, we arbitrarily defined
+strength of the evidence on the basis of
+study quality, number of studies and
+percentage of positive findings. While
+this seems reasonable, the use of other
+parameters could have led to different
+review findings.
+
+Summary
+There is strong evidence that CBHI improves resource mobilization for health
+and that both CBHI and SHI improve
+health service utilization and provide
+financial protection for members in
+terms of reducing their out-of-pocket
+expenditure. There is weak evidence
+suggesting that both SHI and CBHI have
+a positive impact on the quality of care
+and social inclusion. Findings for both
+SHI and CBHI are inconclusive on community empowerment. Those for PHI
+are inconclusive on all domains because
+of insufficient studies.
+
+Conclusion
+CBHI and SHI hold strong potential to
+improve financial protection and en-
+
+b
+
++2/4
++1/2
+0/0
+
+Only includes studies of medium quality or higher. See text for more detail on quality assessment.
+This proportion represents net number of negative or positive studies over the total number of included studies on a certain domain.
+
+0/0
+
++21/42
++3/8
++23/29
++30/42
+
+Strongly
+positive
+Inconclusive
++13/19
+
+Social health
+insurance
+Community-based
+health insurance
+Private health
+insurance
+
+a
+
+Judgement
+Proportion
+
++1/1
+
+Weakly
+positive
+Weakly
+positive
+Inconclusive
++10/22
+
+Weakly
+positive
+Weakly
+positive
+Inconclusive
+
+Judgement
+Proportion
+Judgement
+Proportion
+
++6/13
+
+Strongly
+positive
+Strongly
+positive
+Inconclusive
++34/57
+
+Strongly
+positive
+Strongly
+positive
+Inconclusive
+
+Judgement
+Proportion
+Judgement
+
++29/47
+–5/9
+
+Proportion
+Judgement
+
+Inconclusive
+
+Proportionb
+
+Quality of care
+Financial protection
+Utilization
+Resource mobilization
+
+Health insurance
+type
+
+Table 2. Strength of the evidence on the impact of different types of health insurance on certain domains in Africa and Asiaa
+
+Social inclusion
+
+Community empowerment
+
+Ernst Spaan et al.
+
+Bull World Health Organ 2012;90:685–692A | doi:10.2471/BLT.12.102301
+
+689
+
+Systematic reviews
+Ernst Spaan et al.
+
+Health insurance in Africa and Asia
+
+hance utilization among their enrolled
+populations, and they can also foster
+social inclusion. This underscores the
+importance of health insurance as an
+alternative health financing mechanism
+capable of mitigating the detrimental
+effects of user fees, and as a promising
+means for achieving universal healthcare coverage. ■
+
+Acknowledgements
+We gratefully acknowledge the support
+of the Dutch Platform for Health Insurance for the Poor (HIP) for this research.
+Funding: The study was funded by the
+Dutch Platform for Health Insurance
+for the Poor (http://www.hip-platform.
+org/). The funding body had no role
+
+in study design, data collection and
+analysis, interpretation of outcomes,
+decision to publish, or preparation of the
+manuscript.
+Competing interests: None declared.
+
+‫ملخص‬
+
+‫الدراسات قائمة عىل املالحظة؛ وأربع منها عشوائية ذات بيئة‬
+‫ وكانت‬.‫ منها ذات تصميم شبه جتريبي‬20‫خاضعة للمراقبة و‬
+‫مواضيع احلامية املالية واالستخدام واالندماج االجتامعي أكثر‬
+.‫شيوع ًا من تعبئة املوارد أو جودة الرعاية أو متكني املجتمع املحيل‬
+‫وتشري بينات قوية إىل أن التأمني الصحي املجتمعي والتأمني‬
+‫الصحي االجتامعي حيسنان من استخدام اخلدمات ومحاية األفراد‬
+‫مالي ًا من خالل خفض اإلنفاق املبارش كام تشري أيض ًا إىل أن التأمني‬
+‫ وتشري بينات ضعيفة‬.‫حيسن من حشد املوارد‬
+ّ ‫الصحي املجتمعي‬
+‫إىل التأثري اإلجيايب لكل من التأمني الصحي االجتامعي والتأمني‬
+‫ كام أن‬،‫الصحي املجتمعي عىل جودة الرعاية واالندماج االجتامعي‬
+‫تأثري التأمني الصحي االجتامعي والتأمني الصحي املجتمعي عىل‬
+‫ وكذلك نتائج التأمني الصحي‬،‫متكني املجتمع املحيل غري حاسم‬
+.‫اخلاص يف مجيع املجاالت نظر ًا لعدم كفاية الدراسات‬
+‫االستنتاج يوفر التأمني الصحي بعض احلامية من اآلثار الضارة‬
+ً ‫للرسوم املفروضة عىل املستخدمني ويتيح سبي‬
+‫ال واعد ًا باجتاه تغطية‬
+.‫شاملة للرعاية الصحية‬
+
+‫ استعراض منهجي‬:‫أثر التأمني الصحي يف أفريقيا وآسيا‬
+
+‫الغرض تقييم أثر التأمني الصحي عىل تعبئة املوارد واحلامية املالية‬
+‫واستخدام اخلدمات وجودة الرعاية واالندماج االجتامعي ومتكني‬
+‫املجتمع املحيل يف البلدان منخفضة الدخل والرشحية الدنيا من‬
+.‫البلدان متوسطة الدخل يف أفريقيا وآسيا‬
+‫الطريقة تم إجراء بحث منهجي للتجارب العشوائية التي تم‬
+‫ والدراسات شبه التجريبية‬،‫تنفيذها يف بيئة خاضعة للمراقبة‬
+‫ يف‬2011 ‫والقائمة عىل املالحظة التي تم نرشها قبل هناية عام‬
+‫ ومواقع‬،‫ قاعدة بيانات وقوائم مراجع للدراسات ذات الصلة‬20
+‫ وتم تقييم جودة الدراسة‬.‫ واملنشورات غري الرسمية‬،‫اإلنرتنت‬
+.‫باستخدام بروتوكول تدرج اجلودة‬
+‫ يف‬91‫ يف أفريقيا و‬68 – ‫ دراسة معايري اإلدراج‬159 ‫النتائج لبت‬
+‫ ووردت تقارير من معظم الدراسات األفريقية عن التأمني‬.‫آسيا‬
+‫) وكانت ذات جودة عالية نسبي ًا؛‬CBHI( ‫الصحي املجتمعي‬
+‫) يف أغلبها‬SHI( ‫وكانت دراسات التأمني الصحي االجتامعي‬
+‫ ومل تتعامل سوى دراسة آسيوية‬.‫آسيوية وذات جودة متوسطة‬
+‫ وكانت معظم‬.)PHI( ‫واح��دة مع التأمني الصحي اخلاص‬
+
+摘要
+非洲和亚洲医疗保险的影响：系统性回顾
+
+目的 评估在非洲和亚洲的低收入和中等偏下收入国家中医
+疗保险对资源动员、财政保护、服务利用、护理质量、社
+会包容和社区营造的影响。
+方法 在20 个文献数据库、相关研究参考文献、网站和灰
+色文献中对在2011 年底之前发表的随机对照试验、准实
+验和观测研究进行系统搜索。使用质量分级方案评估研
+究质量。
+结果 符合纳入标准的研究有159 项 —— 非洲 68 项，亚洲
+91 项。大多数非洲国家报告的是以社区为基础的医疗保
+险（CBHI），质量相对较高；社会医疗保险（SHI）研究
+大多来自亚洲，质量中等。只有一个亚洲研究是关于 PHI
+
+的。大多数研究是观测性研究；4 个具有随机对照，20 个
+具有准实验设计。较之资源动员、护理质量或社区营造，
+资金保障、利用率和社会包容是更为普遍的主题。强有力
+的证据表明，CBHI和SHI可以通过减少现款开支提高服务
+利用率并在资金上为成员提供保护，CBHI改善了资源动
+员情况。SHI和CBHI对护理质量和社会包容的积极作用证
+据较弱。SHI和CBHI对社区营造的影响不确定。因为没有
+足够的研究，PHI对所有领域的影响尚无定论。
+结论 医疗保险针对用户收费的不利影响提供了一定的保
+护，并带来一条通向全民医疗保健覆盖的希望之路。
+
+Résumé
+L’impact de l’assurance maladie en Afrique et en Asie: une étude systématique
+Objectif Évaluer l’impact de l’assurance maladie sur la mobilisation des
+ressources, la protection financière, l’utilisation des services, la qualité des
+soins, l’inclusion sociale et l’autonomisation des communautés dans les
+pays à faible revenu et à revenu intermédiaire de la tranche inférieure,
+en Afrique et en Asie.
+Méthodes Une recherche systématique d’essais contrôlés randomisés,
+d’études quasi expérimentales et observationnelles publiées avant
+la fin de l’année 2011 a été effectuée dans 20 bases de données de
+publications, des listes de références ou des études pertinentes, sur des
+690
+
+sites Web et dans la littérature grise. La qualité des études a été évaluée
+au moyen d’un protocole de classement de la qualité.
+Résultats Les critères d’inclusion ont été remplis par 159 études – 68 en
+Afrique et 91 en Asie. La plupart des études africaines se rapportaient
+à l’assurance maladie communautaire (AMC) et étaient de qualité
+relativement élevée; les études de l’assurance maladie sociale (AMS)
+étaient pour la plupart des études asiatiques de qualité moyenne.
+Seule une étude asiatique traitait de l’AMP. La plupart des études étaient
+observationnelles; 4 d’entre elles disposaient de contrôles randomisés
+Bull World Health Organ 2012;90:685–692A | doi:10.2471/BLT.12.102301
+
+Systematic reviews
+Health insurance in Africa and Asia
+
+Ernst Spaan et al.
+
+et 20 avaient une conception quasi expérimentale. La protection
+financière, l’utilisation des services et l’inclusion sociale étaient des
+sujets beaucoup plus communs que la mobilisation des ressources, la
+qualité des soins ou l’autonomisation des communautés. Il existe des
+preuves solides que l’AMC et l’AMS améliorent l’utilisation des services
+et protègent financièrement les membres, en réduisant leurs paiements
+directs, et que l’AMC améliore aussi la mobilisation des ressources. De
+faibles preuves indiquent un effet positif de l’AMS et de l’AMC sur la
+
+qualité des soins et l’inclusion sociale. L’effet de l’AMS et de l’AMC sur
+l’autonomisation des communautés n’est pas concluant. Les résultats
+de l’AMP ne sont pas concluants dans tous les domaines, car les études
+sont insuffisantes.
+Conclusion L’assurance maladie offre une certaine protection contre
+les effets néfastes des frais d’utilisation et une voie prometteuse vers
+l’accès à une couverture de soins de santé universelle.
+
+Резюме
+Влияние медицинского страхования в Африке и Азии: систематический обзор
+Цель Оценить влияние медицинского страхования на
+мобилизацию ресурсов, финансовую защиту, использование
+услуг, качество медицинского обслуживания, социальную
+интеграцию и обеспечение возможностей для развития общества
+в странах Африки и Азии с низким и ниже среднего уровня
+доходами.
+Методы Систематический поиск рандомизированных
+контролируемых, квазиэкспериментальных и
+неэкспериментальных исследований, опубликованных до
+конца 2011 г., проводился по 20 базам данных информационных
+источников, спискам ссылок соответствующих исследований,
+веб-сайтам и неофициальным изданиям. Качество исследования
+оценивалось в протоколе уровня качества.
+Результаты Критериям вк лючения соответс твовало
+159 исследований – 68 в Африке и 91 в Азии. Большинство
+африканских исследований было посвящено территориальному
+медицинскому страхованию (ТМС) и имело относительно высокое
+качество; исследования по социальному страхованию (СС),
+главным образом, проводились в странах Азии и были среднего
+качества. Только одно азиатское исследование посвящалось
+государственному медицинскому страхованию (ГМС).
+
+Большинство исследований имело экспериментальный характер;
+4 исследования были рандомизированными контролируемыми
+и 20 было отнесено к квазиэкспериментальным. Финансовая
+защита, использование услуг и социальная интеграция были
+гораздо более частыми предметами исследований, чем
+мобилизация ресурсов, качество медицинского обслуживания
+или обеспечение возможностей для общества. Убедительные
+доказательства указывают на то, что ТМС и СС улучшают
+использование услуг и защищают их членов в финансовом плане
+посредством сокращения их наличных расходов, а также на то,
+что ТМС улучшает мобилизацию ресурсов. Неубедительные
+доказательства указывают на благоприятный эффект СС и ТМС на
+качество медицинского обслуживания и социальную интеграцию.
+Влияние СС и ТМС на обеспечение возможностей для развития
+общества является недоказательным. Результаты для ГМС
+являются недоказательными во всех сферах из-за недостаточных
+исследований.
+Вывод Медицинское страхование обеспечивает некоторую
+защиту от негативных последствий расходов пациентов и
+является перспективным путем к единому страховому покрытию
+лечения населения.
+
+Resumen
+El impacto de los seguros médicos en África y Asia: un examen sistemático
+Objetivo Evaluar el impacto de los seguros médicos en la movilización
+de recursos, la protección financiera, el uso de los servicios, la calidad de
+la atención, la inclusión social y el empoderamiento de la comunidad
+en países de ingresos bajos y medios de África y Asia.
+Métodos Se llevó a cabo una búsqueda sistemática de ensayos
+aleatorios controlados, estudios cuasiexperimentales y de observación
+publicados antes de finalizar el año 2011 en 20 bases de datos
+bibliográficas, listas de referencia de estudios relevantes, páginas web
+y literatura gris. La calidad de los estudios se evaluó por medio de un
+protocolo de clasificación por calidad.
+Resultados De los estudios analizados, 159 reunieron los criterios de
+inclusión, 68 de ellos en África y 91 en Asia. La mayoría de estudios
+africanos informaron acerca de los seguros médicos basados en la
+comunidad y presentaban una calidad relativamente muy alta; los
+estudios acerca de seguros sociales de enfermedad fueron en su
+mayoría asiáticos y de calidad media. Sólo un estudio asiático se ocupó
+de los seguros médicos permanentes. La mayoría de estudios fueron de
+observación; cuatro de ellos presentaban controles aleatorios y 20 tenían
+un diseño de investigación cuasiexperimental. La protección financiera,
+
+Bull World Health Organ 2012;90:685–692A | doi:10.2471/BLT.12.102301
+
+el uso y la inclusión social fueron temas mucho más comunes que la
+movilización de recursos, la calidad de la atención o el empoderamiento
+de la comunidad. Existen pruebas importantes de que los seguros
+médicos basados en la comunidad y los seguros sociales de enfermedad
+mejoran el uso del servicio y ofrecen una protección financiera para
+los socios porque reducen sus gastos directos y que los seguros
+médicos basados en la comunidad también mejoran la movilización
+de los recursos. Por el contrario, hay pruebas poco sólidas acerca del
+efecto positivo sobre la calidad de la atención y la inclusión social de
+los seguros sociales de enfermedad y los seguros médicos basados en
+la comunidad. El efecto de los seguros sociales de enfermedad y los
+seguros médicos basados en la comunidad en el empoderamiento
+de la comunidad no es concluyente. Los resultados para los seguros
+médicos permanentes son inconcluyentes en todos los campos porque
+los estudios son insuficientes.
+Conclusión Las ofertas de los seguros médicos ofrecen cierta protección
+contra los efectos perjudiciales de las cuotas de usuarios y son un camino
+prometedor hacia la cobertura sanitaria integral.
+
+691
+
+Systematic reviews
+Health insurance in Africa and Asia
+
+Ernst Spaan et al.
+
+References
+1.
+
+2.
+3.
+
+4.
+5.
+
+6.
+7.
+
+8.
+9.
+10.
+
+11.
+12.
+
+13.
+14.
+
+15.
+
+16.
+17.
+18.
+19.
+
+20.
+21.
+22.
+23.
+
+692
+
+Devadasan N, Criel B, Van Damme W, Ranson K, Van der Stuyft P. Indian
+community health insurance schemes provide partial protection
+against catastrophic health expenditure. BMC Health Serv Res 2007;7:43.
+doi:10.1186/1472-6963-7-43 PMID:17362506
+Hsiao W, Shaw RP, editors. Social health insurance for developing nations.
+Washington: The World Bank; 2007.
+McIntyre D, Thiede M, Dahlgren G, Whitehead M. What are the economic
+consequences for households of illness and of paying for health care in
+low- and middle-income country contexts? Soc Sci Med 2006;62:858–65.
+doi:10.1016/j.socscimed.2005.07.001 PMID:16099574
+World health report 2010 - Health systems financing: the path to universal
+coverage. Geneva: World Health Organization; 2010.
+Smith PC. Provision of a public benefit package alongside private voluntary
+health insurance. In: Preker AS, Scheffer RM, Bassett MC, editors. Private
+voluntary health insurance in development: friend or foe? Washington: The
+World Bank; 2007.
+Bennett S, Creese A, Monasch R. Health insurance schemes for people
+outside formal sector employment (ARA Paper No. 16). Geneva: World Health
+Organization; 1998.
+Lagarde M, Palmer N. Evidence from systematic reviews to inform decision
+making regarding financing mechanisms that improve access to health services
+for poor people. A policy brief prepared for the International Dialogue on
+Evidence-Informed Action to Achieve Health Goals in Developing Countries
+(IDEAHealth). Geneva: Alliance for Health Policy and Systems Research; 2006.
+McIntyre D. Learning from experience: health care financing in low- and
+middle-income countries. Geneva: Global Forum for Health Research; 2007.
+Preker A, Carrin G, editors. Health financing for poor people: resource
+mobilization and risk sharing. Washington: The World Bank; 2004.
+Ranson MK. Reduction of catastrophic health care expenditures by a
+community-based health insurance scheme in Gujarat, India: current
+experiences and challenges. Bull World Health Organ 2002;80:613–21.
+PMID:12219151
+Criel B. The Bwamanda hospital insurance scheme: effective for whom?
+A study of its impact on hospital utilization patterns. Soc Sci Med
+1999;48:897–911. doi:10.1016/S0277-9536(98)00391-8 PMID:10192557
+Carrin G, Waelkens MP, Criel B. Community-based health insurance in
+developing countries: a study of its contribution to the performance
+of health financing systems. Trop Med Int Health 2005;10:799–811.
+doi:10.1111/j.1365-3156.2005.01455.x PMID:16045467
+Criel B. District-based health insurance in sub-Saharan Africa: part 2: case
+studies. Antwerp: Instituut voor Tropische Geneeskunde, Departement
+Volksgezondheid; 1998.
+Moens F. Design, implementation, and evaluation of a community financing
+scheme for hospital care in developing countries: a pre-paid health
+plan in the Bwamanda health zone, Zaire. Soc Sci Med 1990;30:1319–27.
+doi:10.1016/0277-9536(90)90312-G PMID:2367877
+Smith KV, Sulzbach S. Community-based health insurance and access
+to maternal health services: evidence from three West African countries.
+Soc Sci Med 2008;66:2460–73. doi:10.1016/j.socscimed.2008.01.044
+PMID:18362047
+Atim C. Contribution of mutual health organizations to financing, delivery and
+access to health care: synthesis of research in nine west and central African
+countries. Bethesda: Abt Associates Inc.; 1998.
+Ekman B. Community based health insurance in low-income countries:
+a systematic review of the evidence. Health Policy Plan 2004;19:249–70.
+doi:10.1093/heapol/czh031 PMID:15310661
+Extending social protection in health through community-based health
+organizations: evidence and challenges. Geneva: International Labour Office; 2002.
+Jakab M, Krishnan C. Review of the strengths and weaknesses of
+community financing. In: Preker A, Carrin G, editors. Health financing for
+poor people: resource mobilization and risk sharing. Washington: The World
+Bank; 2004. pp. 53-117.
+Soors W, Devadasan N, Durairaj V, Criel B. Community health insurance and
+universal coverage: multiple paths, many rivers to cross (World Health Report
+2010 Background Paper 48). Geneva: World Health Organization; 2010.
+The World Bank [Internet]. How we classify countries. Washington: World
+Bank; 2012. Available from: http://data.worldbank.org/about/countryclassifications [accessed 25 May 2012].
+Systematic reviews: CRD’s guidance for undertaking reviews in health care. York:
+Centre for Reviews and Dissemination, University of York; 2008.
+Van de Voorde C, Leonard C. Search for evidence and critical appraisal: health
+services research. Brussels: Belgian Health Care Knowledge Centre; 2007.
+
+24. Moher D, Liberati A, Tetzlaff J, Altman DG; The PRISMA Group. Preferred
+reporting items for systematic reviews and meta-analyses: the PRISMA
+statement. PLoS Med 2009;6:e1000097. doi:10.1371/journal.pmed.1000097
+PMID:19621072
+25. Desmet M, Chowdhury AQ, Islam MK. The potential for social mobilisation
+in Bangladesh: the organisation and functioning of two health insurance
+schemes. Soc Sci Med 1999;48:925–38. doi:10.1016/S0277-9536(98)00393-1
+PMID:10192559
+26. McCord M. Health care microinsurance – case studies from Uganda,
+Tanzania, India and Cambodia. Small Enterprise Dev 2001;12:25–38.
+doi:10.3362/0957-1329.2001.006
+27. Criel B, Kegels G. A health insurance scheme for hospital care in Bwamanda
+district, Zaire: lessons after 10 years of functioning. Trop Med Int Health
+1997;2:654–72. doi:10.1046/j.1365-3156.1997.d01-349.x PMID:9270733
+28. Ilunga TB, Contandriopoulos AP, Fournier P. How was a prepayment plan for
+health care in Bwamanda (Zaire) established? Soc Sci Med 1995;40:1041–52.
+doi:10.1016/0277-9536(94)00173-Q PMID:7597458
+29. Shepard S, Vian T, Kleinau EF. Health insurance in Zaire (Policy, Research
+and External Affairs Working Papers). Washington: The World Bank, Africa
+Technical Department, Population, Health and Nutrition Division; 1990.
+30. McCord M, Osinde S. Reducing vulnerability: the supply of health
+microinsurance in east Africa. Appleton: Micro Insurance Centre, LLC; 2003.
+31. Arhin DC. The health card insurance scheme in Burundi: a social asset or
+a non-viable venture? Soc Sci Med 1994;39:861–70. doi:10.1016/02779536(94)90048-5 PMID:7973882
+32. Obermann K, Jowett MR, Alcantara MO, Banzon EP, Bodart C. Social health
+insurance in a developing country: the case of the Philippines. Soc Sci Med
+2006;62:3177–85. doi:10.1016/j.socscimed.2005.11.047 PMID:16406248
+33. Jowett M, Hsiao WC. The Philippines: extending coverage beyond the
+formal sector. In: Hsiao WC, Shaw RP, editors. Social health insurance for
+developing nations. Washington: The World Bank; 2007. pp. 81-104.
+34. Sidorenko A, Butler J. Financing health insurance in Asia Pacific countries.
+Asia Pac Econ Lit 2007;21:25–54.
+35. Atim C. Social movements and health insurance: a critical evaluation of
+voluntary, non-profit insurance schemes with case studies from Ghana and
+Cameroon. Soc Sci Med 1999;48:881–96. doi:10.1016/S0277-9536(98)003906 PMID:10192556
+36. Criel B, Waelkens M. Declining subscriptions to the Maliando Mutual
+Health Organisation in Guinea-Conakry (West Africa): what is going
+wrong? Soc Sci Med 2003;57:1205–19. doi:10.1016/S0277-9536(02)00495-1
+PMID:12899905
+37. Jütting JP. Do community-based health insurance schemes improve poor
+people’s access to health care? Evidence from rural Senegal. World Dev
+2003;32:273–88. doi:10.1016/j.worlddev.2003.10.001
+38. Ndiaye P, Soors W. Editorial: A view from beneath: community health
+insurance in Africa. Trop Med Int Health 2007;12:157–61. doi:10.1111/j.13653156.2007.01814.x PMID:17300621
+39. Wagstaff A. Social health insurance reexamined. Health Econ 2010;19:503–
+17. PMID:19399789
+40. World health report 2000. Health systems: improving performance. Geneva:
+World Health Organization; 2000.
+41. Schellekens O, Lindner ME, Lange MA, van der Gaag J. A new paradigm
+for increased access to health care in Africa. Washington: International
+Finance Corporation; 2007. Available from: http://www.ifc.org/ifcext/
+essaycompetition.nsf/AttachmentsByTitle/silver_Healthcare_in_
+Africa/$FILE/Silver_Healthcare.pdf [accessed 25 May 2012].
+42. Drechsler D, Jütting J. Different countries, different needs: the role of
+private health insurance in developing countries. J Health Polit Policy Law
+2007;32:497–534. doi:10.1215/03616878-2007-012 PMID:17519475
+43. Jehu-Appiah C, Aryeetey G, Spaan E, Agyepong I, Baltussen R. Household
+perceptions and their implications for enrolment in the National
+Health Insurance Scheme in Ghana. Health Policy Plan 2012;27:222–33.
+doi:10.1093/heapol/czr032 PMID:21504981
+44. Preker AS, Carrin G, Dror D, Jakab M, Hsiao W, Arhin D. Effectiveness of
+community health financing in meeting the cost of illness. Bull World Health
+Organ 2002;80:143–50. PMID:11953793
+45. Reddy KS, Patel V, Jha P, Paul V, Kumar A, Dandona L; Lancet India Group
+for Universal Healthcare. Towards achievement of universal health care in
+India by 2020: a call to action. Lancet 2011;377:760–8. doi:10.1016/S01406736(10)61960-5 PMID:21227489
+46. Agyepong IA, Adjei S. Public social policy development and implementation:
+a case study of the Ghana National Health Insurance scheme. Health Policy
+Plan 2008;23:150–60. doi:10.1093/heapol/czn002 PMID:18245803
+Bull World Health Organ 2012;90:685–692A | doi:10.2471/BLT.12.102301
+
+

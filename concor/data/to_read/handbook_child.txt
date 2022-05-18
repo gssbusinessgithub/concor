@@ -1,0 +1,515 @@
+20. Child-sensitive social protection
+Keetie Roelen
+
+20.1
+
+INTRODUCTION
+
+Child-sensitive social protection (CSSP) seeks to promote programmes and systems that
+improve children’s lives, both at present as well as in the future. Despite important strides in
+the fight against poverty in the past two decades, many children still face multiple deprivations and live in vulnerable conditions. An estimated 385 million children aged 0–17 live in
+extreme poverty (using USD 1.90 per day per person as the poverty line) (UNICEF 2019b)
+while 665 million children in this age group experience multidimensional poverty (based on
+the Multidimensional Poverty Index) (OPHI 2018). Children are disproportionately affected
+by poverty: children aged 0–14 account for 46 per cent of all those living in extreme poverty
+(World Bank 2018) and are more than twice as likely to experience poverty than adults are
+(UNICEF 2019b).
+The pervasiveness of poverty among children is problematic for various reasons. First,
+physical and biological vulnerabilities mean that children are more susceptible to negative
+consequences of living in poverty (Roelen and Sabates-Wheeler 2012). Poverty in childhood
+is detrimental for biological and cognitive development (Walker et al. 2007), thereby undermining children’s wellbeing at present as well as their potential to grow into healthy and
+productive adults. It often leads to irreversible damage, locking children and families into
+intergenerational poverty.
+Second, children are mostly dependent on others for the provision of their basic needs. This
+dependence affords them limited autonomy in securing their own wellbeing and mitigating the
+effects of poverty, also putting them at greater risk of abuse and misuse of power (Roelen and
+Sabates-Wheeler 2012).
+The importance of ensuring good lives for children is enshrined in the 1989 Convention on
+the Rights of the Child (CRC). Based on Articles 26 and 27 of the CRC, children have the right
+to social security and an adequate standard of living (Global Coalition to End Child Poverty
+2017). As the CRC was ratified by all countries in the world (except for Saudi Arabia and the
+United States of America), there is a moral and ethical imperative for governments to reduce
+poverty among their child populations.
+A focus on reducing child poverty in all its forms also emerges from the Sustainable
+Development Goals (SDGs). SDG 1 calls for ending poverty in all its forms everywhere.
+Target 1.2 within SDG 1 stipulates: ‘By 2030, reduce at least by half the proportion of men,
+women and children of all ages living in poverty in all its dimensions according to national
+definitions’ (United Nations 2019). The explicit mention of children in SDG 1 and its targets
+calls on governments to pay special attention to child poverty and to formulate policies and
+programmes to ensure good lives for children.
+SDG 1 also articulates the importance of social protection for achieving the goal of ending
+poverty by 2030, including child poverty. Target 1.3 calls for: ‘Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve
+368
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+Child-sensitive social protection 369
+substantial coverage of the poor and the vulnerable’ (United Nations 2019). In the last decade,
+social protection has become an indispensable part of the policy toolkit in order to improve
+children’s lives in the short and medium term, and to break the intergenerational cycle of
+poverty. Many positive impacts have been reported, such as improved school attendance, more
+(and more frequent) use of health services and greater dietary diversity (Bastagli et al. 2016).
+
+20.2
+
+WHAT IS CHILD-SENSITIVE SOCIAL PROTECTION?
+
+20.2.1
+
+Concepts and Definitions
+
+The concept of CSSP first emerged in 2009 when a group of international organisations,
+including UNICEF, the World Bank, International Labour Organization, Department for
+International Development and Save the Children, published the Joint Statement on Advancing
+Child-Sensitive Social Protection (DFID et al. 2009). Following the emerging evidence base
+of positive effects of social protection on children’s lives in low- and middle-income countries,
+these organisations joined hands to formulate a set of basic principles that should guide the
+design, implementation and evaluation of social protection programmes to ensure that they
+benefit children.
+In the last decade, the field of CSSP has developed further with additional definitions
+and approaches having been developed by various international agencies and organisations,
+notably Save the Children and UNICEF. At the core of all approaches lies the notion that
+CSSP aims to maximise positive impacts on children as well as minimise any unintended harm
+or adverse consequences for children. This means that CSSP does not only apply to interventions that are targeted at children or households with children, but that it extends to all programmes that can affect children. This is captured in the following definition: ‘Child-sensitive
+social protection (CSSP) encompasses programmes that aim to maximise positive impacts on
+children and to minimise potential unintended side effects (DFID et al. 2009). This includes
+both direct interventions (i.e. child-focused or targeted) and indirect interventions (e.g. social
+pensions, public works)’ (Roelen and Karki Chettri 2016, 13).
+This definition implies that CSSP is relevant across all components of social protection,
+ranging from social assistance to social insurance and labour market interventions.
+The broad remit of CSSP is also evident from a briefing paper published by the Global
+Coalition to End Child Poverty (2017), which emphasises the need for a child focus across
+all aspects of programme and policy cycles: ‘[CSSP] is an approach under which all social
+protection measures aim to maximise impacts and minimise any possible harms for girls and
+boys, across all ages, by systematically incorporating child risk and benefit (impact) analysis
+into each stage of policy and programme design, implementation and monitoring’ (Global
+Coalition to End Child Poverty 2017, 4). In other words, CSSP is not a distinct type of social
+protection but instead offers a framework for guiding all aspects of design and implementation
+of social protection through a children’s lens.
+
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+370
+20.2.2
+
+Handbook on social protection systems
+Key Principles
+
+While concepts and definitions provide the foundation for CSSP, further development of
+guiding principles or design and implementation criteria are required to put theory into
+practice.
+Recent programmatic frameworks and guidance notes, such as by the Global Coalition to
+End Child Poverty (2017), Save the Children (2015) and UNICEF (2019a), offer practical
+pointers towards operationalisation of CSSP. We can distil a set of commonly agreed design
+and implementation principles, as follows.
+Act in the best interest of the child and do no harm
+This principle follows directly from the notion that programmes should be designed and
+implemented so that they both maximise benefits for children and intend to prevent any
+adverse consequences. This holds across child- or family-focused interventions as well as
+interventions that target individuals who may not have a direct link to children.
+For example, conditional cash transfers that have an explicit focus on promoting outcomes
+for children have been found to have positive impacts in terms of education and health, among
+other things (Bastagli et al. 2016). At the same time they can also cause perverse incentives as
+a result of the need to meet conditions to receive transfers, such as sending children to school
+when sick (which was observed in Hungary) or keeping children malnourished (which was
+observed in Brazil and in Dadaab refugee camp in Kenya) (Roelen 2015).
+Conversely, public work programmes do not have an explicit focus on children but can have
+both positive and negative impacts. In Nepal, for example, public works presented a potential
+mechanism for keeping families together as a provision of work throughout the year could
+prevent seasonal migration from fathers or adult men to neighbouring India. However, as
+the programme only offered work for a limited period of time, most participants were adult
+women, resulting in conflicts between undertaking work and providing childcare (Roelen and
+Karki Chettri 2016).
+Realise coverage progressively
+This principle reflects that all children should have access to social protection but also recognises that it will take time for budgets and funding to be in place to make this a reality. This
+principle calls on governments to set priorities and sequence policy development, budget allocations and implementation to progressively put in place a package of social protection that
+provides universal coverage and that is child sensitive. One mechanism for doing so could be
+to gradually extend age thresholds that determine eligibility. In Myanmar, for example, the age
+threshold for old age pension was lowered from 90 in 2017 to 85 in 2019 as budget allocation
+expanded. In South Africa, the age limit for the Child Support Grant gradually increased from
+7 to 18 after its inception in 1998 (DSD et al. 2012).
+Actively include children who are marginalised and socially excluded
+This principle explicitly recognises that children and other individuals with certain attributes
+or belonging to vulnerable groups (1) may have different needs and (2) may be at a higher
+risk of being excluded from social protection, even in universal systems. Gender, ethnicity,
+geographic location, disability status, chronic illness and living outside of family care represent dimensions of social vulnerability that could lead to exclusion and marginalisation. This
+
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+Child-sensitive social protection 371
+principle calls for social protection to adequately respond to differential needs and to reach out
+to vulnerable and marginalised groups in order to ensure their inclusion and redress structural
+inequalities. In Nepal, for example, the Child Grant Programme specifically targeted children
+under five in Karnali region and poor children from Dalit households across the country in
+recognition of heightened levels of marginalisation and exclusion along lines of geography
+and caste (Roelen and Karki Chettri 2016).
+Build comprehensive, adaptive and responsive systems of social protection
+This principle emphasises the importance of a systems approach to social protection (see
+Chapter 11). It advocates for systems that provide comprehensive packages of support that
+allow its beneficiaries to adapt their livelihoods to changing circumstances (notably climate
+change) and to respond to shocks, such as weather-related shocks or conflict. While this principle is not child-specific, the long-lasting adverse consequences for children (as discussed
+above) that result from fragmentation, loss of livelihood or exposure to shock makes this
+principle even more urgent for children.
+Include children’s voices and perspectives
+Finally, this principle indicates that voices and opinions of children and their caregivers should
+be included in an explicit and deliberate manner throughout the process of policy design,
+implementation, monitoring and evaluation. Until now, child participation in decision-making
+processes around social protection has been marginal, and children’s voices have mostly been
+overlooked (Hulshof 2019). With CSSP being grounded in children’s rights, children should
+be engaged rather than proclaimed as rights holders when it comes to developing, monitoring
+and evaluating interventions (Hulshof 2019). Child-friendly and participatory processes of
+consultation and social audits that explicitly seek to include and give weight to children’s
+voices is one way of doing so.
+20.2.3
+
+Distinguishing Child-Sensitive Social Protection and Child Protection
+
+Social protection, and CSSP in particular, is often confused with the policy area of child
+protection. Although there are strong overlaps between both policy areas, they also differ in
+important ways.
+The policy areas of social protection and child protection are part and parcel of the response
+to children and their vulnerabilities. Social protection primarily aims to reduce poverty and
+lack of basic needs and child protection seeks to prevent and respond to child protection violations. Such violations include child labour, trafficking, abuse and neglect, among others. The
+overlap of both policy areas exists in the interconnection of vulnerabilities at the level of the
+child as well as in programmatic synergies when responding to such vulnerabilities.
+Poverty and economic vulnerability are important factors in causing or reinforcing child
+protection violations. Given social protection’s remit in relation to poverty, it can help prevent
+child protection violations as well as support recovery and redress. Although evidence regarding the impact of social protection on child protection outcomes is limited, interventions –
+cash transfers in particular – have been found to reduce family separation and child marriage
+(Barrientos et al. 2014). In Ghana, for example, the Livelihoods Empowerment Against
+Poverty (LEAP) programme helped to counteract the effects of poverty in relation to large
+family sizes and allowed children to stay with their biological parents (Roelen et al. 2016).
+
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+372
+
+Handbook on social protection systems
+
+The potential for linkages between social protection and child protection also exist in operational terms, with the frontline response to issues of poverty and vulnerability as well as child
+protection concerns often being provided by social workers or community volunteers. A more
+holistic approach to creating a protective environment for children that minimises risk and
+vulnerability would be served by close linkages between social protection and child protection
+(Barrientos et al. 2014).
+Indeed, various social transfer interventions are designed to include mechanisms to
+respond to child protection violations. As articulated in UNICEF’s Global Social Protection
+Programming Framework, the role of social service workers presents a crucial connection
+between social protection and child protection (UNICEF 2019a). The Improved Nutrition
+through Integrated Basic Social Services with Social Cash Transfer pilot in Ethiopia, for
+example, explicitly included components to respond to child protection concerns such as
+abuse or abduction. Case management by social workers and Community Care Coalitions
+seek to facilitate linkages to services, including police and judicial services, and to coordinate
+a response in case of child protection violations (UNICEF Ethiopia 2017).
+In other cases, community committees are established in the name of child protection while
+also responding to concerns that would normally belong to the remit of social protection. In
+Mozambique, for example, Community Child Protection Committees primarily provided basic
+needs such as food and clothing as opposed to tailored responses to issues of violence or abuse
+(Roelen 2011).
+Notwithstanding positive success stories, the extent to which social transfer interventions
+are able to respond adequately to child protection issues appears limited. Capacity constraints,
+both in terms of numbers of staff as well as their skills to respond to complex child protection
+concerns, mean that the response to child protection will be fragmented and relatively shallow.
+High caseloads represented a significant barrier for social workers in Ethiopia to focus more
+intensely on the identification of and response to child protection concerns among Integrated
+Basic Social Services with Social Cash Transfer beneficiaries (UNICEF Ethiopia 2017). In
+Botswana, the extension of social workers’ tasks and responsibilities to include implementation and administration of social protection has put social workers under increased pressure
+(Roelen et al. 2011). In Mozambique, illiteracy, resource constraints, lack of awareness and
+weak statutory services were identified as the main obstacles for Community Child Protection
+Committees to provide support beyond trying to meet children’s basic needs (Roelen 2011).
+It should also be noted that certain areas of child protection are firmly beyond the remit of
+social protection, including systems of alternative care and legal frameworks underpinning
+justice for and security of children. Although stronger linkages between social protection and
+child protection policies have often been called for as part of CSSP, they do not advocate for
+integration of both policy areas.
+
+20.3
+
+POLICY OPTIONS AND THEIR EFFECTIVENESS
+
+As noted above, CSSP covers the whole range of social protection interventions and considers their effects on children. The relevance of CSSP across all forms of social protection is
+highlighted in UNICEF’s Global Social Protection Programme Framework (UNICEF 2019a).
+While child grants and youth employment schemes have a direct focus on children and adoles-
+
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+Child-sensitive social protection 373
+cents, cash-for-work or insurance programmes that are targeted at adults of working age will
+also hold implications for children.
+We explore the effectiveness of policies in relation to children by zooming in on a type of
+programming that tends to be directly targeted at children (or families with children) – namely
+human development-focused ‘cash plus’ programmes – as well as on schemes that are not
+focused on children – namely ‘graduation’ programmes. The objective of examining these
+types of interventions is two-fold. First, they offer examples of how a child-sensitive lens can
+be adopted in examining programmes that have children as their primary target group and
+those that do not. Second, ‘cash plus’ and ‘graduation’ programmes are schemes that can be
+characterised as representative of a new wave of social assistance interventions that combine
+cash with other services in order to boost impact (see Chapter 14).
+20.3.1
+
+‘Cash Plus’ Programmes
+
+‘Cash plus’ programmes provide regular transfers in combination with additional support or
+linkages to services that seek to augment the income effects of cash transfers. The need for
+programmes to move beyond the provision of cash only has been increasingly recognised in
+order to make social protection truly transformative (Molyneux et al. 2016). Complementary
+support can be integral to ‘cash plus’ programmes and be provided alongside the cash transfer,
+or they can be external and be provided through other sectors.
+We can distinguish between programmes that primarily aim to improve human development
+and interventions that seek to enhance livelihoods and productive activities (Carter et al. 2019).
+Support that may be provided within ‘cash plus’ programmes with a human development
+focus include provision of information, such as through behaviour change communication,
+provision of additional in-kind benefits (such as supplementary feeding) or provision of psychosocial support (Roelen et al. 2017). ‘Cash plus’ interventions may also focus on increasing
+productivity and strengthening livelihoods (FAO 2017). In this case, complementary support
+includes provision of agricultural inputs, productive assets and extension services. ‘Cash plus’
+schemes with a human development focus are likely to be more ‘child sensitive’ as improvements to children’s lives, for example in the area of nutrition, represent the primary objectives
+of such schemes. Interventions with a more productive focus may benefit children as a result
+of improved livelihoods at household level, but may also have adverse consequences due to
+increased pressures on time and productive resources.
+Examples of human development-focused ‘cash plus’ interventions include the Maternal
+and Child Cash Transfer (MCCT) programme in Myanmar, which aims to improve nutrition
+outcomes for mothers and children. It provides monthly cash transfers to pregnant women
+and regular social and behaviour change communication to women and their families until
+children are two years old (Tasker 2017). The programme’s central focus on young children
+ensures that due consideration has been given to how programme benefits can be maximised.
+Interventions may also link beneficiaries to external support by facilitating access to services
+(such as through health insurance) or implementation of case management (ensuring referrals
+to other sectors) (Roelen et al. 2017). LEAP in Ghana, for example, provides access to health
+services by automatically enrolling its participants in the National Health Insurance Scheme.
+LEAP beneficiaries are entitled to free health insurance through the Scheme and are enrolled
+without having to pay premiums or processing costs (Ragno et al. 2016). This support extends
+
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+374
+
+Handbook on social protection systems
+
+to all household members but is likely to benefit those in most need of health care, including
+children.
+‘Cash plus’ programming has expanded rapidly in the last five years, particularly aimed at
+improving hard-to-achieve outcomes for children. Notable examples include interventions to
+improve nutritional outcomes and to improve outcomes for adolescents.
+20.3.2
+
+‘Cash Plus’ Programming for Nutrition
+
+Malnutrition remains a widespread problem across the globe. In 2016, 155 million children
+were stunted (e.g. low height for age) and malnutrition accounted for 45 per cent of all deaths
+among children under age five (WHO 2018). While cash transfer programmes have been
+found to improve food security and dietary diversity, they have little impact on nutritional
+outcomes (de Groot et al. 2017). This lack of impact is largely explained by cash transfers
+only addressing one pathway towards better nutrition – namely greater food security through
+reduced poverty – but not addressing other pathways related to care and health. In recognition
+of the need to engage with multiple pathways to improve nutritional outcomes for children,
+various forms of ‘cash plus’ schemes are being tested with respect to nutrition – also dubbed
+‘cash plus for nutrition’ (Hypher et al. 2019). Such interventions particularly integrate components or link to other services that improve infant and young child feeding practices, sanitation
+practices, health-seeking behaviour and treatment for acute malnutrition.
+Emerging evidence of these programmes is promising. In Myanmar, a midline evaluation
+found that the MCCT programme led to impressive improvements for reported dietary diversity and knowledge and behaviour regarding infant and young child feeding practices (Tasker
+2017). In Nigeria, the Child Grant Development Programme, which also combines regular
+transfers with behaviour change communication, led to large improvements in nutrition and
+health outcomes, including stunting (Carneiro et al. 2019). A wider review of literature on
+‘cash plus for nutrition’ suggests that positive impacts are a result of the combination of
+support (Hypher et al. 2019), suggesting that these interventions have a high degree of child
+sensitivity.
+However, the success of ‘cash plus’ interventions in reducing malnutrition is highly
+reliant on the intensity of support and strength of implementation. In the case of the MCCT
+programme in Myanmar, an increase in the intensity of support through social and behaviour
+change communication was considered crucial for achieving impacts on nutritional outcomes
+such as stunting (Tasker 2017). Findings from the evaluation of the Child Grant Development
+Programme in Nigeria indicated that it is important to deliver social and behaviour change
+communication through multiple channels, ranging from cooking demonstrations to radio
+messages (OPM 2019). In other words, programmes could be made more child sensitive by
+maximising positive impacts further.
+20.3.3
+
+‘Cash Plus’ Programming for Adolescence
+
+Another area in which ‘cash plus’ programming is being tested to achieve greater impact is
+in relation to adolescents and youth. Although the proportion of adolescents in the global
+population has been on the decline since 1980, the absolute number of individuals aged 10–19
+continues to increase and is currently estimated to stand at 1.2 billion (UNICEF 2019b).
+Adolescence represents the transition from childhood to adulthood, marking changes in family
+
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+Child-sensitive social protection 375
+composition, education and employment status and behaviour in terms of sexual and reproductive health. It is also a critical window of opportunity during which policies aiming to support
+young people’s development may help equalise opportunities and generate high economic and
+social returns (Sheehan et al. 2017).
+An expanding body of research points towards a mixed picture in terms of the impact of
+cash transfers on safe transitions to adulthood, delay of sexual debut and pregnancy, reductions in intimate partner violence and HIV risk among adolescent girls, and they are not
+sufficient for youth to overcome interrelated social, economic and health risks (Tanzania Cash
+Plus Evaluation Team 2018). This draws into question their degree of child (or rather adolescent) sensitivity. In response, various ‘cash plus’ models for adolescents are being tested.
+In Tanzania, for example, a ‘cash plus’ programme for adolescents is implemented as part of
+the country’s Productive Social Safety Net programme. It aims to support a safe, healthy and
+productive passage to adulthood. The programme components include livelihood training,
+training focused on sexual and reproductive health, coaching by a community-based mentor
+and provision of linkages to services for sexual and reproductive health and HIV (Tanzania
+Cash Plus Evaluation Team 2018).
+20.3.4
+
+‘Graduation’ Programmes
+
+Interventions without a specific focus on children but with far-reaching implications for
+children’s lives include so-called ‘graduation’ programmes. These interventions seek to set
+households on a positive trajectory out of poverty through economic strengthening and by supporting the establishment of productive activities. Programmes commonly include a package
+of cash transfers, asset transfers, access to savings and credit, livelihood training and coaching. As such, they share commonalities with productivity-focused ‘cash plus’ programmes.
+However, ‘graduation’ programmes are usually more restrictive in terms of the period during
+which they provide support with many interventions only lasting 18 to 21 months.
+A cross-country evaluation shows that programmes increase household-level outcomes
+such as food security, asset holdings and living conditions, and that these impacts are at
+least partly sustained after the programme has ended (Banerjee et al. 2015). As such, these
+programmes hold great potential to improve children’s lives. But they may also present risks
+to children as a narrow focus on economic strengthening and greater demand on caregivers’
+time and resources may undermine care for children (Roelen 2015). Their degree of child
+sensitivity therefore depends on how positive and adverse effects weigh up against each other.
+‘Graduation’ programmes have been found to positively impact children’s lives, particularly in the context of widespread and deep poverty. In Burundi, for example, the Terintambwe
+programme led to children consuming more meals per day and improved sanitation practices,
+including washing hands after toileting (Devereux et al. 2015). More generally, programmes
+have positive effects on the basic needs of children, including food security, dietary diversity,
+access to education and access to health care (Roelen et al. 2020). They are less successful,
+however, in improving parenting practices in terms of responsive caregiving, early stimulation
+and improving safety and security (Roelen et al. 2020). This is not necessarily surprising as
+programmes were not designed to achieve impact in these areas.
+Programmes can also have negative effects on children, and especially infants. In Haiti,
+female programme participants in the Chemin Lavi Miyo programme struggled to combine
+income-generating activities with providing care for infants, particularly as many activities
+
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+376
+
+Handbook on social protection systems
+
+take place away from the home. Infants may be left in the care of other adults but often they go
+unsupervised or are left with young siblings. Women also struggled to prepare diverse meals
+and to take care of domestic chores that are vital to sanitation and health. Experiences with this
+programme suggest that the combination of income generation and provision of childcare can
+be at odds with each other, especially when programmes target women and in the absence of
+additional support or interventions that aim to address this juggling act.
+
+20.4
+
+CONCLUDING REMARKS
+
+CSSP is now a well-established and core concept within the social protection landscape. The
+need to focus on children can be argued based on moral, rights-based, economic and social
+grounds. As has become clear from the discussion in this chapter, CSSP does not represent
+a type of programming but instead offers a way to think about and evaluate social protection to
+ensure that all interventions – regardless of whether they are child-focused or not – serve the
+best interests of the child. Examples from across the world indicate that social protection has
+enormous potential to improve children’s lives – from infancy through to adolescence – but
+that a child-sensitive lens is crucial to expand positive impacts and reduce any negative side
+effects.
+
+REFERENCES
+Banerjee, A., E. Duflo, N. Goldberg, D. Karlan, R. Osei, W. Parienté, J. Shapiro, B. Thuysbaert and C.
+Udry (2015). A multifaceted program causes lasting progress for the very poor: Evidence from six
+countries. Science 348 (6236), 1260799.
+Barrientos, A., J. Byrne, P. Pena and J.M. Villa (2014). Social transfers and child protection in the South.
+Children and Youth Services Review 47, 105–12.
+Bastagli, F., J. Hagen-Zanker, L. Harman, V. Barca, G. Sturge, T. Schmidt and L. Pellerano (2016). Cash
+transfers: What does the evidence say? London: ODI.
+Carneiro, P., L. Kraftman, G. Mason, L. Moore, I. Rasul and M. Scott (2019). The Impacts of
+a Multifaceted Prenatal Intervention on Human Capital Accumulation in Early Life. London:
+University College London.
+Carter, B., K. Roelen, S. Enfield and W. Avis (2019). Social protection topic guide. Revised Edition.
+K4D Emerging Issues Report. Brighton: Institute of Development Studies.
+de Groot, R., T. Palermo, S. Handa, L.P. Ragno and A. Peterman (2017). Cash transfers and child nutrition: Pathways and impacts. Development Policy Review 35, 621–43.
+Devereux, S., K. Roelen, R. Sabates, D. Stoelinga and A. Dyevre (2015). Final evaluation report.
+Concern’s graduation model programme in Burundi. Dublin: Concern Worldwide.
+DFID, HelpAge International, Hope and Homes for Children, Institute of Development Studies,
+International Labour Organization, Overseas Development Institute, Save the Children UK, UNDP,
+UNICEF, World Bank and World Vision (2009). Joint statement on advancing child-sensitive social
+protection. New York: UNICEF.
+DSD, SASSA and UNICEF (2012). The South African child support grant impact assessment: Evidence
+from a survey of children, adolescents and their households. Pretoria: UNICEF South Africa.
+FAO (2017). Cash+. FAO’s approach. Rome: Food and Agriculture Organisation.
+Global Coalition to End Child Poverty (2017). Child-sensitive social protection. briefing paper. New
+York: Global Coalition to End Child Poverty.
+Hulshof, H. (2019). Child participation in evaluating social protection projects. Progress in Development
+Studies 19 (1), 1–20.
+
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+Child-sensitive social protection 377
+Hypher, N., L. Harman, K. Zvobgo and O. Akomolafe (2019). Tackling undernutrition with a ‘cash plus’
+approach. In K. Roelen, R. Morgan and Y. Tafere (eds), Putting Children First: New Frontiers in the
+Fight against Child Poverty in Africa. Stuttgart: Verlag, 187–214.
+Molyneux, M., W.N. Jones and F. Samuels (2016). Can cash transfer programmes have ‘transformative’
+effects? Journal of Development Studies 52 (8), 1087–98.
+OPHI (2018). Global multidimensional poverty index: The most detailed picture to date of the world’s
+poorest people. Oxford: University of Oxford.
+OPM (2019). Child development grant programme endline evaluation: Key findings. Oxford: Oxford
+Policy Management.
+Ragno, L.P., S. Hague, S. Handa, M. Ablo, A. Twun-Danso, L. Ofori-Addo, C. Alviar, B. Davis, P.
+Pozarny, R. Attah and J.E. Taylor (2016). Social protection and the Livelihood Empowerment Against
+Poverty (LEAP) Programme in Ghana: Generating poverty change through the power of evidence. In
+B. Davies, S. Handa, N. Hypher, N.W. Rossi, P. Winters and J. Yablonski (eds), From Evidence to
+Action: The Story of Cash Transfers and Impact Evaluation in Sub-Saharan Africa. Oxford: Oxford
+University Press, 146–67.
+Roelen, K. (2011). Referral mechanisms and case management for vulnerable children in Eastern and
+Southern Africa: Mozambique country case study. Brighton: Centre for Social Protection, Institute of
+Development Studies.
+Roelen, K. (2015). The ‘twofold investment trap’: Children and their role in sustainable graduation. IDS
+Bulletin 46 (2), 25–34.
+Roelen, K. and H. Karki Chettri (2016). Improving social protection’s response to child poverty and
+vulnerability in Nepal. Brighton: Centre for Social Protection/Institute of Development Studies.
+Roelen, K. and R. Sabates-Wheeler (2012). A child-sensitive approach to social protection: Serving
+practical and strategic needs. Journal of Poverty and Social Justice 20 (3), 291–306.
+Roelen, K., J. Edstrom, R. Sabates-Wheeler and M. Davies (2011). Lessons from the Children and
+AIDS Regional Initiative (CARI): Child- and HIV-sensitive social protection in Eastern and Southern
+Africa. Brighton: Centre for Social Protection, Institute of Development Studies.
+Roelen, K., E. Delap, C. Jones and H. Karki Chettri (2016). Improving child wellbeing and care in
+Sub-Saharan Africa: The role of social protection. Children and Youth Services Review 73, 309–18.
+Roelen, K., S. Devereux, A. Abdulai, B. Martorano, T. Palermo and L. Ragno (2017). How to make
+‘cash plus’ work: Linking cash transfers to services and sectors. Innocenti Working Paper, 2017–10.
+Florence: UNICEF Innocenti Office of Research.
+Roelen, K., M. Sherer and C. Leon-Himmelstine (2020). The role of graduation programming in promoting early childhood development: An overview of the evidence. Journal of the British Academy
+7 (s3), 133–161.
+Save the Children (2015). Child-sensitive social protection. Position Paper. London: Save the Children.
+Sheehan, P. et al. (2017). Building the foundations for sustainable development: A case for global investment in the capabilities of adolescents. The Lancet 390 (10104), 1792–806.
+Tanzania Cash Plus Evaluation Team (2018). A cash plus model for safe transitions to healthy and productive adulthood: Baseline report. Florence: UNICEF Innocenti Office of Research.
+Tasker, M. (2017). Maternal and child cash transfer. London: Save the Children.
+UNICEF (2019a). UNICEF’s global social protection programme framework. New York: UNICEF.
+UNICEF (2019b). Adolescent demographics. New York: UNICEF. https://​
+data​
+.unicef​
+.org/​
+topic/​
+adolescents/​demographics/​
+UNICEF Ethiopia (2017). Cash plus in practice. Integrating nutrition and access to services in the PSNP
+in Ethiopia. Addis Ababa: UNICEF Ethiopia.
+United Nations (2019). Sustainable Development Goals knowledge platform. New York: United Nations
+Department of Economic and Social Affairs. https://​su​stainabled​evelopment​.un​.org/​
+Walker, S.P., T.D. Wachs, J. Meeks Gardner, B. Lozoff, G.A. Wasserman, E. Pollitt and J.A. Carter
+(2007). Child development: Risk factors for adverse outcomes in developing countries. The Lancet
+369, 145–57.
+WHO (2018). Malnutrition: Key facts. Geneva: World Health Organization. www​.who​.int/​news​-room/​
+fact​-sheets/​detail/​malnutrition
+World Bank (2018). Piecing together the poverty puzzle: Poverty and shared prosperity 2018.
+Washington, DC: World Bank.
+
+Keetie Roelen - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:25AM
+via William and Mary School of Law
+
+

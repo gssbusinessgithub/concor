@@ -1,0 +1,716 @@
+The World Bank Economic Review Advance Access published April 8, 2015
+
+Impact of Ethiopia’s Community Based Health
+Insurance on Household Economic Welfare
+Zelalem Yilma, Anagaw Mebratie, Robert Sparrow, Marleen Dekker,
+Getnet Alemu, and Arjun S. Bedi
+
+I. INTRODUCTION
+Various forms of health insurance have been advocated as market based risktransfer mechanisms with the potential to guard against the impoverishing
+effects of ill health (see Gertler and Gruber 2002; Asfaw and Von Braun 2004).
+The recent proliferation of Community Based Health Insurance (CBHI) schemes
+in many developing countries emanates partly from a need to provide financial
+protection against unexpected health-care costs and to enhance access to modern
+health care. As a prelude to national coverage, in June 2011, the Ethiopian
+Government introduced a pilot CBHI scheme in 13 Woredas (districts) across the
+The authors acknowledge the financial support of the Netherlands Organisation for Scientific
+Research (NWO-WOTRO), grant number W07.45.103.00. Zelalem Yilma (corresponding author),
+International Institute of Social Studies, Erasmus University Rotterdam; his email is debebe@iss.nl.
+Anagaw Mebratie, International Institute of Social Studies, Erasmus University Rotterdam; his email is
+mebratie@iss.nl. Robert Sparrow, Crawford School of Public Policy, Australian National University; his
+email is robert.sparrow@anu.edu.au. Marleen Dekker, African Studies Centre, Leiden University; her
+email is MDekker@ascleiden.nl. Getnet Alemu, Addis Ababa University; his email is galemu2001@yahoo.
+com. Arjun S. Bedi, International Institute of Social Studies, Erasmus University Rotterdam and School of
+Foreign Service-Qatar, Georgetown University; his email is bedi@iss.nl.
+THE WORLD BANK ECONOMIC REVIEW, pp. 1 – 10
+doi:10.1093/wber/lhv009
+# The Author 2015. Published by Oxford University Press on behalf of the International Bank for
+Reconstruction and Development / THE WORLD BANK. All rights reserved. For permissions,
+please e-mail: journals.permissions@oup.com.
+
+Page 1 of 10
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+In 2011, in an attempt to increase access to health care and reduce household vulnerability to out-of-pocket health expenditure, the Government of Ethiopia launched a
+Community-Based Health Insurance Scheme (CBHI). This paper uses three rounds of
+household survey data, collected before and after the introduction of the CBHI pilot, to
+assess the impact of the scheme on household consumption, income, indebtedness, and
+livestock holdings. We find that enrollment leads to a 5 percentage point—or 13%—
+decline in the probability of borrowing and is associated with an increase in household
+income. There is no evidence that enrolling in the scheme affects consumption or livestock holdings. Our results show that the scheme reduces reliance on potentially
+harmful coping responses such as borrowing. This paper adds to the relatively small
+body of work that rigorously evaluates the impact of CBHI schemes on economic
+welfare. JEL codes: I1, O1
+
+Page 2 of 10
+
+THE WORLD BANK ECONOMIC REVIEW
+
+1. See, among others, Gertler and Gruber (2002), Genoni (2012), Monahan (2013), Sparrow et al.
+(2014).
+2. For example, Sparrow et al. (2014) and Yilma et al. (2014).
+3. Jowett et al. (2003), for Vietnam, and Levine et al. (2014), for Cambodia, find statistically
+significant negative effects of CBHI on OOP health spending.
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+four main regional states. The aim of this paper is to examine the impact of this
+scheme on measures of household economic welfare: consumption, income, indebtedness, and livestock.
+The economic burden associated with the incidence of ill health has been documented in a recent but rapidly growing literature on poverty dynamics. Most of
+these studies examine the consumption implications of health shocks, while
+some delve into the portfolio of coping responses adopted by households.1 A
+number of studies show that households in the informal rural sector rely on traditional coping responses such as selling assets and informal borrowing to deal
+with the adverse consequences of ill health.2 These coping responses are not cost
+free but entail a compromise—protecting current consumption at the cost of
+future vulnerability (Flores et al. 2008).
+Health insurance primarily addresses out-of-pocket health expenditure, one of
+two sources of household financial stress from ill health. The second source is
+forgone income due to declining capacity to work. While health insurance
+schemes are not designed to curb this source of vulnerability, they might still
+provide some protection to households’ agricultural income by facilitating early
+recovery and by reducing pressure on households to reallocate resources meant
+for productive purposes (e.g., to buy fertilizers and high value seeds) to medical
+spending. By reducing reliance on potentially harmful coping responses, such as
+borrowing at usurious rates, health insurance schemes might protect household’s
+economic welfare both in the short and the long run.
+Although analyses of the impact of health insurance has been the subject of a
+large body of empirical literature, much of this work has focused on health-care
+utilization and out-of-pocket (OOP) health expenditure or on induced behavioral responses such as moral hazard. Reviews of the literature by Ekman (2004)
+and Mebratie et al. (2013a) conclude that the evidence base is questionable with
+regard to the financial protection provided by CBHI. The bulk of the CBHI evaluation literature, with few exceptions,3 relies on cross-section based association
+and does not identify causal effects. Ignoring self-selection in voluntary insurance uptake is likely to lead to biased estimates of the impact of CBHI.
+Moreover, while there are studies that examine whether health insurance
+helps protect income or wealth from declining due to ill health (Lindelow and
+Wagstaff 2005) or have studied the effect of such schemes on consumption
+(Wagstaff and Pradhan 2005), there are relatively few studies that have evaluated
+the impact of such schemes on indebtedness and livestock.
+This paper uses three rounds of household panel data—a baseline and two
+follow-up surveys. The presence of a baseline survey enables us to examine selfselection and to control for both observable and unobservable time invariant
+
+Yilma et al.
+
+Page 3 of 10
+
+factors, which may affect self-selection. To identify the effect of the scheme on
+income, consumption, livestock and indebtedness we rely on both fixed effects
+and matching methods and compare results for different control groups (within
+and across pilot and non-pilot districts).
+II. CBHI SCHEME DESIGN
+
+4. Although initially the plan was to launch the pilot scheme in three districts in each of the four
+regions, an additional district in Oromiya region volunteered to join the pilot scheme and was included.
+5. The main components of the health sector financing reform include revenue retention and
+utilization by health facilities, fee waiver and exemption of certain services, and establishment of private
+wings in public hospitals.
+6. The complete set of selection criteria include (1) willingness of district authorities to implement the
+scheme, (2) commitment of districts to support the scheme, (3) geographical accessibility of health centers,
+(4) quality of health centers, (5) the implementation of cost recovery, local revenue retention, and public
+pharmacy policies in health centers.
+7. In 2011, monthly household non-medical expenditure was ETB 1103 (USD 1 equals ETB 18).
+Details on premiums are presented in Table A1 of the supplemental appendix.
+8. These households are categorized as indigent groups (households without land, house, or any
+valuable assets). In December 2012 about 9% of total eligible households had received a fee waiver.
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+In June 2011, as part of its health sector financing reform (HSFR) initiatives, the
+Ethiopian Government launched a pilot CBHI scheme in 13 districts in the four
+main regions (Tigray, Amhara, Oromiya, and SNNPR) of the country.4,5
+Regional administrative bodies selected these districts based on directives provided by the Federal Ministry of Health (FMoH). The selection criteria require that
+the districts fulfill five conditions while in practice selection was based on two
+conditions: undertaking HSFRs and geographical accessibility of health centers
+(located close to the main road).6
+The community element to the CBHI scheme is that villages (Kebeles) decide
+whether or not to join (based on a simple majority vote), and are subsequently
+involved in management and supervision. Possibly due to prior sensitization activities, all villages in pilot districts voted in favor of the scheme. Once a Kebele
+agrees to join, household enrolment is voluntary. To reduce adverse selection,
+enrollment is at the household level rather than the individual (FMoH 2008).
+Benefit packages, registration fees, premiums, and premium payment methods
+are similar within regions but vary slightly across regions. On average, the combined premiums for core household members (parents and underage children)
+amount to about 1–1.4% of household monthly non-medical expenditure.7 The
+CBHI scheme is subsidized by both the central and regional/district governments.
+The central government provides a general subsidy amounting to a quarter of the
+premium collected at district level while the regional and district level governments
+cover the costs of providing a fee waiver for the poorest 10% of the population.8
+The benefit package includes both outpatient and inpatient service utilization
+at public facilities. Enrolled households may not seek care in private facilities
+unless a particular service or drug is unavailable at a public facility. The scheme
+
+Page 4 of 10
+
+THE WORLD BANK ECONOMIC REVIEW
+
+excludes treatment abroad and treatments with large cosmetic value such as artificial teeth and plastic surgery. The referral procedure requires members to visit
+health centers before they may be referred to hospitals (district or regional).
+Those who do not follow this referral procedure need to cover half the costs of
+their medical treatment.9 In our sample, CBHI uptake reached 41% in April
+2012 and 48 percent in 2013, which is relatively high compared to experiences in
+other African countries.10
+I I I . D ATA
+
+I V. M E T H O D S
+The nonrandom nature of insurance uptake is an important empirical concern in
+identifying the causal effect of CBHI. Demand for health insurance may be
+driven by affordability or latent health status, in which case simple differences in
+outcomes between CBHI enrolled and nonenrolled households may not be
+viewed as causal effects of the scheme. Table 1 suggests non-random uptake. At
+baseline, households that subsequently take up CBHI have higher crop output
+and income, are more likely to have borrowed, have larger outstanding loans,
+9. Access to tertiary level care differs across regions. While in Oromiya coverage includes hospitals
+located outside the region, in SNNPR they may visit only the nearest public hospital. In Amhara and
+Tigray, CBHI enrollees may visit any public hospital within the region but not outside the region.
+10. For example, uptake in Senegal after two years was 4.8% (Smith and Sulzbach 2008) and in
+Tanzania 2.8 percent after six years (Chee et al. 2002).
+11. We adopt the age-sex based adult equivalent household size suggested by Dercon and Krishnan
+(1998).
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+We use three rounds of a household panel data set, collected in March/April of
+2011, 2012, and 2013. The first round was collected a few months before the
+launch of the CBHI scheme and serves as a baseline. Sixteen districts located
+across four main regions of the country (Amhara, Oromiya, Tigray, and
+SNNPR) are included in the survey. For each region we include all three districts
+that implemented the CBHI pilot and one selected nondistrict. The nonpilot districts were chosen based on the same criteria that were used to select the pilot districts. Within the districts we applied a two-stage sampling design, randomly
+sampling villages and households. The total sample size in the first round was
+1,632 households comprising 9,455 individuals, of which 98% and 97% were
+successfully resurveyed in 2012 and 2013.
+The survey instrument contains information on a variety of individual and
+household socio-economic attributes such as consumption expenditure, crop
+output, off-farm income, assets, outstanding loans, household demographics,
+employment, and health conditions. The total value of all outstanding loans at
+the time of the survey is used to measure indebtedness. Our measure of consumption is monthly nonmedical per adult equivalent consumption.11
+
+Yilma et al.
+
+Page 5 of 10
+
+T A B L E 1 . Baseline Differences in Outcome Variables: Insured vs Noninsured
+Noninsured households
+
+Income
+Crop output
+Total income
+Consumption
+Total
+
+Nonfood
+Indebtedness
+Outstanding loan (%)
+Total outstanding loan
+Livestock
+Goats
+Sheep
+Bulls
+Calves
+Oxen
+
+All districts
+(N ¼ 911)
+
+Pilot districts
+(N ¼ 527)
+
+Control districts
+(N ¼ 384)
+
+8499.0
+(9104.3)
+10017.2
+(9828.0)
+
+5985.0***
+(7044.6)
+7091.8***
+(7335.5)
+
+6551.3***
+(7440.0)
+7757.6***
+(8089.1)
+
+5212.8***
+(6395.8)
+6196.2***
+(6075.1)
+
+244.7
+(146.9)
+201.1
+(125.4)
+43.8
+(39.6)
+
+249.4
+(170.4)
+206.3
+(144.6)
+43.0
+(45.1)
+
+241.9
+(162.5)
+200.6
+(144.8)
+41.2
+(37.7)
+
+259.6
+(180.5)
+214.0
+(144.3)
+45.5
+(53.6)
+
+37.5
+(48.4)
+880.3
+(1689.2)
+
+26.0***
+(43.9)
+527.6***
+(1259.3)
+
+26.6***
+(44.2)
+492.8***
+(1172.7)
+
+25.3***
+(43.5)
+575.4***
+(1369.5)
+
+1.2
+(5.3)
+1.8
+(3.0)
+0.4
+(1.4)
+0.8
+(1.2)
+1.4
+(1.3)
+
+0.8**
+(2.2)
+1.0***
+(2.6)
+0.3**
+(0.7)
+0.6***
+(0.9)
+0.8***
+(1.0)
+
+0.7**
+(2.2)
+0.9***
+(2.2)
+0.3*
+(0.6)
+0.6***
+(0.9)
+0.9***
+(1.0)
+
+0.8
+(2.1)
+1.2***
+(3.0)
+0.3**
+(0.7)
+0.5***
+(0.8)
+0.8***
+(0.9)
+
+Notes: Columns 1 –4 report mean (standard deviation); statistical significance refers to differences in means between the control group and the insured households: ***0.01, **0.05, *0.1. Crop
+output refers to total value of production in the past one year. Total income is the sum of crop
+output and off-farm income. All livestock types refer to number of livestock owned. All monetary
+values are in Ethiopian Birr (ETB).
+
+and larger livestock holdings than households that do not insure. However, we
+see little differences in consumption. A naive comparison of postintervention
+outcomes would overestimate the impact of CBHI on income and livestock and
+underestimate the impact on indebtedness.
+We therefore estimate a household fixed effects model that controls for both
+observed and unobserved time-invariant confounding factors,
+Yit ¼ bCBHIit þ dTt þ wXit þ ui þ 1it ;
+
+ð1Þ
+
+where Yit is the outcome of interest for household i at time t, the dummy variable
+CBHIit indicates whether household i is insured in year t, and T indicates a set of
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+Food
+
+Insured
+households
+(N ¼ 656)
+
+Page 6 of 10
+
+THE WORLD BANK ECONOMIC REVIEW
+
+V. E S T I M A T E S
+Table 2 presents treatment effects using different control groups. Across methods
+we find a statistically significant positive impact on income (crop output and
+total income) for the pilot district comparison only. While the magnitudes of the
+estimates decline as we exclude households that are off support, we find that
+crop output and total income increase by ETB 785 and ETB 1027, respectively,
+or 9%–10% of baseline values. While the coefficients are also positive when we
+use households in nonpilot districts as controls, the estimates are not precise. The
+results provide no evidence that CBHI affects household consumption, as the
+coefficients lack statistical significance and the magnitudes are small.
+We find a negative impact on the probability of having outstanding loans
+ranging between 4% and 5%, depending on methods and control groups, which
+12. We run a placebo test where treatment indicator takes a value of 1 if uninsured household lives in
+pilot district and 0 otherwise. We do not find any indication of spill-over effects. Results are reported in a
+supplemental appendix, table A4.
+13. The robustness test is not reported here but included in a supplemental appendix, table A3.
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+dummy variables for each of the three years. Household fixed effects are captured
+by ui, and 1it is a random error term. Time varying controls Xit include demographics, various measures of socioeconomic status, shocks, and household head
+characteristics. We also combine the fixed effects approach with propensity score
+matching (PSM). CBHI uptake is modelled as a function of baseline characteristics, and we estimate equation (1) only for households on support.
+We have two groups of control households: uninsured households in pilot districts and households from nonpilot districts. Each control group introduces different sources of bias. For the pilot districts, the voluntary nature of the scheme
+could induce selection bias. The fixed effects would purge selection effects if
+these are based on time-invariant characteristics. Pilot districts are also prone to
+spill-over effects. However, these are most likely to be relevant to health-care use
+and not for economic outcomes, at least not in the short term.12
+The control districts are drawn from the same regions and fulfill the criteria
+stipulated by the government in selecting CBHI districts, while any remaining
+geographical differences will be controlled for by the fixed effects. Although
+fixed effects cannot deal with aggregate shocks we explicitly control for information on 22 different shock types (natural shock, crime/conflict related shock,
+health shock, and economic shock). We also conduct a sensitivity analysis, where
+we test if the results are sensitive to excluding them.13
+Finally, there remains a possible confounding effect from other social programs that share targeting and selection criteria with the CBHI pilot. We are
+aware of only one such social safety net program in rural Ethiopia, the PSNP
+(Productive Safety Net Program). For both sets of control households, we estimate models with and without an indicator variable for PSNP.
+
+T A B L E 2 . Welfare Effects of CBHI
+FE with covariates
+
+Total income
+Consumption
+Total
+Food
+Nonfood
+Indebtedness
+Loan (0/1)
+
+Livestock
+Goats
+
+Pilot districts
+
+All districts
+
+Control districts
+
+Pilot districts
+
+459.9
+(477.4)
+675.7
+(571.3)
+
+286.6
+(572.4)
+427.8
+(632.7)
+
+816.4*
+(460.7)
+1,092*
+(593.6)
+
+418.6
+(481.8)
+593.9
+(577.3)
+
+243.8
+(573.8)
+338.2
+(633.7)
+
+785.4*
+(470.1)
+1,027*
+(604.2)
+
+18.01
+(27.45)
+18.59
+(26.70)
+0.113
+(2.969)
+
+25.03
+(30.75)
+26.94
+(29.95)
+21.044
+(3.581)
+
+12.38
+(33.02)
+10.87
+(32.25)
+2.436
+(3.166)
+
+26.556
+(21.34)
+25.655
+(20.67)
+0.0201
+(3.047)
+
+21.874
+(24.82)
+0.405
+(23.92)
+21.285
+(3.748)
+
+214.96
+(26.35)
+216.18
+(25.68)
+2.467
+(3.228)
+
+20.0506**
+(0.0222)
+244.87
+(69.76)
+
+20.0540**
+(0.0237)
+251.24
+(77.20)
+
+20.0340
+(0.0238)
+216.72
+(70.32)
+
+20.0483**
+(0.0225)
+236.24
+(70.81)
+
+20.0484**
+(0.0235)
+238.18
+(77.93)
+
+20.0341
+(0.0243)
+210.62
+(71.84)
+
+20.0835
+(0.141)
+20.0321
+(0.113)
+
+20.0357
+(0.124)
+0.0237
+(0.129)
+
+20.129
+(0.151)
+20.0808
+(0.114)
+
+20.0836
+(0.145)
+20.0336
+(0.114)
+
+20.0247
+(0.127)
+0.0205
+(0.130)
+
+20.136
+(0.156)
+20.0808
+(0.115)
+(Continued )
+
+Page 7 of 10
+
+Sheep
+
+Control districts
+
+Yilma et al.
+
+Loan amount
+
+All districts
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+Income
+Crop output
+
+FE with covariates after matching
+
+Page 8 of 10
+
+FE with covariates
+
+Bulls
+Calves
+Oxen
+
+FE with covariates after matching
+
+All districts
+
+Control districts
+
+Pilot districts
+
+All districts
+
+Control districts
+
+Pilot districts
+
+0.0453
+(0.0362)
+20.0177
+(0.0631)
+0.0451
+(0.0452)
+
+0.0421
+(0.0415)
+20.0360
+(0.0547)
+0.0590
+(0.0480)
+
+0.0247
+(0.0349)
+20.00440
+(0.0647)
+0.0286
+(0.0467)
+
+0.0458
+(0.0368)
+20.0210
+(0.0644)
+0.0439
+(0.0464)
+
+0.0447
+(0.0425)
+20.0380
+(0.0562)
+0.0574
+(0.0495)
+
+0.0209
+(0.0356)
+20.00400
+(0.0664)
+0.0277
+(0.0483)
+
+Notes: The column headings refer to the choice of control group: all districts (all non-insured households included), control districts (only noninsured
+households in control districts included), and pilot districts (only non-insured households in pilot districts included). Standard errors (in parentheses) are clustered at the village level. Results are broadly similar when excluding the time-varying covariates. A list of covariates is given in the supplemental appendix
+(Table A2). In the case of livestock we exclude the asset index quintiles as the index includes number of livestock.
+Statistical significance: ***0.01, **0.05, *0.1.
+
+THE WORLD BANK ECONOMIC REVIEW
+
+TABLE 2. Continued
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+Yilma et al.
+
+Page 9 of 10
+
+translates to about 13% of baseline values.14 There are also negative coefficients
+for the amount of outstanding loans although these are imprecise. Estimates for
+all types of livestock are not statistically significant.
+VI. CONCLUSION
+
+REFERENCES
+Asfaw, A., and J. von Braun. 2004. “Is Consumption Insured against Illness? Evidence on Vulnerability
+of Households to Health Shocks in Rural Ethiopia.” Economic Development and Cultural Change
+53 (1): 115– 29.
+Chee, G., K. Smith, and A. Kapinga. 2002. “Assessment of Community Health Fund in Hanang District,
+Tanzania.” Partners for Health Reform plus Project, Bethesda, MD: Abt.
+Dercon, S., and P. Krishnan. 1998. “Changes in Poverty in Rural Ethiopia 1989– 1995: Measurement,
+Robustness Tests and Decomposition.” CSAE WPS/98–7, University of Oxford.
+Ekman, B. 2004. “Community-Based Health Insurance in Low-Income Countries: A Systematic Review of
+the Evidence.” Health Policy and Planning 19 (5): 249–70.
+Flores, G., J. Krishnakumar, O. O’Donnell, and E. van Doorslaer. 2008. “Coping with Health-Care
+Costs: Implications for the Measurement of Catastrophic Expenditures and Poverty.” Health
+Economics 17 (12): 1393–412.
+FMoH. 2008. “Health Insurance Strategy.” Addis Ababa: Federal Ministry of Health Planning and
+Program Department.
+Genoni, M. E. 2012. “Health Shocks and Consumption Smoothing: Evidence from Indonesia.” Economic
+Development and Cultural Change 60 (3): 475– 506.
+Gertler, P., and J. Gruber. 2002. “Insuring Consumption against Illness.” American Economic Review
+92 (1): 51 –70.
+Jowett, M., P. Contoyannis, and N. D. Vinh. 2003. “The Impact of Public Voluntary Health Insurance on
+Private Health Expenditure in Vietnam.” Social Science and Medicine 56 (2): 333– 42.
+Levine, D., R. Polimeni, and I. Ramage. 2014. “Insuring Health or Insuring Wealth? An experimental
+Evaluation of Health Insurance in Rural Cambodia.” IRLE Working Paper No. 109 –14.
+Lindelow, M., and A. Wagstaff. 2005. “Health Shocks in China: Are The Poor and Uninsured Less
+Protected?” World Bank Policy Research Working Paper 3740. Washington, DC: World Bank.
+Mebratie, A. D., R. A. Sparrow, G. Alemu, and A. S. Bedi. 2013a. “Community-Based Health Insurance
+Schemes: A Systematic Review.” ISS Working Paper Series/General Series. Vol. 568: 1–47.
+Mebratie, A., R. Sparrow, Z. Yilma, D. Abebaw, G. Alemu, and A. S. Bedi. 2013b. “Impact of Ethiopian
+Pilot Community Based Health Insurance Scheme on Health Care Utilization: A Household Panel
+Data Analysis.” Lancet. 381: S92.
+14. The estimates for the pilot-district control group are, however, imprecise.
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+This paper explored the impact of Ethiopia’s CBHI pilot scheme on household
+economic welfare. We found the main benefit of the scheme is its effect on reducing the need to borrow. This may have longer-term benefits in reducing vulnerability to other forms of shocks. A related study has found a sharp impact on
+increasing health care utilization (Mebratie et al. 2013b). The combined results
+provide support to the government’s recent move to extend the CBHI pilot to a
+total of 161 districts for further testing. However, a nationwide scale up requires
+an examination of the scheme’s financial sustainability.
+
+Page 10 of 10
+
+THE WORLD BANK ECONOMIC REVIEW
+
+Mohanan, M. 2013. “Causal Effects of Health Shocks on Consumption and Debt: Quasi-experimental
+Evidence from Bus Accident Injuries.” Review of Economics and Statistics 95 (2): 673– 81.
+Smith, K.V., and S. Sulzbach. 2008. “Community-Based Health Insurance and Access to Maternal
+Health Services: Evidence from Three West African Countries.” Social Science and Medicine 66 (12):
+2460– 73.
+Sparrow, R., E. van de Poel, G. Hadiwidjaja, A. Yumna, N. Warda, and A. Suryahadi. 2014. “Coping
+with the Economic Consequences of Ill Health in Indonesia.” Health Economics 23 (6): 719– 28.
+Wagstaff, A., and M. Pradhan. 2005. “Health Insurance Impacts on Health and Nonmedical
+Consumption in a Developing Country.” Policy Working Paper Series 3563. Washington, DC: World
+Bank.
+Yilma, Z., A. D. Mebratie, R. A. Sparrow, D. Abebaw, M. Dekker, G. Alemu, and A. S. Bedi. 2014.
+“Coping with Shocks in Rural Ethiopia.” Journal of Development Studies 50 (7): 1009– 24.
+
+Downloaded from http://wber.oxfordjournals.org/ at Leiden University on April 14, 2015
+
+

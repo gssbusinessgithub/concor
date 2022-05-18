@@ -1,0 +1,883 @@
+BEYOND COVID-19:
+Lessons for social
+protection from WFP’s
+work in East Africa in 2020
+
+SAVING
+LIVES
+CHAN GING
+LIVES
+
+May 2021
+Rachel Slater, Anna McCord, Stephen Devereux,
+Daniela Baur, Danielle Trotter and Rosie Bright
+
+Contents
+Introduction ....................................................................................................................................................................................
+
+3
+
+Lesson 1: When social protection is expanded to respond to new shocks, adaptations to vulnerability assessment and
+monitoring are required ..................................................................................................................................................................
+
+4
+
+Lesson 2: There is an urban social protection gap that needs to be filled ...............................................................................
+
+6
+
+Lesson 3: Identifying appropriate targeting approaches is a key challenge for scaling-up urban social protection............
+
+7
+
+Lesson 4: Social protection should prepare to respond to impacts on health systems .........................................................
+
+8
+
+Lesson 5: ‘Adaptive’ or ‘shock responsive’ social protection doesn’t only mean scale-up .....................................................
+
+9
+
+Lesson 6: Public works don’t have to be ‘public’ ..........................................................................................................................
+
+10
+
+Conclusion .......................................................................................................................................................................................
+
+11
+
+Introduction
+Large scale covariate shocks, such as pandemics, can have a
+
+Learning Facility to enhance evidence-based decision making,
+
+significant impact on the lives of the most food and
+
+learning and accountability in WFP’s social protection work in
+
+nutritionally insecure, with both immediate and long-term
+
+the context of COVID-19 and other shocks.
+
+impacts. There is increasing recognition of the importance of
+
+combined real-time evaluation of WFP’s activities with
+
+strong social protection systems for effective response and
+
+technical assistance to WFP staff who were navigating difficult
+
+community resilience in the case of such events. The advent of
+
+trade-offs as they sought to support governments to flex
+
+the COVID-19 pandemic in 2020 has provided a case of
+
+social protection in the region. The Facility comprised social
+
+significant learning and appreciation in relation to social
+
+protection researchers and advisors who provided on demand
+
+protection, and WFP’s current and potential role in support
+
+support to WFP in areas of programme design, implementation
+
+of social protection in the East Africa region. Chief amongst
+
+and wider strategic considerations in WFP’s work, and offered
+
+these lessons is the importance of, and challenges to, WFP’s
+
+‘Ideas Space’ sessions to support the sharing of experiences.
+
+responsibility to maintain and sustain support to the most
+vulnerable through such large-scale shocks. Sustaining and
+adapting
+
+support
+
+are
+
+both
+
+critical
+
+to
+
+the
+
+continued
+
+effectiveness of social protection in the challenging and
+changed circumstances of a pandemic.
+
+The Facility
+
+This report is a product of the first phase of the facility
+partnership and focuses on lessons learned from WFP’s work
+in 2020 that are important for the social protection sector in
+the region going forward.
+
+WFP’s Regional Bureau in Nairobi (RBN) serves the East Africa
+region including Burundi, Djibouti, Ethiopia, Kenya, Rwanda,
+Somalia, South Sudan and Rwanda, and as of December 2020,
+also Sudan. In May 2020, RBN established a Social Protection
+
+May 2021 | Beyond COVID-19: Lessons for social protection from WFP’s work in East Africa in 2020
+
+3
+
+LESSON 1:
+When social protection is expanded to
+respond to new shocks, adaptations to
+vulnerability assessment and monitoring
+are required.
+In terms of the impacts on poverty, vulnerability and food
+
+Alternatively, understanding of impact is based on predictive
+
+security, empirical evidence of the impact of large-scale
+
+modelling and evidence of food price changes. For example
+
+covariate shocks can be limited due to challenges in data
+
+WFP 2020 (p. 29) predicted an increase in Acute Food Insecurity
+
+collection, for reasons outlined in Figure 1. The experience of
+
+in 2020, compared to 2019, with greater numbers experiencing
+
+COVID-19 provides an example of this in practice, with initial
+
+Acute Food Insecurity in 2020 at a level of Phase 3 ‘Stressed’ or
+
+evidence that COVID-19 was impacting on food security being
+
+above (Phase 4 ‘Emergency’ , Phase 5 ‘Catastrophe/ Famine’)
+
+either geographically patchy or anecdotal.
+
+in a number of areas in the region. These include Ethiopia’s
+
+Figure 1: Data collection challenges
+
+lowlands, Burundi, Kenya and Somalia. The numbers of people
+in Phase 3 or above in Uganda and South Sudan was predicted
+to remain unchanged (but in South Sudan’s case at very high
+levels).
+Other adaptions to generate evidence on food insecurity
+through COVID-19 have included strengthened use of remote
+monitoring and assessments through platforms such as
+mobile Vulnerability Analysis Mapping (mVAM). One example
+is the assessment of food insecurity in urban and refugee
+locations in Uganda. Figure 2 reveals significant increases in
+the prevalence of food insecurity among urban residents,
+refugees in Kampala and host communities in a single month,
+from June to July 2020. Partnerships with other agencies such
+as UN Habitat have also proved important, allowing for
+evidence generation among urban populations not previously
+covered by WFP.
+However, the challenges are compounded further given that
+other impacts on food security can occur at the same time.
+During 2020, conflict and insecurity, locusts, floods and
+droughts were all ongoing challenges in various parts of the
+region, while good rains were experienced in other parts. The
+result is that there is no solid empirical evidence to isolate the
+additional impact of a pandemic, such as COVID-19, on food
+security, beyond what is expected from other shocks. Parts of
+the region have very serious food security challenges that
+
+Source: GFRC (2020)
+Global Food Crises September Update
+
+COVID-19 is believed to have compounded, but evidence of
+the extent of COVID-19’s additional impact is hard to establish.
+In the early days of the pandemic, this proved challenging
+particularly vis a vis some donors who were interested to
+
+May 2021 | Beyond COVID-19: Lessons for social protection from WFP’s work in East Africa in 2020
+
+4
+
+isolate ‘COVID response’ from other activities.
+
+Figure 2: Households with poor and borderline food
+
+consumption in Uganda, June to July 2020
+
+Source: WFP (2020) Uganda mVAM bulletin: July 2020 Urban Food Security Monitoring
+One final point is important: the types of critical adaptations
+
+months of support in a single distribution every three months,
+
+made to programmes to reduce the risk that registration
+
+it is difficult to demonstrate that this is sustained support
+
+processes and distribution sites become vectors for COVID-19
+
+rather than a one-off distribution. This is an important insight
+
+transmission prove difficult to capture in existing monitoring
+
+for the efforts of numerous agencies around the world that
+
+systems.
+
+seek to maximise linkages between humanitarian responses
+
+For example, when programmes have switched
+
+from a distribution on a monthly basis, to a combined three
+
+and social protection.
+
+May 2021 | Beyond COVID-19: Lessons for social protection from WFP’s work in East Africa in 2020
+
+5
+
+LESSON 2:
+There is an urban social protection gap that
+needs to be filled
+A quarter of the population of East Africa, about 65 million
+
+It is important not to underestimate the challenges of pivoting
+
+people, live in urban areas, and about 60% of urban
+
+to a greater focus on urban needs. COVID-19 has profoundly
+
+employment is informal – mainly casual labour and petty
+
+impacted on urban populations which are historically
+
+trading. These livelihoods are acutely vulnerable to any
+
+underserved by organisations such as WFP, particularly urban
+
+disruptions1. Pandemics are an example of a large-scale
+
+informal workers who are not covered by safety nets or social
+
+covariate shock that makes this group particularly vulnerable.
+
+insurance schemes. The crisis has highlighted a critical gap in
+
+In Ethiopia, one study suggested that more than 6 million
+
+humanitarian operations. Staff in government departments
+
+formal and informal jobs could be lost due to COVID-19, and a
+
+and their counterparts in international agencies are having to
+
+survey found that 42% of firms in Addis Ababa had closed
+
+switch focus from rural to urban.
+
+after the lockdown was imposed. In informal settlements in
+Nairobi, one-third of shops closed and between one-third and
+half the working residents lost their sources of livelihood
+completely. More than 80% of small and medium enterprises
+in Kampala cut their workforce by more than half, leaving
+
+With this comes a host of new challenges, for example,
+adaptation of orthodox indicators and proxies for eligibility,
+and revisions to activities for asset creation and livelihoods.
+These are discussed in the following lessons.
+
+were
+
+Finally, while it is important to fill the urban social protection
+
+disproportionately affected, constituting more than half of
+
+gap, doing so at the expense of rural social protection needs
+
+informal businesses in Africa2 and carrying gendered domestic
+
+would be counter-productive. In the case of pandemics, it is
+
+responsibilities. Women faced the dual constraint of loss or
+
+likely that diagnosis and testing are greater in urban areas,
+
+reduction in income-earning opportunities, and an increased
+
+that rural-urban migrants will return to rural areas as
+
+domestic burden of childcare after schools and childcare
+
+livelihoods opportunities dry up in cities and towns, that
+
+facilities were closed.
+
+infection rates may be relatively high in more densely
+
+thousands
+
+of
+
+Ugandans
+
+unemployed.
+
+Women
+
+populated commercial agriculture areas, and that policyMost countries in East Africa started easing lockdown
+
+makers and programmers will maximise the (currently limited)
+
+restrictions and travel bans in June or July 2020, allowing
+
+opportunities for people to fall back on rural livelihoods in
+
+economic activity to resume. In Rwanda, where more than
+
+crisis situations. All these considerations need to be kept in
+
+half of small and medium enterprises closed after the
+
+mind.
+
+lockdown was imposed, many reopened, allowing workers to
+return to work. Nonetheless, thousands of formal and
+informal jobs have been lost, and those affected require
+ongoing support.
+The experience of COVID-19 has drawn attention to the limited
+support that is currently delivered to urban residents by the
+emerging social protection systems in East Africa. Urbanization
+estimates plus fiscal constraints in the region have meant that
+tackling the urban social protection gap has been viewed as a
+challenge for the distant future. In 2014, East Africa was the
+least urbanized region in the world and many of its countries
+(including
+
+Ethiopia,
+
+Uganda
+
+and
+
+Kenya)
+
+will
+
+remain
+
+predominantly rural beyond 20503. However, COVID-19 has
+introduced new impetus to address the fact that the urban
+working poor are excluded from virtually any social assistance
+and social insurance, and can be particularly vulnerable to
+large-scale covariate shocks.
+
+This needs to be urgently
+
+addressed.
+1
+2
+3
+
+Unless otherwise cited, all the statistics presented are from WFP/UNHabitat 2020.
+https://www.brookings.edu/blog/africa-in-focus/2020/05/26/covid-19-and-the-future-of-work-in-africa-how-to-shore-up-incomes-for-informal-sectorworkers/
+OECD (2017), Social Protection in East Africa: Harnessing the Future, OECD Publishing, Paris. http://dx.doi.org/10.1787/9789264274228-en
+
+May 2021 | Beyond COVID-19: Lessons for social protection from WFP’s work in East Africa in 2020
+
+6
+
+LESSON 3:
+Identifying appropriate targeting approaches is
+a key challenge for scaling-up urban social
+protection
+Pandemics, with associated public health and other measures,
+
+A more challenging alternative is a horizontal expansion to
+
+affect vulnerability differently in urban versus rural settings,
+
+individuals or households not covered by social protection.
+
+and may require context-specific social protection modalities
+
+Experiences in Rwanda highlight that the targeting criteria for
+
+and targeting. The experience of COVID-19 highlights that a
+
+the existing flagship social protection programme do not
+
+lack of data on the differentiated impacts of pandemics or
+
+necessarily align well with individuals and households that are
+
+other covariate shocks in urban settings raises substantial
+
+most affected by COVID-19, because targeting is designed to
+
+challenges for identifying who is affected, and in what ways.
+
+focus on indicators of poverty, vulnerability and food
+
+This also then impacts on the capacity to define eligibility for
+
+insecurity that make most sense in rural settings. Social
+
+social
+
+registries (ranked lists of poor and vulnerable households) can
+
+protection
+
+programmes,
+
+accurately
+
+identify
+
+participants, and undertake registration.
+Vertical expansions of social protection programmes are far
+easier than setting up new programmes in terms of targeting,
+because existing programme beneficiaries simply receive topups in addition to their regular support. But there are only
+limited prospects for vertical expansion in urban areas,
+because coverage is so low. In East Africa urban programmes
+are small or fledgling or both, for example in Ethiopia the
+Urban Productive Safety Net Programme covers a fraction of
+the number of beneficiaries in its rural sister programme.
+There are also questions about the equity of vertical
+expansion: ‘Why give the same people more when you could
+serve more people?’
+
+provide a rapid route to targeting but even then there are
+challenges – especially that the criteria on which the ranked
+list is based may not be appropriate criteria for identifying
+those most seriously affected by a large-scale covariate shock,
+such as COVID-19. Furthermore, social registries – databases
+of potential beneficiaries – are notably absent in most
+countries in East Africa.
+
+There are cases of integrated
+
+beneficiary registries (which differ from social registries
+because they list only programme beneficiaries, combined
+across a number of different social protection programmes).
+These can at least be used to reduce duplication or double
+dipping. However, the rural bias of social protection coverage
+limits even this possibility, as most integrated beneficiary
+registries list predominantly rural individuals and households.
+As also noted in Gentilini et al (2021), targeting and
+registration systems can be leveraged in creative ways in
+urban areas in order to address some of these challenges for
+COVID-19 response, including using:
+
+-
+
+previous or existing beneficiary lists, such as
+returning to those on waiting lists for programmes;
+
+-
+
+other government databases, such as national ID
+data;
+
+-
+
+other data beyond government (such as data
+held by humanitarian agencies, financial inclusion
+programmes, mobile money systems, chambers
+of commerce, and informal workers’ associations);
+
+-
+
+on-demand digital windows which can provide
+high coverage and quick registration;
+
+-
+
+other forms of proactive outreach (eg use of media
+or direct contact by SMS) to those not on any
+existing system or list to promote on demand
+registration (i.e. self-identification / self-targeting)
+
+May 2021 | Beyond COVID-19: Lessons for social protection from WFP’s work in East Africa in 2020
+
+7
+
+LESSON 4:
+Social protection should prepare to respond to
+impacts on health systems
+COVID-19 infections in the East Africa region did not increase
+
+sector workers who form the majority of the labour force. The
+
+at the rate initially anticipated by governments and
+
+the high level of coverage of the mutuelle de santé health
+
+international agencies in 2020. Growth in July and August, for
+
+insurance scheme in Rwanda is a notable exception. Informal
+
+instance, was lower than expected. While concerns remain
+
+systems of social insurance – such as burial societies – have
+
+about the rate and magnitude of testing and the accuracy of
+
+collapsed in many areas under the burden of decades of high
+
+data, infections remained far below what was predicted.
+
+mortality rates among working age adults, including because
+
+Ethiopia, the most populous country in the region, reported
+
+of the HIV/AIDS pandemic.
+
+the greatest number of recorded infections at 72,700 by endSeptember.
+
+Across East Africa there are few examples of social insurance
+
+The implication of not seeing a massive rise in COVID-19
+
+cover, or life insurance and survivor benefits. Government
+
+infections in the region has been lower morbidity and
+
+announcements on social protection responses to COVID-19
+
+mortality effects of the pandemic than initially anticipated,
+
+have not yet begun to address future morbidity and mortality
+
+and social protection responses that have predominantly
+
+effects (nor the implications should COVID-19 become
+
+focused on supporting households to deal with the impacts of
+
+endemic in the region). The assumption has been that the
+
+lockdowns and associated restrictions, rather than the
+
+current focus should be on social transfers and responding to
+
+impacts on households of illness and death.
+
+the impacts of lockdowns and restrictions.
+
+that can provide social health insurance and critical illness
+
+This makes
+
+However,
+
+COVID-19 qualitatively different to the HIV/AIDS pandemic,
+
+preparedness for future phases should include consideration
+
+where the focus of support to affected households was about
+
+of these wider impacts, not only on affected households but
+
+coping with the costs of medical treatment and loss of
+
+also on health systems, in terms of exploring support for
+
+breadwinners.
+
+expansion of social health insurance provision as well as other
+
+At first glance, this focus on responding to the effects of
+lockdowns appears appropriate, given lower than expected
+morbidity and mortality rates. But it also raises questions
+about the preparedness of the social protection system to
+deal in the future with serious morbidity and mortality effects.
+Social insurance provision and coverage in East Africa is low,
+particularly because of the challenges of reaching informal
+
+forms
+
+of
+
+social
+
+insurance
+
+and
+
+social
+
+assistance
+
+to
+
+accommodate both large-scale covariate shocks and also
+idiosyncratic health events over the life cycle, as set out in the
+social protection floor. These new or expanded forms for
+health insurance will likely need to be long-term and sustained,
+particularly if COVID-19 (or other future viruses) become
+endemic in East Africa.
+
+May 2021 | Beyond COVID-19: Lessons for social protection from WFP’s work in East Africa in 2020
+
+8
+
+LESSON 5:
+‘Adaptive’ or ‘shock responsive’ social
+protection doesn’t only mean scale-up
+Whilst much focus is rightly placed on the increased needs
+generated by a large covariate shock, it can also introduce new
+challenges in meeting existing responsibilities to the most
+
+COVID-19. Examples include:
+
+-
+
+‘COVID-proofing’
+
+operations
+
+to
+
+ensure
+
+that
+
+vulnerable and food insecure. The challenges presented by
+
+targeting, registration, training, asset creation
+
+COVID-19 are a good example of this, as WFP’s primary focus
+
+activities and distributions did not become sites for
+
+was on adaptation to ensure all those currently receiving
+
+infection to spread. This included the introduction
+
+support could continue to do so, even despite new access,
+
+of new standard operating procedures (e.g. social
+
+monitoring, and funding constraints.
+
+distancing in queues), the provision of hygiene and
+sanitation equipment for beneficiaries, use of PPE
+
+The global focus on social protection for COVID-19 response
+
+by staff, temporary relaxation of levels of
+
+has been dominated by programme expansion and the
+
+verification (especially the collection of biometric
+
+development of new programmes. However, WFP’s experience
+
+data during registration), and larger transfers
+
+provides lessons about the importance and challenges of
+
+distributed less regularly (e.g. monthly payments
+
+maintaining
+
+made bi-monthly).
+
+and
+
+sustaining
+
+existing
+
+social
+
+protection
+
+programmes. Maintaining delivery of ongoing programmes
+does not receive much attention but is a critical part of the
+
+-
+
+delivering ‘school feeding at home’ (WFP, 2020)
+
+social protection response. Households that were vulnerable,
+
+when schools were closed; and establishing new
+
+poor or food insecure before COVID-19 did not suddenly start
+
+standard operating procedures and guidance for
+
+managing during the pandemic – on the contrary, in many
+
+those delivering meals in countries such as Burundi
+
+cases their vulnerability, poverty and food insecurity
+intensified. Yet donor agencies in particular have tended to be
+more preoccupied with expanding to reach more people in
+
+switching from providing meals at school to
+
+where schools remained open (Figure 4).
+
+-
+
+adapting asset creation and livelihoods activities to
+
+need rather than maintaining support to existing caseloads.
+
+make them more appropriate in urban contexts. A
+
+WFP in the region has focused on maintaining and sustaining
+
+safety net shifted support from livelihoods and
+
+existing social protection support, working to mobilise
+
+income generating activities focused on the
+
+additional funds for expansion only where existing caseloads
+
+delivery of personal services (such as hairdressing)
+
+were supported. This has included adaptations to social
+
+to livelihoods that can take place in the open air
+
+protection and broader safety net programming and delivery
+
+and provide produce for market sale or own-
+
+in response to the unique circumstances and demands of
+
+consumption, such as home gardening.
+
+good example is South Sudan, where WFP’s urban
+
+Figure 4: Guidance for safe school meal production during COVID-19 in Burundi
+
+May 2021 | Beyond COVID-19: Lessons for social protection from WFP’s work in East Africa in 2020
+
+9
+
+LESSON 6:
+Public works don’t have to be ‘public’
+
+The COVID-19 pandemic has prompted a substantial rethink
+of which asset creation and livelihoods activities are
+appropriate and feasible in public works programmes.
+Discussions are ongoing in the region about the sorts of asset
+creation activities that are appropriate i) in the context of
+COVID-19 given the risks of spreading the virus and ii) in urban
+contexts where much adapted or new programming is likely to
+be focused.
+The experience of COVID-19 has seen
+
+governments and
+
+organisations pivot approaches to asset creation programmes
+in the region in two significant ways:
+
+1. adjusting focus to water, sanitation and hygiene
+work in urban contexts, for example, in Kenya;
+2. allowing participants to undertake private asset
+creation, as undertaken in Burundi and South
+Sudan.
+Traditionally,
+
+activities
+
+involving
+
+asset
+
+creation
+
+are
+
+predominantly focused on the rural economy, particularly on
+livelihoods related to natural resources and agriculture.
+Switching to a focus on water, sanitation and hygiene works in
+urban contexts enabled these programmes to meet urban
+needs, whilst also reducing a significant risk factor to pandemic
+spread in these environments by increasing access to hand
+washing (for example, cash for work programming in Nairobi
+and Mombasa).
+This second switch, to allow private asset creation such as
+promoting backyard gardening as a method to maintain food
+production systems, is, in some ways, remarkable. For many
+decades public works programmes have been, as their name
+suggests, entirely focused on the creation of shared or public
+or community assets. Suggestions that it would be appropriate
+to allow work to take place on private land or to produce
+private assets have been treated sceptically. COVID-19 has
+provided an indication of what might be possible – the creation
+of assets that are likely to be maintained by their owners in
+the long term, and to be directly useful to improving people’s
+livelihoods. While public works for private assets has rarely
+been a policy option previously, COVID-19 provides an entry
+point for it to be taken more seriously.
+
+May 2021 | Beyond COVID-19: Lessons for social protection from WFP’s work in East Africa in 2020
+
+10
+
+Conclusion
+The experience of COVID-19 has provided important learning
+
+monitoring to enable a better picture of the needs of
+
+for WFP in social protection response to large-scale covariate
+
+vulnerable groups for robust social protection design; and
+
+shocks such as pandemics. Chief among these is the
+
+willingness to consider new programme designs when
+
+importance of adaptation. Enabling WFP systems to adapt to
+
+traditional methods are not possible or appropriate.
+
+new challenges presented by large covariate shocks has been
+shown to be critical to WFP’s capacity to maintain and sustain
+critical social protection support to current populations in the
+face of new obstacles. It also provides entry points for new
+learning, and a forward-looking agenda for more effective
+social protection support in the long-term. This includes
+highlighting the needs of traditionally underserved groups,
+notably vulnerable urban populations, and providing new
+
+WFP has a strong skill-set enabling it to adapt to new
+challenges, and maintain support through shocks, working
+across its dual humanitarian and development mandate,
+including expanding where needed. This is a critical
+contribution that WFP is able to make to the government-led
+development of nationally owned shock-responsive social
+protection systems in Africa.
+
+safety net support; adjustments to data collection and
+
+May 2021 | Beyond COVID-19: Lessons for social protection from WFP’s work in East Africa in 2020
+
+11
+
+Photo Credits
+Cover Photo : WFP/Hugh Rutherford
+Photo page 3: WFP/Musa Mahadi
+Photo page 5: WFP/Musa Mahadi
+Photo page 7: WFP/Ismail Taxta
+Photo page 8: John Paul Sesonga
+Photo page 10: WFP/Hugh Rutherford
+Photo page 11: WFP/Alessandro Abbonizio
+
+Contact Information
+For more information contact :
+Danielle Trotter, danielle.trotter@wfp.org
+
+12
+
+

@@ -1,0 +1,1869 @@
+How to Make ‘Cash Plus’ Work:
+Linking Cash Transfers to Services and Sectors
+Keetie Roelen, Stephen Devereux, Abdul-Gafaru Abdulai,
+Bruno Martorano, Tia Palermo and Luigi Peter Ragno
+
+Office of Research - Innocenti Working Paper
+WP-2017-10 | August 2017
+
+1
+
+INNOCENTI WORKING PAPERS
+UNICEF Office of Research Working Papers are intended to disseminate initial research contributions within
+the programme of work, addressing social, economic and institutional aspects of the realization of the human
+rights of children.
+The findings, interpretations and conclusions expressed in this paper are those of the authors and do not
+necessarily reflect the policies or views of UNICEF.
+This paper has been peer reviewed both externally and within UNICEF.
+The text has not been edited to official publications standards and UNICEF accepts no responsibility for
+errors.
+Extracts from this publication may be freely reproduced with due acknowledgement. Requests to utilize larger
+portions or the full publication should be addressed to the Communication Unit at: florence@unicef.org.
+
+For readers wishing to cite this document, we suggest the following form:
+Keetie Roelen, Stephen Devereux, Abdul-Gafaru Abdulai, Bruno Martorano, Tia Palermo and Luigi Peter
+Ragno (2017). How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors, Innocenti
+Working Paper 2017-10, UNICEF Office of Research, Florence.
+
+© 2017 United Nations Children’s Fund (UNICEF)
+eISSN: 2520-6796
+
+2
+
+THE UNICEF OFFICE OF RESEARCH – INNOCENTI
+The Office of Research – Innocenti is UNICEF’s dedicated research centre. It undertakes research
+on emerging or current issues in order to inform the strategic directions, policies and programmes
+of UNICEF and its partners, shape global debates on child rights and development, and inform the
+global research and policy agenda for all children, and particularly for the most vulnerable.
+Publications produced by the Office are contributions to a global debate on children and may not
+necessarily reflect UNICEF policies or approaches. The views expressed are those of the authors.
+The Office of Research – Innocenti receives financial support from the Government of Italy, while
+funding for specific projects is also provided by other governments, international institutions and
+private sources, including UNICEF National Committees.
+For further information and to download or order this and other publications, please visit the
+website at: www.unicef-irc.org.
+
+Correspondence should be addressed to:
+UNICEF Office of Research - Innocenti
+Piazza SS. Annunziata, 12
+50122 Florence, Italy
+Tel: (+39) 055 20 330
+Fax: (+39) 055 2033 220
+florence@unicef.org
+www.unicef-irc.org
+twitter: @UNICEFInnocenti
+facebook.com/UnicefOfficeofResearchInnocenti
+
+3
+
+HOW TO MAKE ‘CASH PLUS’ WORK:
+LINKING CASH TRANSFERS TO SERVICES AND SECTORS
+Keetie Roelen1, Stephen Devereux2, Abdul-Gafaru Abdulai3, Bruno Martorano4, Tia Palermo5
+and Luigi Peter Ragno6
+
+1
+
+Research Fellow and Co-Director of the Centre for Social Protection, Institute of Development Studies
+
+2
+
+Research Fellow, Institute of Development Studies
+
+3
+
+Senior Lecturer, Department of Public Administration and Health Services Management,
+University of Ghana Business School
+
+4
+
+Postdoctoral Fellow, Institute of Development Studies
+
+5
+
+Social Policy Specialist, UNICEF Office of Research - Innocenti
+
+6
+
+Chief, Social Policy, UNICEF Egypt (with UNICEF Ghana at time of writing)
+
+Corresponding author is: K.Roelen@ids.ac.uk
+
+Abstract: The broad-ranging benefits of cash transfers are now widely recognized. However, the evidence
+base highlights that they often fall short in achieving longer-term and second-order impacts related to
+nutrition, learning outcomes and morbidity. In recognition of these limitations, several ‘cash plus’ initiatives
+have been introduced, whereby cash transfers are combined with one or more types of complementary
+support. This paper aims to identify key factors for successful implementation of these increasingly popular
+‘cash plus’ programmes, based on (i) a review of the emerging evidence base of ‘cash plus’ interventions
+and (ii) an examination of three case studies, namely, Chile Solidario in Chile, IN-SCT in Ethiopia and LEAP
+in Ghana. The analysis was guided by a conceptual framework proposing a menu of ‘cash plus’ components.
+The assessment of three case studies indicated that effective implementation of ‘cash plus’ components has
+indeed contributed to greater impacts of the respective programmes. Such initiatives have thereby addressed
+some of the non-financial and structural barriers that poor people face and have reinforced the positive
+effects of cash transfer programmes. In design of such programmes, further attention should be paid to the
+constraints faced by the most vulnerable and how such constraints can be overcome. We conclude with
+recommendations regarding the provision of complementary support and cross-sectoral linkages based on
+lessons learned from the case studies. More research is still needed on the impact of the many variations of
+‘cash plus’ programming, including evidence on the comparative roles of individual ‘plus’ components, as
+well as the knowledge, attitudes and behaviour pathways which influence these impacts.
+Keywords: Social protection, cash transfers, cash plus, linkages
+Acknowledgements: The authors would like to thank Rebecca Holmes, Carol Watson, and an anonymous
+reviewer for their useful insights and review of this paper.
+
+4
+
+TABLE OF CONTENTS
+INTRODUCTION................................................................................................................................... 6
+‘CASH PLUS’ PROGRAMMING: STRENGTHENING IMPACTS ON SECOND-ORDER
+OUTCOMES.......................................................................................................................................... 7
+The rationale for ‘cash plus’ programming................................................................................... 7
+Options for ‘cash plus’ programming............................................................................................ 8
+Integral programme components................................................................................................ 10
+Linkages to external support........................................................................................................ 11
+GHANA: LIVELIHOODS EMPOWEREMENT AGAINST POVERTY (LEAP) PROGRAMME............. 13
+Background and programme description.................................................................................... 13
+‘Cash plus’ components................................................................................................................ 14
+Explaining success........................................................................................................................ 15
+Lessons learned............................................................................................................................. 18
+CHILE SOLIDARIO.............................................................................................................................. 18
+Background and programme description.................................................................................... 18
+‘Cash plus’ components................................................................................................................ 20
+Explaining success........................................................................................................................ 22
+Lessons learned............................................................................................................................. 23
+ETHIOPIA: INTEGRATED NUTRITION SOCIAL CASH TRANSFER (IN-SCT) PILOT....................... 24
+Background and programme description.................................................................................... 24
+‘Cash plus’ components................................................................................................................ 25
+Explaining success........................................................................................................................ 27
+Lessons learned............................................................................................................................. 28
+CRITERIA FOR SUCCESS AND CHALLENGES AHEAD................................................................... 28
+Politics matter................................................................................................................................ 29
+Formal agreements are a necessary foundation........................................................................ 29
+Awareness and engagement of all stakeholders is imperative for coordination..................... 30
+Personalized approaches require a skilled workforce and ‘the right person in the
+right place’..................................................................................................................................... 30
+Establishment of linkages to services across sectors requires case management................. 31
+Greater ambitions need to be matched with greater resources................................................ 31
+Demand-side interventions needs to be matched with supply-side investments................... 32
+‘Cash plus’ components need to be fit-for-purpose................................................................... 32
+CONCLUSION..................................................................................................................................... 33
+REFERENCES: GENERAL................................................................................................................... 35
+REFERENCES: GHANA...................................................................................................................... 39
+REFERENCES: CHILE......................................................................................................................... 40
+REFERENCES: ETHIOPIA................................................................................................................... 41
+
+5
+
+Children and the Data Cycle: Rights and Ethics in a Big Data World
+Innocenti Working Paper 2017-05
+
+INTRODUCTION
+It is now widely recognised and evidenced that cash transfers can have highly positive socio-economic
+impacts, ranging from poverty reduction and improved living conditions to enhanced psycho-social
+well-being. At the same time, the expanding evidence base also highlights that the provision of cash
+alone falls short in achieving long-term second-order impacts such as those related to nutrition,
+learning outcomes and morbidity (Attah et al. 2016; Bastagli et al. 2016). This holds true across the
+spectrum of social protection interventions, from child grants seeking to improve children’s nutritional
+outcomes to graduation programmes designed to promote household asset accumulation and income
+generation. The term ‘cash plus’ is gaining considerable traction because of its potential to
+complement cash with additional inputs, service components or linkages to external services, that, in
+combination, may be more effective in achieving the desired impacts and ensuring their sustainability
+than cash alone (Watson and Palermo, 2016).
+The theory of change of ‘cash plus’ programming is predicated on the notion that, while cash transfers
+can have impacts beyond their poverty-alleviation objectives, the ‘income effect’ of cash transfers can
+be constrained by behavioural mediators or broader moderators (Palermo, Veras Soares and Yablonski,
+2017). For example, cash transfer programmes alone may not prompt sufficient behavioural change
+(‘mediators’) to reach impacts in areas such as nutrition, education and health1. Further, cash alone
+may not achieve positive outcomes when beneficiaries experience exclusion from quality health
+facilities, schools, markets, or other services (access and supply-side constraints, or impact
+‘moderators’), or in the face of shocks. Indeed, this concept of exclusion is recognized in the definition
+of ‘transformative social protection’ emphasising the importance of addressing structural inequalities
+and barriers to inclusion (Devereux and Sabates-Wheeler, 2004).
+‘Cash plus’ programmes can be characterized as social protection interventions that provide regular
+transfers in combination with additional components or linkages that seek to augment income effects.
+This is done either by inducing further behavioural changes or by addressing supply-side constraints.
+Options for so doing include the provision of information (such as through behaviour change
+communication [BCC] or sensitization meetings), provision of additional benefits and support (such as
+supplementary feeding or psycho-social support), provision or facilitation of access to services (such as
+through health insurance or setting up Village Savings and Loans Associations) or implementation of
+case management (ensuring referrals to other sectors), or strengthening the quality of existing services
+and facilitating linkages to these. While the need for programmes to move beyond ‘cash only’ has been
+increasingly recognised in making social protection truly transformative (Molyneux et al. 2016),
+relatively little is known about how these linkages can be successfully established and implemented.
+This paper seeks to identify criteria for success and considers challenges in the creation and delivery of
+such programmes, with a focus on sectors related to health, nutrition and education. It aims to provide
+recommendations for more integrated service provision as part of (or linked to) social protection
+programming. It does so by (i) reviewing the emerging evidence base assessing the impact of ‘cash
+plus’ versus cash alone and (ii) examining case studies in three countries – the Livelihoods
+
+1
+
+This review focuses on nutrition, education and health. For a comprehensive review of ‘cash plus’ programming related to
+agricultural interventions, see Soares F. V. , Knowles M, Daidone S, Tirivayi N (2017). Combined effects and synergies between
+agricultural and social protection interventions: What is the evidence so far? Food and Agriculture Organization of the United
+Nations: Rome.
+
+6
+
+Children and the Data Cycle: Rights and Ethics in a Big Data World
+Innocenti Working Paper 2017-05
+
+Empowerment Against Poverty (LEAP) programme in Ghana, the Chile Solidario scheme in Chile, and
+the Integrated Nutrition Social Cash Transfer (IN-SCT) pilot project in Ethiopia. As such, this paper
+contributes to an increased understanding of how social protection interventions can enhance inclusion
+by steering basic services towards those most excluded in society. This improved understanding of
+successful strategies and lessons learned could help policymakers and implementers to improve
+linkages and take steps towards integrated systems.
+This paper is structured as follows: Firstly, we discuss the rationale and options for ‘cash plus’
+programming, suggesting a ‘menu’ of ‘plus’ components. Secondly, we discuss each case study in
+detail, including programme descriptions, discussions of ‘cash plus’ components, assessing success
+and challenges and identifying lessons learned. We subsequently identify common factors for success
+as well as challenges for the establishment and delivery of ‘cash plus’ programmes, before offering
+final conclusions.
+
+1. ‘CASH PLUS’ PROGRAMMING: STRENGTHENING IMPACTS ON SECOND-ORDER
+OUTCOMES
+This section provides the rationale for ‘cash plus’ programming and discusses options for design and
+implementation of these interventions, elaborating various options in a menu of ‘plus’ components. We
+build on existing frameworks and evidence from low- and middle-income countries.
+
+1.1. The rationale for ‘cash plus’ programming
+Cash transfer programmes have been shown to reduce poverty and improve well-being across a range
+of dimensions, including food security, health, schooling, child protection, productive activities, and
+safe transitions to adulthood (Baird, Ferreira, Özler et al. 2013; Bastagli et al. 2016; Davis et al. 2016; De
+Hoop and Rosati, 2013; FAO, 2015; Lagarde, Haines,and Palmer, 2007; Roelen, 2014). Households may
+face budget constraints that limit their ability to buy food, send children to school and seek healthcare,
+even if they value these activities and would prefer to carry them out. Relatedly, households may face
+liquidity constraints which prohibit them from investing in agricultural inputs or businesses to increase
+their productive capacity (Veras Soares, Knowles, Daidone, & Tirivayi, 2016). Regular cash payments
+can alleviate these budget and liquidity constraints and help households to smooth consumption, for
+example, during lean seasons. Indeed, cash transfer programmes have proved to be crucial for the
+achievement of positive outcomes.
+Notwithstanding these positive effects, cash alone cannot alleviate non-financial and structural barriers
+to improving living standards and well-being. With respect to education, cash transfers have widely
+been found to improve school attendance but appear to have a limited effect on learning outcomes
+(Bastagli et al. 2016). Child nutrition is an area in which evidence of cash transfer impacts is notoriously
+mixed (Manley, Gitter and Slavchevska, 2013), suggesting that barriers other than lack of cash –
+including inadequate knowledge of feeding practices or lack of access to clean water – undermine
+children’s nutritional outcomes. Investments in productive capacity may be hampered by structural
+constraints such as lack of access to services, markets, and insurance (Veras Soares et al. 2016).
+Integration of cash transfer programmes with other interventions or services including the creation of
+linkages between demand-side and supply-side interventions has the potential to improve impacts in
+many areas of people’s lives (and conversely, cash transfers may not have impacts among those
+
+7
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+facing exclusion from quality services). Existing evidence illustrates how access to services enhances
+the impacts of cash transfer programmes. For instance, Zambia’s Child Grant Programme (CGP) was
+found to improve skilled birth attendance – but only among women living in communities with higher
+quality health services (Handa, Peterman, Seidenfeld, & Tembo, 2016), and to reduce stunting among
+households with a protected water source (Seidenfeld et al. 2014). In Niger, Langendorf et al. (2014)
+identified a higher rate of reduction of acute malnutrition among households that received cash plus
+access to nutritional supplements, compared to households that received cash or supplementary
+food.
+In circumstances where sub-optimal outcomes occur due to lack of knowledge (i.e. inaccurate or
+insufficient information), the provision of information or creation of awareness may be needed. In Latin
+America, Mexico’s Oportunidades programme is estimated to have increased family planning use
+among women aged 20 to 24 years, most likely through the required health/information sessions
+(Lamadrid-Figueroa et al. 2010). In Bangladesh, a pilot project titled ‘The Transfer Modality Research
+Initiative’ (TMRI) tested five transfer options: cash; food; cash plus food; food plus nutrition behavioural
+change communication (BCC); and cash plus nutrition BCC. The objective was to identify which transfer
+or combination of transfers would have the biggest positive impact on child nutrition. A rigorous
+evaluation found that only one of the five options – cash plus nutrition BCC – achieved a statistically
+significant reduction in child malnutrition rates (Ahmed et al. 2016), which underscores the importance
+of adding messaging to cash transfer programmes.
+Experimental evidence from Liberia highlights how intense counselling and support can improve the
+sustainability of impacts. In an experiment aiming to reduce violence and crime among men who were
+previously engaged in criminal activities, the combination of cash transfers plus cognitive behavioural
+therapy was found to significantly improve the long-term reduction in crime and violence. While crime and
+violence were reduced among all men receiving either cash alone, therapy alone or cash and therapy
+combined, the result was only maintained for those who received the combination of support (Blattman et
+al. 2017).
+
+1.2. Options for ‘cash plus’ programming
+Watson and Palermo (2016: 5-6) refer to ‘cash plus’ programmes as “[…] the programme option of
+combining cash transfers with other sorts of support. The rationale is that cash alone is not always
+sufficient as a means to reduce the broad-based and interrelated social and economic risks and
+vulnerabilities that the targeted beneficiary populations face, and that additional support is needed”.
+The types and combinations of ‘other sorts of support’ can take many forms and can be integrated with
+cash transfers in different ways. We consider existing typologies of programmes offering integrated
+packages of support before providing our own understanding of ‘cash plus’ programming.
+In aiming to classify social protection programmes across a continuum of service delivery, Barrientos
+et al. (2014) distinguish between (i) pure income transfers, (ii) income transfers combined with asset
+accumulation, and (iii) integrated poverty reduction programmes. The second and third categories can
+be considered ‘cash plus’ interventions, given their complementary components. Their rationale is
+based on the premise that poverty is broader than a mere deficit in income or consumption, but also
+represents deficits in productive assets and human capital and can be characterized by social exclusion
+(ibid). Income transfers combined with asset accumulation include programmes that aim to build
+physical assets and infrastructure, most notably public works programmes and programmes that focus
+on human capital – primarily conditional cash transfers. Integrated poverty reduction programmes can
+
+8
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+be considered most holistic in their approach and particularly aim to address the issue of social
+exclusion by linking programme participants to a wide range of services.
+‘Graduation programmes’ also represent a type of ‘cash plus’ intervention that has gained prominence
+recently. Pioneered by BRAC in Bangladesh, the graduation model transfers a package of assistance to
+extremely poor households over a two-year period. The package includes regular cash transfers, access
+to savings, productive assets, livelihood training and behaviour change communication. Following
+BRAC’s success with its graduation programme, pilot projects were launched in eight other countries.
+Randomized control trials reported similarly positive results, not only in terms of graduating out of
+extreme poverty but on a range of indicators such as asset ownership, food security and financial
+inclusion. Moreover, most of these gains were sustained one year after programme support ended
+(Banerjee et al. 2015).
+While a conceptualisation of ‘cash plus’ interventions from simple to more complex programming is
+appealing, variations of additional forms of support and the ways in which they are combined to
+complement cash transfers do not lend themselves to such a categorisation. For example, a scheme
+that complements cash transfers with the provision of health insurance cards and awareness raising by
+extension workers may be comparable to an intervention linking cash transfers to the use of health
+services through the use of conditions in terms of level of complexity. Yet, their ‘cash plus’ components
+are very different indeed.
+We conceptualize ‘cash plus’ programmes as follows:
+’Cash plus’ interventions combine cash transfers with one or more types of
+complementary support. Types of complementary support can consist of (i) components
+that are provided as integral elements of the cash transfer intervention, such as through
+the provision of additional benefits or in-kind transfers, information or behaviour change
+communication (BCC), or psycho-social support, and (ii) components that are external to
+the intervention but offer explicit linkages into services provided by other sectors, such as
+through direct provision of access to services, or facilitating linkages to services.
+The options for ‘cash plus’ components, both integral and external to the specific cash transfer
+intervention, can be captured in a menu of ‘cash plus’ components (see Figure 1). The proposed
+components are not mutually exclusive and can be combined in various ways depending on scope and
+objectives. For example, programmes can seek to promote nutrition and health outcomes through a
+combination of supplementary feeding, BCC, the provision of health insurance cards and by making
+explicit referrals to health services. This menu of options suggests that ‘cash plus’ programmes need
+not develop on a progressive scale of comprehensiveness in terms of the number of services or
+linkages to services that they provide, but rather that they can offer a combination of components in
+response to needs and objectives, in line with available capacity and resources.
+We discuss each component in more detail below.
+
+9
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Figure 1 Menu of ‘cash plus’ components (Authors’ own)
+Provision of access
+to services
+
+/
+tion C
+rma n/BC
+o
+f
+o
+In tasi
+isi
+ens
+
+s
+
+Add
+
+iti
+in-k onal b
+e
+ind
+tran nefits
+/
+sfe
+rs
+
+CASH
+TRANSFERS
+
+Psychosocial
+support
+Facilitating linkages
+to services
+
+1.3. Integral programme components
+Additional benefits or in-kind transfers
+The provision of additional benefits or in-kind transfers is based on the recognition that the income
+effect of cash transfers is often not large enough for achieving desired outcomes, or that structural
+factors impede the use of cash for affecting change. Often, cash transfers need to respond to multiple
+needs across all household members and are spread too thinly to make a significant impact in any one
+area. Indeed, higher transfer levels are associated with higher impacts across education, health and
+nutrition (Bastagli et al. 2016). Graduation programmes explicitly acknowledge the need for additional
+benefits over and above regular cash transfers in order to achieve the desired level of asset
+accumulation; the provision of asset transfers represents an investment in productive capital beyond
+what would be feasible on the basis of cash transfers alone (Sabates-Wheeler and Devereux, 2013). In
+Niger, cash transfers were complemented with the provision of fortified foods and supplementary
+feeding given that such foods were not locally available (Bastagli et al. 2016). The combination of
+support led to more significant reductions in malnutrition compared to the provision of cash alone
+(Langendorf et al. 2014).
+Information/ sensitisation/ behaviour change communication (BCC)
+This component aims to achieve positive outcomes by increasing knowledge and awareness and
+changing attitudes and practice (important ‘mediators’ of programme impacts). Many theories of
+change cash transfer programmes recognize that lack of knowledge may undermine programme
+impacts, notably in terms of nutrition and health (Browne, 2013) and child-rearing practices (Bastagli et
+al. 2016). With reference to nutrition, awareness raising and creation of knowledge can ensure that
+parents use their cash transfers to purchase more nutritious foods and improve sanitation practices
+that prevent diarrhoea (de Montesquiou and Sheldon, 2014). Many programmes have indeed started
+adding this component to the regular provision of cash (Molyneux et al. 2016) with activities ranging
+from the provision of information at pay points by programme staff, community-level training by
+volunteers or NGOs, to home visits by community volunteers or social workers.
+
+10
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Longstanding debates on communication for development (C4D), health communication and BCC
+suggest that modes of implementation are crucial in effecting change (Storey and Figueroa, 2012;
+Waisbord and Obregon, 2012), increasingly underscoring the need for interpersonal communication for
+effective messaging. With reference to the graduation programme in Burundi, the role of case
+managers and their strong interpersonal relationships with participants proved crucial for the uptake of
+messages and subsequent positive behavioural change (Roelen and Devereux, 2017).
+Psycho-social support
+The importance of psycho-social well-being in social protection is increasingly recognized, either as an
+outcome of social protection programming (Attah et al. 2016) or as an instrumental factor towards
+achieving transformative change (Molyneux et al. 2016). The potential for social protection
+programmes to link to forms of psycho-social support have emerged from discussions regarding the
+response to HIV/AIDS and Orphans and Vulnerable Children (OVC) (Adato and Bassett, 2012). Zambia’s
+Social Safety Net Project, for example, included a counselling module for those affected by HIV/AIDS in
+recognition of the persistence of mental health problems (Miller and Samson, 2012). In South Africa,
+adolescents in cash transfer households which also received household visits by a home-based carer
+reported fewer HIV risk-taking behaviours among adolescent than those in households only receiving
+cash (Cluver et al. 2014). The inclusion of psychosocial support as a core component of social
+protection programmes is also increasingly considered in strengthening the linkages between social
+protection and child protection. Nevertheless, many questions remain regarding the appropriate remit
+and implementation of such support (Roelen et al. 2016b).
+
+1.4. Linkages to external support
+Providing access to services
+This component pertains to the explicit provision of access to services in addition to the distribution of
+cash transfers. This can include the inclusion of beneficiaries in insurance or micro-credit schemes to
+provide access to health or financial services, or waiving tuition fees to specifically lower barriers to
+education. Participants in Concern Worldwide’s Graduation Programmes in Rwanda and Burundi, for
+example, all received health insurance cards that granted free primary health care for all household
+members (Devereux et al. 2015; Devereux and Sabates, 2016). The Temporary Livelihood Protection
+Programme in South Korea combined cash transfers to those who had become unemployed following
+the economic crisis of the late 1990s with tuition fee waivers, lunch subsidies, and reductions in
+medical insurance premiums (Blouin et al. 2007). While the provision of such support is part of the
+‘cash plus’ intervention, the actual take-up and use of services occurs in the health and education
+sectors.
+Facilitating linkages to services
+This component pertains to the facilitation of linkages to services (as opposed to directly providing
+access to services). This includes referral to services with voluntary take-up, the establishment of
+non-punitive co-responsibilities, or making the transfer conditional upon the use of services (such as in
+conditional cash transfer programmes (CCTs)). Referral to services is increasingly considered crucial for
+addressing multiple needs of the most vulnerable (Roelen et al. 2012). In Mozambique, case
+management and referral are deemed crucial for linking social protection and child protection services.
+Here, the Community Child Protection Committees (CCPCs) identify and assesses needs while social
+workers supervise and monitor support offered to children (Roelen, 2011). Case management can help
+identify needs of programme participants and facilitate linkages to corresponding services. Case
+management can be resource intensive, and the potential for this option may be limited in some
+
+11
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+contexts without significant capacity strengthening – for example of the social welfare or social worker
+cadres – beforehand.
+Interventions operating co-responsibilities or conditions require programme participants to comply
+with certain requirements, such as children’s school attendance or health check-ups. Such interventions
+often include regular monitoring of the adherence to co-responsibilities or conditions, involving social
+workers, case managers or community volunteers undertaking monitoring meetings or home visits.
+The frequency of interaction with service providers can have powerful positive results (Jones and
+Marquez 2014). Indeed, a strong evidence base – primarily from CCTs in Latin America – provides
+testimony to the positive effects of such interventions regarding the use of services, most notably
+education and health, and also with respect to improved nutritional outcomes and reduced child labour
+(Gatenio Gabel, 2012). A systematic review of the differential impact of unconditional cash transfers
+(UCTs) and CCTs on schooling indicates that programmes with explicit conditions, strong monitoring
+and punitive action in case of non-compliance have greater impacts on enrolment. No differential
+impacts were observed in terms of learning outcomes such as test scores (Baird et al. 2013). On the
+whole, evidence does not allow for conclusions to be drawn regarding the differential impact of coresponsibilities and conditions or the extent to which a supportive versus punitive approach enhances
+or undermines impact.
+A key factor for the successful facilitation of linkages at scale is a functioning Management Information
+System (MIS). Benefits of MIS include increased efficiency in targeting, improved oversight and
+coordination of multiple schemes, potential for establishment of a common payment system across
+schemes, improved fraud management, more effective emergency response, and improved ability to
+transition beneficiaries across schemes as their circumstances change (Barca and Chirchir, 2014).
+Requirements for successful MIS include strong political commitment to integration, sufficient staff
+availability and capacity, adequate hardware and internet connection, a solid system for national
+identification (such as a civil registry), and existence of a clear and high-level governance structure
+which can manage the process and liaise with all stakeholders (Barca and Chirchir, 2014).
+In order to learn lessons from ‘cash plus’ interventions, we look at three case studies with varying
+combinations of ‘plus’ components. The first case study – Ghana’s LEAP programme – offers access to
+services by automatically enrolling its participants in the National Health Insurance Scheme (NHIS). The
+second case study – Chile’s Chile Solidario scheme – includes the provision of psycho-social support,
+facilitating access to services, adherence to conditions and case management and referrals. It should
+be noted upfront that in this case study, the cash transfer was not deemed the central component
+around which other components were framed but that it existed on par with the other programme
+components. The final case study – Ethiopia’s Integrated Nutrition Social Cash Transfer (IN-SCT) pilot
+project – offers a combination of information/ BCC and a case management approach.
+
+12
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+2. GHANA: LIVELIHOODS EMPOWEREMENT AGAINST POVERTY (LEAP)
+PROGRAMME
+2.1. Background and programme description
+Ghana introduced several social policy interventions during the 2000s, including a new contributory
+national health insurance scheme (2003), a national school feeding programme (2005), capitation
+grants to expand free primary education (2005), and the flagship Livelihood Empowerment Against
+Poverty (LEAP) cash transfer programme (2008). As part of the review of the Ghana Poverty Reduction
+Strategy (GPRS I, 2003-2005), a Poverty and Social Impact Assessment (PSIA) was conducted by the
+National Development Planning Commission in 2004. It showed that past policies and interventions did
+not adequately impact the lives of the poorest, leading to rising levels of inequality. There was a
+perceived need take a more holistic approach to the redesign and coordination of social intervention
+programmes in order to integrate the concerns of the poorest and most vulnerable segments of society
+into national development efforts. These observations informed the development of a National Social
+Protection Strategy (NSPS) under the leadership of the Ministry of Employment and Social Welfare
+(MESW), between 2005 and 2007.
+Launched in 2008, LEAP is a social protection programme that provides bi-monthly cash transfers to
+households living below the national extreme poverty line. Specifically, LEAP targets poor families
+which also have at least one member who is aged (over 65), or who has a disability and is unable to
+work (PWD), or who is an orphan or vulnerable child (OVC); or who is a pregnant woman, or who is a
+child under one year of age. The overall goal is to increase long-term human capital development
+among the poorest and most vulnerable populations. More specifically, LEAP seeks to:
+(1) Improve basic household consumption and nutrition, and access to health care services among
+children under two years old, older persons and people with severe disability;
+(2) Increase basic school enrolment, attendance and retention of beneficiary children between the ages
+of 5-15; and
+(3) Facilitate access to complementary services such as welfare, livelihoods, and improvements in
+productive capacity (MESW, 2012).
+The level of the LEAP benefit varies, depending on the number of eligible people in a household. At the
+time of writing, benefits range from GH¢64 to GH¢106 bi-monthly for households with one and four or
+more eligible members, respectively (Appiah, 2016). The number of LEAP beneficiary households has
+expanded rapidly over time, from just 1,654 in 21 districts in 2008, to 213,000 households in all 216
+districts by 2016. Transfers are conditional or unconditional depending on the characteristics of
+beneficiary households.2 From 2012, the programme’s operational manual requires that children under
+15 years of age enrol in and attend school, visit health facilities for vaccinations, and undergo growth
+monitoring every 3 months (MESW, 2012). Conditions are not enforced, however (Handa et al. 2013).
+
+2
+
+http://leap.gov.gh/44th-payment-cycle-of-leap-social-cash-grant-212848-households-to-be-paid-for-the-months-of-july-and-august-2016/
+
+13
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+2.2. ‘Cash plus’ components
+LEAP promotes an ‘integrated social development approach’. This needs to be understood in reference
+to the NSPS, which not only gave birth to the LEAP but also marked the beginning of an integrated
+approach to social protection in Ghana (GoG, 2015: 23). The NSPS recognizes the multi-dimensional
+nature of poverty and vulnerability in Ghana, and argues that such problems cannot be effectively
+tackled through cash transfers alone (GoG, 2007a: 10). Consequently, the NSPS emphasises the
+importance of linking beneficiary households with other programmes as a way of facilitating their
+capacity to ‘leap out’ of extreme poverty (GoG, 2007a: 59). It calls for linking LEAP beneficiary
+households to initiatives that will help boost their productive capacities and assets, including the
+Labour Intensive Public Works Programme, the Agricultural Input Support Programme, the Micro
+Finance Scheme, the Youth Employment Programme, and the free Cocoa Mass Spraying Programme
+(GoG, 2007a: 53, 60). As such, the LEAP design document outlines a broad array of potential linkages
+between LEAP and other programmes (GoG, 2007b).
+Against this backdrop, in 2010 the then MESW signed a Memorandum of Understanding (MoU) with
+the Ministry of Health to provide LEAP beneficiaries with free access to NHIS cards. To date, this MoU
+represents the only linkage to a complementary service for LEAP.3 In this section, therefore, we focus
+specifically on this LEAP-NHIS linkage, which is by far the most ‘well established’ complementarity in
+Ghana’s social protection landscape (Ragno et al. 2016: 153).
+Providing access to services: LEAP–NHIS complementarity
+The NHIS was established in 2003 to remove financial barriers in accessing health services, particularly
+for the poor and vulnerable. The programme’s ultimate goal is to provide universal insurance coverage
+to all Ghanaians. By 2014, the number of active NHIS members stood at 10.5 million, representing 39%
+of the national population (GoG, 2015: 149). The scheme is financed mainly through a combination of
+individual premiums, a 2.5% levy added to the value-added tax on goods and services and an
+earmarked 2.5 percentage point portion of social security contributions from formal sector workers.
+Individual premiums are charged based on each person’s income or wealth, ranging from about GH¢8
+for those categorised as poor, GH¢20 for middle income earners, and GH¢52 for high income earners
+(GoG, 2012: 67). Premium payments are waived for a wide range of vulnerable groups, including
+people over age 70; children under 18 years; ‘indigents’4; pregnant women, persons with mental
+disorders and categories of disabled persons determined by the minister responsible for social welfare.
+By design, the scheme covers about 95% of the disease burden in Ghana (Schieber et al. 2012: 21). The
+scope of the basic benefits package is broad and includes outpatient and inpatient services – such as
+diagnostic testing, specialist care, most forms of surgery, hospital accommodation, maternity care
+services, emergency care, and drugs on the NHIA Medicine List (ILO, 2014).
+LEAP beneficiaries are entitled to free health insurance through the NHIS and are encouraged to access
+post-natal clinics and birth registration as well as complete the Expanded Programme on Immunisation
+(Ragno et al. 2016). This arrangement is facilitated through the MoU with the Ministry of Health, which
+requires the National Health Insurance Authority (NHIA) to register all LEAP household members with
+
+3		To a limited extent and without a formal MoU, the Labour Intensive Public Works (LIPW) programme has also been linked to
+LEAP Households. As of June 2016, members from 2,800 LEAP families have taken part to the LIPW (Source: LIPW Information
+System).
+4		These are defined as those who are unemployed with no visible source of income, no fixed residence, and not living with
+someone employed and with a fixed residence.
+
+14
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+no payment of premiums or processing fees. Funds to cover enrolment in health insurance are
+transferred directly to the local health authority, which then issues NHIS cards to LEAP households.
+Continued receipt of cash payments from LEAP is conditioned on acquiring a health insurance card
+(Handa and Park, 2012) although this has never been enforced.
+Enrolment of new LEAP beneficiaries into the NHIS is carried out during LEAP payment days. District
+NHIS officials join District Social Welfare Officers (DSWOs) to provide information on the NHIS,
+distribute free NHIS cards, and update registries of beneficiaries. Additional efforts include quarterly
+meetings between NHIA and DSWOs to improve implementation and coordination (Gomez et al. 2016:
+23).
+The recognition of the importance of the NHIS-LEAP linkage became much stronger among policymakers in light of empirical evidence on the modesty of the transfer size5 and LEAP beneficiaries using
+their transfers to pay NHIS premiums and purchase school supplies and food items. One study cited a
+female LEAP beneficiary in the poorer northern part of the country as remarking: “Our NHIS card has
+expired. I wish the LEAP payment was larger as we couldn’t renew it given the cost. If we had money,
+we would renew the health insurance’ (ODI and UNICEF Ghana, 2009, cited in Amuzu et al. (2010: 31)).
+Handa et al.’s (2013) quantitative impact assessment shows that LEAP households modestly reduced
+their out-of-pocket health expenditures by up to GH¢7 per month through enrolment in the NHIS. These
+findings are consistent with the overarching objective of the LEAP-NHIS complementarity, which seeks
+to increase access to health care services among LEAP beneficiaries by reducing their health care
+expenditures and thereby enabling them to use the cash grant on other productive activities (Ministry
+of Gender, Children and Social Protection, 2016).
+
+2.3. Explaining success
+In explaining factors for success, the history of the NHIS-LEAP linkages can be split into two broad
+phases, namely from 2010 to 2014 and from 2015 to date. While the first phase saw very limited efforts
+on the part of either the LEAP programme or NHIA in forging partnerships beyond the MoU, the second
+has been characterised by a deliberate push to linking LEAP households to the NHIS. The NHIS had
+been registering LEAP beneficiaries since the 2010 MoU but various challenges undermined its
+effectiveness.
+First, while the MoU required that LEAP beneficiaries be registered with the NHIS before receipt of their
+first payments, this was not always implemented effectively. Second, there were few efforts by NHIA
+officials to deliberately target LEAP households during NHIS registration exercises, leading to several
+LEAP households not being registered with the NHIS or having invalid insurance cards (that required
+renewal).
+From 2015 onwards, the LEAP programme office initiated engagements with the NHIA aimed at
+identifying modalities to facilitate the registration of LEAP beneficiary households with the NHIS. To
+help build broad-based consensus on the importance of improving the health status of LEAP
+beneficiary households through the NHIS, both the Regional Director of Social Welfare for the Greater
+Accra region and District Social Welfare Officers (DSWOs) sometimes participated in meetings between
+
+5
+
+For example, at the start of the programme, some LEAP households received as little as GH₵8, at a time when about ₵7 was
+required to renew one’s NHIS card.
+
+15
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+the LEAP programme and the NHIA. These engagements proved useful in enhancing mutual
+understanding of the complementarity of their roles in improving the health status of LEAP
+households, and in overcoming NHIS enrolment constraints faced by LEAP beneficiaries.
+Overcoming exclusion of LEAP beneficiaries from NHIS as a result of different inclusion criteria for
+LEAP and NHIS represent a case in point. While LEAP targets extremely poor households, the NHIS
+targets extremely poor individuals. As a result, NHIA officials would occasionally refuse to provide free
+NHIS cards to LEAP beneficiary caregivers on grounds that they – as individuals – did not look
+extremely poor. Regular engagements between the LEAP programme office and NHIA ensured that the
+NHIS district teams were provided with new and complete lists of LEAP household members, enabling
+the teams to include all the members of the LEAP households in the registration for the NHIS.
+Collaboration between NHIA and LEAP programme staff is crucial; the LEAP programme does not have
+the direct mandate of registering beneficiary households and their members with the NHIS and
+therefore cannot achieve its objectives without the direct involvement of the NHIA. By the same token,
+NHIA experienced difficulties in meeting its targets regarding reaching the extremely poor because it
+did not have the internal capacity of identifying them.6 As a result of the growing collaboration and
+greater reliance on data provided by the LEAP programme, the NHIA has been able to increase the
+number of indigents exempted under the NHIS from a mere 1.4% of all NHIS beneficiaries in 2010 (see
+NHIA, 2011:18) to 5.5% by 2014 (GoG, 2015: 150). This analysis suggests that the realization on the part
+of the implementing institutions that the most efficient way of delivering their respective mandates is
+through partnerships, is central to understanding the growing improvement achieved by linking LEAP
+beneficiaries to the NHIS.
+Indeed, the increased collaboration between LEAP and the NHIA has manifested itself in several ways,
+such as the establishment of a LEAP-NHIS technical committee7, and the joint development of a plan to
+increase the number of valid NHIS card-holders in LEAP households. The plan includes the sharing of a
+complete list of LEAP households and LEAP registration timetables with the NHIA, outlining District
+Social Welfare Officers’ (DSWOs’) and district-level NHIA representatives’ visiting dates to LEAP
+communities, in order to provide beneficiary households with free NHIS cards.
+In March 2016, a five-day pilot exercise in two districts was jointly undertaken and monitored by
+national NHIA officials and LEAP programme officers. It targeted three groups of LEAP beneficiaries for
+NHIS enrolment: (i) those who were not registered with the scheme; (ii) those whose NHIS cards had
+expired; and (iii) those whose cards were about to expire within a three-month period. The pilot project
+was considered a success, prompting the Minister of Gender, Children and Social Protection to
+recommend it be rolled-out nationally.
+In August 2016, the Ministry of Gender, Children and Social Protection (MoGCSP), created in January
+2013 with a mandate to coordinate social protection in Ghana8, launched a nationwide exercise aimed
+at enrolling 200,000 additional LEAP beneficiaries in the NHIS by December 2016. The Ministry
+
+6
+7
+8
+
+The NHIA had already partnered with the Ghana Education Service (GES) to identify and enrol children through the school
+system, but had not been able to capture those out of the system, or those populations from other priority groups.
+Comprising members from the LEAP programme and the NHIA, the primary mandate of this committee was to spell out
+specific modalities that will ensure the enrolment of all LEAP households with the NHIS.
+MoGCSP is an amalgam of MOWAC, the Department of Social Welfare and the Social Protection Division of the then Ministry
+of Employment and Social Welfare.
+
+16
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+explained this nation-wide exercise as a way of fulfilling one of the key objectives of LEAP, which is to
+increase health care access among beneficiaries and ensure that the LEAP transfers can be directed at
+consumption and productive livelihood initiatives. As a result, an additional 80,000 LEAP households
+were registered with the NHIS by late October 2016. Although this pace of progress makes the
+achievement of the desired target by December 2016 unlikely, the LEAP-NHIS linkage nevertheless
+remains the most successful example of complementarity in Ghana’s social protection landscape.
+High-level political commitment, especially on the part of the Minister in charge of the MoGCSP from
+2013-2017 (Nana Oye Lithur), is widely considered to have played a key role in facilitating this success
+story. While discussions about linking LEAP households to the NHIS had been ongoing for years, few
+practical measures were taken to operationalize this ‘entitlement’ until the Minister repeatedly declared
+it as priority. The fact that both the pilot and the nationwide registration exercises are fully funded by
+the MoGCSP highlights this commitment. The total cost of the registration exercises is estimated to be
+GHC| 5 million, representing the largest project ever funded for LEAP by the MoGCSP, at a time when
+the project was not originally included in the budget. This raises questions as to how the Minister was
+able to provide substantial off-budget resources for the NHIS registration of LEAP households at a time
+when the national economy was in serious difficulty.
+A key explanation relates to the political incentives of the current ruling National Democratic Congress
+(NDC) party, which assumed office in 2013. In its party manifesto for the December 2012 elections, the
+NDC pledged to increase the number of LEAP beneficiaries and to ensure an ‘expanded coverage of the
+National Health Insurance Scheme (NHIS) to all 71,000 LEAP beneficiary households’ (NDC, 2012: 25).
+The political commitment to the LEAP-NHIS linkages thus seem to have been partly influenced by the
+potential electoral advantages associated with this initiative, which was clearly in line with the electoral
+promises of the ruling party. The electoral advantages of this initiative were also enhanced by the
+highly visible nature of incentives to voters, entailing the provision of free transportation of households
+to registration centres, the provision of free snacks during the registration exercise, and the free
+provision/renewal of NHIS cards. Moreover, President John Mahama expressed strong commitment to
+the implementation of an integrated social protection system in Ghana. He demonstrated this
+commitment in various ways, including through the establishment of MoGCSP in 2013, the
+appointment of a well-respected human rights activist to head this Ministry, and the launch of a
+national social protection policy in June 2016.
+Notwithstanding the observed success, two points of caution should be taken into account: First,
+registration with the NHIS is no guarantee of provision of high-quality health care. The strong increase
+in NHIS coverage among LEAP households has not been accompanied by a commensurate impact on
+the utilisation of health services, nor has it resulted in significant reductions in out-of-pocket health
+expenditure. Moreover, despite the large increase in NHIS coverage among LEAP beneficiaries, this did
+not have any impact on the curative health care seeking behaviour among households (Handa et al.
+2013). Second, issues of sustainability remain a concern. Greater resource allocation will be required to
+fully implement this initiative. Furthermore, there is considerable uncertainty around outcomes of the
+2016 elections and subsequent changes in ministerial appointments.
+
+17
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+2.4. Lessons learned
+i. Putting in place formal agreements with the institutions charged with the responsibility of providing
+complementary social protection services, which spell out roles and responsibilities of each
+implementing institution, is crucial. The MoU between NHIA and the Ministry in charge of LEAP
+implementation was fundamental to laying the foundations for effective collaboration towards
+enrolling LEAP beneficiaries with the NHIS.
+ii. Effective operationalization of formal agreements requires the involvement of ‘champions’ of social
+protection within governing coalitions. While the MoU between LEAP and the NHIA was signed as
+far back as 2010, practical steps towards linking LEAP beneficiaries to the NHIS were only taken after
+the appointment of Minister Nana Oye Lithur for the MoGCSP – a well-known social protection
+activist who enjoyed substantial influence within the governing party at the time. The fact that other
+MoUs between the LEAP and other Ministries such as Agriculture, Local Government and Rural
+Development have not been followed by practical action is a demonstration of the limitations of
+formal agreements in the absence of effective agents of change.
+iii. Implementation of complementary services across institutions is facilitated when institutions share
+objectives or have overlapping mandates, as in the case of the LEAP and NHIA. Implementing
+institutions are likely to take the provision of complementary services seriously, when the outcomes
+of their efforts have direct bearing on their ability to deliver on their core mandates.
+iv. Political economy dynamics – including electoral incentives – should be taken into account when
+aiming to forge linkages. Forging effective complementarities generally requires additional
+resources and the ruling political elites are likely to make such resources available if they deem such
+complementarities compatible with their own political survival strategies. In this respect, politics
+and political economy dynamics are just as important as technocratic factors in the coordinated
+delivery of social protection.
+
+3. CHILE SOLIDARIO
+3.1. Background and programme description
+Chile Solidario was launched during Ricardo Lagos’s presidency (2000–2006) and implemented from
+2002 to 20129. The programme was established following an intense public and political debate, putting
+Chile’s economic and social development model under scrutiny and calling for new policy solutions.
+While conditional cash transfers (CCTs) quickly became very popular in the majority of Latin American
+countries, the Chilean government tried to follow a different strategy by implementing an innovative
+anti-poverty programme based on a multi-sectoral and integrated approach, combining demand- and
+supply-side interventions targeted to the most vulnerable families (MIDEPLAN, 2002). When President
+Ricardo Lagos came into office in 2000, he considered the reduction of extreme poverty to be a priority,
+assigning an expert in poverty eradication policies as the new Minister of MIDEPLAN (Ministry of
+
+9
+
+The programme has since been transformed into the Ingreso Etico Familiar programme, expanding the set of transfers and
+conditions in comparison to Chile Solidario (no longer exclusively targeting families living in extreme poverty) and including a
+more central focus on labour market and productive inclusion features (Cecchini, Robles and Vargas, 2012).
+
+18
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Planning and Cooperation). The establishment of the Chile Solidario programme was directly overseen
+by the Office of the President.
+Chile Solidario was based on the premise that poverty has multiple and interacting dimensions that
+tend to interact with one another, often in accumulating and self-reinforcing ways, thereby provoking a
+vicious cycle of poverty. As a result, only multi-sectoral policy actions directed at these different
+dimensions were thought to be effective in tackling poverty. In addition, while cash transfers were
+considered useful for protecting the most vulnerable groups and improving their living conditions in
+the short term, it was recognized that cash transfers had to be integrated with other interventions
+promoting opportunities and rights. In fact, cash transfers and compliance with conditions was only
+considered secondary to psychosocial support and linkages to services (Cecchini, Robles and Vargas,
+2012).
+Eligibility for Chile Solidario was based on a proxy-means test in four principal domains, namely
+education, income, health and housing. The eligibility threshold varied by municipality in order to
+reflect geographical diversity. Participation was voluntary and during the period 2002–2012 some
+480,000 families (around 2 million people) were invited to participate. Take-up was high with only 2.2
+per cent refusing to participate in the programme and 5.6 per cent not fully completing the application
+(Camacho et al. 2014). Conditions were defined by households and social workers to fit their respective
+situations, with access to cash transfers being conditional upon satisfaction of those conditions, as set
+out in a contract agreement between beneficiary households and social workers (Galasso, 2006).
+Programme participation was limited to a period of five years, divided into two distinct phases: (i) an
+intensive phase of two years and (ii) a follow-up phase of three years. The main components of support
+included cash transfers, additional monetary subsidies, psycho-social support and preferential access
+to social programmes (see Figure 2). Beneficiaries received a monetary transfer (Bono de Protección)
+on a sliding scale over time: 10,500 pesos (USD 15.45) per month for the first 6 months, which was
+gradually decreased to 3,500 pesos (USD 5.15) per month between months 19 and 24. From the third
+year onwards, participants only received an unconditional cash transfer (Bono de Egreso) with an
+amount equivalent to the last (Bono de Protección) transfer, i.e. 3,500 pesos (Schulte, 2007) and no
+longer benefited from psycho-social support. The purpose was to stimulate and promote households’
+efforts in the process of graduation from the programme after five years, reducing the dependence on
+public transfers as much as possible. Indeed, this transfer was considered purely as compensation for
+participation in the programme (Carneiro et al. 2015).
+The most innovative parts of the programme were related to the interactions between the psychosocial support intervention (Puente programme) and the network of social services. In particular, the
+psycho-social support was considered crucial for bringing vulnerable groups into the network of social
+services through tailored interventions (Cecchini et al. 2012). Beneficiaries received ‘preferential access’
+to services, which was believed to be crucial for making the target population ‘visible’ to municipalities
+and service providers (Amior et al. 2012). Moreover, participants benefited from monetary subsidies for
+which they were eligible (but in many cases had not previously taken advantage of) such as the
+Subsidio Unico Familiar (SUF), the Pensiones Asistenciales programme (PASIS) and the Subsidio de
+Agua Potable (SAP).10
+
+10 The Subsidio Único Familiar (SUF) is a family allowance targeted at poor families with children under 18 years, people with
+disabilities and pregnant women. The Pensions Asistenciales programme (PASIS) is a non-contributory system of social
+
+19
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Figure 2: Components of Chile Solidario programme (Martorano and Sanfilippo 2012)
+Psycho-social support
+(Puente Programme)
+
+Bono de Protección
+
+Bono de Egreso
+
+Guaranteed monetary subsidies (SAP, PASIS and SUF)
+
+Preferential access to social programmes
+
+Intensive phase (2 years)
+
+Follow-up phase (3 years)
+
+3.2. ‘Cash plus’ components
+We discuss two major ‘plus’ components of Chile Solidario – one that is inherent to the programme,
+namely psycho--social support – and another that is external to the programme, namely preferential
+access to other social programmes. The discussion demonstrates the overlap and synergetic effects
+between both components given the role of social workers in providing psycho-social support and
+facilitating linkages to services.
+Psychosocial support
+Provision of psycho-social support was considered crucial for bringing vulnerable groups into the
+network of social services through tailored interventions (Cecchini et al. 2012). In the first phase of
+programme participation, psycho-social support consisted of intensive working sessions aimed at
+addressing the specific needs of each beneficiary household (Government of Chile, 2004). This
+component was called the Puente programme and was thought of as the ‘entrance’ into the overall
+Chile Solidario programme.
+The initial period was based on an intensive relationship between social workers and families in order
+to build trust, understand each family’s current situation and develop an action plan (Apoyo familiar) in
+7 dimensions – identification, health, education, family dynamics, housing conditions, work and income
+– along with 53 minimum conditions considered strategically important to evaluate quality of life. This
+action plan represented the basis for evaluating the households’ progress during the following 16–18
+months (until month 24), identifying their weaknesses, ensuring their access to monetary subsidies and
+providing access to services that better responded to the needs of each household.
+
+pensions which provides benefits for people over 65 years (who do not receive contributory pensions) and for disabled and
+mentally ill people living in poverty. The Subsidio de Agua Potable (SAP) is a transfer amounting to 100% of water bills for up
+to 15 cubic meters of the monthly consumption.
+
+20
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+The component of psycho-social support consisted of 21 home visits of 40–45 minutes each. These
+home visits were made by social workers and were more frequent during the first 6–8 months, but
+decreased over time. Social workers were located at the municipality level and professionally trained
+as Family Counsellors (Camacho et al. 2014:14).
+Facilitating linkages to services
+Promoting access to social services was considered instrumental to improving living standards of the
+poor, particularly as various vulnerable groups experienced problems in accessing services or
+programmes. Before the introduction of the Chile Solidario, only 4 out 10 among the poorest and
+eligible households benefitted from the Subsidio Unico Familiar (SUF) (Amior et al. 2012). Lack of
+information, high transaction costs and psychological factors were identified as barriers to the access
+of services (Clert, 2000; Amior et al. 2012). The programme therefore tried to reconnect participants to
+the network of social services and to rebuild social capital at the local level by promoting an active
+engagement of beneficiaries. In order to do this, it was important that (i) the government put in place
+the necessary conditions and opportunities for the families to get access to the network of social
+programmes and services; (ii) families had sufficient and timely information on existing resources; and
+(iii) social workers acted as intermediaries between families and the institutional network of social
+services.
+In the first two years of programme implementation (2002-2004), the government worked to ensure an
+adequate supply of social services. Many programmes for vulnerable groups already existed before
+Chile Solidario, but no mechanisms were in place to assure the integration and synchronization of
+programmes and services. Chile Solidario promoted the coordination of services at the municipal level
+with the aim of assuring that the supply of services matched the demand of participating families.
+Evidence highlights that the programme was able to facilitate access to health and education services
+and social programmes (Chamaco et al. 2014; Carneiro et al. 2015; Galasso, 2006; Martorano and
+Sanfilippo, 2012; Perticara, 2007) especially in urban areas (Galasso and Carneiro, 2007). New
+programmes were created in subsequent years of programme implementation, including labour
+market access, skills training and micro-finance interventions that exclusively targeted families
+participating in Chile Solidario in order to promote employment (Government of Chile, 2004).
+Social workers played a crucial intermediary role among participants, existing social services and local
+communities. They provided the families with the necessary information and suitable guidance,
+thereby ensuring their access to the existing programmes and services. They were also pivotal in
+supporting families to autonomously navigate the social service network and to sustain improved
+living conditions in the long run. This was done through the development of skills, capabilities,
+information as well as autonomy and self-efficacy.
+
+21
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+3.3. Explaining success
+Various factors can be identified to have played key roles in facilitating the implementation of the ‘plus’
+components of Chile Solidario.
+A crucial factor in facilitating coordination of services at the municipal level and overcoming initial
+frictions (CEPAL, 2003) was the promulgation of the Law 19,949 in 2004 and its associated regulations
+(Palma and Urzúa, 2005). This law contributed to clarifying the procedural norms as well as improving
+the management of the Chile Solidario system in addressing potential institutional conflicts (ibid). In
+particular, the law charged the Ministry of Planning and Cooperation (Ministerio de Planificacion y
+Cooperacion – MIDEPLAN) with administration, coordination, supervision and evaluation of the
+programme. One of the consequences was that the different institutions operating in areas such as
+education, health, housing, justice and labour had to work in cooperation with MIDEPLAN to provide
+preferential access to programme beneficiaries.
+A second factor pertains to the devolution of programme implementation to sub-national and local
+levels and the focus on addressing supply-side constraints. Direct responsibility for implementation of
+the Puente programme at central, regional and municipal levels was transferred to the Fondo de
+Inversión Social (FOSIS),11 while responsibility for programme execution at local level was transferred
+to the Family Action Unit. This unit played a crucial role in ensuring and promoting coordination within
+the existing institutional supply of public and private services at local level. A Local Action Network
+convened by the municipality and composed of public and private service providers supported the
+Family Action Unit to better identify gaps and to promote solutions to achieve the targeted population
+(Ruz and Palma, 2005). Qualitative indicators were collected regularly on the local supply side (Carneiro
+et al. 2009) as well as on the social and demographic characteristics of each family participating in Chile
+Solidario, and progress and problems over each period (Larrañaga et al. 2015); this was aimed at
+facilitating creation and re-orientation of programmes. If the existing supply of services was insufficient
+for meeting minimum conditions, municipalities could turn to the provincial and regional levels for
+resources to address the constraints (Schulte, 2007). The reorganisation of public services at the local
+level also moved psycho-social support from its traditional position of a single stand-alone intervention
+to its integration into a comprehensive and coordinated system of social protection.
+The strong role of well-trained social workers at the municipal level can be considered another key
+factor for success of the Chile Solidario programme. The contribution of social workers was
+strategically important in achieving good results in education and health because they worked closely
+with the families. This highlights the importance of health system enrolment or school attendance for
+the facilitation of physical and cognitive child development (Martorano and Sanfilippo, 2012). In
+addition, the activity of social workers was crucial in promoting the take-up of additional monetary
+subsidies that were available to beneficiary households (Hoces de la Guardia et al. 2011).
+Analyzing the case of the Subsidio Unico Familiar, Amior et al. (2012) explain that the increasing access
+to this benefit by poor people was due to the increasing flow of information as well as the decreasing
+application costs. Social workers operated at the municipality level and were incorporated into the local
+Family Intervention Unit (UIF). The number of social workers for each municipality was based on the
+
+11 FOSIS was created in 1990 with the aim to design, finance and implement programmes for promoting employment and social
+development. FOSIS also designed the Puente Programme (Palma and Urzúa, 2005).
+
+22
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+number of participating families in the area. Between 2002 and 2006 there were around 2,400 social
+workers, half of whom were municipal employees while the others were contracted through
+competitive public bids within the municipalities and under mutual agreement between the FOSIS and
+the UIF (Schulte, 2007). Social workers were professionally trained as Family Counsellors (95% were
+university graduates) and each had a case load of 60–100 families (Camacho et al. 2014: 14).
+
+3.4. Lessons learned
+i. Legislative frameworks are important for setting out roles and responsibilities across implementing
+agencies, especially when many sectors are involved. In the case of Chile Solidario, the
+promulgation of the 2004 law institutionalized the content of the programme transforming political
+will into a legal mandate. It clarified the specific role of the different actors facilitating the
+management and the implementation of the programme, reducing potential conflicts among
+participating agencies and promoting the coordination of institutional activities across levels and
+sectors.
+ii. Addressing supply-side constraints is vital for achieving positive change. The programme’s success
+in facilitating access to services and social programmes was enhanced by the ability of the
+programme to work on the supply-side, improving the quantity and quality of services. A larger
+impact was achieved when the expansion of the supply of social services was effectively
+implemented and services were tailored to the needs of the targeted population. By contrast, Chile
+Solidario was less effective when policy interventions were rationed, as in the case of housing
+programmes.
+iii. Social workers play crucial direct and indirect roles. Their close work with families directly promotes
+children’s physical and cognitive development and psycho-social well-being. The programme
+registered positive impacts on participants’ subjective well-being (Chamaco et al. 2014) in terms of
+high aspirations (Trucco and Nun, 2008) and optimism (Carneiro et al. 2015), better future
+expectations (Galasso, 2006) and positive attitudes for dealing with problems (Perticara, 2007).
+Qualitative evidence shows that the activity of social workers was important in promoting a
+forward-looking orientation and restoring the confidence and self-image of individuals (Universidad
+de Chile, 2004; Asesorias para el Desarrollo, 2005, Trucco and Nun, 2008). Social workers also
+proved vital for linking beneficiaries to services to which they have preferential access. They were
+crucial in promoting the take-up of subsidies (Hoces de la Guardia et al. 2011). It should be noted
+that the programme was less able to activate the demand for public services among certain groups,
+particularly the poorest (Trucco and Nun, 2008). In some cases, lack of improvement in employment
+or income generated dissatisfaction and mistrust directed at public institutions and social workers
+(ibid).
+
+23
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+4. ETHIOPIA: INTEGRATED NUTRITION SOCIAL CASH TRANSFER (IN-SCT) PILOT
+4.1. Background and programme description
+In 2005, the Government of Ethiopia launched the Productive Safety Net Programme (PSNP) as an
+innovative approach to address food insecurity and hunger, especially in the historically famine-prone
+rural highland areas. Before the PSNP, Ethiopia made annual emergency appeals for food aid, which
+addressed immediate food needs but left millions of households chronically food insecure and
+dependent on further food aid appeals the following year. The theory of change behind the PSNP was
+that providing food insecure households with a sustained package of support for several years would
+enable them to accumulate productive assets and achieve self-reliant livelihoods, where self-reliance
+was defined as the ability to cover household food needs all year round and to withstand moderate
+shocks (FSCB, 2007). Households were eligible for the PSNP provided they were chronically food
+insecure. A chronically food insecure household was defined as a food aid recipient for the previous
+three years12. Eligible households with labour capacity were assigned to Public Works (temporary
+employment on labour-based community infrastructure projects), and those with no labour capacity
+received Direct Support (unconditional food or cash transfers for six months every year).
+Since its inception the programme has been widely expanded, has undergone a number of reforms
+and has been subject to rigorous mixed-method programme evaluations. The programme has been
+found to reduce household vulnerability, food insecurity, and distress sale of assets (Berhane et al.
+2011). However, the programme has had little effect on child nutrition and use of health services has
+remained low (UNICEF, 2016).
+In 2015, the government launched Phase 4 of the PSNP. PSNP4 includes several innovations designed
+to strengthen the programme and improve its outcomes, particularly with respect to nutrition and
+health (UNICEF, 2016). Changes include increases in quantity and duration of transfers and greater
+integration with delivery of social services such as health and nutrition services. Food and cash transfer
+payments were raised for Public Works and Direct Support participants, in response to evidence from
+previous evaluations demonstrating that payments were too small to achieve any significant impact.
+The duration of transfers was also extended from six months to twelve months for Permanent Direct
+Support (PDS) beneficiaries. A new category of Temporary Direct Support (TDS) beneficiaries was
+created for pregnant and lactating women (PLW) or malnourished children’s caregivers, who were
+Public Works participants. Pregnant and lactating women (PLW) and malnourished children’s caregivers
+will temporarily move from Public Works (PW) into Temporary Direct Support (TDS).
+The new round of PSNP also introduces co-responsibilities for TDS beneficiaries, aiming to improve
+their take-up of health and education services. Finally, PSNP4 also allows malnourished children’s
+caregivers from outside of the programme to move into TDS for duration of the period during which
+the child is assessed as malnourished.
+The Integrated Nutrition Social Cash Transfer (IN-SCT) pilot project is embedded within PSNP4 and
+aims to test a case management model to optimise the innovations within PSNP4 and maximize
+impacts for DS beneficiaries, particularly with respect to child nutrition. The pilot is supported by
+
+12 The full targeting process includes geographical targeting of food insecure districts by the Ministry of Agriculture and Food
+Security Directorate, followed by community-based targeting of food insecure households within selected districts.
+
+24
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+UNICEF and is implemented in collaboration with the Ministry of Agriculture (MoA), Ministry of
+Education (MoE), Ministry of Health (MoH) and the Ministry of Labour and Social Affairs (MoLSA) in
+two woredas (districts) in two regions in Ethiopia, namely Oromia and SNNP. It involves social workers
+and community-based structures in providing case management and setting up linkages between
+services for PDS and TDS beneficiaries. The pilot commenced in early 2016 and aimed to develop and
+test the coordination between the three parties (MoA, MoH and MoLSA) at different administrative
+levels in terms of information sharing, case management and capacity building. It also includes the
+implementation of nutrition-sensitive interventions such as the rehabilitation of existing Farmer
+Training Centres (FCTs), establishment of nutrition clubs at schools and school gardens. These
+interventions are implemented Concern Worldwide. The lessons drawn from this pilot will inform the
+design and implementation of the future National Nutrition Programme (NNP), the next phase of the
+PSNP and the National Social Protection Policy and Strategy (UNICEF, 2014).
+In so doing, the IN-SCT pilot aims to achieve increased uptake of social services by PDS and TDS
+households; improve knowledge, attitudes and practices of PDS and TDS households regarding
+nutritional, sanitary, health, child protection and educational behaviour; and increase understanding of
+the roles and responsibilities of actors such as social workers and community-based committees in
+achieving improved outcomes (Schubert, 2015).
+In terms of this case study, we explore the ‘plus’ components as introduced within PSNP4 and in light
+of the specific implementation modality of IN-SCT.
+
+4.2. ‘Cash plus’ components
+PSNP4 and the IN-SCT pilot include a comprehensive package of ‘plus’ components in recognition of
+the need for a comprehensive approach to achieve positive impacts, including participation in nutritionsensitive activities, supplementary feeding, psycho-social support and coordinating linkages to services
+(Schubert 2015). We discuss two main components – one that is integral to PNSP4 at large, namely
+Behaviour Change Communication (BCC) and improvement of knowledge – and one that is specific to
+the IN-SCT pilot, namely the implementation modality predicated on a system of case management
+and referrals.
+BCC and improvement of knowledge
+An important component of the programme’s theory of change focuses on increasing participants’
+knowledge in order to change attitudes and practices towards improved outcomes for children,
+particularly with respect to nutrition but also sanitation, health and child protection measures
+(Schubert, 2015). To promote health-seeking behaviour and improved child-care practices, and to
+increase the PSNP’s nutritional impact, Public Works participants (both male and female) are required
+to participate in behavioural change communication (BCC) sessions on nutrition and related topics
+while working on public works projects (Schubert, 2015). Participation in such sessions replace
+participation in a public works session. They are complemented with wider community conversations,
+activities in school clubs, and integration of messaging in the school curriculum (UNICEF, 2016). BCC
+activities make use of existing tools for promoting good nutrition, health and sanitation practice as
+already used by Health Extension Workers (HEWs) where available; otherwise existing materials may
+be adapted or new materials are developed (UNICEF, 2016). BCC sessions are implemented under the
+guidelines of the MOH. Direct Support beneficiaries will be exposed to BCC through their direct contact
+with HEWs in line with co-responsibilities.
+
+25
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Case management and referrals
+PSNP4 introduces ‘co-responsibilities’ for Temporary Direct Support (TDS) beneficiaries. Within the
+IN-SCT pilot, social workers are pivotal in administering and monitoring the co-responsibilities. Social
+workers in collaboration with officers from the relevant sector ministries and with the ground level
+committees (Health Development Army, Social Development Committee and the Community Care
+Coalition (CCC) or Community-Based Social Protection Committee (CBSPC)) at woreda and kebele
+(sub-district) levels, to determine what co-responsibilities are appropriate depending on the availability
+of easily accessible basic services (UNICEF, 2014).
+Importantly, PSNP4 does not provide health and other social services directly, but the Government of
+Ethiopia has invested in the supply-side to facilitate increased uptake of these services on the demandside. Local-level staff – Development Agents (DAs), Health Extension Workers (HEWs), and Social
+Workers (SWs) – interact directly with PSNP participants, advising them and linking them to services,
+for instance by referring individuals to relevant health services (see Table 1). Social Workers have
+specific responsibilities to ensure that PSNP participants move between Public Works and Direct
+Support as indicated, and to monitor co-responsibilities and engage with households that have
+difficulties with compliance. They are also tasked with strengthening community-based mechanisms
+and providing psycho-social support to programme participants (Schubert, 2015).
+
+Table 1: Overview of tasks for DA, HEW and SW
+Development Agent (DA)
+ Select and design Public Works projects in line with prioritised community needs
+ Oversee the implementation of Public Works projects
+ Prepare PSNP attendance and payments lists
+ Support business plan development for participants pursuing the crop and livestock livelihood
+pathway
+ Provide technical assistance and mentoring to participants who receive livelihood transfers
+Health Extension Worker (HEW)
+
+ Participate with local Food Security Task Forces (FSTF) in PSNP targeting, and the graduation
+process
+ Identify households with malnourished children and refer them to PSNP for Temporary Direct
+Support
+ Plan implementation of behaviour change communication (BCC) in collaboration with local DA
+ Provide behaviour change communication (BCC) on nutrition, hygiene and sanitation to PSNP
+clients
+ Track attendance of PSNP Temporary Direct Support clients at health centres and participation in
+BCC
+SCT Social Worker (SW)
+ Strengthen the capacity of Community-Based Social Protection Committees (CBSPC)
+ Collect Permanent Direct Support (PDS) and Temporary Direct Support (TDS) beneficiaries of the PSNP
+ Enhance access of vulnerable community members to services (health, education, social, justice)
+ Provide psycho-social support to PDS and TDS households and other highly vulnerable people
+ Manage the cases of SCT clients who are not complying with their co-responsibilities
+Source: Schubert 2015: Annex 7b and Annex 8
+
+26
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+4.3. Explaining success
+As the implementation of this IN-SCT pilot only commenced early 2016 and is still underway at the time
+of writing, the assessment of success factors for implementation will be based on the baseline study of
+the overall evaluation. This study was undertaken a few months into programme implementation
+(Gilligan et al. 2016).
+Baseline findings revealed that PSNP participants have good knowledge of appropriate child feeding
+practices and high self-reported rates of exclusive breastfeeding. The baseline fieldwork also found
+high levels of knowledge, attitudes and practises on hand-washing, and on use of latrines and toilets
+rather than open defecation (Gilligan et al. 2016). The most likely explanation for these positive findings
+is that Health Extension Workers (HEWs) and Development Agents (DAs) have already been posted in
+local communities for several years, spreading messages about good child care, nutrition and
+sanitation practices which have been widely adopted. Both quantitative and qualitative findings from
+the baseline survey indicate that HEWs provide strong support to PLW, with 78 per cent of women
+having received some form of antenatal care during their last pregnancy, and that HEWs have been
+instrumental in disseminating knowledge about good nutrition (Gilligan et al. 2016). One challenge
+identified in the baseline was access to clean drinking water – this was a drought year in the study
+communities, and drinking water was far away and/or expensive for many households. While the
+IN-SCT includes a small component of water source development in its package of nutrition-sensitive
+interventions implemented by Concern Worldwide, the remit of support is too limited to address this
+challenge.
+Given the pivotal role of social workers in implementing co-responsibilities and establishing linkages to
+other social services, their performance is a key component for success of the pilot. Experiences with
+respect to social workers have been mixed since the start of the pilot. PDS and TDS beneficiaries in
+SNNP region appeared more aware of who the SWs were and received more support compared to
+beneficiaries in Oromia region (Gilligan et al. 2016). These mixed experiences across regions are also
+reflected in beneficiaries’ perceptions of collaboration across SWs, DAs and HEWs, with beneficiaries
+from SNNP region pointing towards a truly integrated and collaborative approach. A potential
+explanation for the regional discrepancies is that Oromia also employs government para-social
+workers, who were already in post before the start of the IN-SCT pilot and have agreed to share
+responsibilities with the IN-SCT project social workers. No government social workers are in place in
+SNNP region, which may be reflected in lower levels of outreach and capacity on behalf of social
+workers. Social workers across both regions reported facing logistical constraints in performing their
+jobs, most notably lack of suitable means of transportation (Gilligan et al. 2016). Also, although it is
+part of their job description, few social workers had engaged in the provision of psycho-social support
+as a result of logistical and capacity constraints.
+The fourth phase of PSNP includes a number of innovations, some of which require strong
+collaboration across sectors. Most notably, the transition of pregnant and lactating women (PLW) and
+of caregivers of malnourished children from Public Works to Temporary Direct Support requires DAs,
+HEWs and SWs to work together. Early findings from the qualitative baseline survey suggest that
+transitions of caregivers of malnourished children only occurred sporadically in the first year of
+implementation. Transitions of PLW have occurred but often with a high degree of confusion regarding
+roles and responsibilities as part of this process. Factors playing into these issues include lack of
+knowledge on behalf of HEWs and DAs as well as lack of commitment. While knowledge of procedures
+associated with new components of PNSP4 and modality of implementation as part of the IN-SCT pilot
+
+27
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+was high among staff directly linked to the IN-SCT pilot – notably the social workers and programme
+coordinators – detailed knowledge was less widespread among DAs and HEWs. Particularly HEWs
+appeared to have limited awareness of PSNP innovations at large and those relevant to their work –
+including the transitions of PLW and caregivers of malnourished children from PW to TDS. Similarly,
+commitment to collaboration was identified as limited among sectors without direct involvement in
+PSNP and the IN-SCT (Gilligan et al. 2016).
+
+4.4. Lessons learned
+i. Strong long-standing supply of services is crucial for achieving impact in areas of health, nutrition
+and positive behaviour change. The local-level presence of HEWs in communities across Ethiopia
+has greatly improved knowledge regarding positive health, nutrition and hygiene practices for
+children and has ensured the percolation of health care to the majority of the population. Building
+on and strengthening the supply of services is crucial for the achievement of positive impacts
+following referral to services.
+ii. Successful case management and referral hinge on a well-trained and well-resourced cadre of social
+workers. While collaboration across sectors requires the involvement of staff from different sectors,
+social workers represent the focal persons maintaining oversight and overall responsibility for
+linking beneficiaries to services and following up on their use. The availability of ample resources
+and practical means are crucial for social workers to perform their tasks successfully.
+iii. Cross-sectoral linkages to services requires strong knowledge and commitment of roles and
+responsibilities on behalf of all parties involved. The lack of knowledge and limited degree of
+commitment within the health sector appears to form an impediment to the successful
+establishment of linkages between programme components and across services.
+iv. For ‘cash plus’ programmes to achieve its intended impacts, its components need to provide or link
+to relevant services that assist beneficiaries in overcoming key obstacles towards improved
+outcomes. IN-SCT invests heavily in creating awareness to affect behaviour change while
+knowledge about feeding, health and hygiene practices is already high. At the same time, lack of
+access to water – a main barrier to improving nutrition, health and hygiene practices – is only
+addressed in limited manner.
+
+5. CRITERIA FOR SUCCESS AND CHALLENGES AHEAD
+This section summarizes the main lessons learned regarding successful implementation of ‘cash plus’
+components from the three case studies above, and documentation from other programmes where
+available. We identify lessons learned for the implementation of ‘cash plus’ components integral and
+external to cash transfer programmes, as per the ‘cash plus’ menu presented in Figure 1. While many
+of these lessons refer to the design and implementation of social protection more generally, we focus
+specifically on issues regarding the provision of complementary support and cross-sectoral linkages.
+
+28
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+5.1. Politics matter
+Political commitment is crucial for forging relationships between implementing ministries and
+institutions, and for committing the necessary resources for operationalising linkages between
+programmes and services. The Ghana case study exemplifies the crucial role of political leadership in
+affecting change. It highlights how personal commitment by political champions such as the Minister
+and President can act as a catalyst for implementing programme linkages. A similar observation can be
+made for the Chile case study, where the instalment of the new President formed an important impetus
+in the fight against extreme poverty and the establishment of Chile Solidario. The importance of
+political advocates has also been noted elsewhere. In Kenya and Brazil, for example, champions within
+the respective ministries were considered crucial for driving capacity-building, scale-up and
+coordination of programmes across sectors (EC, 2015: 38).
+The Ghana case study also highlighted how political dynamics in reference to elections and electoral
+incentives can provide impetus to a process of linking beneficiaries across sectors. Indeed, politics and
+the way in which social protection interacts with political processes is widely recognized as a key driver
+in determining the shape and scope of individual programmes and wider social protection systems
+(Hickey, 2007). Social protection can be instrumental to establishing political settlements in any given
+country (Lavers and Hickey, 2015).
+While the need for political commitment and importance of political dynamics holds for the expansion
+and sustainability of social protection interventions in general, their role is compounded with respect to
+‘cash plus’ programming. The integration of additional components and facilitation of access to
+services across sectors do not merely require a strong push from within the social welfare sector and
+negotiations with the Ministry of Finance; they also call for engagement with and creation of
+commitment across social sectors.
+
+5.2. Formal agreements are a necessary foundation
+Formal cross-institutional agreements provide a fundamental foundation for operationalising crosssectoral linkages. The experience in Ghana demonstrates the importance of a Memorandum of
+Understanding (MoU) that clearly delineates the roles and responsibilities of each implementing
+agency, allowing the linkages between LEAP and NHIS to become actionable. In Chile, legislative
+frameworks vitally underpinned the coordination of services across sectors. While they do not present
+a sufficient condition for change in and of themselves, they form the necessary foundation for action
+when leadership and resources are available.
+The role that legal frameworks and social protection strategies can play has also been recognized by
+Kaltenborn et al. (2017). Their review of legal and policy documents underpinning existing social
+protection schemes found that social protection strategies, and particularly the processes through
+which they are formulated, can galvanise action and serve as a frame of reference for building social
+protection systems. National legislation underpinning social protection policy is crucial for holding
+government to account for its statutory obligations for providing a basic level of income security and
+services to its citizens. As a case in point, South Africa has long been hailed for its rights-based
+approach to social protection policies, while Kenya provides an example of how the establishment of
+policy and legislative frameworks can support shifts towards a social protection system (ibid). Again,
+the existence of such frameworks is important for social protection as a whole but is particularly vital
+for establishing cross-sectoral collaboration and providing accountability frameworks across sectors.
+
+29
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+5.3. Awareness and engagement of all stakeholders is imperative for coordination
+Lessons from both Ghana and Ethiopia point towards the importance of staff at all levels having
+detailed knowledge of and commitment to programmes’ ‘plus’ components for their success.
+Experiences in Ethiopia show that awareness of ‘plus’ components was comparatively low among
+service staff that are most removed or indirectly involved in the implementation of the social protection
+intervention. While the development agents and social workers were relatively well aware of
+programme guidelines and their roles within programme processes, the health extension workers had
+poor knowledge of the linkages between different components of the PSNP and their role in
+establishing such linkages, which hampered their implementation.
+Coordination at programme and policy level is crucial for creating effective programme linkages (UNICEF
+and WB, 2013). Chile Solidario’s umbrella function, overarching the Puente and other programmes, is
+deemed to be a key factor in its success to integrate cash transfers with other services (ibid). Sub-national
+and local level efforts underpin any such integration. In Ghana, regular engagements between staff from
+across sectors were found helpful in promoting knowledge on programme-specific criteria and fostering
+collaboration. Regular meetings and engagements on the ground between LEAP and NHIS programme
+staff at local and district level were considered vital to the recent success in expanding the registration of
+cash transfer beneficiaries into the health insurance system.
+
+5.4. Personalized approaches require a skilled workforce and ‘the right person in the
+right place’
+An important part of the appeal and positive effect of ‘plus’ components such as psycho-social support
+and case management is their tailored response taking into account household-specific and individual
+issues of concern. A large part of Chile Solidario’s success can be attributed to the support of skilled
+social workers that provided programme beneficiaries with a tailored response that helped them
+overcome personal barriers and navigate a complex system of social services. In Ethiopia, more
+personalized responses to beneficiaries’ and their households’ needs were the core of the IN-SCT
+pilot’s theory of change, aimed at galvanizing the impact of cash transfers with respect to nutrition and
+health outcomes. The benefit of intense and personalized responses has also been recognized in
+parenting support programming (Engle et al. 2011) and ‘graduation’ programming (Roelen and
+Devereux, 2017).
+The provision of more personalized approaches within cash transfers holds strong implications with
+respect to human resource requirements. Firstly, it demands a skilled and qualified cadre of social
+service workers. These can include professional or paraprofessional social workers, child and youth
+workers or community workers (see Global Social Service Workforce Alliance, 2015). The social service
+workforce in most low- and middle-income countries is highly strained suffering staff shortages and
+qualification gaps (ibid), making the development of a qualified social service workforce a top priority
+for advancing ‘cash plus’ interventions. Secondly, the provision of more tailored and personalised
+approaches also requires ‘the right persons to be in the right places’ and to offer appropriate support.
+While the provision of psycho-social support – such as within Chile Solidario and the IN-SCT in Ethiopia
+– requires well-trained social workers, the administrative processes of application and transfers
+payments could be implemented by a cadre of administrative staff. Yet many programmes that aim to
+provide more comprehensive support beyond cash alone tend to focus narrowly on social workers as
+implementers of a wide set of programme activities, ranging from social support to data entry (Roelen
+et al. 2016a).
+
+30
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+At the other end of the spectrum there is also heavy reliance on community volunteers as a way of
+increasing community participation, filling capacity gaps and offering a cheaper alternative to the
+employment formal social service providers. The reliance on community volunteer structures has
+proven to be crucial for the effective implementation of programmes in Kenya and Zambia, for
+example, but are also feared to be unsustainable (Kardan et al. 2016). Effective implementation for
+‘cash plus’ interventions therefore calls for creative and sustainable human resource solutions that
+build on a formal workforce, with appropriate division of tasks and responsibilities.
+
+5.5. Establishment of linkages to services across sectors requires case management
+Case management will be crucial for the effective implementation of ‘cash plus’ interventions in terms
+of their facilitation of access to and use of services. Experiences in Chile and Ethiopia clearly indicate
+that effective linkages to services requires mechanisms overseeing the referral to services, monitoring
+of the use of such services and follow-up in cases of non-take-up. Operationalizing such mechanisms
+requires a focal point with clear responsibility and oversight over individual cases with a mandate to
+ensure support from across sectoral services (Roelen et al. 2012). Such focal points – by
+communicating procedures, roles and responsibilities – ensure coherence and consistency on behalf of
+the service providers. They perform a similar function on behalf of the programme participants – by
+assessing household needs and identifying effective responses (ibid).
+Chile Solidario is a case in point for highlighting the importance of case management. It has been
+widely applauded for its ability to act as an umbrella and refer families and their children to appropriate
+programmes and services (see EC, 2015). Experiences from other low-income countries also point
+towards the potential of case management approaches. The Community Case Management (CCM)
+approach in Mozambique intends to bridge social protection and child protection services, working
+with Child Protection Community Committees (CPCCs) for the identification of and response to
+vulnerable children and their needs (Roelen, 2011). Successful case management and integration of
+programmes across sectors at scale will also depend on implementation of MISs.
+In Latin American countries, the provision of an integrated response with clear coordination
+mechanisms involved the decentralisation of services to ensure greater streamlining of the supply side.
+In Chile, the reorganisation of public services – including the devolution of mandates and
+responsibilities to subnational level – proved vital for strengthening collaboration between
+implementing agencies from different sectors. Similar models of decentralized delivery can be
+observed in Brazil and Mexico (EC, 2015).
+
+5.6. Greater ambitions need to be matched with greater resources
+While the implementation of ‘plus’ components with links to multiple services can increase their impact,
+there are important resource implications. ‘Plus’ components can be expensive, particularly when aiming
+to link social protection beneficiaries to a range of services and offer monitoring and follow-up support.
+The Ghana case study provides a pertinent example of how the commitment of financial resources
+proved the necessary catalyst for action in registering LEAP beneficiaries with the NHIS.
+Financial implications of more comprehensive packages also feature heavily in debates about
+‘graduation’ programming (Banerjee et al. 2015). Despite heavy resource requirements associated with
+the implementation of integrated approaches, the majority of programmes appear cost-effective (ibid).
+The importance of sufficient funds being allocated towards programme administration is illustrated by
+
+31
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+the Pantawid Pamilya Pilipino Programme (PPPP) in the Philippines. This is an example of a strict
+spending cap on administrative costs, which causes frontline staff to be overloaded and severely limits
+their ability to successfully administer the programme or provide support beyond cash (Schelzig, 2017).
+Enthusiasm for ‘cash plus’ interventions thus needs to go hand-in-hand with a realistic understanding
+of resource requirements in order to adequately plan and implement resource mobilisation strategies.
+
+5.6. Demand-side interventions needs to be matched with supply-side investments
+All case studies clearly highlighted that ‘cash plus’ interventions can only be successful when services
+are widely available and of high quality. Low quality of health care was considered an impeding factor
+for achieving positive impacts from the LEAP-NHIS complementarity in Ghana. Supply-side constraints
+were also found to be a key factor in undermining Chile Solidario’s impact. In Ethiopia, nutrition and
+hygiene practices for children were severely hampered by the lack of clean drinking water as a result of
+the drought.
+The need for demand induced by ‘cash plus’ schemes to be matched with high-quality supply of
+services for achieving impact was also discussed by Ulrichs and Roelen (2012) in reference to the
+Oportunidades CCT scheme in Mexico. They argue that the programme fails to affect positive change
+for indigenous people in part due to the low quality of educational and other services. In terms of the
+PPPP in the Philippines, supply-side constraints and low quality of services in education and health
+were found to impede positive impacts of the programme, particularly with respect to immunization
+(Chaudhury et al. 2013). This need for supply-side investments to make ‘cash plus’ interventions
+effective compounds the need for the mobilisation of political will and formal agreements that were
+mentioned earlier, as they form the foundation of advocacy for such investments.
+
+5.7. ‘Cash plus’ components need to be fit-for-purpose
+Finally, ‘cash plus’ interventions need to respond to the need in an appropriate way. In Ethiopia, for
+example, the theory of change in the IN-SCT attributes high rates of stunting to lack of knowledge.
+However, the baseline survey found that knowledge about dietary and hygiene practice is generally
+high and that other factors – such as lack of clean water – play a significant role in preventing people
+from putting knowledge into practice. A heavy focus on BCC and knowledge creation may therefore
+have a much smaller effect than anticipated. ‘Cash plus’ can provide a powerful approach to
+maximising impacts of cash transfers, but only if accompanied with a sense of realism and pragmatism
+about an appropriate and feasible response to the pressing challenges at hand.
+The Foster Child Grant (FCG) in South Africa presents a case in point. As receipt of the grant goes
+hand-in-hand with regular monitoring and supervision by social workers and placement reviews by the
+courts, the social work and judicial systems are under great pressure with delays and payment arrears
+as a result. While the programme was originally designed as a child protection mechanism, many
+children living without their biological parents have turned the FCG into a de facto poverty reduction
+scheme, calling in question the need for social worker assessments and follow-up for all cases (Roelen
+et al. 2016b). More generally, the notion of ‘cash plus’ presupposes a centrality of cash transfers that
+may not be appropriate in all contexts. While poverty and lack of income presents a key barrier to
+achieving second-order impacts, other obstacles might be more pertinent, calling for cash transfers to
+take a more supportive role. With respect to Chile Solidario, cash transfers were only secondary to its
+prime programme components of psycho-social support and facilitation of access to other services
+(Cecchini et al. 2012). In light of the multi-faceted nature of poverty, the provision of tailored guidance
+
+32
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+and positive support was considered most important to assist extremely poor families. Cash transfers
+acted as support or incentive for facilitating behaviour change.
+
+CONCLUSION
+This paper aimed to identify key factors for success for the implementation of increasingly popular
+‘cash plus’ programmes, based on (i) a review of the emerging evidence base of ‘cash plus’
+interventions and (ii) an examination of three case studies, namely Chile Solidario in Chile, IN-SCT in
+Ethiopia and LEAP in Ghana. The analysis was guided by a conceptual framework proposing a menu of
+‘cash plus’ components. The menu distinguishes between components that are integral to cash transfer
+programming – additional or in-kind benefits, information/ sensitization/ and behavioural change, and
+specialized case management – and others that are external to cash transfer programming – provision
+of access to services, and facilitating linkages to services.
+Analysis of the case studies provides key lessons learned for effective implementation of ‘cash plus’
+programmes. These include policy level factors; namely the importance of political champions in
+advocating in favour of social protection and ‘cash plus’ programmes in particular and the
+establishment of formal agreements, programme level factors; namely the need for awareness and
+engagement on behalf of all parties, the availability of a skilled and appropriate workforce, the use of
+case management, and the availability of greater resources, and supply-side level factors; namely the
+greater investments in availability and quality of services and potentially reorganization of services.
+Finally, ‘cash plus’ interventions should be ‘fit-for-purpose’ – in other words, their components should
+be appropriate for their intended purpose. This may mean that cash transfers take centre stage or that
+they exist in support of other more prominent components, such as in Chile Solidario.
+The assessment of three case studies indicated that effective implementation of ‘cash plus’
+components has indeed contributed to greater impacts of the respective programmes. It has thereby
+addressed some of the non-financial and structural barriers that poor people face and has reinforced
+the positive effects of cash transfer programmes. The analysis also highlights the ways in which ‘cash
+plus’ programming can make access to services more ‘pro-poor’. This is done through explicit efforts
+to include the poor and most marginalized – going further than simply lifting their financial constraints.
+Both integral and external ‘cash plus’ components enable services to be more pro-poor. In Ghana, the
+poorest segments of the population are automatically enrolled in the NHIS. In Chile, vulnerable groups
+gained knowledge of and received preferential access to a set of social programmes at local level. In
+Ethiopia, the poorest members of the community receive coordinated support from trained social
+workers.
+We conclude by reflecting more broadly on the programmes’ increasingly ambitious theories of
+change, and the need for more innovative monitoring and evaluation.
+While there is no doubt that a more holistic approach to social protection programming can achieve
+greater impacts, there is a need for critical realism about the extent to which interventions targeting
+households and individuals can achieve positive change in contexts of addressing widespread poverty,
+inequality and power imbalance. While the rationale of ‘cash plus’ interventions explicitly recognizes
+
+33
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+the need for supply-side investments, positive change remains predicated on the notion of individual
+action rather than structural change.
+Furthermore, the exploration of success factors for the implementation of ‘cash plus’ components at
+large should not make us disregard the constraints faced by the most vulnerable and how such
+constraints can be overcome. All the programmes explored in this paper suffered from challenges in
+reaching marginalized groups, and ensuring full participation in cash transfer programmes and
+opportunities for making use of their ‘plus’ components should be a key concern when designing and
+implementing ‘cash plus’ programmes. The issue of conditionality is a case in point: while conditions
+are often introduced in explicit recognition of non-financial barriers, they may produce exclusion
+errors, impose greater costs on beneficiaries because compliance is compulsory, and undermine the
+idea of social protection as a right
+Finally, while we presented an overview of evidence providing testimony to the importance of ‘cash
+plus’ programming, the evidence base remains relatively thin. The research on cash transfers plus
+complementary interventions is inadequate and more is needed to fill this gap (De Hoop and Rosati,
+2014). The need for more innovative monitoring and evaluation is two-fold. Firstly, there is need for a
+greater understanding of the impact of the many variations of ‘cash plus’ programming. This includes
+evidence on the comparative roles of individual ‘plus’ components, requiring the disentanglement of
+income and behaviour effects as well as the knowledge, attitudes and behaviour pathways affording
+such effects. It also includes acknowledgement that such programmes are often implemented as a
+‘package’ – with cash transfers either taking a central or secondary role – making it impossible or
+undesirable to examine the impacts of each component in isolation.
+Future evaluations thus need to strike a balance between applying more complex evaluation protocols
+to investigate the contributions of individual components, while recognizing that the success of ‘cash
+plus’ programmes may well be about the total being greater than the sum of its parts. In addition, the
+need for more insight into how greater impacts can be achieved, calls for more in-depth and rigorous
+process evaluations that unravel programme processes and stakeholder engagement in programme
+implementation. This paper begins to fill this knowledge gap, though much more remains to be done.
+
+34
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+REFERENCES: GENERAL
+Adato, M., and Bassett, L. (2012). Social Protection and Cash Transfers to Strengthen Families Affected
+by HIV and AIDS. Washington DC.: IFPRI.
+Ahmed, A., Hoddinott, J., Roy, S., Sraboni, E., Quabili, W. and Margolies, A. (2016), Which kinds of
+social safety net transfers work best for the ultra poor in Bangladesh? Operation and impacts of
+the Transfer Modality Research Initiative. Dhaka: IFPRI and World Food Programme.
+Attah, R., Barca, V., Kardan, A., MacAuslan, I., Merttens, F., and Pellerano, L. (2016). Can Social
+Protection Affect Psychosocial Wellbeing and Why Does This Matter? Lessons from Cash
+Transfers in Sub-Saharan Africa. The Journal of Development Studies, 52(8), 1115-1131.
+Baird, S., Ferreira, F. H., Özler, B., and Woolcock, M. (2013). Relative effectiveness of conditional and
+unconditional cash transfers for schooling outcomes in developing countries: a systematic
+review. Campbell systematic reviews, 9(8).
+Banerjee, A., Duflo, E., Goldberg, N., Karlan, D., Osei, R., Parienté, W., Shapiro, J., Thuysbaert, B. and
+Udry, C. (2015). A multifaceted program causes lasting progress for the very poor: Evidence from
+six countries. Science, 348(6236). doi:10.1126/science.1260799
+Barca, V. and Chirchir, R. (2014). Single registries and integrated MISs: De-mystifying data and
+information management concepts. Australian Government Department of Foreign Affairs and
+Trade: Barton, Australia.
+Barrientos, A., Byrne, J., Peña, P. et al. (2014). Social transfers and child protection in the South.
+Children and Youth Services Review, 47, Part 2, 105-112. doi: http://dx.doi.org/10.1016/j.
+childyouth.2014.07.011
+Bastagli, F., Hagen-Zanker, J., Harman, L., Barca, V., Sturge, G., Schmidt, T., and Pellerano, L. (2016).
+Cash transfers: what does the evidence say? A rigorous review of programme impact and of the
+role of design and implementation features. London: ODI.
+Berhane, G., Devereux, S., Hoddinott, J., Nega Tegebu, F., Roelen, K., and Schwab, B. (2012). Evaluation
+of the Social Cash Transfers Pilot Programme, Tigray Region, Ethiopia. Baseline Report.
+Washington DC: IFPRI.
+Blattman, C., Jamison, J. C. and Sheridan, M. (2017). Reducing Crime and Violence: Experimental
+Evidence from Cognitive Behavioral Therapy in Liberia. American Economic Review, 107(4),
+1165-1206.
+Blouin C., Bhushan, A., Murphy, S. and Warren, B. (2007). Trade liberalisation: Synthesis Papers.
+Globalisation and Health Knowledge Network: Research Paper 4. Geneva: World Health
+Organization.
+Browne, E. (2013). Theories of Change for Cash Transfers. Retrieved from Birmingham:
+Chaudhury, N., Friedman, J. and Onishi, J. (2013). Philippines Conditional Cash Transfer Program
+Impact Evaluation 2012. Report Number 75533-PH. Washington DC: World Bank.
+Cluver, L. D., Orkin, F. M., Boyes, M. E., and Sherr, L. (2014). Cash plus care: social protection
+cumulatively mitigates HIV-risk behaviour among adolescents in South Africa. AIDS, 28,
+S389-S397.
+
+35
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Davis, B., Handa, S., Hypher, N., Winder Rossi, N., Winters, P., and Yablonski, J. (Eds.). (2016). From
+Evidence to Action: The Story of Cash Transfers and Impact Evaluation in Sub Saharan Africa.
+Oxford: Oxford University Press.
+De Hoop, J., and Rosati, F. (2013). Cash Transfers and Child Labor. IZA DP No. 7496. Bonn, Germany:
+IZA.
+de Montesquiou, A. and Sheldon, T. (2014). From Extreme Poverty to Sustainable Livelihoods: A
+Technical Guide to the Graduation Approach. Washington DC: CGAP and Ford Foundation.
+Devereux, S. and Sabates, R. (2016). Enhancing the Productive Capacity of Extremely Poor People in
+Rwanda: Final Evaluation Report. Brighton: Centre for Social Protection, Institute of Development
+Studies.
+Devereux, S., Roelen, K., Sabates, R., Stoelinga, D. and Dyevre, A. (2015). Concern’s Graduation Model
+Programme in Burundi: Final Evaluation Report. Brighton: Centre for Social Protection, Institute
+of Development Studies.
+Devereux, S., and Sabates-Wheeler, R. (2004). Transformative social protection. IDS Working Paper,
+(232). Brighton.
+Engle, P. L., Fernald, L. C. H., Alderman, H., Behrman, J., O’Gara, C., Yousafzai, A. and Iltus, S. (2011).
+Strategies for reducing inequalities and improving developmental outcomes for young children
+in low-income and middle-income countries. The Lancet, 378(9799), 1339-1353.
+EC (2015). Supporting Social Protection Systems. Concept Paper No. 4. Brussels: Directorate-General
+for International Cooperation and Development. European Commission.
+FAO. (2015). The State of Food and Agriculture 2015. Rome: FAO.
+Gatenio Gabel, S. (2012). Social protection and children in developing countries. Children and Youth
+Services Review, 34(3), 537-545.
+Global Social Service Workforce Alliance (2015). The State of the Social Workforce 2015 Report. A
+multi-country review. Washington, DC.: Global Social Service Workforce Alliance.
+Handa, S., Peterman, A., Seidenfeld, D., and Tembo, G. (2016). Income Transfers and Maternal Health:
+Evidence from a National Randomized Social Cash Transfer Program in Zambia. Health
+Economics, 25(2), 225-236.
+Hickey, S. (2007). Conceptualising the Politics of Social Protection in Africa. Manchester: Brooks World
+Poverty Institute (BWPI), The University of Manchester.
+Jones, N., and Marquez, E. V. (2014). Is cash the answer? Lessons for child protection programming
+from Peru: The Juntos (Together) program has the potential to improve children’s care and
+protection. Child Abuse & Neglect, 38(3), 383-394.
+Kaltenborn, M., Abdul-Gafaru, A., Roelen, K. and Hague, S. (2017) The Influence of Policy and Legal
+Frameworks on the Development of National Social Protection Systems (with a special focus on
+the Ghanaian system). Florence: UNICEF Office of Research – Innocenti (forthcoming).
+
+36
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Kardan, A., Wyatt, A., Quarles van Ufford, P. and Attah, R. (2016). Assessing the capacity of local
+administration and community structures to deliver social protection programmes. Presented at
+the Symposium on Social Protection Systems - Tying the Knots, 5-6 September 2017, Bonn,
+Germany.
+Lagarde, M., Haines, A. and Palmer, N. (2007). Conditional cash transfers for improving uptake of health
+interventions in low-and middle-income countries: a systematic review. Journal of the American
+Medical Association (JAMA), 298(16), 1900-1910.
+Lamadrid-Figueroa, H., Ángeles, G., Mroz, T., Urquieta-Salomon, J., Hernandez-Prado, B., Cruz-Valdez,
+A., and Téllez-Rojo, M. M. (2010). Heterogeneous impact of the social programme Oportunidades
+on use of contraceptive methods by young adult women living in rural areas. Journal of
+development effectiveness, 2(1), 74-86.
+Langendorf, C., Roederer, T., de Pee, S., Brown, D., Doyon, S., Mamaty, A-A., Toure, L.W.,
+Manzo, M.L. and Grais, R.F. (2014). Preventing acute malnutrition among young children in crises: a
+prospective intervention study in Niger, PloS Medicine 11 (9): e1001714.
+Lavers, T. and Hickey, S. (2015). Investigating the political economy of social protection expansion in
+Africa: At the intersection of transnational ideas and domestic politics. ESID Working Paper No.
+47. Manchester: IDPM, The University of Manchester.
+Manley, J., Gitter, S., and Slavchevska, V. (2013). How effective are cash transfers at improving
+nutritional status? World Development, 48, 133-155.
+Miller, E. and Samson, M. (2012) HIV-sensitive Social Protection: State of the Evidence 2012 in subSaharan Africa. Commissioned by UNICEF and produced by the Economic Policy Research
+Institute, Cape Town.
+Molyneux, M., Jones, W. N., and Samuels, F. (2016). Can Cash Transfer Programmes Have
+‘Transformative’ Effects? Journal of Development Studies, 52(8), 1087-1098. doi:10.1080/0022038
+8.2015.1134781
+Palermo, T., Veras Soares F. and Yablonksi, J. “Overview of Cash Plus and Systems Linkages.”
+Presentation to 8th Transfer Project Workshop, Dakar, Senegal, 7 June 2017.
+Richter, L., and Naicker, S. (2013). A Review of Published Literature on Supporting and Strengthening
+Child-Caregiver Relationships (Parenting). Retrieved from Arlington, VA.
+Roelen, K. and Devereux, S. (2017). Money or the Message. Brighton: forthcoming.
+Roelen, K., Delap, E., Jones, C. and H. Karki Chettri (2016a). Improving child wellbeing and care in
+Sub-Saharan Africa: The role of social protection. Children and Youth Services Review 73:
+309-318.
+Roelen, K., Karki-Chettri, H., Clulow, S., Jones, C., Saksena, P. and E. Delap (2016b). Researching the
+Linkages between Social Protection and Children’s Care in South Africa, Family for Every Child/
+IDS/ Children in Distress Network.
+Roelen, K. (2014). Sticks or carrots? Conditional cash transfers and their effect on child abuse and
+neglect: Researchers observe both benefits and harms of CCT programs. Child Abuse and
+Neglect, 38(3), 372-382.
+
+37
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Roelen, K., Long, S., and Edstrom, J. (2012). Pathways to protection – referral mechanisms and case
+management for vulnerable children in Eastern and Southern Africa. Lessons learned and ways
+forward. Brighton: IDS/UNICEF ESARO.
+Roelen, K. (2011). Referral Mechanisms and Case Management for Vulnerable Children in Eastern and
+Souther Africa - Mozambique Country Case Study. Brighton: IDS.
+Sabates-Wheeler, R. and Devereux, S. (2013). Sustainable graduation from social protection
+programmes. Development and Change, 44(4): 911–938.
+Schelzig, K. (2017) Social assistance case studies from Southeast Asia: The Pantawid Pamilyang
+Pilipino conditional cash transfer program in the Philippines. Case study presentation in ADB
+Technical Assistance 8836: Building Capacity for Enhanced Connectivity in Southeast Asia
+Regional Training on Social Protection Systems: Social Assistance. 16-20 January 2017, ADB
+Headquarters, Manila, Philippines.
+Seidenfeld, D., Handa, S., Tembo, S., Michelo, S., Harland Scott, C. and Prencipe, L. (2014). The Impact
+of an Unconditional Cash Transfer on Food Security and Nutrition: The Zambia Child Grant
+Programme. Brighton: IDS.
+Storey, D. and Figueroa, M. E. 2012). Toward a Global Theory of Health Behavior and Social Change
+The Handbook of Global Health Communication (pp. 70-94): Wiley-Blackwell.
+Ulrichs, M. and Roelen, K. (2012). Equal Opportunities for All? – A Critical Analysis of Mexico’s
+Oportunidades. IDS Working Paper, 007. Brighton: IDS.
+UNICEF and World Bank (2013). Common Ground: UNICEF and World Bank Approaches to Building
+Social Protection Systems. New York/ Washington DC: UNICEF/World Bank.
+Veras Soares, F., Knowles, M., Daidone, S., and Tirivayi, N. (2016). Combined effects and synergies
+between agricultural and social protection interventions: what is the evidence so far? Rome: FAO.
+Waisbord, S. and Obregon, R. (2012). Theoretical Divides and Convergence in Global Health
+Communication The Handbook of Global Health Communication (pp. 7-33): Wiley-Blackwell.
+Watson, C. and Palermo, T. (2016). Options for a ‘Cash Plus’ Intervention to Enhance Adolescent
+Well-beingin Tanzania. An introduction and review of the evidence from different programme
+models in Eastern and Southern Africa. Florence: UNICEF Office of Research – Innocenti.
+
+38
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+REFERENCES: GHANA
+Amuzu, C., Jones, N., and Perznieto, P. (2010). Gendered risks, poverty and vulnerability in Ghana: to
+what extent is the LEAP cash transfer programme making a difference? London: Overseas
+Development Institute.
+Appiah, S. (2016). LEAP beneficiaries to receive GH¢11 million. Daily Graphic, 20 Jan 2016. Available at:
+www.graphic.com.gh/news/general-news/leap-beneficiaries-to-receive-gh-11-million.html
+[Accessed: 17 Oct 2016].
+GoG (2007a). The National Social Protection Strategy: Investing in People. Accra: MESW.
+GoG (2007b). Livelihood Empowerment Against Poverty (LEAP) Social Grants Pilot Implementation
+Design. Volume 1 final draft. Accra: MESW.
+GoG (2012). Ghana National Social Protection Strategy. Accra: Ministry of Gender, Children and Social
+Protection.
+GoG (2015). Implementation of the Ghana Shared Growth And Development Agenda (GSGDA) II,
+2014-2017 2014 Annual Progress Report. Accra: National Development Planning Commission.
+Gomez, C., Ghedemah, C., and Ragno, P. (2016). Social Protection System in Ghana: evolution, features
+and enablers. Draft UNICEF Working Paper. Mimeo.
+Handa, S. and Park, M. (2012). The impact of cash and health insurance on health care utilization in a
+Developing Country.
+Handa, S., Park, M., Darko, R., Osei-Akoto, I., Davis, B. and Daidone, S. (2013). Livelihood
+Empowerment Against Poverty Program Impact Evaluation. Chapel Hill: University of North
+Carolina, Carolina Population Center.
+ILO (2014). Rationalising social protection expenditure in Ghana. Geneva: ILO.
+Ministry of Employment and Social Welfare (MESW) (2012). Livelihood Empowerment Against Poverty
+(LEAP): Operations Manual. Accra: Ministry of Employment and Social Welfare.
+Ministry of Gender, Children and Social Protection (2016), Programme Registers Beneficiaries on to the
+National Health Insurance. Available at: http://www.ghana.gov.gh/index.php/media-center/
+news/2937-leap-programme-registers-beneficiaries-onto-the-national-health-insurance-scheme-2.
+NDC (2012). 2012 Manifesto: Advancing the Better Ghana Agenda. Accra: National Democratic Congress.
+NHIA (2011). National Health Insurance Scheme Annual Report 2010. Accra: National Health Insurance
+Authority.
+Ragno, L. P., Hague, S., Handa, S., Ablo M., Twun-Danso, A., Ofori-Addo, L., Alviar, C., Davis, B.,
+Pozarny, P., Attah, R. and Taylor, J. E. (2016). Social Protection and the Livelihood Empowerment
+Against Poverty (LEAP) Programme in Ghana – Generating Poverty Change through the Power of
+Evidence. In B. Davies, S. Handa, N. Hypher, N. W. Rissu, P. Winders and J. Yablonski (eds). From
+Evidence to Action: The Story of Cash Transfers and Impact Evaluation in Sub-Saharan Africa.
+Oxford: Oxford University Press.
+Schieber, G., Cheryl, C., Saleh, K and Lavado, R. (2012). Health Financing in Ghana. Washington, DC:
+World Bank.
+
+39
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+REFERENCES: CHILE
+Amior, M., Carneiro, P., Galasso, E. and Ginja, R. (2012). Overcoming Barriers to the Take-Up of Social
+Subsidies. In IZA/World Bank/OECD Conference on Activation and Employment Support Policies,
+Istanbul, Turkey.
+Asesorias para el Desarrollo (2005). Necesidades y Aspiraciones Prioritarias de las Familias que han
+finalizado la etapa de apoyo psicosocial del sistema de protección social Chile Solidario.
+Santiago, Chile.
+Camacho, A., Cunningham, W., Rigolini, J. and V. Silva (2014). Addressing Access and Behavioral
+Constraints through Social Intermediation Services: A Review of Chile Solidario and Red Unidos.
+IZA Policy Papers 94. Bonn, Germany: Institute for the Study of Labor (IZA).
+Carneiro, P., Galasso, E. and R. Ginja (2009). The Impact of Providing Psycho-Social Support to Indigent
+Families and Increasing their Access to Social Services: Evaluating Chile Solidario. Available at:
+http://www.ucl.ac.uk/~uctprcp/chile.pdf
+Carneiro, P. M., Galasso, E. and Ginja, R. (2015). Tackling social exclusion: evidence from Chile. World
+Bank Policy Research Working Paper, (7180). Washington DC: World Bank.
+Cecchini, S., Robles, C. and Vargas, L. H. (2012). The Expansion of Cash Transfers in Chile
+and its Challenges: Ethical Family Income. IPC-IG Research Brief No. 26. Brasilia: International Policy
+Centre for Inclusive Growth.
+CEPAL (2003). Análisis de Resultados del Programa Puente 2002. Report, CEPAL, División Desarrollo
+Social, Santiago.
+Clert, C. (2000). Social Exclusion, Gender and the Chilean Government’s Anti-Poverty Strategy:
+Priorities and Methods in Question. In Gacitua-Mario, E. and Sojo, C (eds.) Social Exclusion and
+Poverty Reduction in Latin America. Washington DC: World Bank and FLACSO.
+Galasso, E. and Carneiro, P. (2007). Conclusiones de la evaluación de Chile Solidario. Galerna. Available
+at: http://www.galerna.cl/doc1
+Government of Chile, Ministry of Planning/Solidarity and Social Investment Fund (2004). An
+Introduction to: Chile Solidario - El Programa Puente. International Conference on Local
+Development. World Bank. June 2004.
+Hoces de la Guardia, F., Hojman, A. and Larranaga, O. (2011). Evaluating the Chile Solidario program:
+results using the Chile Solidario panel and the administrative databases. Estudios de Economia,
+38(1): 129-168.
+Larranaga, O., Contreras, D. and Cabezas, G. (2015). Políticas Contra la Pobreza: de Chile Solidario al
+Ingreso Ético Familiar. Santiago: UNDP Chile.
+Martorano, B. and Sanfilippo, M. (2012). Innovative Features In Poverty Reduction Programmes: An
+Impact Evaluation of Chile Solidario On Households And Children. Journal of International
+Development, 24(8): 1030-1041.
+MIDEPLAN (2002). Sistema Chile Solidario. Gobierno de Chile, Ministerio de Planificación y
+Cooperación.
+
+40
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Palermo, T., Soares-Veras, F., and Yablonksi, J. (2017). Overview of Cash Plus and Systems Linkages.
+Presentation to 8th Transfer Project Workshop, Dakar, Senegal, 7 June 2017.
+Palma, J. and Urzúa, R. (2005). Anti-poverty Policies and Citizenry: The Chile Solidario Experience.
+UNESCO, MOST-2 Policy Papers series.
+Perticara, M. (2007). Análisis cuantitativo de impacto del Sistema Chile Solidario. Santiago: Mideplan.
+Ruz, M.A. and Palma, J. (2005). Análisis del Proceso de Elaboración e Implementación del Sistema
+Chile Solidario. Informe Preliminar. Instituto de Asuntos Públicos. Departamento de Políticas
+Públicas. Santiago: Universidad de Chile.
+Schulte, H. (2007). Chile Solidario: Toward an Integrated Approach to the Delivery of Social Protection.
+Available at http://www.bettercarenetwork.org/library/social-welfare-systems/child-care-andprotection-policies/chile-solidario-toward-an-integrated-approach-to-the-delivery-of-socialprotection
+Secretaría Ejecutiva de Protección Social (2009). Sistema de Protección Social Chile Solidario:
+Satisfacción de usuarios y factores psicosociales. Available at: http://www.chilesolidario.gob.cl/
+administrador/arc_doc/16238261524a65d082e883a.pdf
+Sur Profesionales Consultores (2005). Evaluación de cinco programas de la oferta pública social,
+participantes del Sistema Chile Solidario. Serie de Estudios Chile Solidario. Santiago: Mideplan.
+Trucco D. and Nun, E. (2008). Sistematización de Evaluaciones Cualitativas del Programa Puente y
+Sistema de Protección Chile Solidario. Santiago, Chile: PNUD
+Universidad de Chile, Facultad de Ciencias Sociales (2004). Efectos de la Intervención Psicosocial en
+Mujeres que participan directamente en el Sistema Chile Solidario. Santiago: Universidad de
+Chile.
+
+REFERENCES: ETHIOPIA
+Berhane, G., Hoddinott,J., Kumar, N. and Seyoum Taffesse, A. (2011). The impact of Ethiopia’s
+Productive Safety Nets and Household Asset Building Programme: 2006-2010. Washington DC:
+International Food Policy Research Institute (IFPRI).
+Devereux, S., R. Sabates-Wheeler, Mulugeta Tefera Taye, R. Sabates and Feyera Sima (2014).
+Graduation from the Food Security Programme in Ethiopia: FAC Ethiopia final report. FAC
+Working Paper, 080. Brighton: Future Agricultures Consortium.
+Food Security Coordination Bureau (FSCB) (2007). Graduation Guidance Note. Addis Ababa: Ministry of
+Agriculture and Rural Development, Government of Ethiopia.
+Gilligan, D., Devereux, S., Hoddinott, J., Jilani, A., Kebede, D., Ledlie, N., Roelen, K. and Taffesse, A.
+(2016). Impact Evaluation of the UNICEF Social Cash Transfer Pilot Program in Oromia and SNNP
+Regions, Ethiopia: Baseline Survey Report. Washington DC: International Food Policy Research
+Institute (IFPRI).
+Sandford, J. et al. (2010). Ethiopia Productive Safety Net Programme: Assessment of Graduation
+Report. Bristol: IDL group.
+
+41
+
+How to Make ‘Cash Plus’ Work: Linking Cash Transfers to Services and Sectors
+Innocenti Working Paper 2017-10
+
+Schubert, B. (2015). Regional States of Oromia and SNNPR, Agencies of Labour and Social Affairs:
+Manual of Operations for the Social Cash Transfer Pilot Programs for Direct Support Clients.
+Addis Ababa.
+UNICEF (2014). Improved Nutrition through Integrated Basic Social Services with Social Cash Transfer
+in SNNPR. Addis Ababa: UNICEF Ethiopia.
+UNICEF (2016). Communication Strategy to Support the Integrated Nutrition and Social Cash Transfer
+project interventions under PSNP4. Addis Ababa: UNICEF Ethiopia.
+Baird, S., Ferreira, F. H., Özler, B., & Woolcock, M. (2013). Relative effectiveness of conditional and
+unconditional cash transfers for schooling outcomes in developing countries: a systematic
+review. Campbell systematic reviews, 9(8).
+Barca, V., & Chirchir, R. (2014). Single registries and integrated MISs: De-mystifying data and
+information management concepts. Retrieved from Barton, Australia:
+Bastagli, F., Hagen-Zanker, J., Harman, L., Barca, V., Sturge, G., Schmidt, T., & Pellerano, L. (2016). Cash
+transfers: what does the evidence say? A rigorous review of programme impact and of the role
+of design and implementation features. Retrieved from Oxford:
+Davis, B., Handa, S., Hypher, N., Winder Rossi, N., Winters, P., & Yablonski, J. (Eds.). (2016). From
+Evidence to Action: The Story of Cash Transfers and Impact Evaluation in Sub Saharan Africa.
+Oxford: Oxford University Press.
+De Hoop, J., & Rosati, F. (2013). Cash Transfers and Child Labor. World Bank Research Observer, 29(2),
+202-234.
+FAO. (2015). The State of Food adn Agriculture 2015. Retrieved from Rome:
+Handa, S., Peterman, A., Seidenfeld, D., & Tembo, G. (2016). Income Transfers and Maternal Health:
+Evidence from a National Randomized Social Cash Transfer Program in Zambia. Health
+Economics, 25(2), 225-236.
+Lagarde, M., Haines, A., & Palmer, N. (2007). Conditional cash transfers for improving uptake of health
+interventions in low-and middle-income countries: a systematic review. Jama, 298(16), 1900-1910.
+Lamadrid-Figueroa, H., Ángeles, G., Mroz, T., Urquieta-Salomon, J., Hernandez-Prado, B., Cruz-Valdez,
+A., & Téllez-Rojo, M. M. (2010). Heterogeneous impact of the social programme Oportunidades
+on use of contraceptive methods by young adult women living in rural areas. Journal of
+development effectiveness, 2(1), 74-86.
+Manley, J., Gitter, S., & Slavchevska, V. (2013). How effective are cash transfers at improving nutritional
+status? World development, 48, 133-155.
+Roelen, K. (2014). Sticks or carrots? Conditional cash transfers and their effect on child abuse and
+neglect. Child abuse & neglect, 38(3), 372-382.
+Seidenfeld, D., Handa, S., Tembo, S., Michelo, S., Harland Scott, C., & Prencipe, L. (2014). The Impact of
+an Unconditional Cash Transfer on Food Security and Nutrition: The Zambia Child Grant
+Programme. Retrieved from Brighton:
+Veras Soares, F., Knowles, M., Daidone, S., & Tirivayi, N. (2016). Combined effects and synergies
+between agricultural and social protection interventions: what is the evidence so far?
+
+42
+
+

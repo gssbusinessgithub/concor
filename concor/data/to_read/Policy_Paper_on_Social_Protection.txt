@@ -1,0 +1,2507 @@
+Policy Paper on Social Protection
+
+Summary.................................................................................................................................... 2
+1 Introduction ......................................................................................................................... 5
+2 What do we mean by social protection?............................................................................. 8
+3 Risk, vulnerability and pro-poor growth ............................................................................ 15
+4 Choosing social protection instruments............................................................................ 23
+5 Institutionalising social protection ..................................................................................... 35
+6 Brief glossary .................................................................................................................... 43
+7 References ....................................................................................................................... 44
+8 Endnotes........................................................................................................................... 48
+
+Final Draft September 2004
+Note: This paper was produced for DFID, but does not represent DFID policy or the opinions of
+DFID. Responsibility for the contents lies with the authors.
+
+Andrew Shepherd, with Rachel Marcus, Armando Barrientos
+Note: a number of ‘theme papers’ were also produced as part of this exercise: these are
+listed at the end of the list of references.
+
+Correspondence to:
+Andrew Shepherd
+ODI
+111 Westminster Bridge Road
+SE1 7JD
+Email: a.shepherd@odi.org.uk
+
+DFID paper on social protection
+
+1
+
+Summary
+Social protection is an important dimension in the reduction of poverty and multidimensional deprivation. It is an approach towards thinking about the processes, policies
+and interventions which respond to the economic, social, political and security risks and
+constraints poor and vulnerable people face, and which will make them less insecure and
+less poor, and more able to participate in economic growth. More narrowly, it describes a
+set of policies that governments can pursue in order to provide protection both to the
+‘active poor’, enabling them to participate more productively in economic activity, and to
+the less active poor, with considerable benefits for society as a whole. Such policies can
+help to fulfil states’ obligations to ensure basic rights for all individuals. Social protection
+policies are always part of a broader set of policies – on macroeconomic stability,
+enterprise and employment development, health, and education – aimed at reducing risk
+and vulnerability and encouraging pro-poor growth.
+A social protection approach can make a strong contribution, alongside other approaches,
+both towards preventing the slide into poverty and assisting with recovery, and towards the
+long-term reduction of poverty and multi-dimensional deprivation, as one way for
+chronically poor people or their children to escape poverty. It can also contribute to the
+achievement of human rights if states progressively take on as objectives of social
+protection the obligation of ensuring that citizens have an adequate standard of living,
+backed up by social security in case of loss of livelihood through disability, sickness, old
+age or other causes.
+This paper argues that well designed social protection can have a positive rather than a
+restraining impact on economic growth (and therefore on the first MDG) and can help to
+shape the pattern of economic growth in favour of the poor, such that the poor benefit at
+least as much as, if not more than, the average (reflecting on the inequality indicator for
+the first MDG). It states that social protection for the less active poor can be affordable
+even in low-income countries, and that it has significant positive economic externalities.
+The paper also argues that the difficulties for poor people in recovering from shocks purely
+or largely through their own efforts, especially when shocks are multiple or sequenced,
+should not be underestimated: recovery takes longer for the poor and usually benefits from
+external help, whether from public policy or private support. Informal protection is
+important and, where it is equitable in its burdens, should be facilitated.
+The paper asks what is meant by social protection, clarifying its meaning, purpose and
+scope within DFID’s approach to poverty reduction and programmes (Section 2). The
+primary purpose of social protection has three parts:
+to prevent, mitigate and enhance the ability to cope with and recover from the major
+hazards faced by all poor people;
+to contribute to chronically poor people’s ability to emerge from poverty, deprivation
+and insecurity, and to challenge the oppressive socio-economic relationships which
+could be keeping them poor, by increasing livelihood security and linking such
+increases to the promotion of enhanced livelihoods; and
+to enable the less active poor to live a dignified life with an adequate standard of
+living, such that poverty is not passed from one generation to the next.
+Social protection also supports economic growth, social integration and political stability,
+human development, and human rights objectives.
+The scope of this paper is broad, covering safety nets, social assistance and social
+insurance, and mutual and informal risk management. The mechanisms range from pure
+DFID paper on social protection
+
+2
+
+transfers to those without access to assets, including their own labour and social networks,
+through transfers that require a reciprocal action from those able to provide it (e.g. labour
+contributions or attendance at a public service), through to mutual insurance whereby the
+entire cost of protection is met by the beneficiary.
+Social protection should enable recovery from shocks; however, the effort required to help
+poor people recover has often been underestimated, and recovery is therefore limited. In
+order to enable more complete recovery, it is necessary (i) to use the development of a
+social protection system to extend and systematise humanitarian approaches to recovery;
+and (ii) to link protection with livelihood promotion, such that assets are safely
+accumulated over time and vulnerability is reduced. These represent major challenges for
+social protection approaches.
+The developmental importance of social protection lies in its ability to interrupt the high
+levels of risk and vulnerability which not only lead to people becoming poor, but also
+contribute substantially to chronic poverty. This enables poor people to participate in and
+contribute to economic growth (Section 3). Effective social protection can prevent the
+negative consequences of uninsured risks: investment in liquid assets with lower returns
+than other investments have; the accumulation of burdens of care for society’s carers,
+usually women, the elderly and older children; irreversible losses of human capital through
+malnutrition, preventable death, disability and illness.
+A disaggregated analysis of vulnerability is necessary in an understanding of its varied
+sources and degrees, with the end that an appropriate approach to dealing with risk and
+vulnerability can be developed, and a range and combination of social protection policies
+can be designed. Social protection can then relieve some of the market failures that
+prevent or slow economic growth and prevent poor people from taking advantage of the
+opportunities growth provides. It can also make strong contributions to the protection and
+building of the human, financial, natural and physical assets of poor people which enable
+them to grow out of poverty.
+There is a battery of policy instruments that governments can use to advance the
+protection available to the poor – not only in the contributions governments can make
+directly to reducing risk and vulnerability, but also in regulation that should facilitate private
+and informal social protection (Section 4). This paper argues that it is combinations of
+instruments that will make a significant difference and offers a set of criteria by which
+individual instruments can be judged in a particular vulnerability context. In most lowincome countries, some combination of strengthened safety nets, conditional transfers to
+support human capital development, and basic social assistance measures will be the
+most effective, given the poverty reduction objectives of government policies and donor
+support. Countries develop unique social protection ‘trajectories’ over time, reflecting the
+risk and vulnerability context and socio-political and economic history.
+Targeting is often a less than ideal approach to providing protection: it is difficult to avoid
+wrongful exclusion and inclusion, it is expensive and administratively difficult to do well,
+and it reduces social solidarity. However, decision-makers will continue to insist on it,
+largely on cost grounds. In this situation, the best targeting is the lightest – targeting can
+be carried out where there are simple categories which make sense (age, location, widely
+recognised degree of exclusion), within which provision ideally should be universal. As
+administrative capacity evolves, more sophisticated approaches to targeting can be
+undertaken.
+Public social protection policies are affordable even in low-income countries, though they
+become more so as economic development takes place and public revenues improve.
+DFID paper on social protection
+
+3
+
+Although start-up costs may be high, these can be spread over a number of years, and
+implementation be progressive. Whereas under project modes of donor financing, support
+for long-term recurrent expenditure was difficult (and resisted), the increasing use of
+budget support makes donor support to social protection more possible. The key issue is
+agreement between donors and government on the uses of budget support; this may not
+be straightforward, since there are often competing approaches to social protection and
+contested priorities. Another significant challenge is developing a sufficiently long time
+horizon for budget support to make it worthwhile a government embarking on particular
+social protection policies. If this challenge is too great, it may be better to rely on other
+capital-based financing mechanisms, such as the ILO’s Global Trust.
+The institutionalisation of social protection does not happen automatically, and there are
+key strategic decisions to be made (Section 5). Political leadership is critical, as is the
+articulation of a constituency and the development of a policy legitimation process.
+Bureaucratic leadership and coordination is also important, as a social protection approach
+is best ‘mainstreamed’ across various areas of government business. The Poverty
+Reduction Strategy Process allows a common policy analytical approach to issues of risk
+and vulnerabilities, which policies and programmes in various sectors – especially the
+social and productive sectors, and macroeconomic policy – can buy into. Which
+departments or ministries would best coordinate the development of a social protection
+approach is context specific. The corollary of a mainstreamed approach is that it would be
+important to maintain key cross-cutting safety nets which guard against risks with which
+protective policies in particular sectors are unable to deal.
+Whatever public policy actions are taken, informal provision should always be explicitly
+considered, with a view both to reducing the inequitable burdens this sometimes imposes
+and to facilitating the useful mutual protection which is afforded poor people. Mechanisms
+that strengthen the social networks on which mutuality depends can also contribute.
+Where states are fiscally challenged and donors exercise significant policy influence,
+differences of view between government and donors (or within government and among
+donors) about the role, organisation and desirable strength of social protection may make
+the policy dialogue difficult. It would be a mistake to attach too rapid timetables to such a
+dialogue. For policies with long-term implications, it is important that strong national
+ownership is there from the start.
+
+DFID paper on social protection
+
+4
+
+1 Introduction
+Social protection is an important dimension in the reduction of poverty and multidimensional deprivation. It is an approach towards thinking about the processes, policies
+and interventions which respond to the economic, social, political and security risks and
+constraints poor and vulnerable people face, and which will make them less insecure and
+less poor, and more able to participate in economic growth.1 This is grounded in the view
+that the limited capacity of households and communities to protect themselves against
+contingencies threatening their consumption and investment plans (i.e. their vulnerability)
+is a major factor explaining poverty and underdevelopment.
+More narrowly, it also describes a set of policies which governments can pursue in order to
+ensure protection both to the ‘economically active poor’, enabling them to participate more
+productively in economic activity, and to the less active poor, with considerable benefits for
+society as a whole. Such policies can help to fulfil states’ obligations to ensure basic rights
+for all individuals. Social protection policies are always part of a broader set of policies –
+on macroeconomic stability, enterprise and employment development, health and
+education – aimed (partly) at reducing risk and vulnerability and encouraging pro-poor
+growth.2
+The poor and deprived are not a homogeneous group: among them are people who are
+actively forging pathways out of poverty, but also people who have just become poor.
+There are also people who are chronically poor, and who may pass their poverty on to the
+next generation. Vulnerability to shocks both makes people poor in the first place, and
+keeps them poor in the long run. The shocks poor people face can be economic, natural,
+political, environmental, and health related. The deprivation that can follow from a shock or
+a series of shocks can have many dimensions: economic, social and political.
+A social protection approach can make a strong contribution, alongside other approaches,
+both towards preventing the slide into poverty and assisting with recovery, and towards the
+long-term reduction of poverty and multi-dimensional deprivation, as one way for
+chronically poor people or their children to escape poverty.
+Social protection is not the only approach to poverty reduction. It is always to be used in
+combination with other approaches: the provision of social and economic services,
+infrastructure development, and institutional development. It offers great potential to
+include those otherwise excluded from the benefits of these other approaches; it can make
+a fundamental difference to the sense of citizenship experienced by poor people.
+It has been argued that the Millennium Development Goals cannot be achieved without
+appropriate, well designed and cost-effective social protection mechanisms (Box 1).3
+This paper argues that well designed social protection can have a positive rather than a
+restraining impact on economic growth (and therefore on the first MDG) and can help to
+shape the pattern of economic growth in favour of the poor, such that the poor benefit at
+least as much as, if not more than, the average (reflecting on the inequality indicator for
+the first MDG). It states that social protection for the less active poor can be affordable
+even in low-income countries, and that it has significant positive economic externalities.
+The paper also argues that the difficulties for poor people in recovering from shocks purely
+or largely through their own efforts, especially when shocks are multiple or sequenced,
+should not be underestimated: recovery takes longer for the poor and usually benefits from
+external help whether, from public policy or private support. Informal protection is
+important and, where it is equitable in its burdens, should be facilitated.
+DFID paper on social protection
+
+5
+
+Box 1: ‘Without appropriate social protection mechanisms the MDG targets for 2015 will not be
+achieved’
+Social protection helps reduce both transient and chronic poverty; this could contribute to a 5–10% reduction
+in overall income poverty incidence. In Kyrgyzstan, without social protection the extreme poverty headcount
+would have increased by 24%, the poverty gap by 42%, and the severity of poverty by 57%. The vulnerability
+of the chronically poor can also be reduced through health and education fee waivers, workfare schemes,
+old-age pensions and other measures that enhance the assets of the poor. In Kyrgyzstan again, pensions
+significantly reduced poverty headcounts. The poor can take greater risks if protected, leading to higher
+incomes.
+Reduced income poverty helps improve health and education outcomes. Incentives to keep children in
+school and health insurance enable poor people to tide over the costs of dealing with shocks. Conditional
+cash and food transfer programmes have good effects on school enrolment and attainment, child labour and
+health and nutrition, and help households’ smooth consumption during crises. Public works improve the
+supply of clinics and schools, and can contribute to substantial positive change in outcome indicators such
+as infant mortality rates.
+Several social protection instruments have positive effects on gender equality, with spin-off benefits for
+households, and can also enhance women’s social capital. Labour market policies which narrow the gap
+between men and women in terms of hiring conditions and wages through maternity/paternity leave,
+affordable childcare, and policies against labour market discrimination, enable women to enter and stay in
+the labour market and increase the demand for girls’ education.
+Source: World Bank (2003).
+
+1.1 Structure of the paper
+The next section asks what is meant by social protection, clarifying its meaning, purpose
+and scope within DFID’s approach to poverty reduction and programmes (Section 2).
+Section 3 argues that vulnerabilities need to be understood in a disaggregated way, with
+the end that an appropriate range and combination of social protection policies can be
+designed. Social protection can then relieve some of the market failures that prevent or
+slow economic growth and prevent poor people from taking advantage of the opportunities
+growth provides. It also argues that social protection can make strong contributions to the
+protection and building of the human, financial, natural and physical assets of poor people
+which enable them to grow out of poverty.
+There is in progress a discussion of the various policy instruments that governments can
+use to advance the protection available to the poor – not only in the contributions
+governments can make directly to reducing risk and vulnerability, but also in regulation that
+should facilitate private and informal social protection (Section 4). This paper argues: that
+social protection, like food security, cannot be confined to only one part of government: a
+social protection approach can be ‘mainstreamed’ across a number of areas of
+government business; that the Poverty Reduction Strategy process is well placed to
+enable this to happen; and that social protection can be supported financially through
+budget support or sector programming mechanisms, provided that the necessary
+agreement on objectives and instrumentation has been reached between donors and
+government. Other more innovative approaches may also have a role (Section 5).
+Findings from thematic work on social protection and a number of themes (rights, basic
+services, food security, gender, HIV/AIDS, conflict and post-conflict situations, as well as
+pro-poor growth and financing social protection) are woven into this paper, and have
+produced a number of critical arguments, for example:
+Social protection is compatible with and strengthened by a rights-based approach to
+development. The development of social protection policies also contributes to the
+achievement of a number of rights. The relationship to a rights-based approach is
+illustrated in Box 2.
+
+DFID paper on social protection
+
+6
+
+Social protection and investment in basic services should not be an either/or choice;
+it should be recognised that good human development outcomes for all can often
+be promoted by a combination of the two.
+Likewise, the relationship between social protection and economic growth does not
+have to be seen as a trade-off: there are many ways in which reducing risk and
+vulnerability increases investment and growth, complementarities which can be
+maximised.
+Significant social protection can cost less than 1% of GDP and have both short and
+long-term benefits for the economy.
+Social protection is capable of mitigating and assisting the coping strategies of
+people facing a wide range of risks and vulnerabilities, including those deriving from
+shocks as different as HIV/AIDS, food insecurity and conflict.
+It is better to include people facing particular shocks (e.g. HIV/AIDS) as
+beneficiaries of social protection in general, rather than narrowly target them.
+Targeting the vulnerable with social protection programmes should not compromise
+people’s ability to meet some of their own needs sustainably; however, it should
+explicitly try to reduce inequitable burdens, shouldered by women in particular.
+Addressing chronic food insecurity requires additional instruments to those which
+deal with acute short-term crises, and may require modifying the latter as well; it is
+important to address both forms of food insecurity. The same can be said for
+chronic and acute vulnerability more generally.
+As with food security, mainstreaming a social protection approach suggests that
+departments of welfare might not always play the leading role in developing social
+protection work in government. Even where they do, the multiple providers of social
+protection need strong recognition in any strategy.
+Box 2: Is there a human right to social protection?
+The international human rights framework recognises the human right to ‘social security’ in the event of
+unemployment, sickness, disability, widowhood, old age or other lack of livelihood, with special care and
+assistance for motherhood and childhood. This right, which has been codified in particular through the ILO’s
+social security standards and in relation to income security, is, however, too narrow to encompass the full
+range of issues related to risks and vulnerability to which social protection responds.
+The full range of human rights is relevant for social protection. This starts with the ‘right to an adequate
+standard of living’ (including food, clothing, housing, medical care, social services as well as social security)
+but should be expanded to the full set of civil, cultural, economic, political and social rights. For example, the
+right to be free from torture protects against state abuses that not only violate a person’s dignity but also
+weaken livelihoods opportunities; also relevant are civil and political rights which are preconditions for rights
+associated with livelihoods, such as the ability to form associations or take part in elections and to demand
+social protection entitlements.
+A rights-based approach to social protection?
+A rights-based approach is normative and based on the international human rights framework, which
+considers citizens as ‘rights-holders’ and states as ‘duty-bearers’. A number of human rights principles, such
+as equality, non-discrimination, inclusion, participation and accountability, are derived from this framework.
+Under a rights-based approach, states are obligated to provide laws, regulatory frameworks, programmes
+and policies which will all enhance the ability of households to manage risks and improve their standard of
+living. States should also respect human rights (i.e. not violate them directly) and provide protection from
+violations by third parties. Minimum standards need to be provided, such as a basic form of education,
+primary healthcare and basic foodstuff. Under this approach, citizens are empowered to take their own
+decisions, mobilise, claim their rights and entitlements, and hold the state to account. Inclusion and
+participation in decision-making processes are key. Under this approach, social protection is thus not just a
+matter of charity or generosity, but also a basic responsibility of states.
+For further discussion, see Piron (2004).
+DFID paper on social protection
+
+7
+
+2 What do we mean by social protection?
+Social protection is both an approach and a set of policies. As an approach, it focuses on
+reducing risk and vulnerabilities, and includes ‘all interventions from public, private and
+voluntary organisations and informal networks to support communities, households and
+individuals in their efforts to prevent, manage and overcome risks and vulnerabilities’.4
+Informal networks would include individuals transferring resources to friends and family.
+The poorest households and communities face numerous sources of severe risk. Despite
+their best efforts to protect themselves against these risks through mutual support and
+informal insurance, the constraints they face in doing so leave them ‘vulnerable to long
+term, irreversible losses of human capital’.5
+A social protection approach is premised on achieving a degree of agreement across
+society that citizens are entitled to certain minimum standards of welfare by virtue of their
+citizenship. This is embodied in the internationally recognised ‘right to an adequate
+standard of living’, as well as in a recognition that there is an obligation on states to
+provide minimum standards in relation to economic and social rights (e.g. to health or
+education). Social protection measures that promote and protect agreed minimum
+standards can help realise other rights (for example, achieving a minimum level of
+healthcare means that children can benefit more from education). The minimum standard
+of living is usually a politically contested issue and evolves over time, along with
+prosperity, education, communication and political ideology.
+The social protection approach has been influenced by the World Bank and its Social Risk
+Management (SRM) framework, which focuses on preventing, mitigating and coping with
+risks and shocks, but which also aspires to provide pathways out of poverty.6 Actors
+include individuals, households, communities, NGOs, market institutions, government,
+international organisations, and the world community. Risk management arrangements
+include the informal, market-based, and publicly provided or mandated.7 Risks are either
+‘idiosyncratic’ (affecting individuals or households singly in time) or ‘co-variant’ (affecting
+large numbers of households/individuals at the same time).
+The major contributions of the SRM framework are, first, to have usefully shifted thinking
+about livelihood security from a focus on post-crisis safety nets helping poor people to
+cope, to ex ante prevention and mitigation measures across a potentially wide range of
+public and private decisions and public policy instruments. This is the aspect of social
+protection which makes it a developmental rather than humanitarian approach: in putting
+measures in place before a crisis it creates the confidence that the crisis can be survived
+without recourse to loss or erosion of livelihood or assets that are the basis for income and
+enterprise. This entails the potential for behaviour change: greater productive investment
+and risk-taking become possible. For example, poor people can decide to keep children in
+school for longer, educate girls as well as boys, and invest in land development,
+enterprise, and skills. Freed from the patron-client relationships that previously assured
+security, they can also more easily find the social and political capital that enables rights to
+be asserted. Social protection can also play the role of a ‘springboard’ out of poverty and
+deprivation.
+Secondly, the SRM framework has drawn attention to the fact that much social protection
+is in fact provided by family, community, informal and not-for-profit organisations, as well
+as, in some situations, the private sector: the state is not the only actor, even though it is
+an important one. This raises challenging questions about not only whether and how
+governments can avoid crowding out such initiatives, but also whether and how those
+DFID paper on social protection
+
+8
+
+which are beneficial and equitable in their impact can be crowded in. It also risks diverting
+attention from the key role that states and the international community must play in
+meeting the obligations they have under international law (see Box 2 above).
+There are two principal issues in addressing the risks faced by poor and vulnerable people
+which are not well addressed by the SRM approach. First, the chronically poor (of whom
+there are several hundreds of millions in the developing world),8 who suffer multiple and
+sequenced shocks while they are poor and are usually least well equipped to deal with
+them, may be left out of the picture or at least not sufficiently highlighted. Their continued
+deprivation may be at least partly attributed to their high levels of vulnerability; chronic
+poverty also leaves people extremely vulnerable.9 The consequences of chronic poverty
+are potentially serious for economic growth prospects – the chronically poor will continue
+to express low levels of demand for goods and services; they will not be able to take
+advantage of economic and human development opportunities as these arise; and the
+chronic poverty of marginal groups and regions may contribute to social and political
+instability, which is also bad for economic growth.10 This has implications for both the
+purpose and scope of social protection, discussed below.
+A reason for this potential omission is that the SRM framework (and indeed many
+governments and donor agencies) does not differentiate adequately between different
+categories of poor and vulnerable people. It gives less weight to improving the life chances
+of the chronically poor and, among them, the less active poor as compared with the
+transitorily and more active poor, because these are not seen as potential contributors to a
+positive growth process. Social protection needs to include measures that will increase the
+chances that such individuals and households will be in a position to contribute positively
+in future, otherwise its proponents could be accused of perpetuating poverty on a massive
+scale. The need for a disaggregated analysis is returned to in Section 3.1.
+Secondly, there is a presumption that risk prevention, mitigation and coping strategies will
+be enough to enable full recovery from shocks or stresses; that poor people will ‘bounce
+back’ to where they were before, or a better place. Empirically,11 and theoretically, this is
+not always the case. Recovery and new opportunities may require access to scarce
+resources. The process of recovery needs at least to be problematised, rather than
+assumed away, or assumed to have been dealt with by ‘development’ – there is a
+substantial risk of non-recovery which also needs to be managed and overcome. This is
+particularly important for the development of more and stronger pathways out of poverty.
+For example, if poor people, post-crisis, simply return to rely on the same patronage
+relationships for security which previously ensured that they were ‘safe but poor’,12 this
+could hinder a substantial recovery: the springboard effect of social protection will be
+limited. Where the risk of non-recovery is widespread, a good understanding of the
+reasons will be needed in order to design a laddered, incremental approach to supported
+recovery which will make a reality of the ‘springboard’ effect.
+In the case of chronic conflicts, people are likely to have to adapt to changed circumstance
+rather than recover in any absolute sense (Box 3). This offers social protection strategists
+a deep challenge.
+
+DFID paper on social protection
+
+9
+
+Box 3: Dealing with the risk of non-recovery from conflict, with reference to Afghanistan
+In the immediate aftermath of war, particular groups may be especially vulnerable – refugees or internally
+displaced, widows, orphans, disabled, and ex-combatants, and short-term assistance may be targeted at
+them. It is noteworthy that these are similar to the most ‘vulnerable groups’ in other crisis situations – and the
+groups to which social assistance efforts are often channelled, where these exist. This suggests that
+societies which already have social assistance policies will be better able to deal with the impoverishing
+consequences of conflict and with rehabilitation in its aftermath. Short-term assistance may not be enough,
+however: for example, ex-combatants and displaced people may require sustained support over a period of
+years, depending on experience, resources and the environment to which they return.
+There may be an opportunity in the aftermath of war to redistribute assets – land, educational opportunities –
+in favour of disadvantaged groups. There may also be opportunities to link social protection (e.g. conditional
+transfers) to the restoration of basic services, to ensure these include the vulnerable and impoverished. More
+broadly, the development of social protection in a country like Afghanistan ‘provides an agenda for making a
+smooth transition from the chaotic and haphazard collection of humanitarian projects to a more reliable and
+regularised system that protects the population as a whole’, and by moving the centre of activity to the
+government, strengthens the legitimacy of the state ‘by allowing it to re-shoulder its responsibilities for
+ensuring the basic survival of its citizens’. Since Afghanistan is highly prone to natural disasters, it also
+needs a system to respond to these; increased livelihood security may provide the conditions needed to
+draw opium producers to alternative livelihoods. However, social protection in Afghanistan will also need to
+confront the structural asset deficit faced by very large numbers of people for years to come. All of this will
+take a long time, as the capacity of the public sector is so low. It would be important in this situation not to
+abandon humanitarian relief programmes before alternative livelihood security measures were in place.
+These could rather be integrated into an overall social protection strategy.
+Source: based on Darcy (2004) and Christoplos (2004).
+
+Social insecurity in extreme circumstances has impoverishing effects, and societies in
+turmoil are in a weak position to rebuild the basic social fabric of relationships and a
+minimum level of trust. These situations stretch the concept of social protection beyond the
+narrow purpose of dealing with risks and vulnerabilities in an even more extended way
+than famine or epidemic conditions induced by natural hazards. Where the state is hostile,
+a critical part of the problem, obligations which would normally rest with it arguably should
+be temporarily transferred to the international community. This is because the solidarity on
+the basis of which responsibility for basic welfare is distributed has broken down. A
+question for this paper is the extent to which international practice on social protection
+should stretch to encompass this terrain. There are universal rights which suggest that it
+should:
+The right to life
+‘The right of everyone to an adequate standard of living…including adequate food,
+clothing, housing…’
+‘The right of everyone to the enjoyment of the highest attainable standard of
+physical and mental health…’13
+Protracted violent conflict may create a vacuum in terms of implementing such rights. In
+practice, the burden will be taken by informal and private mechanisms, and support to
+these may be the most practical approach the international community can take. There are
+also protective rules of international humanitarian law in place which prevent starvation
+being used as a method of war and the destruction of crops, livestock, drinking water
+sources, essential medical supplies and other ‘objects indispensable to the survival of the
+civilian population’.14
+
+DFID paper on social protection
+
+10
+
+The obligation progressively to achieve these rights lies primarily with the state. But there
+are practical difficulties in enforcing or implementing such rights in situations of violent
+conflict.
+2.1 The purpose of social protection
+Based on the above discussion, we can distinguish primary and related purposes for social
+protection. Its primary purpose has three parts:
+to prevent, mitigate and enhance the ability to cope with and recover from the major
+hazards faced particularly by all poor people;
+to contribute to chronically poor people’s ability to emerge from poverty, deprivation
+and insecurity and to challenge the oppressive socio-economic relationships which
+could be keeping them poor, by increasing livelihood security and linking such
+increases to promoting enhanced livelihoods; and
+to enable the less active poor to live a dignified life with an adequate standard of
+living, such that poverty is not passed from one generation to the next.15
+Households and communities have institutions and practices that are consistent with risk
+management strategies. Any interventions by governments (or donors) act on systems of
+risk management that exist already, not in a vacuum. The objective of such interventions
+should therefore be to support functional behaviour and institutions and weaken
+dysfunctional behaviour and opportunities.
+These ideas represent the primary purpose, but they can feed a number of other important
+objectives which can be explicitly included in social protection policies. Economic growth
+can be enhanced, especially the extent to which it benefits the poor. Social protection can
+make the process of economic improvement ‘socially bearable’ by mitigating its negative
+aspects. An environment can be created in which recovery from shocks is feasible for the
+poor. Poor people can be enabled to become more assertive in claiming their rights and
+entitlements, without fear of loss of security. Social protection can explicitly help to protect
+against discrimination – in the job and other markets, and in living arrangements more
+generally. Social and political stability and the legitimacy of a state can be enhanced
+through social protection measures which strengthen the social contract between state
+and citizen.
+2.2 The scope of social protection
+The social protection menu is a long one, in terms of what is provided, by whom and to
+whom. There are many choices to be made along the way (discussed in Sections 4 and 5).
+A social protection approach goes well beyond well established concepts of safety nets
+(Box 4), social insurance and social assistance (Box 5), as it suggests a reconsideration of
+a range of public policies and societal processes from the perspective of risk and
+vulnerability. Before developing public policy responses, a true social protection approach
+would take very seriously the need to understand households’ and communities’ own
+institutions and practices that contribute to protection. There is usually a gaping hole in
+countries’ understanding of these ‘informal’ aspects of social protection, one which needs
+to be filled in order to design policies which genuinely complement, or knowingly and for
+good reason ‘crowd out’.
+
+DFID paper on social protection
+
+11
+
+Box 4: Social protection and safety nets
+Safety nets are put in place to prevent individuals from falling below a given standard of living, and are
+usually short-term emergency measures. Social protection supports households in reducing, preventing and
+overcoming hazards which adversely affect wellbeing, consumption and investments. Safety nets were
+advocated as responses to financial crises and adjustment. Social protection thinking developed as a result
+of the failure of safety nets – they worked imperfectly, did not fully reach intended target groups, and could
+not be set in place fast enough. Social protection is, by contrast, in place before the crisis arrives. Well
+designed safety nets can, however, be an important part of a social protection approach, if their existence is
+well known before the crisis hits.
+Box 5: Social protection and social security
+It is useful to distinguish social security, as a subset of social protection. Social security is ‘the protection
+which society provides for its members through a series of public measures: to offset the absence or
+substantial reduction of income from work resulting from various contingencies (notably sickness, maternity,
+employment injury, unemployment, invalidity, old age and death of the breadwinner); to provide people with
+healthcare; and to provide benefits for families with children’.16 Social security systems are based around
+formal employment, and include social insurance and social assistance measures.
+The principal debate in developing countries has been how to extend coverage of formal social security to
+the large numbers of self-employed outside the formal sector. Social insurance and social assistance against
+unemployment represent traditional security mechanisms that are not applicable to the bulk of the poor in
+developing countries who work in the informal sector. There are no short cuts to including the majority of
+workers in such schemes: sustained economic growth which expands the formally employed workforce, and
+creates the revenue base for redistributive social protection, is the long-run answer. The informal sector is
+progressively brought under the umbrella of publicly provided or guaranteed social protection in this vision.
+Under its ‘Decent Work’ agenda, the ILO has proposed the following roles for social protection: combating
+the impact of poor health, particularly HIV/AIDS, on employment and incomes; priority financing of
+healthcare, including extending insurance to poor and vulnerable people; income support systems for
+families with school-age children, the elderly and people with disabilities; reform of existing social insurance
+schemes with a view to a medium-term strategy for extension of coverage and synergy with small-scale
+schemes; improvement of mechanisms for establishing and enforcing minimum wages; occupational health
+and safety policies, with particular focus on hazardous occupations, such as agriculture, construction, mining
+and small-scale manufacturing; community maternal support.17
+
+In addition, having recognised that in poor countries much protection against risk is
+privately and informally provided, social protection approaches have a duty to consider
+how the beneficial aspects of these can be facilitated and enhanced, and the inequitable or
+negative aspects diminished. The regulation of informal and private provision is thus a
+serious dimension of a social protection approach. This will involve first assessing what
+informally or privately provided protection has net benefits, with a view to ‘crowding them
+in’. Informal and community-level provision is generally better at dealing with idiosyncratic
+risk; the community ‘moral economy’ is less effective at a time when everyone is hit by a
+crisis. On the other hand, protection provided by other poor people, at great cost to
+themselves and sometimes to the social fabric, and by patrons intending to render clients
+dependent and therefore unable to make useful investments for themselves or their
+families, can be ‘crowded out’.
+Strong efforts can also be made to link livelihood protection with promotion in order to
+assist the active but chronically poor away from continued dependence either purely on
+safety nets or on the patronage relationships which limit investment and growth.
+Furthermore, a social protection approach can be included in mainstream economic and
+social policies, such that these also contribute to reducing risk and vulnerability,
+developing agreed minimum standards for an adequate quality of life, and providing the
+basis on which escape from chronic poverty becomes possible.
+
+DFID paper on social protection
+
+12
+
+2.2.1 The range of measures
+The range of activities is well represented in the World Development Report 2000/1,18 and
+reproduced, with an additional row, in Table 1. The major instruments of social protection
+are assessed further in Section 4. These range from pure transfers to those without
+access to assets, including their own labour and social networks, through transfers which
+require a reciprocal action from those able to provide it (labour contributions, attendance at
+a public service), through to mutual insurance whereby the entire cost of protection is met
+by the beneficiary.
+The addition of addressing the risk of non-recovery (row 5), the challenge of reaching the
+poorest, and the importance of informal provision may suggest additional instruments.
+Social protection as a policy framework involves finding and implementing an appropriate
+mix of activities that could support communities, households and individuals in achieving
+secure livelihoods.
+The additional focus on recovery, building on humanitarian action (see Box 3 above) as
+well as development programming, helps to deal with the ‘Catch 22’ of social protection:
+that those countries whose people are most in need of social protection have the least
+ability to provide it.19 Very low incomes, an absence of a strong economic growth path,
+scarce public revenues, and a strong subsistence sector, all constrain poor countries from
+establishing effective safety nets and social security systems.20 Where humanitarian action
+in such a situation is ad hoc, the development of a social protection system provides an
+opportunity to transform haphazard safety net programmes into a nationwide system to aid
+poor people’s recovery. Where the condition of the state may still be part of the reason for
+poor people’s vulnerability, partnerships between humanitarian organisations and parts of
+the state designated to take up the social protection mandate could ensure a degree of
+accountability to ordinary people, if the process is designed with accountability in mind.
+Part of the recovery process is the re-establishment of social integration and the legitimacy
+of the state; accountable social protection measures can contribute to this.21
+Full recovery also requires strengthening the link between protecting and promoting
+livelihoods. Social protection measures which smooth and increase income can in practice
+enhance the asset position of poor households if households save and invest (as they
+often do!)22 part of this income. Measures to restore assets ideally need to be
+accompanied by new financial institutional structures which can prevent asset loss or
+mortgaging in a crisis. Legal reforms can also contribute to reducing vulnerability, by
+granting better access to common property resources, and granting rights and
+strengthening the mechanisms to claim rights. This sort of combination of policies would
+help to transform livelihoods, enabling vulnerable households to adopt medium and longterm actions (like investment in education) to ensure they overcome structural constraints
+and limitations. Social protection can facilitate change and promote more extended
+horizons.
+The concern to crowd in equitable informal or private provision, and crowd out excessively
+burdensome provision means that regulation will become a key policy function. Given the
+liberalisation of insurance markets in many countries, regulatory structures are necessary
+in any case, and in many cases are being put in place. Few, if any, have the capacity to
+assess and deal with informal provision, however. This requires considerable institutional
+development. It is very likely that NGOs will continue to be the best vehicle for
+understanding and working out the ways in which to support and strengthen equitable
+informal provision.
+Thus, a social protection approach to risk and vulnerability goes well beyond safety nets
+and social security, even if these provide a menu of public actions which may be
+appropriate.
+DFID paper on social protection
+
+13
+
+Table 1 Mechanisms for managing risks
+Objective
+
+Informal mechanisms
+Individual and household
+
+Formal mechanisms
+Group-based
+
+Market-based
+
+Reducing risk
+
+Preventive health practices
+Migration
+More secure income sources
+
+Collective action for
+infrastructure, dikes,
+terraces
+Common property
+resource management
+
+Mitigating risk:
+Diversification
+
+Crop and plot diversification
+Income source diversification
+Investment in physical and
+human capital
+Marriage and extended
+family
+Sharecropper tenancy
+Buffer crops
+
+Occupational
+associations
+Rotating saving and
+credit associations
+
+Saving accounts in
+financial institutions
+Microfinance
+
+Investment in social
+capital (ritual, reciprocal
+gift giving)
+
+Old age annuities
+Accident, disability and
+other insurance
+
+Transfer from networks of
+mutual support
+
+Sales of financial
+assets
+Loan from financial
+institutions
+
+Insurance payments for
+lost assets (mitigation)
+Inclusion of losers in
+collective arrangements
+(e.g. savings groups)
+Creation of losers’ groups
+
+Asset replacement
+loan schemes
+Labour market and
+other ‘opportunity’
+information
+Financial support to
+market intermediaries
+
+Mitigating risk: insurance
+
+Coping with shocks
+
+Recovering from
+shocks/reducing the risk
+of non-recovery
+
+DFID paper on social protection
+
+Sale of assets
+Loans from money-lenders
+Child labour
+Reduced food consumption
+Seasonal or temporary
+migration
+Saving assets (at the
+expense of consumption)
+Increasing recourse to limited
+known strategies, which
+become overcrowded
+
+14
+
+Publicly provided
+Sound macroeconomic policy
+Environmental policy
+Educational and training policy
+Public health policy
+Infrastructure (dams, roads)
+Active labour market policy
+Agricultural extension
+Liberalised trade
+Protection of property rights
+Pension system
+Mandate
+Insurance for unemployment
+Illness, disability and other risks
+Social assistance
+Workfare
+Subsidies
+Social funds
+Cash transfer
+Incentive support to group or
+market-based recovery
+Additional support to schools to
+keep children to a minimum useful
+threshold
+Focus infrastructure improvements
+on affected regions and local areas
+Increase coverage of social
+security schemes to include nonrecoverers
+
+3 Risk, vulnerability and pro-poor growth
+Exposure to uninsured risks can create poverty traps: households are prevented from
+taking reasonable risks, and engage in low-risk, low-return activities, keeping a stock of
+liquid but not necessarily very productive assets which can be sold off in emergency. They
+are constrained in the risks they take and from investing in a full range of assets because
+of market failure in credit and insurance markets. The poor then have low levels of assets,
+and those assets generate low returns. Continued exposure to high levels of risk can
+induce chronic poverty. Social protection can change the perception of risk by poor people,
+such that they invest in riskier, higher return activities, accumulate diversified portfolios of
+assets, and put some of them to higher return uses. Income growth becomes possible for
+swathes of people for whom it was previously unlikely. Social protection can also provide
+poor people with the environment in which they can accumulate assets which can lead to
+future income growth.
+3.1
+
+Analysing risk and vulnerability
+
+3.1.1 The consequences of uninsured risk
+Risks reduce income growth, by reducing investment and tying up resources in coping and
+survival strategies. There are long-term impacts: recovery from shock may be slow.23 A
+malnourished child has little chance of catching up, and the loss of human capital may
+lead to significantly lowered lifetime income. Conversely, higher levels of human and other
+assets contribute to higher rates of economic growth. In low-income countries some of the
+costs are born by local NGOs and faith groups, the state or the international community,
+usually inadequately. Most of the costs of coping with risk and the consequences of
+shocks are born by poor households themselves and, within them, by the ‘carers’ –
+women, the elderly, and older children in particular. This has consequences for
+intergenerational poverty as well as for these individuals and their dependents.
+Adjusting asset portfolios to cope with risk often means investing in liquid assets with lower
+returns. Social protection may prevent this. Adjustment strategies are not generally able to
+cope with serious and repeated shocks, especially co-variant. Effective ex ante social
+protection can reduce the likelihood of co-variant shocks leading to huge asset loss.
+Box 6: The welfare costs of ineffective risk management
+‘The consequence of the failure of the diverse risk management strategies is a massive loss of welfare. In
+Ethiopia this occurs in a number of ways. The most visible form is large scale physical death. Lives lost to
+drought have been tragically high, especially in the past. HIV/AIDS killed hundreds of thousands to date and
+this is expected to continue. The same is true for malaria…The losses do not end there. Income losses have
+been staggering…droughts can shrink household farm production by up to 90% of output in a normal year.
+Households are willing to pay up to 30% of their farm income to prevent malaria for one year, which gives
+one an idea of the economic cost of malaria [for] farm households. Reduced income in turn leads to lower
+consumption. For instance, a 10% reduction in income reduces consumption by 15%. A decrease in rainfall
+by 10% can lead to up to 10% loss in consumption. For a single household, even a single experience of one
+of these shocks would be unbearable. But when they are bunched together, as is often the case, the scale of
+the problem becomes magnified.’
+Source: World Bank (2003b: 8).
+
+15
+
+3.1.2 Disaggregating risk and vulnerability
+Social protection focuses on the vulnerable, and the way in which ‘vulnerability’ is
+constructed is a crucial determinant of who benefits. This would include those who are
+vulnerable to absolute poverty as well as those who are already poor. In Indonesia, the
+US$2 a day poor tended to be vulnerable to absolute poverty.24 In other situations, 150%
+of the poverty line is sometimes taken. Vulnerability can be identified by other means:
+people are vulnerable at certain points in their life cycle: in old age; in childhood; in
+pregnancy. We know that these vulnerabilities to a degree cut across income poverty
+levels. Focusing social protection on the vulnerable US$1–2 a day poor and the multidimensionally vulnerable has the advantage that a substantial proportion of the population
+of most developing countries would be included. This makes social protection policies
+politically more sustainable, and would widen their potential impact.
+However, this raises the issue of whether the already poor do or can benefit from social
+protection. And, in a situation where financial and human resources are severely
+constrained, difficult choices about priorities will have to be made. This is the major
+challenge for social protection.
+Risks and vulnerabilities among the poor vary significantly. Those faced by the
+economically active can be distinguished from those faced by the less active or inactive.
+Different approaches will be necessary within an overall commitment to reducing
+vulnerability for poor people.
+It is sometimes thought more cost-effective to focus first on the transitorily poor, who can
+more easily ‘bounce back’ to non-poor status through their own actions, with minimal
+support. The chronically poor, by contrast, need asset transfers if they are to climb out of
+poverty. These are political choices, the outcomes of which will vary from one context to
+another. The Social Risk Management framework recognises that the ‘already poor’ also
+experience risks, and need protecting against those risks.25 However, the framework
+needs extending and adapting if it is really going to be able to focus on the risks and
+vulnerabilities of this group as much as those of the transitorily poor and non-poor.
+Box 7: Risk management objectives for the very poor, the poor and the non-poor
+Risk management objective 1: minimise the size of the maximum possible welfare loss. Especially relevant
+for the very poor since maximum loss is destitution or death.
+Risk management objective 2: minimise the probability of a loss in consumption below a certain threshold.
+Relevant for individuals around the poverty line.
+Risk management objective 3: maximise the expected rate of return given a level of variability of returns. The
+risk here is not poverty or destitution, but not making the most of the resources available, because of
+inadequate information about risks.
+Source: Siegel and Alwang (1999).
+
+There are three categories of risk management objective, relevant respectively for the very
+poor and vulnerable, for those around the poverty line, and for the non-poor (Box 7). This
+allows appropriate responses to be designed: the poorest require measures which
+minimise the maximum possible welfare loss: for example, healthcare, food distribution,
+and asset insurance (including life, accident). Minimising the probability of falling below a
+consumption threshold (e.g. the poverty line) suggests consumption smoothing via saving
+and ‘dis-saving’, or insurance instruments. For higher income groups, portfolio
+diversification and insurance would help prevent significant fluctuations in returns.26
+
+16
+
+Risk is a major factor in maintaining people in poverty over long periods, as well as
+generating it.27 The likelihood is that many chronically poor people will not escape poverty
+without significantly enhanced livelihood security. The evidence is that social protection
+can address the needs of the chronically poor,28 and that carefully designed programmes
+can help the poor onto an accumulative trajectory (e.g. Hulme and Matin, 2003).29
+Vulnerability and risks vary within the life cycle and by gender: it is important that social
+protection policies and programmes recognise and address these variations. As a result,
+individuals within households may be appropriate units of analysis for social protection
+strategies, especially if the objective is to operationalise the ‘springboard’ effect of social
+protection. Children, women and the disabled may need protection against particular risks
+which may otherwise reduce wellbeing, render them destitute, or contribute to mortality.
+And protecting them, especially through education and nutrition, has many spin-off
+benefits for their dependents and wider households, which can contribute to interrupting
+intergenerational poverty.
+Women are subject to general risks, which may be intensified by gender considerations –
+for example the discrimination that women experience in labour markets and institutions
+may be enough to account for the slower recovery which women-headed households may
+experience after a shock.30 Women are more sensitive to changes in income, prices and
+labour demand than men in some situations. This means that women could require greater
+social protection to achieve the same outcome.31
+Women are also subject to gender-specific risks which result from their biological roles in
+reproduction, and from socially ascribed caring and other roles. Specific risks also arise
+from restrictions on public role and taboos against women or men carrying out certain
+tasks. Many of these are ‘life-cycle’ risks, which can be predicted: girl children are at risk of
+not attending school because of domestic or income-earning responsibilities and are
+particularly at risk of withdrawal as adolescents; unmarried women often have restricted
+access to the labour market and both they and married women may be subject to sexual
+harassment at work; adult and older women may have to bear much of the cost of disease
+and death in the family, and may lose work because of caring responsibilities; divorce and
+widowhood may bring stigma and loss of assets.32 Box 8 explores the implications.
+Social protection arrangements do have the potential to enhance the scope for including
+excluded groups into the mainstream. However, a big caveat is that households and
+communities are the basic units active in social protection. Within households, resources
+are distributed and redistributed according to norms and rational calculation. Attempting to
+target individuals within households can only be approximate, as those individuals or
+others in the household with decision-making power will often determine how those
+resources are used and by whom. This may in some cases even stigmatise the individual,
+and result in reduced welfare. Although it helps to have a disaggregated understanding of
+risk and vulnerability, it does not immediately follow that a disaggregated (or targeted)
+policy response is appropriate.
+
+17
+
+Box 8: Addressing the particular risks to which women are exposed
+Men and women may be exposed to different risks; they may also experience the same risk differently.
+Women are biologically more susceptible to some diseases (HIV, STDs) and suffer high maternal mortality.
+They are also at risk of domestic violence, which may be socially accepted. Gender roles and patterns of
+resource ownership and control constrain responses to risk and vulnerability. Property rights, norms about
+mobility, freedom to remarry are examples of gendered dimensions of socio-economic life which constrain
+men and women differently in their responses to risk. There are many specific risks linked to women’s life
+cycles. However, social protection approaches generally deal poorly with these specific risks.
+Women are rarely well protected by property laws, and where there is progress (e.g. Uganda), the judicial
+mechanisms to implement women’s rights are often inadequate or biased against their interests.33 Maternity
+benefits and childcare provision have potential but rarely receive priority. The provision of mobile crèches at
+migrant construction worksites in Mumbai by a voluntary agency is an exception. The Maharashtra
+Employment Guarantee Scheme has also provided crèches facilitating participation by mothers. Other public
+social protection mechanisms which are likely to benefit poor women include: pensions, perhaps targeted at
+the over 75s and widows; childcare facilities and allowances; and conditional transfers to keep girls in
+school. Other policies with critical protective elements include legal reforms, and effective protection of
+legally sanctioned property and individual security.
+Women are often very vulnerable at work. It is difficult to extend formal social insurance to cover the informal
+sector where most poor women work. However, SEWA in India illustrates what is possible when the
+gendered nature of risk is understood: a health insurance scheme with support from government and the
+private sector, relying on the mutual trust among SEWA members as collateral; maternity benefits against a
+fixed deposit plan with premiums and payment structure designed to suit different income groups among the
+poor; and the basic banking services providing savings accounts and credit.
+Women are heavily involved in informal strategies for managing risks. These include strong informal
+associations around common property resource management and collective work, savings and credit,
+reciprocal gift-giving and intra-community transfers, and borrowing. Finding ways of strengthening the
+informal sector represents uncharted territory: no government or development agency has done it; no
+research on informal protection has been carried out with this question in mind. Neither has any assessment
+been made of the displacement effects formal provision may have on the informal, and what of this may
+represent desirable burden reduction as opposed to undesirable crowding out.
+Source: based on Luttrell and Moser (2004).
+
+Risk and Vulnerability Assessment
+Decision-makers need to ask the following questions:
+What are the main hazards to which poor people are most vulnerable? And which
+people are vulnerable to which hazards?
+What combination of instruments will best protect them against the major hazards?
+A Risk and Vulnerability Assessment (RVA) should give answers to these questions.
+Institutionalising such assessments in policy analysis and as part of the evidence base for
+policy is critical. The second question can be answered in two stages: first, by assessing
+what is known about the effectiveness and impact of individual instruments in a particular
+country (or in similar contexts, if no information is available on a country) – see section 4;
+and secondly by mapping feasible and (potentially) effective instruments against the major
+hazards faced by the poor. The second step should generate appropriate combinations.
+This exercise would help to identify priority gaps in the coverage of risks. For example, in
+Bolivia, a vulnerability assessment which identified illness and injury, old age and
+disability, and domestic violence as the major idiosyncratic risks, and harvest failure and
+food price fluctuations, unemployment, precarious informal sector enterprises, and the
+eradication of coca as the main co-variant risks, the following gaps in provision were
+identified:
+Education was not included in the Bolivian (or the World Bank’s) approach to social
+protection; arguably this should appear strongly in the risk reduction category,
+18
+
+‘since it provides opportunities for livelihood security’. Education does now figure
+strongly in this category through conditional cash transfer programmes, which
+provide additional cash or food incentives to persuade parents and children of the
+value of remaining in school through adversity and poverty.
+Informal provision has not been assessed for its scope, coverage or impact. This
+needs to be done before strategies to strengthen provision are developed.34
+The Ethiopian Risk and Vulnerability Assessment identified limitations of existing public
+risk management programmes. Risk mitigation strategies (irrigation, water harvesting,
+agro-ecological packages and resettlement) all contributed to food security but introduced
+their own risks in health, environment and conflict, which were not addressed. Even if well
+implemented, they would also assist only a fraction of the vulnerable or extremely poor.
+Existing risk coping strategies have a narrow focus on drought and food insecurity. Other
+risks, such as malaria, HIV/AIDS and malnutrition – which are just as powerful drivers of
+poverty as droughts – remained unaddressed. The food security programme also has a
+narrow geographical coverage, hard choices having been made, and is overwhelmingly
+designed and seen as useful only for relief, not for protecting and building assets. This
+analysis provided the basis for a policy dialogue.
+Hazards and vulnerability are context specific. Social protection responses need to be
+similarly problem-based. There is little mileage in advocating universal magic bullets. At
+the very least, a menu of options is needed, from which the ‘best’ can be chosen –
+depending on objectives (see Section 4).
+3.2 Social protection and growth
+Growth usually benefits the poor, but can benefit them disproportionately if there is broad
+access to assets and markets, and if risk and vulnerability are controlled. The argument
+advanced here is that social protection can contribute to economic growth, and may be
+essential if growth is to be ‘pro-poor’. Achieving the income Millennium Development Goal
+should include a focus on increasing the average incomes of the poor. DFID’s draft policy
+framework on pro-poor growth emphasises the need to:
+create strong incentives for investment;
+foster international economic links;
+provide broad access to assets and markets; and
+reduce risk and vulnerability.
+Reducing risk and vulnerability is part of a broad strategy: the degree to which direct
+interventions are needed will depend on the degree of success achieved in the other three
+elements of the strategy, as well as the nature of hazards, the level and spread of risks,
+and the degree of vulnerability poor people experience. Ideally, the costs and benefits of
+reducing risk and vulnerability through social protection measures should be compared
+with other approaches. Of course, if there were developed credit and insurance markets
+there would be less need for social protection.
+Economic growth is critical for social protection: it provides both the additional incomes
+which allow for critical private and informal transfers and mutual support, but also the basis
+for public revenues which can be used as insurance and for basic social security to
+enhance the quality of life for citizens. This is especially important for the non or less
+economically active. This is relatively uncontested: on the other hand questions about how
+much public revenue should be used for such purposes will always be controversial; the
+19
+
+potentially negative impact of such expenditures on growth has received much learned
+attention, and is a reason why governments and the international community have been
+historically reluctant to devote substantial resources to social protection. However, it
+should not assumed that there is a trade-off between economic growth and social
+protection: the argument here is that there are likely to be complementarities and
+synergies.
+Market failures
+Market failures are partly responsible for the levels of risk and vulnerability faced by the
+poor. The absence of insurance markets and the failure of banking services to reach poor
+people mean that the poor have less opportunity to save for their own protection, and no
+access to formal insurance against shocks. Such failures may account for a substantial
+proportion of persistent low rates of economic growth.35 Dealing with the causes of such
+market failures (high transactions costs, asymmetric information) will take time and
+institutional development; financial sector reform combined with spreading microfinance
+institutions to the greatest extent possible represents the way forwards. In the meantime
+social protection not only may provide substitutes for savings and insurance opportunities,
+particularly for the poor, which will enable them to become more productive, but will also
+help correct market failures.
+Labour market failures are also important for poor people, who tend to gain significant
+proportions of their livelihood through casual labouring, migration and (for the lucky)
+remittances. Poor people are often not free to associate and bargain over wages and
+working conditions; may be subject to forms of forced labour; and may have to rely on
+child labour and experience social discrimination in the labour market.36 The
+implementation of the internationally agreed core labour standards dealing with these
+issues will take time to achieve, especially for the poor in the informal economy. Social
+protection measures can play a role in tightening wage labour markets, preventing child
+labour, and reducing discrimination. For example, the much studied Maharashtra
+Employment Guarantee Scheme combats social discrimination by offering a minimum
+employment by right.
+Social protection can also have significant impacts on transactions in local markets.
+Providing pensions or other widespread forms of cash allowance puts income into the
+hands of many people who have little and may be economically less active; they are likely
+to use it in local markets and buy local produce. This can have an impact on the structure
+of demand, and produce multiplier effects in the local economy. In terms of pro-poor
+growth, this may have particular importance in remote regions where demand is stagnant
+and often satisfied from outside.37
+Public works can also contribute to improving poor people’s access to markets by
+developing local infrastructure, which is often the most difficult for governments to focus on
+through their regular programmes.
+Growth through asset development
+The effect of social protection on growth will be especially potent if the result of social
+protection is greater investment by the poor in human, physical, natural and financial
+assets. There is growing evidence that social protection leads to asset accumulation, and
+that this has income-enhancing effects where there are opportunities to use the assets:
+Pensioners in Southern Africa invest in their grandchildren’s education, feeding and
+clothing as well as caring for orphans; on the family farm, and in micro-enterprises,
+pensioners’ working age children are liberated to do the same; we need to know the
+extent to which social protection leads to asset accumulation and investment;
+20
+
+Conditional transfers can increase human capital: in Bangladesh, providing food for
+education significantly increased school attendance, with only modest loss of
+household income from child labour;38
+Labour-based infrastructure programmes can also enhance workers’ skills through
+on-the-job training; this is less true in the larger employment-based safety nets;
+Public works programmes can build local infrastructure and community assets but,
+if not well designed, the benefits are often short term and mainly for the local elite.
+Social protection may also contribute directly to social and political stability, if coverage is
+wide, allocation of benefit seen as fair, and it is seen as contributing to the ‘social contract’
+between state and citizen – e.g. if it prevents famine. In turn, stability and a strong social
+contract lay solid foundations for growth.
+A further, but more complex relationship which requires further investigation is that
+between social protection and inequality, which in turn is known to affect growth. It is
+plausible that social protection benefiting the poor will reduce inequality, but if it improves
+conditions for investment, this may also contribute to increased inequality. South Africa’s
+good social protection system has not prevented such an increase in the last decade.
+Conclusion
+What is clear is that a country’s social protection strategy cannot be considered in isolation
+from wider development policies: integration with other approaches to poverty reduction
+through key policy processes (national development plans or PRSPs) is necessary. A key
+question for national development strategies, with poverty reduction as an (or the)
+objective, is the extent to which pro-poor growth can be achieved without social protection,
+and over what time period.
+In summary, social protection can contribute to growth in the following ways:
+it helps correct market failures that contribute to poverty;
+it enables risk-taking livelihood strategies;
+it facilitates investment in the human and physical assets that can increase returns
+to economic activity as well as reduce the risk of future poverty. In this sense, it
+contributes to two of the objectives of pro-poor growth and moves well beyond
+welfare;
+it facilitates more rapid recovery from exposure to risk for those less able to recover
+quickly;
+it can include the non-active as well as the economically active poor;
+it reduces behavioural responses to vulnerability, such as postponing healthcare or
+switching to poor quality foods, which are understandable in the context of
+vulnerable households, but restrict growth and development in the medium and long
+run;
+it reduces incentives for unproductive and antisocial behaviour;
+by providing strong safety nets and fostering social cohesion, it also facilitates
+positive social and economic change and reduces the likelihood of conflict.
+Explicitly linking protection with livelihood promotion is one way of ensuring that social
+protection contributes positively to economic growth. This can be accomplished in two
+ways: first, by infusing promotion policies or programmes with risk and vulnerability
+21
+
+reduction objectives. This is illustrated in the case of the agricultural sector in Section 4.1.
+Investments can all have substantial positive and negative impacts on the risks faced by
+vulnerable and poor economically engaged households.39 The corollary of this is that
+policy-makers should also keep livelihood promotion and growth as an important criterion
+for assessing the utility of protection.
+Secondly, the linkage can be made by ensuring that there are ‘ladders’ out of welfare. This
+provides stepped opportunities for the non-active or less active to become as active as
+they can, whether through self-employment or wage employment. There is a range of
+(largely NGO) programmes attempting to create ladders of opportunity from which lessons
+might be drawn. The most famous of these is the BRAC Income Generation for Vulnerable
+Group Development.40 However, other NGOs (e.g. CARE) have also developed extensive
+experience. Government policy in the productive sectors can also contribute.
+
+22
+
+4 Choosing social protection instruments
+The purpose of this section is to offer a framework for deciding which public policy
+instruments are appropriate in a particular context. This is not a well researched topic, so
+this paper is breaking new ground.
+Arriving at an appropriate set of instruments requires knowledge about the likely hazards
+and poor people’s vulnerabilities, as well as how a range of instruments function or are
+likely to function in a particular setting, both individually and in combination. This
+knowledge can be relatively easily created in many situations, as in through RVAs. It is
+important that this knowledge be as disaggregated as possible if the critical gaps in
+provision are to be identified.
+No one social protection instrument will address the multiple hazards different groups of
+poor people face. While much knowledge is available about the functioning of individual
+instruments, these have universally been treated by analysts and policy-makers in
+isolation from each other: there is little information available about the effectiveness of
+combinations of instruments. This should be a priority for future research on social
+protection.
+Trying to assess and provide guidance on the cost-effectiveness of particular instruments
+poses challenges. It involves comparing disparate strategies, with different aims, target
+groups and modes of operation, and de-contextualising a wide range of instruments in
+order to do so. To our knowledge, such assessments have not taken place. Where
+comparisons have taken place within a sector/ area of social protection, such as nutritional
+support, we report these below. DFID country programmes could support analysis of the
+relative cost-effectiveness of different options.
+It is likely that any country will experience a ‘social protection trajectory’ over time.
+Different combinations of instruments will be appropriate and feasible at different times,
+depending on changing needs, resources, and political structures. The criteria on which
+choices are made should evolve, as society’s demands and collective capacities change.
+The poorest countries, which are generally also those with greatest governance
+challenges, will have to start with straightforward approaches aimed at the main
+insecurities faced by their populations, a large proportion of whom are poor. These might
+include delivering transfers through local administrations, for example, ensuring that key
+basic services are free at the point of use, or that recurring environmental risks are
+addressed. Countries affected by conflict present a particular challenge. The need for
+social protection is often particularly profound in countries affected by conflict, since
+livelihoods, essential services and protective institutions have often been destroyed.
+Temporary truces have been called to enable immunisation of children in Sri Lanka, for
+example, and it may be possible to negotiate to extend this principle to other forms of
+social protection.
+It is important to start from the point a country has reached, and identify the critical risks
+and vulnerabilities which are effectively reduced by existing policies or informal/private
+measures, before going on to identify gaps in provision or debate the merits of existing
+approaches.
+
+23
+
+4.1 Choosing combinations of instruments
+Based on the analysis in preceding sections, criteria for choosing social protection
+instruments would include:
+contribution to reduced risk and vulnerability, resulting in income-smoothing and
+reduced dependence on adverse socio-economic relationships for the poor and
+vulnerable;
+potential for asset development across the range of livelihood assets including
+human capital, especially for the chronically poor, enabling them to participate in
+and contribute to economic growth and assert their rights, and to recover after
+shocks;
+potential for contributing to economic growth through reducing (credit/insurance)
+market failure;
+contribution to socio-political stability through cost-effective broad national coverage
+and policy dialogue about criteria for inclusion;
+costs compared with benefits;
+complementarity with existing instruments and programmes;
+implementability, including political sustainability, financing, targeting, ability to be
+scaled up and down, and administrative capacity required; these are particularly
+important in poor countries with low governance capacity;
+possible crowding out/in effects (there may be a net benefit to the poor of what is to
+be crowded out/in).
+As mentioned above, the emphasis should be on examining the combination of
+instruments in place, their effectiveness, identifying gaps as well as problems with the
+current combination, and means of filling those gaps and addressing the problems
+identified. This could be done by locating the range of instruments against (i) the results of
+a Risk and Vulnerability Assessment and (ii) the criteria identified above in a matrix.
+In what follows, these criteria are briefly and selectively applied to individual instruments
+grouped in the following categories:
+safety nets
+social security
+human development measures
+informal provision
+linked protection-promotion
+In most cases, benefits or disadvantages are not inherent to an instrument but depend on
+programme design. In discussing each instrument or cluster of instruments, where
+evidence exists, we highlight the ways impact and effectiveness can be maximised.
+4.1.1 Public safety nets
+These are designed to prevent destitution and help people cope with emergencies.
+Coverage can be wide, with strong survival impacts where there is logistical capacity, but
+targeting brings the potential for errors of both exclusion and inclusion. Safety nets smooth
+incomes and, if they are implemented with regularity and well resourced as part of a ‘social
+contract’, they may acquire the characteristics of insurance schemes and enable positive
+changes of attitude among the poor towards more risky and productive activities, and thus
+24
+
+contribute to economic growth. This is unlikely if they remain emergency temporary
+measures. In the latter case, the developmental impact is weak or even negative. In
+general, a social protection approach would move away from policy based purely on safety
+nets, although they remain an important constituent in many poor countries.
+Food distribution and food aid
+Emergency food distribution is a mechanism of last resort, applied when other protective
+devices have failed. It will remain important, given the absence of effective social
+protection in most poor countries. There are specific concerns from a development
+perspective – in particular, the potential to distort food markets and depress production.
+Distribution may also respond more to a donor's wish to shift food grain surpluses than the
+economic bases of vulnerability in particular context. A social protection approach would
+focus significant effort on alternative instruments wherever possible.
+Public works and employment guarantees41
+Public works schemes can encourage risk-taking and greater productivity by providing a
+safety net, especially if this is sustained and guaranteed over a period of years, thus
+effectively providing insurance against risk. It is also possible to provide widespread
+coverage for the working poor through cash or food for work programmes. Beneficiaries
+often support non-working household members. Careful design may also enable less ablebodied people to participate. Where such programmes become an employment guarantee,
+sustained over a period of years and well integrated into government structures and
+processes, like the famous Maharashtra Employment Guarantee Scheme in India, there is
+evidence that farmers plant higher risk crops and the poor use savings for microentrepreneurship more readily than elsewhere.42 Critically, the guarantee is
+institutionalised in law: the poor have a right to a certain number of days work per year,
+which has substantially enhanced its social protection effectiveness.43 Other programmes
+in Southern Africa have had similar effects.44 Public works programmes which principally
+aim to create infrastructure typically have smaller coverage, but careful design and
+attention to payment methods can lead to greater inclusion of women or the less ablebodied.
+Generally, wage rates are set so as to discourage all but the poorest people from
+participating. Although this helps avoid inclusion of better-off people, it also limits the
+contribution employment schemes can make to social protection, essentially to
+guaranteeing survival. This can be compounded where work days are rationed to ensure
+that most people in need access at least some work. For example, wage rates for public
+works in Zambia, set at slightly higher than market rates, combined with an allowance to
+participants of a generous number of work days, enabled participants to accumulate
+useable assets that helped them improve their situation. At the same time, many poor
+people who could have benefited from a lower waged scheme were excluded.45
+A major area of concern with employment programmes is that they may compound
+nutritional problems, in that poorly nourished participants are required to undertake heavy
+labour for low remuneration. This is particularly the case for women, older people and
+young people or children.46 The latter groups are particularly likely to participate where
+wages are based on piece rates, when there are strong incentives for families to maximise
+income by involving as many members as possible.
+Infrastructure constructed through public works can principally benefit local power-holders
+or be located so as to enhance potential patronage gains (i.e. not necessarily in the
+geographically neediest areas). However, well designed public works programmes, as in
+some social funds, can manage to create synergies between employing poor people and
+25
+
+creating infrastructure which enhances livelihoods (e.g. roads, irrigation facilities in remote
+areas) or wellbeing (e.g. improved sanitation or renovation of school buildings).47
+The administrative costs of public works programmes may be high in relation to the
+benefits (in addition to programme administration, there are the costs of building materials
+and equipment, and targeting). Cash transfers may be more cost-effective, despite
+concerns about welfare dependency. However, many very poor people highly value
+infrastructure improvements, despite the lukewarm response of many development
+professionals who see them as insufficiently developmental.
+4.1.2 Social security
+These are often the most controversial instruments, with policy-makers understandably
+worrying about welfare dependence and budgetary commitments. However, pensions and
+allowances have the potential to start small in a poor country, and grow over time as the
+country can afford more, enabling investment of savings by poor families in enterprise and
+education. Demand for local goods and services is generated, even in remote areas, and
+cash transfers may be a better way to achieve this than expensive area-based
+development programmes.48 The feasibility of achieving widespread geographical
+coverage through the private sector, post offices or local administration could potentially
+bring socio-political integration benefits.
+Food subsidies
+Many countries which had universal subsidies on basic food commodities have moved to
+targeted subsidies and ration card systems to reduce the costs to the budget. Targeted
+food subsidies on staple products are an effective way of enhancing the nutritional status
+of groups vulnerable to malnutrition, or to protect people during a crisis. While they are
+relatively expensive, food subsidies have played a role in ending vulnerability to famine in
+Bangladesh, India, Indonesia and elsewhere. If well designed in terms of targeting, the
+value of the subsidy, the degree of stigma involved in benefiting, and administrative
+efficiency, targeted food subsidies (e.g. via ration cards) may represent an effective social
+protection instrument; however, the storage costs of food mean that these can be more
+expensive to implement than cash transfers, and may be more subject to loss and theft. A
+critical issue is ensuring that the value of the ration keeps place with inflation and is set at
+a level which provides adequate food supplies to poor and vulnerable people. When Sri
+Lanka switched from a universal food subsidy to a targeted ration in 1979, failure to index
+the ration to rising food costs meant that its protective value to poor households halved
+over a three-year period.49
+Targeted transfers: allowances and pensions
+Cash transfers may be based on either an insurance mechanism (whereby recipients have
+paid a certain fee over a defined period in order to be eligible for financial assistance
+during hard times – contributions which may be supplemented by the state), or may
+constitute social assistance, which is non-contributory and paid out of general revenues.
+This section will focus on social assistance, which is much more common in poor
+countries. Social assistance transfers aim to secure wellbeing by making poor or destitute
+people's income up to an agreed threshold level, often defined with reference to a
+minimum food basket. They thus aim to protect against hunger and provide a minimum
+nutritional floor, usually with some allowance for other basic goods such as soap or
+clothing. Usually, such transfers are provided for a specific period, and are often meanstested.
+
+26
+
+The effectiveness of cash transfers in protecting recipients clearly depends on the size.
+However, even very small transfers can have an important protective effect. For example:
+In Hungary in the mid-1990s, without family allowances, child poverty would have
+been 85% higher, while in Poland it would have been a third higher. 50
+Without Kyrgyzstan’s social protection system, 24% more people would be living in
+extreme poverty. As poverty is concentrated among families with children, many of
+these would have been children.51
+In Zambia, a GTZ supported programme is proving effective in supporting very poor
+households with no members of working age, enhancing food security and
+improving children's school attendance.52
+Cash transfer programmes are also in place in South Africa, Brazil, Ecuador, Chile,
+Colombia, Honduras and Jamaica, as well as most Central and Eastern European and
+former Soviet countries.53
+A major concern about cash and in-kind transfers is that these can create dependency
+(discouraging paid or income-generating work). However, in most poor countries, it is
+unlikely that benefits can be set at levels that do so – at most they will supplement
+incomes and prevent the most damaging effects of poverty. Meanwhile, transfers that
+manage to reduce working hours, particularly among parents of young children, could
+have a substantial positive impact on child wellbeing, given young children's particular
+nutritional health vulnerability.
+Pensions
+Pensions play a key role in old age support, but research and policy have focused on
+contributory programmes promising retirement income for formal sector workers. Noncontributory pensions, on the other hand, consist of cash transfers programmes targeted
+at poorer older persons and their households. A particular focus on non-contributory state
+pensions is justified by the potential of even modest pensions to have significant incomesmoothing and asset development effects, as well as influencing the pattern of demand for
+goods and services in a pro-poor direction, and the disproportionately high rates of poverty
+among older people in many countries. Even poor countries (India and Nepal, for example)
+have introduced universal pensions for the over 75s, widows, and some other specific
+categories, with high rates of coverage and a reasonable degree of ‘customer satisfaction’
+and popular support achieved within a decade.54 The starting point has been limited –
+targeted, and low value, enabling widespread coverage – but can evolve over time into
+provision which has greater developmental impact. Middle-income countries in Southern
+Africa and Brazil have universal pension schemes which have enabled pensioners to
+support grandchildren through school and better cope with health crises, and working
+adults freed of financial responsibility for parents to do the same, or to invest in small
+businesses.55 In Southern Africa, non-contributory pensions also play a critical role in
+protecting households where adults are absent owing to HIV/AIDS or labour migration.
+Many of the same points are likely to apply to disability allowances.
+Labour market measures
+DFID has made a commitment to supporting the ILO’s four ‘core labour standards’56 as
+universally applicable human rights: freedom of association and the right to collective
+bargaining; elimination of all forms of forced or compulsory labour; effective abolition of
+child labour; and elimination of discrimination in respect of employment and occupation.
+Other ‘substantive’ measures, including protective ones such as minimum wages and
+social security measures for the formally employed and control of workplace hazards are
+seen as context specific.
+27
+
+Given that the poorest people are generally not employed in formal sector jobs with such
+levels of protection, these are instruments for preventing employed people falling into
+poverty, rather than helping lift the poorest out. Specific aspects of employment protection,
+such as maternity protection or accident insurance, can make particularly strong
+contributions to protecting the wellbeing of mothers and children or households in general
+at vulnerable periods of the life cycle or moments of shock. Maternity protection consists of
+the implementation of legal rights (to protective employment conditions) and cash transfers
+for periods of childcare. This includes:
+guaranteed periods of maternity leave with the job kept open;
+protection from work potentially injurious to health during pregnancy, and adequate
+protection at other times;
+cash benefits during maternity leave, usually financed through a system of social
+insurance payments.
+As a country progresses along its ‘social protection trajectory’, there will be opportunities to
+extend coverage to the informal sector where most poor people are employed. The critical
+issue is therefore to get trades unions to take up the cause of the informal sector and work
+with government, insurance organisations, the small-scale private sector, and other civil
+society organisations, to extend protection. SEWA, the union of self-employed women in
+India, provides a classic example.
+4.1.3 Human development and child protection measures57
+There is a variety of instruments which can prevent shocks destroying human capital,
+where poor people respond to shocks by taking children out of school, reducing food
+consumption, or stopping using health services (especially for children and women).
+Interrupting intergenerational poverty can also be facilitated by measures that improve the
+access of poor households to human capital – through better health (especially for
+breadwinners), child and maternal nutrition, and education. These represent important
+measures to spread the benefits of increased investment in health and education services
+to the poor. While the economic benefits are long term, inclusion will be appreciated in the
+short term, with significant political integration benefits for a country.
+Targeted fee waivers and exemptions, and life line tariffs
+Fees and user charges are widely held to have reduced the use poor people make of
+public services and to have increased their spending on health and education. Their
+abolition is beneficial to the poor, but has to be accompanied by significant investment in
+improving the quality of services. In Uganda, the abolition of health charges involved
+increased budget allocations for pharmaceuticals, improvements in drug supply systems, a
+two-thirds increase in pay for doctors and speeded up payroll reforms.58
+Exemption to the charges for a particular service (e.g. immunisation), and a general waiver
+of fees for accessing health, water or education as a whole are measures which fall short
+of abolition of charges, and therefore may be attractive to policy-makers. Waivers are
+certainly preferable to charging full costs for poor people. Benefiting is usually based on
+membership of a vulnerable group (defined by age, pregnancy, or geographical location),
+or a means test. However, if fees are a small proportion of the total cost of accessing a
+service, complementary support will be required to reduce or provide for meeting the other
+costs.
+Waiver policies are generally introduced for basic services. However, it is often at
+secondary level that charges are highest and that the biggest opportunities for risk
+28
+
+reduction and human capital development occur59 – so there are strong arguments for
+extending waivers to cover services at that level.
+Life line tariffs for water have been introduced to ensure a basic minimum level of
+consumption, with charges levied above that minimum on those judged able to pay. In
+South Africa, for example, 6,000 litres per year is provided free to each household, with
+additional consumption billed at an increasing tariff. This requires providers to generate a
+surplus through slightly higher marginal costs for bulk users. A critical mass of fully paying
+customers is needed: this approach is applicable to towns and cities, and may need to be
+supplemented by measures to enable poor people to get connected to the service in the
+first place – such as payment in kind, or microfinance. The vast majority of poor people in
+many cities still live beyond major service provision infrastructure. Measures to support
+small-scale providers in providing quality services at reasonable cost may be more costeffective.
+Health insurance
+Health insurance schemes are introduced as an alternative to user charges, both to
+finance the health service and to promote access to it. Subsidies on formal sector
+schemes may reduce the resources available for services used by poor people. However,
+the extension of national formal sector health insurance to cover the poor has succeeded
+(with the exception of reaching the poor in remote areas) in Thailand, where poor families
+can buy a health card for 30 baht a year. This is being tried out elsewhere.
+More tried and tested are community health insurance schemes in situations where users
+pay substantial amounts for health services. These ‘offer considerable benefits to the
+majority poor. However, the poorest require special arrangements to enable them to
+access benefits under the scheme (such as subsidies from government or from higher
+income scheme members) and few schemes have effectively implemented these
+arrangements’.60 It is difficult to design a scheme which is both affordable and provides
+adequate cover, but some schemes have achieved this – for example, the Burundi Carte
+d’Assurance Maladie was affordable for 77% of the population, and had enrolled 54% of
+the target population by 1992.61 Where the majority of the population is very poor and
+unlikely to be able to afford even low insurance premia, it is probably better to try other
+measures.
+Conditional transfers
+Though historically, in the OECD and transition countries which have had the most
+extensive social assistance programmes, cash transfers have not required any specific
+action from recipients, a newer kind of transfer, conditional on recipients or their families
+undertaking certain activities (e.g. children attending school) has become increasingly
+common, particularly in Latin America. Such programmes aim to maximise the value of a
+particular transfer by ensuring it both alleviates current poverty and enhances future
+wellbeing, particularly through supporting children's school attendance and, in some cases
+(e.g. Mexico, Nicaragua), mandating visits to health centres.
+In Mexico, Progresa (now renamed Oportunidades), a child benefit and social
+development programme which is conditional on children attending school has
+reduced teenagers’ involvement in work by 12–20%, reduced the incidence of
+illness among participating 0–5 year olds by 12%, and reduced rates of stunting.62
+In Nicaragua, the Red de Protección Social managed to stop food consumption
+declining in poor families during a coffee price shock that seriously undermined
+poor people’s livelihoods. It has also increased school enrolment by 22% and
+attendance by 30%.63
+29
+
+In Bangladesh, children participating in the Food for Education programme (now
+renamed and reoriented to provide Cash for Education) have 20–30% higher
+enrolment rates and stay in school between six months and two years longer than
+non-participant children. This may increase lifetime earnings by 7–25%.
+Conditional transfers are a part of a package which must also include investment in health
+and education services to improve quality and coverage. Bangladesh’s experience with
+funding entirely from domestic revenues illustrates that these can be financially
+sustainable in a low-income country. No evaluations of conditional transfer programmes
+have yet examined how beneficiaries perceive the conditions they have to satisfy, and the
+argument can be made that they are inconsistent with a rights-based approach.
+Conditional transfers are likely to be most appropriate where the opportunity cost of using
+a service is high (e.g. a strong market or demand at home for child labour). Where the
+barriers are financial, a simple subsidy (e.g. a scholarship) may have lower administrative
+costs.
+Childcare and child nutrition
+Early childhood development programmes are much in favour as win-win human
+development investments which also release adults for productive work or siblings for
+school attendance.64 However, there is little evidence of their effectiveness in helping
+break intergenerational poverty cycles (owing in part to low levels of resourcing, and in
+part to the short periods of existence of many such programmes in the South).65 Their
+greatest contribution to social protection may be in providing secure care for young
+children while enabling their carers to work, an important issue for the majority of lowincome households, and of specific importance where poor households have taken in
+orphaned young children.
+Micro-nutrient supplementation programmes represent a cost-effective way of contributing
+to interrupting intergenerational transmission of poverty, for example through iron and folic
+acid supplementation for pregnant women, and vitamin supplements for young children.
+These recognise that poor people are often unable to buy or grow their way out of
+nutritional deficiencies. The fortification of staple foods (such as salt with iodine) needs to
+be subsidised to reach poor people. In the longer term, these need to be combined with
+food security measures to enhance self-provision.
+School feeding programmes are popular with policy-makers, but have been generally
+negatively evaluated as far as improving the nutrition of vulnerable children is concerned,
+since the latter are not specifically targeted, are often pre-school or not in school and, on
+receiving food at school, may get less at home. There would appear to be strong
+educational benefits, however, with increased school attendance and improved
+educational performance, especially of malnourished children. Where poverty and hunger
+undermine children’s ability to concentrate at school, school feeding is likely to be
+effective, particularly if provided before classes. It would be useful to compare the effect
+with that of conditional transfers.
+Microfinance
+Microfinancial services can form part of a social protection strategy in the following ways:
+credit components can contribute both to income-smoothing and to investment in
+production;
+savings components can provide a buffer to draw in case of shocks, and can help
+finance longer term investments;
+
+30
+
+micro-insurance components (less common) can provide protection against crop
+failure or health shocks.
+The contribution any of these microfinancial instruments make to social protection will
+depend largely on programme design. Maximising flexibility to users is likely to increase
+the socially protective value of microfinancial instruments, e.g. a scheme which allows
+savings to be accessed easily is likely to be more useful than one with a number of
+restrictions on the use of funds, though there are trade-offs between flexibility and low
+operating costs and thus low costs to users. As is widely accepted, the contribution of
+microfinance to protecting the very poorest is likely to be minimal. This is both because
+scheme design tends to encourage exclusion or self-exclusion of the poorest, and
+because participation can actually increase the risks poor people face, especially where
+default on payments leads to confiscation of assets. However, as numerous evaluations
+have shown, microfinance has proved a useful tool for many poor people.
+Agricultural (or other sectoral) policy
+The interactions between the domestic (household consumption) and productive spheres
+are neglected by policy-makers, who are typically divided into communities (ministries,
+departments, professions) dealing with one or the other. Support to the domestic sphere
+(transfers, micro-savings, support for school attendance etc.) allow beneficiaries to
+consume and thereby express demand for goods and services. On occasion, transfers are
+invested in productive activities, as, for example, with South African pensions.66
+By contrast there are relatively few efforts within the agricultural or productive sectors to
+bring the extremely poor or non-working poor into the productive sphere, through special
+programmes like the BRAC Vulnerable Group Development Programme
+4.1.4 Conclusions
+Of the instruments discussed above, cash transfers have the greatest flexibility. They can
+enable poor and vulnerable people to make their own choices about how best to improve
+their own situation, what and when to invest, and what and when to consume, and as such
+are most consistent with a rights-based approach to social protection. Though of all social
+protection instruments, cash transfers raise the greatest concerns about affordability,
+sustainability and dependency, the administrative costs are arguably lower than for
+instruments involving the provision of food or procurement of building materials and tools.
+Increasingly, cash transfers are supplanting in-kind transfers – for example, cash for work
+rather than food for work programmes are increasingly common, and school subsidies are
+starting to displace school feeding programmes.
+However, cash transfers alone are not best placed to address all forms of vulnerability.
+Clearly, large-scale environmental risks or epidemics will require correspondent public
+action: safety nets remain important. Specific nutritional risks are likely to be best tackled
+through a combination of specific nutritional support and wider action to improve food
+security. There may also be concerns about transfer recipients not passing on benefits to
+intended beneficiaries, though these may be partially addressed either by targeting the
+intended beneficiary directly or by making transfers conditional on certain activities (e.g.
+school or health centre attendance).
+4.2 Targeting
+Having emphasised the need for a disaggregated analysis of risk and vulnerability (Section
+3.1), and the ways in which social protection can work to the benefit of the chronically and
+31
+
+less active poor as well as the transitorily and active poor (Section 2), it would seem logical
+to argue a strong case for targeted social protection.
+The debate rages on the relative merits of universal versus targeted (or means-tested)
+transfers. Both are potentially consistent with a rights-based approach to social protection,
+one approach emphasising the universality of entitlements, the other particularly
+supporting poor, vulnerable or marginalised people. The case for universal entitlements is
+that (particularly in very poor contexts) means-testing is simply too costly, and the middleclass and elites will have a greater stake in, and thus will be more likely to support, a
+programme from which they also benefit. This may particularly be the case for social
+insurance-based programmes.67 The South Africa Basic Income Grant campaign argues
+for universal transfers which are reclaimed from better-off people through the tax system;
+however, this is clearly only workable in economies where substantial proportions of
+better-off people are in the formal economy.
+The case for targeting is supported by some empirical evidence. 30+ social protection
+programmes in Latin America were found as more likely to benefit the genuinely poor than
+was untargeted provision of basic services.68 A wider sample of 111 projects in developing
+countries suggested that targeting generally produced better results, but in a quarter of the
+projects there was a regressive outcome.69
+The case for targeted support rests mostly on cost grounds, and is intended to avoid
+leakage to non-poor people; on the whole, donors and governments are more inclined to
+this position, and the vast majority of social assistance transfers are targeted. However,
+the lessons of decades of targeting benefits to the food insecure are:
+There is a need to differentiate between the technical identification process and the
+implementation process.
+The costs of exclusion errors (excluding people who should have been in a
+scheme) can be much greater than the benefits of cost savings derived from
+introducing targeting. The result may be that fewer poor people benefit under a
+targeted scheme than under a universal scheme if scarce benefits are captured by
+the better-off.70
+On balance the food security literature suggests that benefiting the whole community – at
+least at the local level – is better than attempting to target. This suggests that targeting can
+be carried out where there are simple categories which make sense (age, location,
+recognised degree of exclusion), within which provision ideally should be universal.
+Examples would be pensions targeted at all over 75s, widows and agricultural labourers
+over 65. However, depending on the structure of the labour market, the latter category
+might be difficult to operationalise at the point of retirement unless it has been an
+administrative category during an agricultural labourer’s life.
+Poor countries typically have less administrative capacity for targeting, and this is where
+the highest errors are likely to be. It is especially important to keep targeting simple in this
+context. Narrow targeting excludes. In OECD countries, the working poor are commonly
+excluded. In Kyrgyzstan, 96% of social assistance goes to poor families with children. Poor
+childless families are thus effectively excluded.71
+Targeting by stage in the life cycle (e.g. children (especially child labourers), disabled
+people, workers reliant on labour markets, old people) tends to focus on easily
+categorisable groups rather than guide policy-makers to investigate how life cycles affect
+vulnerability at different times. Older people, for example, face many different risks and
+32
+
+hazards and are vulnerable in different ways depending on status, age, position in a family
+and so on. Understanding these in a disaggregated way is a useful function for a
+vulnerability assessment. Some countries have developed different levels and criteria for
+supporting these different groups within older people.
+The evidence suggests that targeting is often not the best approach, although it will
+continue to be invoked on cost grounds. Given this, it is important to review briefly the pros
+and cons of alternative targeting mechanisms (Table 2).
+Table 2 Advantages and disadvantages of targeting mechanisms
+Targeting
+mechanisms
+
+Administrative costs
+
+Susceptibility to inclusion
+and exclusion errors
+
+Political aspects
+
+Means-testing
+
+High – incomes are
+very difficult to assess
+
+Low, providing accurate
+information can be
+obtained, depending on
+honesty of administrators.
+
+Degree of intelligence
+required to verify claims
+may be unpalatable;
+politically may be only way
+to make acceptable to elite.
+
+Proxy indicators
+
+Medium
+
+Medium
+
+Community-based
+
+Low for government;
+but high for local
+community which has
+to take invidious
+decisions. May
+perceive targeting as
+irrational or impossible:
+‘we are all poor’.
+
+Variable – necessary
+transparency and
+flexibility hard to achieve
+in practice.
+
+Liable to local elite capture
+and to replicate existing
+forms of discrimination. May
+exacerbate divisions in a
+community.
+
+Self-targeting
+
+Low
+
+Low if well designed.
+However, targeting is
+usually not the driving
+feature of design.
+
+Can create stigma for
+poorest and socially
+excluded households if
+achieved through low
+wages, or inferior food
+payments.
+
+4.3 Financing social protection
+There is a broad statistical relationship between economic development and public
+expenditure on social protection, but this comes with considerable regional and intercountry variation. Political economy explains the demand for it; revenue collection capacity
+constrains its supply. Increased expenditure requires redirecting expenditure from other
+areas (difficult to achieve except over long time periods), raising revenues, or external
+support (or a combination). Social insurance (taxation through the payroll) is not a policy
+option for low-income countries. Closing indirect tax exemptions (which often have strong
+benefits for the non-poor) may hold greater promise. Linking tax specifically to social
+protection (earmarking) may hold attractions for politicians who have to justify tax changes.
+The options for low and very low-income countries are very limited, and external finance is
+crucial.
+The start-up costs of a formal social protection system are high, but not insurmountable. A
+system intended to provide universal (targeted) coverage can be implemented in certain
+geographical areas and then extended. Progresa in Mexico did this. Alternatively, it can be
+initiated with certain vulnerable groups and then expanded. For example, South Africa's
+Child Support Grant was initially provided to households with children under 8, and is now
+being extended to under 13s.72
+
+33
+
+Donors have shown strong preference for short-term, discrete, and infrastructural projects,
+as opposed to more broadly supporting the development or strengthening of social
+protection policies and programmes. But ‘social protection is not just for Christmas’ – it
+requires sustained recurrent resourcing in order to maintain ex ante measures.
+International moves to budget support as a main vehicle for external financing offers an
+unparalleled opportunity to enhance external finance for social protection, since the main
+financial requirement of well institutionalised social protection is predictable recurrent
+funding, and priorities would be determined through a PRSP and budget process. The
+challenge for donors is to ensure that budget support is predictable and can be extended
+over the longer time periods required to institutionalise social protection.73
+A further challenge occurs in financially devolved governmental systems, where local
+government may use its legitimate discretion to decide not to allocate its resources to
+social protection, even if this has been the understanding between donor(s) and
+government. Vietnam is a case in point, where the degree to which province governments
+are concerned about risk and vulnerability and advance social protection programmes
+probably depends on a mix of the strength of the relevant department at the province level,
+the resources available, the imagination of officials involved, composition of the local
+population (which may carry with it some political implications), and a variety of other
+factors.74
+
+34
+
+5 Institutionalising social protection
+This section starts with an investigation of the country contexts for social protection, and
+proceeds to outline the key decision areas important in institutionalising it in national
+development policy.
+5.1 Context matters
+There are four types of country context in which different sets of issues will emerge. There
+are transitional countries with a good institutional infrastructure, a strong constituency for
+social protection, but tremendous difficulties maintaining previous standards of provision
+(Box 9). There are Middle-Income Countries, which have started down the welfare state
+road either through social insurance (common in Latin America) or social assistance
+(common in Southern Africa and East Asia). These countries have normally achieved a
+limited extension of formal social security mechanisms to the poor. A third group is of poor
+countries which have nevertheless a range of social protection mechanisms in place –
+largely in South Asia. Here the problem has been to grow and universalise these schemes.
+The fourth and biggest group of developing countries are those with very little formal or
+institutionalised social protection. This category includes both countries with Poverty
+Reduction Strategies supported by donors, some of which feature social protection, and
+countries which are variously labelled ‘difficult to assist’, fragile, ‘poorly performing’, and in
+which operational PRSs are rarer. Most of this section is directed at the latter category.
+Box 9: Lessons from poor transition countries: case study of Kyrgyzstan.
+As part of its Soviet legacy, Kyrgyzstan, like other CIS-775 countries, has formal systems of social protection
+which, in principle, cover all citizens. CIS-7 countries have implemented social protection reforms with WB
+assistance – aiming to increase sustainability, reduce the administrative costs of the system and improve
+targeting. Kyrgyzstan – like other poor countries in the CIS – indicates that a very poor country (Kyrgyzstan’s
+GDP capita was US$270 in 2001) can run a social protection system that helps protect the most vulnerable.
+Kyrgyzstan's social protection system now comprises a social insurance fund (known as the Social Fund)
+from which old age and disability pensions are paid; a Mandatory Health Insurance Fund, which covers the
+costs of health treatment both for the working population and for children and older people; and a social
+assistance system, which provides small amounts of cash assistance on a means-tested basis to people
+living below the Guaranteed Minimum Consumption Level.
+As in other CIS countries, both pensions and benefits (social assistance) have been subject to a number of
+problems over the transition years. Problems of cash flow have meant that both have often been paid late,
+and sometimes in kind (i.e. with surplus humanitarian food aid), though there is some evidence that these
+are starting to improve now (FiA and CASE, 2003). Low pensions and benefits are also a cause for concern,
+though the available evidence suggests that these do make an important contribution to the living standards
+of the poorest – the average monthly benefit of 93 som in 2002 (equivalent to £1.20) constituted on average
+15% of recipients’ income (ibid.:79). The Ministry of Labour and Social Protection is experimenting with
+providing monthly cash assistance (known as the Unified Monthly Benefit) as lump sums which recipients
+can use to invest in businesses. So far this has not been very successful; however, one reason for this is the
+small size of the lump sum, and the Ministry is now doubling this to see if it is any more effective.
+Where poverty is so widespread, as in Kyrgyzstan, the social protection system is not simply protecting
+people from falling into worse poverty, it is doing an important job of contributing living standards,
+guaranteeing a minimal level of consumption, and thus protecting people's basic rights to food. Indeed,
+World Bank analysis suggests that, without the social protection system, the extreme poverty headcount
+would have increased by 24%, the poverty gap by 42% and the severity of poverty by 57%, while the overall
+poverty headcount would have increased by 10% (World Bank, 2003a:162). Furthermore, these levels of
+social protection do not represent an unsustainable drain on public resources – in 2002, they represented
+3% of GDP and are scheduled to rise to 3.7% of GDP in 2006 (GoKR, 2003). Social protection in Kyrgyzstan
+thus forms one important component of an integrated poverty reduction strategy.
+
+35
+
+Different social protection ‘trajectories’76 will be discernable in these varied contexts: in the
+last category, many governments will be sceptical, preferring to focus on economic growth
+and basic services, and arguing the unaffordability of ex ante social protection given
+limited public revenues. They may prefer to stick with ‘safety nets’ for the time being. One
+could envisage a progression from the public provision safety nets designed to take over
+from individuals, households and communities only when their coping strategies fail;
+through the development of conditional transfers which support access by the poor and
+vulnerable to basic services; to a basic social assistance package comprising disability
+allowances and basic pensions. The latter would be likely to be seen as the least growth
+enhancing – though the arguments in Sections 2 and 3 of this paper might help to
+convince policy-makers otherwise.
+5.1.1 The politics of social protection
+It is a truism that poor and vulnerable people lack voice, and that policy priorities and
+implementation processes do not represent their interests. The question is what can be
+done about this? There are medium-term answers around building social solidarity –
+changing social values, particularly of elites and the middle classes,77 so that it becomes
+unacceptable (or more strongly and universally unacceptable) that people go hungry or
+risk becoming destitute. Solidarity is easier to maintain and build when the middle and
+upper classes are socially connected with the poor and more vulnerable. Allowing the rich
+to opt out of public services means that these, without their best potential advocates, are
+left to become second class. However, once the rich have opted out (as they have in many
+developing countries),it is probably too expensive to attract them back in the short-medium
+term. Other ways need to be found to enhance the social solidarity between advantaged
+and disadvantaged which would allow a degree of public support for social protection.
+Drama helps: if vulnerability is dramatically exposed by events, this may help to keep alive
+a public debate about the obligation of the state to ensure the reduction and mitigation of
+risk, and lower the vulnerability of the most poor and vulnerable. Where there is no drama
+– as with the continuing but quiet scandals of child malnutrition, maternal mortality, girls’
+withdrawal from school, or old-age poverty – information asymmetry needs combating
+through active journalism and research, underpinning social movements which can
+advocate change and solidarity. There is often a dearth of relevant research and good
+journalism in many countries on these issues, and research rarely gets disseminated to
+the public and decision-makers. Social movements need freedom to operate with available
+information. Statistical services need resources and capacity to provide the statistics.
+Politicians play key roles in developing the policy constituency for social protection and
+legitimating the policy discourse – ‘talking it up’ with key constituents who will act as policy
+supporters. But other actors are also important here: civil society organisations, both those
+with representative functions (trades unions, associations) and non-governmental
+organisations and community-based organisations, and the media. Consultation efforts
+need to be wide-ranging.
+The decisions about what and how much social protection a state (or society) should offer
+its citizens, how targeted it should be, and how it should be financed are fundamentally
+political. There are no ‘right decisions’ in most cases, simply less wrong ones. It requires
+political judgement to decide on the most appropriate combination of instruments. Social
+protection only makes sense where it is sustained, so long-term political support for a
+country’s approach and specific policies is vital: creating a dialogue and a consensus
+around approach and policies across the political spectrum is very important. While this
+dialogue can be informed by technical arguments, decisions are ultimately taken on a
+36
+
+political basis, depending on political objectives. An ideal situation would be where political
+parties compete to produce the best possible approach and set of schemes to deal with
+the major recognised risks and vulnerabilities.
+Social protection programmes generate their own politics which is little understood:
+targeting and eligibility criteria and processes offer opportunities for patronage and
+corruption; resource flows offer opportunities for capture. Making information about
+entitlements transparent and creating a culture in which appropriation is not acceptable are
+necessary accompaniments to a positive social protection trajectory. Creating
+implementation mechanisms which are remote from local politics is also advisable:
+involving strong institutions (e.g. banks, post office)78 or the private sector in delivery of
+benefits, as in South Africa’s universal pension scheme, secures benefits for the right
+holder.
+5.2 Key decisions in institutionalising social protection
+In strengthening political commitment and institutional capabilities for social protection,
+there are a number of questions which have emerged from the previous sections and the
+literature. These are:
+Are social protection policies narrow and implemented by one department, or broad
+and necessarily implemented by many?
+How can strong political leadership be achieved?
+Which agency should lead and coordinate social protection policies?
+How can informal provision be taken into account?
+How can donors address the ownership question when government is reluctant to
+take a wider social protection agenda on board?
+5.2.1 Mainstreaming the social protection agenda
+Like food security, social protection arguably does not belong in any one ministry or area
+of government, but should be ‘mainstreamed’ across it.79
+Particularly in low-income countries, the institutional constraints on providing social
+protection through the public sector may be substantial. In this case, it is tempting to argue
+that the appropriate approach is to spread actions to respond to vulnerability across a
+range of policy sectors where there is a strong possibility of reasonable implementation,
+and where the addition of an additional dimension would be less expensive than
+developing new (or greatly enhanced) administrative structures. This would argue for more
+active inclusion of vulnerability as a consideration in macroeconomic, social sector and
+other relatively strong policy areas (e.g. agriculture), and adjusting these policies to reduce
+vulnerability and mitigate risks. PSIA can play a role at the macroeconomic level,
+particularly in moderating the pressure placed on governments by the Bretton Woods
+institutions. In the social sector, free services, fee waivers, and conditional transfers would
+play a role. Box 10 examines mainstreaming social protection in the social sectors.
+The corollary would be continued provision of safety nets to catch people as hazards
+occur. In poor countries, the obligation to do this rests heavily on the international
+community – both in international law and in practice. A number of key risks are likely to
+remain uncovered – especially the silent, undramatic ones featured above. The danger is
+also that organisations capable of protecting the poorest would not be privileged under the
+mainstreaming approach.
+37
+
+What is required is a balance, specific to each country, between mainstreaming and
+specific measures. In most cases, giving strong weight to risks and vulnerabilities in
+macroeconomic and social sector policies would be extremely advantageous, and
+widespread understanding and support for the social protection approach is desirable. Key
+factors in deciding the balance will be:
+the constraints on the development of organisations within the public sector which
+are capable of enabling and regulating or providing specific social protection
+schemes;
+the availability of funds, and the political sustainability of different schemes;
+the possibilities of contracting provision out to the private sector or NGOs, where
+necessary or advantageous.
+Box 10: Mainstreamed sector-based social protection: towards a decision framework
+Enhancing the accessibility of basic services to poor, marginalised and vulnerable people, improving their
+quality, can play an important role in reducing vulnerability. Where the state is the dominant service provider,
+the priority to achieve this will be investing in state services via sectoral or general budget support. Where
+the poorest people make use of a greater range of service providers, securing poor people’s access to
+quality services is likely to require a wider range of actions and be less amenable to financial support via
+sectoral or general budget support. This includes: improved regulation of private providers, including
+requirements to provide cross-subsidies or life-line tariffs to give access to the poor; and subsidies to nonstate insurance providers or the poor as their clients. Removing non-financial barriers is also important:
+physical and cultural access is enhanced by addressing service provider motivation (often pay-related);
+improving drug and learning material supply and use; providing mother tongue instruction at least in the early
+stages of education; addressing cultural congruence of justice institutions in post-colonial societies; and
+ensuring physical access to services – for example, ensuring women's and girls' needs are taken into
+account in water supply and sanitation decisions. The role of donors is likely to include financial support for
+reforms and technical assistance in certain areas.
+Investing in mainstream services alone is unlikely to secure poor people's access and to promote human
+development outcomes. For poor and vulnerable people, the opportunity costs of using even good quality,
+accessible services may be prohibitive. Child labour among poor households which need the child’s labour
+or income is a good example; another is not accessing health services because of transport costs. Social
+protection mechanisms that address these continued barriers to uptake are needed to complement
+investment in good quality accessible services. The most relevant social protection mechanisms will depend
+on the key constraints to service access, but are likely to include cash transfers - whether conditional on the
+use of a specific service (as in the case of legal aid, or cash for education transfers) or unconditional
+payments to poor households.
+Many social protection entitlements are unclaimed simply because poor people are unaware of them.
+Strengthening transparency about services and poor people's entitlements is another critical dimension of
+enhancing the contribution that services can make to social protection. Without stronger emphasis on
+provision of information, enhanced accountability will be impossible.
+Mechanisms for enhancing service provider accountability are also vital, both to enhance accessibility and
+service quality. To be most effective these require some legal underpinning of the right to information, and to
+hold service providers to account. Particular promising mechanisms include: district, municipality or villagelevel monitoring of government budget allocations and actual disbursements; user-provider councils; and
+citizen report cards.
+Ensuring complementarity between policies and provisions, within and between sectors, is vital. Mechanisms
+to promote access to services should strengthen and be strengthened by interventions in other areas.
+Examples include ensuring that livelihood support measures do not undermine nutrition because they require
+poor people to expend excessive energy; or that health and nutrition interventions address the accessibility
+of clean water. This requires strong coordination between and within sectors, whether through a PRS or
+more conscious linking of sector strategies.
+Short-term interventions which address immediate needs (e.g. tackle serious nutritional deficiencies) need to
+be balanced with those that address longer term problems (e.g. food insecurity). There may be
+contradictions and trade-offs between the two objectives and decisions should be based on an evaluation of
+the costs and benefits of particular approaches. In doing so, it is important to bear in mind that although
+tackling immediate human development needs may appear 'welfarist' or 'relief-oriented', it may also have
+long-term (even intergenerational) benefits in breaking poverty cycles, and thus enhance productive capacity
+and productivity in the long run.
+Source: Marcus, Piron and Slaymaker (2004).
+38
+
+5.2.2 Leadership and coordination
+Leadership is both political and bureaucratic. The commitment of leading politicians is
+therefore essential. The arguments advanced under the ‘purpose’ of social protection
+above should be convincing to political leaders wishing to achieve widespread popular
+support, and this has been recognised by many regimes – examples are mainly from East
+and South Asia, but also from South Africa and Latin America. The political momentum
+behind social protection tends to gather force over a period of time. An example would be
+Tamil Nadu (India), whose state government has been at the cutting edge of policy
+development in India for several decades on pensions, allowances, nutrition programmes
+and school meals.
+Political support should not be difficult to elicit where electoral politics are taken seriously,
+since large numbers of people in developing countries are poor and vulnerable. The
+inclusion of the vulnerable widens the potential constituency considerably – taking US$2 or
+US$1.50 a day as a proxy for vulnerability puts a very substantial proportion of the
+population in this category in most developing countries.
+If we accept that it is practical to mainstream social protection across a number of key
+areas of government, this is unlikely to happen efficiently without bureaucratic leadership
+and coordination. The lessons of ‘gender mainstreaming’ should be apparent: most sectorwide approaches (SWAps) have focused on very narrow aspects of the gender dimension
+of a sector’s work.80 The gender mainstreaming experience suggests that social protection
+work should proceed with comprehensive analysis, inclusive consultations, broadening the
+field of officials knowledgeable about and concerned with social protection issues, linking
+with PRSs or other national development strategies, and influencing or developing
+monitoring tools which draw attention to the public management of risk and vulnerability.
+It is difficult to be axiomatic about where the best leadership would come from within a
+government. Leadership may be best from an overarching department like finance or
+planning; or from a ministry in close touch with poor and vulnerable people (in India this
+might be the Ministry of Rural Development, which is already responsible for pensions and
+public works programmes), or from a traditional welfare-oriented ministry. Social welfare
+ministries are weak in most low-income countries. Whether they can be strengthened or
+not depends on various factors – if their budgets increase, so will their power and they
+may stop being such weak players. If they are in charge of activities generally recognised
+to be socially important (e.g. disbursing pensions) their status is likely to rise compared
+with if their functions are running orphanages, juvenile detention centres and overseeing
+adoptions, roles often considered marginal.
+If a country does assign an important role to a leading ministry, there is some evidence
+that the separation of assessing eligibility and bearing the costs has benefits for the poor
+and vulnerable, since budgetary considerations are not uppermost in the procedures and
+considerations affecting eligibility.81 For example, eligibility would be assessed by a social
+welfare department, while the service is provided by a ministry of health or education.
+A Poverty Reduction Strategy process, or equivalent, supplies an opportunity not only to
+feed into the policy process risk and vulnerability assessment and knowledge about the
+appropriate combinations of social protection instruments with a view to designing a social
+protection strategic framework, but also to develop a leadership structure and coordination
+mechanisms among the actors involved. Most I-PRSPs82 and many PRSs have identified
+measures to reduce vulnerability, though few have made addressing risk and vulnerability
+through social protection a key component.
+39
+
+Coordination within government is costly and difficult to achieve – witness the Vietnamese
+Hunger Eradication and Poverty Reduction programme, which attempted to coordinate
+government departments concerned.83 Much better to achieve this through shared policy
+analysis and concepts, with each ministry or department working out how these could
+usefully inform its own actions and, if additional resources are available, bidding for
+resources against a set of criteria. This procedure would give teeth to the process of
+coordination, and suggests that the role could be played by a central ministry (finance or
+planning).
+5.2.3 Facilitating and regulating informal provision
+This paper has made a strong plea that the current efforts of poor people themselves to
+reduce risk and vulnerability, and cope with shocks when they arise, should not go
+unrecognised in policy circles. It is particularly women who are often left with the burdens
+of caring for orphans, the sick and the elderly, and looking after their households in times
+of emergency. Not surprisingly, it is also often women who develop collective approaches
+to risk management. Few public policy instruments aim to build social capital in ways
+which would reduce burdens on women and enhance the effects of informal collective
+provision. Examples are: support for savings and credit groups and their associations and
+federations in terms of matching resources and links to insurance schemes;84 support to
+claimant groups to claim rights – for example to food, where this is recognised in law, as in
+India;85 providing reinsurance cover to mutual efforts at protection, so that when these
+collapse under the strain of a bigger catastrophe, they can recover rapidly.
+There is so little formal social protection available in low-income countries that it is unlikely
+that equitable informal protection mechanisms would be crowded out by greater formal
+provision. Far more likely is that burdens would be reduced, particularly on women, and
+energies released either for productive investment or for better grounded mutual
+protection.86
+NGOs and faith groups provide safety nets, dealing with all kinds of crises in the
+communities where they are located, often doing it in innovative ways. These could be
+brought into national dialogues about social protection with advantage. Persuading them to
+reorient some of their energies towards risk prevention and mitigation and assisting
+recovery could reap significant dividends. Many countries have registered NGOs and
+CBOs, and governments have fora in which they can promote such shifts. Where there is
+good NGO geographical coverage in a country whose government is reluctant to expand
+the social protection umbrella, this may be a way to make progress in the meantime.
+The private sector can also play a positive role as contractor as well as provider. Provision
+by the private sector tends not to have been progressive – the poor are usually excluded
+from insurance, for example. And tax breaks for private insurance can effectively leach
+resources from public expenditure. However, NGOs or government can also link groups of
+poor people to insurance providers for accident/life, health and other forms of insurance,
+and correct the biases of the market. NGO providers of microfinance that become private
+banks may still retain socially responsible objectives, which can include the provision of
+savings and insurance products for the poorest, particularly if NGOs or CBOs make the
+necessary links.
+The private sector can implement social protection schemes: the classic case is the South
+African pension, which is distributed and protected by private firms. Public-private
+partnerships may have particular relevance where government’s outreach is limited, and
+where private sector agents can be held more accountable than is possible in the public
+sector.
+40
+
+5.2.4 Ownership of the agenda
+Governments in low-income countries committed above all to fostering higher rates of
+economic growth may be reluctant to widen the social protection umbrella out from the
+scanty safety nets already provided often with considerable international help.
+Can donors stimulate greater political interest and leadership? Here, the case of Malawi is
+of interest, where donor pressure was instrumental in the development of a strong social
+protection pillar in the PRSP. However, this had the effect of putting the government on the
+back foot in two ways:
+There was a presumption among donors, especially the World Bank which led the
+process, that there was a right way to reduce livelihood insecurity in Malawi,
+whereas in reality there was a spectrum of possible contrasting approaches,
+involving more or less state intervention, with no easy method of distinguishing one
+‘right one’.
+A contest over who would control the process – government or World Bank –
+emerged, obscuring the merits of the case. In a fiscally weak state like Malawi,
+donors have a huge amount of power with which they can steamroller through their
+solutions. This does not allow national policy ownership to evolve.87
+However, the upshot of this debate is that social protection is firmly on the policy agenda in
+Malawi, and it will be interesting to see what real progress can be made despite the donor
+origins of the emphasis.
+Ethiopia provides a further example of government and donors collaborating to take the
+social protection agenda forwards (Box 11).
+Box 11: Ethiopia: support for a national safety net
+Background
+Hunger is widespread in Ethiopia. Even in years without shocks (e.g. drought) at least seven million people
+require relief (a figure that increased to over 13 million in the drought years 2002/3). This reflects the
+existence of a large ‘chronically food insecure’ population. Even if the climate is favourable, these people
+have insufficient assets (e.g. land, oxen for ploughing, labour) to produce or earn enough to meet their
+needs. The response to these predictable chronic needs is the same as that for unpredicted emergencies –
+that of short-term emergency relief. This has two major problems: (i) emergency relief – largely food aid –
+feeds people but does not prevent increasing destitution over the years. Faced with crisis and insufficient
+and untimely relief, households deplete the very assets they need for future survival. Once destitute, they are
+unable to escape their dependency on relief. At the same time, this ‘chronic’ group is not benefiting from
+growth-related ‘development’ programmes, as these tend to favour those who already have productive
+capacity and assets. It is this ‘gap’ – between relief and development – that the government of Ethiopia
+(GoE) and partners wish to address with a national safety net. (ii) Chronic food insecurity remains outside of
+government accountability. Through recourse to international emergency appeals, government has
+relinquished its responsibility for structural food insecurity to the international community.
+By replacing the current ‘emergency’ system for the chronically food insecure with a multi-annual safety net,
+we can better help people move out of destitution and assist the state transformation agenda for more
+accountable government.
+First, the delivery of more predictable, timely and adequate resource transfers will serve as a protective
+measure by reducing the need for households to make hasty decisions (such as distress sales of assets)
+that erode their chance of escaping poverty in the longer-term. It can also be productive. For example,
+guaranteed transfers allow households to undertake activities which incur some risk, but may lead to greater
+productivity (e.g. through on-farm investments). In addition, with the use of conditional transfers (e.g.
+transfers linked to public works), safety nets can directly generate community assets that help reduce
+vulnerability.
+Secondly, the government budgeting for five million chronically food insecure increases its accountability for
+vulnerability in its own citizens – moving away from a system where needs are primarily met by international
+appeals to a system where the government provides a multi-annual budget – thereby increasing democracy.
+
+41
+
+The GoE Safety Net Programme
+GoE prioritises the need to escape from year-on-year emergency relief. Both the Coalition for Food Security
+(2003) – a government framework supported by all donors – and the country’s Sustainable Development
+Poverty Reduction Programme (SDPRP) include the establishment of a national safety net as a core
+programme with which to address chronic food insecurity.
+The Joint Government-Multi-Donor Safety Net Task is finalising the programme implementation manual for
+the national safety net. This will bring five million chronically food insecure people out of unpredictable, ad
+hoc emergency relief, and into a predictable safety net by January 2005. Implementation will begin in pilot
+districts in September 2004 as a means to identify additional capacity building requirements.
+The safety net programme will provide cash transfers largely through DFID, World Bank and EC support, and
+some food transfers through USAID and WFP to households identified by their community as chronically
+food insecure. To the extent possible, transfers will be linked to employment in public works designed to
+reduce vulnerability of communities (e.g. terracing and soil conservation measures to improve land
+productivity, access to markets through feeder road construction, afforestation, fodder production, and
+rainwater harvesting measures).
+The safety net is designed to get those with potential back on the ladder of productivity – it is not simply
+social welfare for five million people – while recognising that a certain number of people will not graduate
+(e.g. disabled, widow-headed, orphan-headed households etc.). The safety net is therefore explicitly
+designed to promote graduation of households out of extreme hunger, as the impact of predictable transfers
+and asset-building reduces their vulnerability over time (something that unpredictable relief fails to achieve).
+The prospects for graduation will be further maximised as the safety net is to be integrated as a core
+component of the national food security programme. Those five million eligible for transfers through the
+safety net will also be eligible for the ‘asset-building’ interventions of the national food security programme.
+This aims to provide households with improved technologies and farming practices, loans for livestock,
+beekeeping, off-farm income-generation skills, and household micro-ponds for rainwater harvesting to
+reduce vulnerability. The GoE has already allocated US$260 million of treasury resources to this budget line
+for July 2004/05, and has already established the sub-budget line that will deliver transfers.
+In preparation, the government has also reduced the mandate of the Disaster Prevention and Preparation
+Commission (DPPC) to ‘unpredictable emergency’ functions only. Concomitantly, GoE has restructured its
+former institutions to bring together the Ministry of Rural Development and Agriculture (MoARD), which has
+assumed the mandate for the chronically food insecure.
+Early budget estimates for the safety net component are of an annual cost of US$170 million for five million
+people – US$34 per head. This is estimated at one-third the cost of providing (mostly) food transfers through
+the annual emergency assistance, doing little more than feed people. As the primary trend under the
+emergency system is for a growing food insecure caseload over time, we could expect costs to increase
+even further.
+Government and donors will contribute to a joint account, with funds flowing down to the districts through the
+existing food security block grant mechanism. Implementation, monitoring and reporting will be through
+existing state structures.
+Source: Joanne Raisin, DFID (pers. Comm.)
+
+42
+
+6 Brief glossary
+Conditional transfers: a transfer which is conditional on the recipient’s behaviour
+Co-variant: affecting numerous households, a community or communities, a region,
+country or several countries
+Idiosyncratic: affecting individuals or households
+Informal social protection: provided by mutual agreement, through kinships, friendship
+or other informal networks
+Risk: the probability of a hazard occurring
+Social assistance: cash allowances
+Social insurance: contributory insurance variously covering unemployment, health,
+accidents
+Social security: social insurance and social assistance
+Vulnerable: Vulnerability defined by combination of exposure to risk, sensitivity to shock
+(i.e. the impact when a shock happens) and level of resilience
+
+43
+
+7 References
+Ayalew, D. (2003) Risk-sharing networks among households in rural Ethiopia, Leuven:
+Katholieke Universiteit.
+Barrientos, A. (2004), 'Regulation and social protection, in Cook, P., Kirkpatrick, C.,
+Minogue, M. and Parker, D. (eds) Leading Issues in Competition, Regulation and
+Development, London: Edward Elgar.
+Barrientos, A. and DeJong, J. (2004) Child poverty and cash transfers, Working Paper No.
+4, London: Childhood Poverty Research and Policy Centre and Save the Children
+Fund.
+Barrientos, A. and Lloyd-Sherlock, P. (2003) 'Non-contributory pensions and poverty
+prevention: a comparative study of Brazil and South Africa', Report, Manchester: IDPM
+and HelpAge International.
+Bird, K (2004) ‘Fractured social policy: challenges for chronic poverty reduction’, London:
+Overseas Development Institute, draft.
+Bird, K. and Shepherd, A. (2003) ‘Livelihoods and chronic poverty in semi-arid Zimbabwe’,
+World Development Vol. 31 No. 3.
+Bitran, R. and Giedion, U. (2003) Waivers and exemptions for health services in
+developing countries, Social Protection Discussion Paper, No. 0308, Washington, DC:
+World Bank.
+Children in Poverty Research Sub-Centre (forthcoming), ‘Childhood poverty in
+Kyrgyzstan’, Research report, London: Save the Children Fund.
+Christoplos, I. (2004) Agricultural Rehabilitation in Afghanistan: Linking Relief,
+Development and Support to Rural Livelihoods, ODI, London (forthcoming).
+Chronic Poverty Research Centre (2004) Chronic Poverty Report 2004/5, Manchester:
+IDPM.
+Coady, D., Grosh, M. and Hoddinott, J. (2002) ‘Targeting outcomes redux’, Paper
+commissioned by the Social Protection Anchor unit for the Safety Nets Primer series,
+http://www1.worldbank.org/sp/safetynets/Primers/Targerting_Article.pdf
+DAC (2003) Gender equality in Sector Wide Approaches: a Reference Guide, Paris:
+OECD.
+Dercon, S. and de Weerdt, J. (2002) Risk-sharing networks and insurance against illness,
+Working Paper, No. 2002–16, Oxford University: Centre for the Study of African
+Economies.
+Dercon, S. and Krishnan, P. (2000) ‘In sickness and in health: risk-sharing within
+households in rural Ethiopia’, Journal of Political Economy 108: 688–727.
+Dercon, S. (2003) Growth and shocks: evidence from rural Ethiopia, Working Paper, No.
+2003–12, Oxford University: Centre for the Study of African Economies.
+Dercon, S. and Krishnan, P. (2003) Food aid and informal insurance, Working Paper, No.
+2003–01, Oxford University: Centre for the Study of African Economies.
+Development Policy Review (2002) Special issue on social protection, Vol. 20 No. 5,
+Oxford: Blackwell Publishing.
+Devereux, S. (2003) ‘Policy Options for Increasing the Contribution of Social Protection to
+Food Security’ Forum for Food Security in Southern Africa, Theme Paper 4, Overseas
+Development Institute, London.
+Devereux, S. (2002a) ‘Can social safety nets reduce chronic poverty’, Development Policy
+Review, Vol. 20 No. 5.
+Devereux, S. (2002b) ‘Safety nets in Malawi: the process of choice’, Paper prepared for
+the Institute of Development Studies conference: Surviving the Present and Securing
+44
+
+the Future: Social Policies for the Poor in Poor Countries, Institute of Development
+Studies, 25–26 March.
+Devereux, S. (2001) in Maxwell, S. and Devereux, S. eds (2001) Food security in subSaharan Africa, London: ITDG Publications.
+Devereux, S. (2000) 'Social safety nets for poverty alleviation in Southern Africa', ESCOR
+Research Report R7017 for the Department for International Development (DFID).
+Devereux, S. and Sabates-Wheeler, R. (2004) ‘Transformative social protection’, Institute
+of Development Studies Working Paper, draft (March).
+DFID (2004) ‘Policy Framework for Pro-poor growth’, London (draft).
+Edirisinghe, N. (1987) ‘The food stamp scheme in Sri Lanka: costs benefits and options’,
+IFPRI Research Reports 85, Washington, DC: IFPRI.
+Fafchamps, M. (2003) Rural poverty, risk and development, Cheltenham: Edward Elgar.
+Farrington, J. (2004) Social protection and livelihood promotion in agriculture: towards
+operational guidelines, London: DFID.
+Farrington, J. and Gill, G. (2002) ‘Combining growth and social protection in weakly
+integrated rural areas’, Natural Resource Perspectives, No. 79, London: ODI.
+Farrington, J., Saxena, N. C., Barton, T. and Nayak, R. (2003) ‘Post offices, pension and
+computers: new opportunities for combining growth and social protection in weaklyintegrated rural areas?’, Natural Resource Perspectives, No. 87, London: ODI.
+Farrington, J., Slater, R. and Holmes, R. (2004) The search for synergies between social
+protection and livelihood promotion: the agriculture case, Working Paper No. 232,
+London: Overseas Development Institute.
+FIA (Foundation for Assistance International) and CASE Kyrgyzstan (2003) ‘Beneficiary
+assessment of unified monthly benefits, socially protected prices and payment system
+of housing allowances’, Final Report on the project for Technical Assistance, Credit
+3389-KG.
+Government of Kyrgyzstan Republic (2003) Medium term budget framework, 2004–06,
+Bishkek: Ministry of Finance.
+Graham, C. (1994) Safety nets, politics and the poor: transitions to market economies,
+Washington, DC: The Brookings Institution.
+Grant, U. and Hulme, D. (2004) Service delivery and the poorest, Manchester: CPRC.
+Grosh, M (1994) Administering targeted social protection programmes in Latin America:
+from platitudes to practice. World Bank
+Harris, G. (ed.) (1999) Recovery from armed conflict in developing countries: an economic
+and political analysis, London: Routledge.
+Holzmann R. and Jørgensen, S. (2000) ‘Social Risk Management: A new conceptual
+framework for social protection and beyond’, Social Protection Discussion Paper 6,
+Washington DC, World Bank
+Hossain, N. and Moore, M. (2002) Arguing for the poor: Elites and Poverty in Developing
+Countries, Working Paper 148, Brighton: Institute of Development Studies.
+ILO (1998) Declaration on Fundamental Principles and Rights at Work, Geneva:ILO.
+ILO (2000) World Labour Report, Geneva: ILO.
+ILO (2003) ‘Working out of poverty’, Report of the Director General, Geneva, ILO.
+Irudaya Rajan, S. (2004) Chronic poverty among Indian elderly, Working Paper No. 17,
+Manchester: Chronic Poverty Research Centre and Indian Institute of Public
+Administration.
+Jackson, C. and Palmer-Jones, R. (1998) Work intensity, gender and well-being, UNRISD
+Discussion Paper 96, Geneva: UNRISD.
+
+45
+
+Joshi, A. and Moore, M. (2000) 'Enabling Environments: Do Anti-Poverty Programmes
+Mobilise the Poor?' Journal of Development Studies, Vol. 37, No. 1.
+Kinsey B., Burger, K. and Gunning, J. W. (1988), ‘Coping with drought in Zimbabwe:
+survey evidence on responses of rural households to risk’, World Development, Vol. 26
+No. 1.
+Kucera, D. (2001) The effects of co-worker rights on labor cost and foreign direct
+investment: evaluating the ‘conventional wisdom’, Discussion Paper, No. 130, Geneva:
+ILO.
+Levy, S. and Barahona, C. (2002) ‘Targeted inputs programme (TIP): Mainj report of the
+evaluation programme’, August (mimeo).
+Lund, F. and Srinivas, S. (2000) Learning from experience: a gendered approach to social
+protection for workers in the informal economy, Geneva: ILO.
+Marcus, R. and Wilkinson, J. (2002) Whose poverty matters? Social protection,
+vulnerability and PRSPs’, CHIP Working Paper, No. 1, London: CHIP.
+Matin, I. and Hulme, D. (2003) ‘Programs for the poorest: learning from the IGVGD
+Programme in Bangladesh’, World Development, Vol. 31, No. 3: 647–65.
+Morley, S. and Coady, D. (2003) 'From social assistance to social development: a review
+of targeted education programmes in developing countries', Report, IFPRI.
+Moser, C. and Antezana, O. (2001) Social protection policy and practice in Bolivia: its
+implications for Bolivia’s PRSP, Working Paper, No. 156, London: Overseas
+Development Institute.
+Penn, H. (2004) Childcare and early childhood development programmes and policies –
+their relationship to eradicating child poverty, CHIP Report 8, London: CHIP.
+Schubert, B. (2004) ‘Test phase results of the pilot social cash transfer scheme, Kalomo
+District’, 4th Report, Zambia Ministry of Community Development and Social Services
+(MCDSS)/ GTZ.
+Shanks, E., Luttrell, C., Conway, T., Vu Manh Loi and Ladinsky, J. (2004) ‘Understanding
+pro-poor political change: the policy process: Vietnam’ IDS/ODI draft (April).
+Shepherd, A. with Kyegombe, N. and Mulumba, M. (2003) ‘HIV/AIDS, socio-economic
+mobility and chronic poverty: case study results from a small panel in Rakai, Uganda’
+International Conference on Chronic Poverty and Development Policy, University of
+Manchester, 7–9 April.
+Siegel, P. and Alwang, J. (1999) An asset-based approach to social risk management: a
+conceptual framework, Social Protection Discussion Paper, No. 9926, Washington, DC,
+World Bank.
+Smith, W. J. and Subbarao, K. (2003) What role for safety net transfers in very low income
+countries?, Social Protection Discussion Paper, No. 0301, Washington, DC, World
+Bank.
+Suryahadi, A. and Sumarto, S. (2001) The chronic poor, the transient poor, and the
+vulnerable in Indonesia before and after the crisis, Working Paper, Jakarta: SMERU.
+Tesluic, E. D. and Lindert, K. (2002) Risk and vulnerability in Guatemala: a quantitative
+and qualitative assessment, Social Protection Discussion Paper, No. 0404, Washington
+DC, World Bank.
+UN (1966) International Covenant on Economic, Social and Cultural Rights, G.A. Res.
+2200A, UN Doc. A/6316.
+Wood, G. (2003) ‘Staying secure, staying poor: the “Faustian bargain”’ World Development
+Vol 31, No 3: 455-472
+World Bank (2003a) The contribution of social protection to the Millennium Development
+Goals, Washington, DC: World Bank.
+World Bank (2003b) ‘Ethiopia: risk and vulnerability assessment, Washington’, July (draft).
+46
+
+World Bank (2003c) ‘Kyrgyz Republic. Enhancing pro-poor growth’, Report No. 24638-KG,
+PREM, ECA Region, Washington, DC, World Bank.
+World Bank (2001) Dynamic risk management and the poor: developing a social protection
+strategy for Africa, Washington, DC: World Bank.
+Yates, J. and Cooper, R. (2004) Social protection and health: experiences in Uganda,
+Kampala: DFID-Uganda
+Young, M.E. (1998) Policy implications of early childhood development programmes in
+nutrition, health and child development, Washington, DC: Pan American Health
+Organization/World Bank.
+Theme Papers
+Piron, L-H. (2004) ‘Rights based approaches to social protection’, Draft Theme Paper 1.
+Barrientos, A. (2004) ‘Financing social protection’ Draft Theme Paper 2.
+Luttrell, C. (with Moser, C.) (2004) ‘Gender and social protection’, Theme Paper 3.
+Marcus, R., Piron, L-H. and Slaymaker, T. (2004) ‘Basic services and social protection’,
+Theme Paper 4.
+Darcy, J. (2004) ‘Conflict, post-conflict and social protection’, Theme Paper 5.
+Cromwell, E. and Slater, R. (2004) ‘Food security and social protection’, Theme Paper 6.
+Greenslade, M. and Johnstone, K. (2004) ‘The role of social protection in pro-poor growth’,
+Theme Paper 7.
+Slater, R. (2004) ‘HIV/AIDS and social protection’ Theme Paper 8.
+
+47
+
+8 Endnotes
+1
+
+See Glossary for definitions of terms.
+Social protection should be distinguished from social policy, which is grounded on the view that market
+economies generate social problems which can be compensated with social policies; social protection
+believes that risk and vulnerability explain why households adopt behaviour and invest in assets that are
+dysfunctional to human and economic development.
+3
+World Bank, 2003a: 3.
+4
+Barrientos et al., 2004.
+5
+World Bank, 2001: 18.
+6
+Key Bank publications are: the World Development Report 2000/1 (Chapters 8 and 9); Holtzmann and
+Jørgensen, 2000.
+7
+There are Bank publications which view social protection as ‘a set of public measures that support society’s
+poorest and most vulnerable members, and help individuals, households and communities better manage
+risks’ (2003a: 2).
+8
+Chronic Poverty Research Centre, 2004: Chapter 1.
+9
+Fafchamps, 2003: 198.
+10
+Kucera, (2001).
+11
+Bird and Shepherd (2003) show that recovery from the 1991 drought had eluded many households in
+semi-arid Zimbabwe by 1997; and Shepherd, Kyegombe and Mulumba, 2003 show that a decade on from
+the peak of the AIDS epidemic in one heavily affected Western Ugandan village, recovery has not occurred
+for around half of households.
+12
+Wood, 2003.
+13
+UN, 1966
+14
+Additional Protocol II, to the Geneva Convention of 12 August 1949, Article 14.
+15
+The distinction between the more and less active is, however, somewhat artificial in poor households in
+low-income countries, since there are very few who are not active. Moreover the 'less active' live in
+households and communities like the rest of the population and the focus of risk management and policies to
+aid it also is also focused on households and communities.
+16
+ILO, World Labour Report 2000: 29.
+17
+ILO, 2003: 104.
+18
+World Bank, 2001: 141.
+19
+Devereux, 2003.
+20
+Smith and Subbarao, 2003.
+21
+Darcy, 2004.
+22
+Devereux, 2002a.
+23
+Dercon, 2003; Kinsey et al., 1998; Bird and Shepherd, 2003.
+24
+Suryahadi, A. and Sumarto, S., 2001.
+25
+World Bank, 2001: 145–46.
+26
+Holtzmann and Jørgensen, 2000: 13.
+27
+Fafchamps, 2003: 198.
+28
+Devereux, 2001; 2003.
+29
+There is more evidence from schemes and projects than has been collated on this issue. Bringing it
+together should be a priority.
+30
+Bird and Shepherd, 2003.
+31
+Luttrell and Moser, 2004.
+32
+Ibid.
+33
+Bird, 2004.
+34
+Moser and Antezana, 2001: 15 and 26.
+35
+King and Levine, 1993. (ref in Greenslade and Johnstone NOT YET COMPLETED)
+36
+DFID, 2004.
+37
+Farrington and Gill, 2002.
+38
+However, whether increased education contributes more to growth than other potential uses for the
+resources – both other social protection instruments, or other uses of public expenditure – requires research.
+39
+Farrington, Slater and Holmes, 2003: iv.
+2
+
+48
+
+40
+
+Matin and Hulme, 2003.
+With food for work schemes, many of the issues discussed above, related to cash for work, apply.
+However, food for work programmes typically also raise the same issues as food distribution, discussed
+above.
+42
+Devereux, 2001.
+43
+Joshi and Moore, 2000.
+44
+For example, see Devereux, 2001.
+45
+Devereux, 2000.
+46
+Devereux, 2003: 18; Jackson and Palmer-Jones, 1998.
+47
+Graham, 1994.
+48
+Farrington, 2004.
+49
+Edirisinghe, 1987.
+50
+Barrientos and de Jong, 2004.
+51
+World Bank, 2003c.
+52
+Schubert, 2004.
+53
+Barrientos and de Jong, 2004.
+54
+Irudaya Rajan, 2004.
+55
+Barrientos and Lloyd-Sherlock, 2003.
+56
+ILO (1998)
+57
+For further details see Marcus, Piron and Slaymaker, 2004.
+58
+Yates and Cooper, 2004.
+59
+Grant and Hulme, 2004.
+60
+Bennett and Gilson, 2001, in Marcus, Piron and Slaymaker, 2004.
+61
+Arhin-Tenkorang, 2001, quoted in Marcus, Piron and Slaymaker, 2004.
+62
+Morley and Coady, 2003.
+63
+Morley and Coady, 2003.
+64
+cf Young, 1998.
+65
+Penn, 2004.
+66
+Devereux, 2003.
+67
+Armando Barrientos, personal communication.
+68
+Grosh, 1994.
+69
+Coady et al., 2002.
+70
+An example was the Malawi Starter Pack programme which supplied free seeds and fertilisers. When
+community-based targeting was introduced the result was that fewer poor people benefited, as the scarcer
+goods were captured by the better-off (Levy and Barahona, 2002).
+71
+World Bank, 2003c.
+72
+Barrientos and de Jong, 2004.
+73
+Findings from DFID’s Budget Support Evaluability study indicated that financial flows might be less
+predictable compared to project-based funding.
+74
+Communication from Carrie Turk, World Bank.
+75
+The CIS-7 initiative aims to bring greater poverty focus to aid and development in the poorest CIS
+countries.
+76
+But we do not have a precise idea of what these trajectories are in developing countries – the comparative
+research has not been done.
+77
+Hossain and Moore, 2002.
+78
+Farrington et al., 2003
+79
+Cromwell and Slater (2004) make this argument strongly for food security.
+80
+DAC, 2003: 4.
+81
+Bitran and Giedeon, 2003.
+82
+Marcus and Wilkinson, 2002.
+83
+Shanks et al., 2004.
+84
+The DFID supported West India Rainfed Farming Project has been doing this.
+85
+Dev (2003) in Cromwell and Slater, 2004.
+86
+Luttrell and Moser, 2004.
+41
+
+49
+
+87
+
+This is extensively discussed in Devereux (2002b).
+
+50
+
+

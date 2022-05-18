@@ -1,0 +1,1968 @@
+1.
+
+Introduction to the Handbook on Social
+Protection Systems
+Markus Loewe and Esther Schüring
+
+While social protection has become an important policy field in many low- and middle-income
+countries (LICs and MICs), 55 per cent of the world’s population are still not even covered
+by one social protection benefit, with 87 per cent of people uncovered in Sub-Saharan Africa
+and 61 per cent in Asia and the Pacific (ILO 2017). Next to undercoverage, there are other
+factors that lower the efficiency, effectiveness and social justice of social protection in many
+countries, such as the lack of a joint vision and policy strategy, fragmented social protection
+programmes, duplication of administrative systems and efforts and irrational prioritisation in
+spending. These all call for a stronger systems approach to social protection. This handbook is
+therefore dedicated to social protection systems, highlighting the relevance but also the challenges that are related to a harmonised and coordinated approach across different social protection instruments, institutions, actors and delivery mechanisms. It takes the reader through
+all possible aspects of social protection systems.
+It understands social protection as the entirety of policies and programmes that protect
+people against poverty and risks to their livelihoods and well-being. This definition is based
+on the way in which universal social protection has been defined by a consortium of bi- and
+multilateral actors of development policy in 2019:
+Universal social protection is achieved through a nationally defined system of policies and programmes that provide equitable access to all people and protect them throughout their lives against
+poverty and risks to their livelihoods and well-being. This protection can be provided through a range
+of mechanisms, including in cash or in-kind benefits, contributory or non-contributory schemes, and
+programmes to enhance human capital, productive assets, and access to jobs. (Global Partnership for
+Universal Social Protection 2019)
+
+While being ambitious in nature when we look at the reality of limited social protection coverage across the world, this definition sets out an aspirational vision and gives flexibility to
+countries on how to achieve it. It also encompasses the different visions of social protection
+that the authors of this handbook bring along, which vary by institution, country and personal
+conviction.
+If we talk in the following about ‘social protection programmes’ or ‘schemes’, we refer
+to single instruments, while we use the word ‘system’ when we mean the total set of social
+protection instruments in a country.
+Before going into detail about what we mean by a systems approach (Section 1.3) and how
+this is tackled by the various parts of the handbook (Section 1.4), the handbook’s introduction
+first motivates the focus on social protection as a crucial policy area in the development process
+(Section 1.1) and outlines differences in approaches to social protection with regards to their
+primary goals, appropriate providers, covered risks, key instruments, financing methods and
+the basis of claims for benefits, while not ignoring the common ground reached (Section 1.2).
+1
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+2
+
+1.1
+
+Handbook on social protection systems
+
+IMPORTANCE OF SOCIAL PROTECTION SYSTEMS
+
+World-wide, social protection is increasingly seen as a key issue for social, economic and
+political development and perhaps even for the environmental agenda (Hickey and Seekings
+2017). Social protection has always been seen as a means to reduce poverty as well as vulnerability to risks (Barrientos and Niño-Zarazúa 2011). In this regard, it has at least three functions
+(see also Figure 1.1):
+
+Source: Authors’ own illustration.
+
+Figure 1.1
+
+The basic functions of social protection
+
+●● A preventive function: Social protection can help to prevent poverty. It supports people in
+the management of risks, which includes the prevention, mitigation and coping with risks
+such as bad health, unemployment or old age (longevity) (see below in Section 1.2.4 for
+details on these three strategies of dealing with risks) and thereby prevents catastrophic
+events leading to unmanageable income shortfalls and deterioration in well-being. As
+a result, social protection can lower in particular the likelihood of vulnerable groups to
+fall into absolute poverty and ultimately reduce the number of people in transient poverty.
+●● A protective function: Social protection contributes to the alleviation of poverty. It supports
+people living below a nationally defined minimum, the poverty line, with cash or in-kind
+transfers or subsidies (which reduce the consumption costs). Thereby, social protection
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 3
+reduces the poverty gap and in the best case lifts people all the way up to the poverty line
+reducing the poverty incidence as well.
+●● A promotive function: Social protection can fight poverty. It reduces the overall vulnerability of people by stabilising future income streams. Such reduction of uncertainty about
+tomorrow encourages people to take new risks in their income-generating activities: e.g.
+cultivate higher-risk but higher-margin crops, accumulate assets, start a business, buy
+machines or invest in training and further education. In this way, people become more
+resilient, increase their future income potential and thereby possibly free themselves from
+poverty.
+Devereux and Sabates-Wheeler (2004) have added to these three functions, listed for the first
+time by Guhan (1994), a fourth: the transformative function of social protection, which is to
+remove barriers to higher social equality, inclusion and social mobility and thereby achieve
+sustainable livelihoods. Good examples for social protection interventions fulfilling the transformative function include collective action for workers’ rights or changes to the regulatory
+framework to protect vulnerable groups such as ethnic minorities, people with disabilities or
+HIV/AIDS or women who are victims of domestic violence against discrimination (see Part
+IV of this handbook).
+These four functions matter for the well-being of people but at least as much favour economic development: by enabling even low-income households to address risks and shocks,
+social protection schemes reduce the pressure on networks and society as a whole to provide
+support in such acute situations and free up resources for more productive purposes. In addition, by strengthening the readiness of even low-income households to invest in productive
+assets (both human and physical capital), social protection schemes raise the overall rate of
+investment and hence promote pro-poor growth, i.e. economic growth that takes place among
+low-income people (Alderman and Yemtsov 2014; OECD 2009, 2019; Ravallion et al. 2018;
+Sabates-Wheeler and Devereux 2011; see Chapter 37).
+By reaching out to those who are socially and economically excluded, by alleviating citizens’ concerns about the future and their concerns for family and community members and by
+having citizens make the experience that the state cares and delivers, social protection can also
+make a positive contribution to political development, such as social inclusion, social cohesion
+and the stability of state and society (Babajanian et al. 2014; de Neubourg 2009; Hickey 2014;
+Loewe et al. 2020b; Chapter 38).
+In this sense, social protection is not only a target1 by itself, which comes under Sustainable
+Development Goal 1, but it can also contribute to the majority of the SDGs of the Agenda 2020
+(see Figure 1.2):
+
+The Agenda 2030 from 2015 has two targets under SDG 1 with a direct relation to social protection: Target 1.3 is to ‘Implement nationally appropriate social protection systems and measures for all,
+including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable’. And Target
+1.5 is: ‘By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental
+shocks and disasters’ (UN 2015). The indicator used for measuring progress towards Target 1.3 is the
+‘Proportion of population covered by social protection floors/systems, by sex, distinguishing children,
+unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury
+victims and the poor and the vulnerable’ (UNStats 2015).
+1
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+4
+
+Handbook on social protection systems
+
+Source: Authors’ own illustration.
+
+Figure 1.2
+
+Possible effects of social protection on the Sustainable Development Goals
+
+●● The human development goals (1–10): to prevent, reduce and alleviate income and multidimensional poverty, to prevent the negative social effects of poverty, to facilitate access
+to and affordability of food and nutrition as well as of basic social services (education and
+health), to reduce unintended inequalities and to improve gender relations.
+●● The economic goals (4–9): to encourage people to take risks, invest in physical and human
+capital and become economically active, thereby boosting economic growth (especially in
+the informal sector) and facilitating income smoothing (see Chapter 37).
+●● The political goals (16–17): to enhance social justice, empower and integrate groups at the
+margin of society (social inclusion), strengthen social cohesion, stabilise society and polity
+and contribute to the realisation of human rights (see Chapter 38).
+And finally, social protection might also help in the management of additional, often
+environment-related, risks, which are likely to increase in the future due to climate change.
+Thereby, it might contribute to the achievement of the green SDGs (12–15) in general and
+climate mitigation in particular (Aleksandrova 2019; Gentilini and Omamo 2011; Chapter 42).
+Finally, different social protection instruments can also help in responding to those global
+mega trends that prove problematic for the achievement of the Agenda 2030 and the SDGs.
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 5
+The challenges are (1) the increase in within-country inequality in many countries, (2) the
+ineffectiveness of economic policies of many countries to reduce multidimensional poverty,
+(3) the possibility of macro-shocks such as currency and financial system crises but also the
+break-out of pandemics like COVID-19, which reverse parts of what has been achieved in
+terms of progress towards the SDGs in previous years, (4) the surge in global migration, (5) the
+ageing of the world population which drives up the costs of care provided to people at third
+age, (6) the destructive effects of climate change on the livelihoods of numerous people, especially in LICs and MICs, (7) the increase in fragile states world-wide and (8) the continuous
+automation and digitisation that destroys numerous jobs of people with only basic education.
+Social protection can buffer these trends as follows:
+●● Social cash and in-kind transfer schemes can redistribute income towards the poor and
+thereby counteract current trends of rising multidimensional inequality in many countries
+world-wide (World Bank 2016; Chapter 34).
+●● The same kind of schemes plus a greater emphasis on social services can reaccelerate the
+reduction of global multidimensional poverty rates (Barrientos and Niño-Zarazúa 2011;
+Chapter 34), thereby compensating for the fact that the effect of economic growth on
+absolute poverty reductions is sometimes low and often decreasing (Burchi et al. 2019).
+●● Social protection mechanisms can help to secure the funding needed for well-equipped
+public health and social health insurance schemes that are able to master the health effects
+of future pandemics. Likewise, social transfers can be wisely used in cushioning the
+socio-economic effects of current and future pandemics (Gentilini et al. 2020; Chapters
+39 and 43).
+●● Social protection can contribute to the reduction of forced migration that is often propelled
+by the need to compensate for a lack of provisions in-country, by high inequality levels and
+limited perspectives for a different state–citizen relationship in the nearby future. While
+social protection can facilitate migration by providing additional income, it can also serve
+as an important incentive to stay by providing safety and stability of income and expectations, in particular in country contexts without war or civil strife (Schüring et al. 2017;
+Chapter 23).
+●● Social old-age protection schemes (pension insurance and social pension schemes) can
+frontload the costs of rising numbers of people at old age and thereby mitigate the most
+serious effects of demographic change (Holzmann et al. 2009; Chapters 21 and 39).
+●● Many social protection instruments can contribute to the prevention, mitigation and coping
+of risks that increase with climate change and thereby help people adapt to climate change
+(Gentilini and Omamo 2011; Solórzano and Cárdenes 2019; Chapter 42).
+●● When well-implemented, social protection schemes can contribute to social cohesion and
+the social contract between society and the government. This can help to build or rebuild
+government legitimacy and reduce state fragility (Harvey et al. 2007; Loewe et al. 2020b;
+Sabates-Wheeler et al. 2017; Chapter 38).
+●● Continued automation and digitisation in production constitutes a challenge not only for
+global development in general but also for the effectiveness of existing social protection
+schemes. At the same time, social protection schemes, if readapted to these changes, can
+also cushion the negative effects of automation and digitisation on the world of labour and
+income generation (UNDP 2015; Chapter 41).
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+6
+
+Handbook on social protection systems
+
+The main exception in this regard might be the current global trend of countries returning to
+authoritarianism. Social protection can do little to counter the trend. Even more so, the trend
+threatens the functionality of social protection systems itself because authoritarian rulers tend
+to use social protection for their own benefits rather than for the poor and vulnerable groups
+of the population (Loewe 2013).
+
+1.2
+
+DEFINITION OF SOCIAL PROTECTION AND
+DIFFERENCES IN APPROACHES
+
+At least in the past, there used to be huge differences in the perceptions of people, countries
+and organisations with respect to social protection. As a result, the shape of social protection
+systems diverged significantly from one country to another (Hanlon et al. 2010). To some
+degree, these differences were intended and due to the fact that different policy makers (or
+governments in different countries) set different objectives/priorities in policy making, partly
+influenced by varying social norms and values. Social protection instruments are hence prioritised and combined in various ways that pay justice to these different motives (Hickey and
+Seekings 2017; Hickey et al. 2018; Kabeer 2014).
+However, the differences are not always the result of strategic planning. In many cases, the
+shape of social protection systems is the result of historic processes and path dependencies:
+once a social protection scheme is in place, it becomes difficult for successor governments to
+replace the scheme with a completely different one (Hickey et al. 2018; Jawad 2019; Kabeer
+2014).
+In the same way that national understandings of social protection differ, international
+actors also diverge in their understanding of social protection. Most of them acknowledge
+that social protection is about both risk management and poverty reduction. Some, however,
+such as the British Department for International Development (DfID 2006) (now part of the
+United Kingdom’s Foreign, Commonwealth and Development Office), have for long mainly
+emphasised poverty reduction, while others, such as the World Bank have tended to look at
+social protection through a risk management perspective. As a result, the World Bank (2000)
+has been criticised on the ground that it ‘does not explicitly address the chronic (core) poor’
+(Devereux and Sabates-Wheeler 2004). These differences are again at least partly due to different institutional logics (e.g. how international organisations are governed and how and from
+where they recruit their staff) and the fact that the people working in different national and
+international organisations cannot fully free themselves from the models of social protection
+that they have in their deeper mind because of the experience that they made with social protection systems in their respective home countries (Browne 2015; Hickey and Seekings 2017).
+To give an example, the German BMZ issued a position paper back in 2009 (which is no
+longer effective) defining social protection as support in risk management only: ‘Systems of
+social protection support individuals or households in risk prevention, mitigation or coping’
+(BMZ 2009). This definition reflects the fact that contributory social insurance schemes are
+perceived by many as the core element of social protection in Germany even though the
+German Federal Ministry for Labour and Social Affairs, which is responsible for social protection system design within Germany, has most of the time used more equilibrated definitions
+(e.g. BMAS 2010).
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 7
+Likewise, the European Commission also sees social protection primarily as a risk management instrument: ‘Social protection may be broadly defined as a set of policies and actions
+that enhance the capacity of all people, but notably poor and vulnerable groups, to escape from
+poverty (or avoid falling into poverty), and better manage risks and shocks’ (ECHO 2017).
+The social protection strategies of the United Nations Development Programme (UNDP)
+and the Food and Agriculture Organization (FAO), in contrast, portray social protection, first
+of all, as an instrument of poverty alleviation:
+Social protection comprises a set of policies and programmes that addresses economic, environmental
+and social vulnerabilities to food insecurity and poverty by protecting and promoting livelihoods’
+(FAO 2017).
+This primer defines social protection as a set of nationally owned policies and instruments that
+provide income support and facilitate access to goods and services by all households and individuals
+at least at minimally accepted levels, to protect them from deprivation and social exclusion, particularly during periods of insufficient income, incapacity or inability to work. (UNDP 2016)
+
+At the same time, an increasing number of researchers as well as political actors look at
+social protection through the eyes of a rights-based perspective. Of course, this includes the
+International Labour Organization (ILO), which has a mandate to define standards in labour
+relations, including social protection. The ILO defines social protection as ‘a human right’ and
+‘as the set of policies and programmes designed to reduce and prevent poverty and vulnerability throughout the life cycle’ (ILO 2019a).
+Recently, there has been a convergence in the definition of social protection by different
+organisations, which has been promoted, among others, by the Social Protection Inter-Agency
+Cooperation Board (SPIAC-B). It enrols virtually all relevant international organisations and
+several bilateral development cooperation donor countries. However, differences in institutional approaches to social protection are not entirely cancelled out.
+The strategic documents and real engagement of the different actors in social protection
+show even more clearly that their foci in the field of social protection still differ. Even among
+scholars, there is still substantial divergence in the way the term ‘social protection’ is understood with regards to the primary goals, appropriate providers, covered risks, key instruments,
+financing methods and the basis of claims for benefits.
+In the following, we present the prevailing differences in understanding quite extensively
+– not least because these differences even surface when comparing approaches by different
+authors of this handbook.
+1.2.1
+
+Primary Goal of Social Protection
+
+There is still a bit of disagreement on the primary goal of social protection (Norton et al. 2002;
+Gentilini and Omamo 2011; Kabeer 2014). Should it mainly
+●●
+●●
+●●
+●●
+●●
+●●
+
+reduce people’s vulnerability to risks,
+fight poverty,
+reduce socio-economic inequality,
+promote social inclusion,
+contribute to social cohesion,
+stimulate investment, productivity and economic growth,
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+8
+
+Handbook on social protection systems
+
+●●
+●●
+●●
+●●
+●●
+
+stabilise societies and polities,
+legitimise governments,
+support macro-economic stabilisation,
+boost human capital or
+do anything else?
+
+Essentially, we can differentiate four extremes in this regard, each prioritising one of the four
+functions of social protection as described by Devereux and Sabates-Wheeler (2004): protection, prevention, promotion and transformation (see Figure 1.3). Possibly, these four extremes
+are more theoretical positions and no actor pursues them in such a distinct way. Even more
+so, it is difficult to attribute existing social protection systems to any of the four extremes.
+While for some European countries with mature social protection systems different priorities
+in terms of functions can be detected, it would be too tentative to localise in the same way the
+
+Source: Authors’ own illustration.
+
+Figure 1.3
+
+The four extremes of prioritisation in social protection policies
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 9
+social protection systems of LICs or MICs because they are still in the process of progressively
+building them up.
+The first extreme in this sense could be labelled residualism or targeteerism. Its proponents
+would look mainly at the protective function of social protection, i.e. poverty alleviation:
+the support of those who are actually suffering from absolute poverty and deprivation – the
+‘deserving poor’ (Devereux and Sabates-Wheeler 2004, 3). They would want government
+support for accessing health and social services to be provided solely to the poor and only as
+a last resort (i.e. when other forms of welfare, such as family or voluntary, fail). In the concept
+of the three worlds of welfare capitalism of Danish sociologist Esping-Andersen (1990), the
+liberal/Anglo-Saxon model of social protection (archetypically followed by the United States,
+Ireland and Australia) would come closest to the extreme position of residualism. And the
+favoured instruments would be means-tested unconditional cash transfers and health and
+education vouchers in addition to conditional benefits such as public works (see Chapters 2,
+4 and 8).
+The second extreme could be called selectivism. Its proponents would look mainly at the
+preventive function of social protection only, i.e. risk management: support provided to the
+efforts of people in risk prevention and mitigation. The focus would thus be on risk reduction
+by people who are not necessarily poor (Devereux and Sabates-Wheeler 2004, 3; Kabeer 2014;
+Holzmann and Jørgensen 1999; de Neubourg and Weigand 2000). The strategy is selective
+in two dimensions: (a) specific, predefined risks are covered; and (b) only people with sufficient income, sufficiently organised and with access to existing schemes of social protection
+are included (see Chapter 7). In the concept of the three worlds of welfare capitalism of
+Esping-Andersen (1990), the conservative/continental model of social protection (archetypically followed by France, Belgium and Germany but also many countries in Latin America)
+comes closest to this extreme position. And the favoured instruments of the position would
+be contributory social insurance, private insurance and micro-insurance (Chapters 3 and 6).
+The third extreme could be called productivism. Its proponents would look mainly at the promotive function of social protection, i.e. the mobilisation of investments into human and physical capital. The philosophy would be to make people productive (again) and thereby help them
+to escape from poverty themselves. The long-term vision would thus be to trigger pro-poor
+economic growth, i.e. economic development that takes place, first of all, among low-income
+people. None of the three worlds of welfare capitalism described by Esping-Andersen (1990)
+fits perfectly to this fourth extreme but productivism shares the market proximity and low
+degree of decommodification of the liberal welfare regime. Its adherents welcome any social
+protection scheme that encourages people to become economically active and thereby help
+themselves to escape from poverty. This holds in particular for market-based instruments such
+as commercial insurance, micro-insurance and funded social insurance schemes but, to some
+degree, also for other forms of social insurance, conditional cash transfers and public works
+programmes (see Chapters 3, 4 and 6).
+The fourth extreme could be called universalism. Its proponents would look mainly at the
+transformative function of social protection, i.e. the impact of social protection on social equity
+and inclusion, empowerment and universal rights (Devereux and Sabates-Wheeler 2004, 3;
+Kabeer 2014). They would call for a more institutionalised and comprehensive approach
+towards social protection that builds on wider social and political economy analysis, redistribution and collective provision of universal benefits rather than individual responsibility for
+risk management and some collective efforts of targeted poverty reduction (Adesina 2012;
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+10
+
+Handbook on social protection systems
+
+Ghosh 2011; Midgley 2013; Mkandawire 2004; Standing 2007). In the concept of the three
+worlds of welfare capitalism of Esping-Andersen (1990), the comprehensive/Scandinavian/
+social-democratic model of social protection (archetypically followed by Sweden and
+Norway) comes closest to this extreme position. And the favoured instruments of the position
+would be rights-based social pensions, child benefits and unemployment allowance, a public
+health system offering all kinds of medical services free of charge to every resident and even
+more so a universal citizen grant and universal in-kind social services (see Chapters 2 and 5).
+1.2.2
+
+Providers of Social Protection
+
+Many authors have defined social protection as the sum of social insurance and social assistance and labour market policies (LMPs) or public in-kind support for the poor such as social
+services (Devereux and Sabates-Wheeler 2004, 4) and, hence, apply the term only to programmes initiated by the government. The European Report on Development (EC 2010), for
+example – of course not an official document of the European Union – sees social protection as
+a specific set of actions to address the vulnerability of people’s life through social insurance, offering
+protection against risk and adversity throughout life; through social assistance, offering payments
+and in kind transfers to support and enable the poor; and through inclusion efforts that enhance the
+capability of the marginalised to access social insurance and assistance.
+
+Likewise, Harvey et al. (2007) also consider the state as the dominant provider of social protection, and according to de Neubourg, Cebotari and Karapati (Chapter 11), social protection
+can only be provided by the state; all other forms of support in risk management are just
+‘protection’ in their understanding.
+While most authors stress the importance of state-coordinated action in social protection,
+many emphasise that social protection schemes cannot only be provided by the state or public
+entities but also by
+●● market-based actors (e.g. employers, insurance agencies),
+●● third-sector organisations (e.g. trade unions, welfare associations, grass-root
+non-governmental organisations, small enterprise associations, cooperatives) or
+●● society at large/solidarity networks (e.g. families, clans, tribes, neighbourhoods, communities) (see Figure 1.5 and Chapter 10).
+This argument has already been made much earlier by the German Development Institute
+(Gsänger 1992), the World Bank (Holzmann and Jørgensen 1999) and others (Norton et al.
+2001, 13).
+The European Statistical Office in Luxembourg takes a middle position in this regard. It
+defines social protection as ‘all interventions from public or private bodies intended to relieve
+households and individuals of the burden of a defined set of risks or needs’ (EUROSTAT
+2019, 8). This includes social insurance and social transfer schemes, mandatory private health
+insurance schemes, mutual insurance clubs, services offered by welfare organisations and
+employment-related pension schemes but no individual life insurance schemes, no housing
+allowances paid by employers, no crèches for the children of employees and no loans extended
+to neighbours (EUROSTAT 2019).
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 11
+At the lowest level, even the nuclear family or household can be seen as a provider of
+social protection as the two heads of a nuclear family/household (typically wife and husband)
+share their risks and support each other: marriage and extended family would thus also be
+institutions that support not only risk prevention, risk diversification and risk coping but even
+risk pooling (World Bank 2001, 141f.), i.e. they go beyond the possibilities of individuals in
+managing risks. Risk pooling requires at least two people to be involved. The more people are
+involved, the more efficient and effective risks can be managed, which is also an argument as
+to why some don’t classify informal arrangements as social protection.
+1.2.3
+
+Risks Covered
+
+In the more traditional literature on social protection in high-income countries (HICs) (e.g.
+Althammer and Lampert 2019), it seems to be clear that social protection is meant to cover as
+many risks as possible of a specific set of risks being listed in the ILO Convention 102 from
+1952. This includes life-cycle risks (childhood, parenthood, old age/longevity, widowhood
+and orphanhood), health risks (sickness, work-related injury and infection, pregnancy and
+delivery of children and invalidity/long-term work disability) and job loss/unemployment. The
+ILO Convention requires every ratifying country to protect at least 20 per cent of the economically active population or 50 per cent of all employees or 50 per cent of all residents against at
+least three of the listed risks (ILO 1952; Chapter 11). However, only 58 countries have ratified
+the convention so far (ILO 2020), which limits the extent to which it can be regarded as an
+internationally accepted standard.2
+In addition, when the literature on social protection in LICs and MICs was growing during
+the 1990s, it became clear that the above-mentioned list is too much inspired by the situation
+of people in wage employment, especially in HICs (see e.g. Holzmann and Jørgensen 1999).
+Many people in LICs and MICs, especially those living in rural areas and from self-employment
+in agriculture, are less vulnerable to some of the risks in the ILO list but highly vulnerable to
+many other risks not listed at all (see Table 1.1). And as the prevalence and importance of risks
+varies by country context, a society needs to determine which risks should be covered through
+different social protection arrangements by the various actors.
+At the same time, the diversity of relevant risks is rising even in HICs, due to climate change
+and other degradations of the environment as well as due to the proliferations of informal and
+precarious jobs (Ranci et al. 2014).3 Table 1.1 outlines in bold which risks are commonly
+agreed upon as social protection-relevant risks, while the others are not considered relevant
+
+2
+EUROSTAT (2019) confines the term social protection to interventions that help people manage
+the following risks: bad health, disability, old age, survivorship, children, unemployment, housing and
+social exclusion not elsewhere classified. Apparently this list is coined by the dominant expectations of
+European citizens but it is not consistent at all because housing and children are not risks; they do not
+involve any element of uncertainty, neither with regards to the time of the related hazard (these days you
+know when you need housing and when you have children), nor with regards to their possible impacts.
+In addition, the category ‘social exclusion not elsewhere classified’ is quite broad and vague and can be
+interpreted as a container for any other relevant risk.
+3
+In June 2020, for instance, German social protection scholars met in Heidelberg to discuss how
+the scope of social protection can be broadened in order to support both social inclusion and ecological
+change. The programme of the meeting can be downloaded from www​.fest​-heidelberg​.de/​wp​-content/​
+uploads/​2020/​06/​Wirtschaft​-der​-Gesellschaft​-2020​_Tagung​-Soziale​-Sicherungssysteme​.pdf.
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+12
+
+Handbook on social protection systems
+
+Table 1.1
+
+Typical risks by their nature and degree of covariance
+
+Origin of risks
+Life cycle
+
+Micro-level risks
+
+Meso-level risks
+
+Macro-level risks
+
+(idiosyncratic)
+
+(somewhat covariate)
+
+(highly covariate)
+
+Epidemia
+
+Endemia
+
+Loss of job (unemployment)
+
+Decrease in demand
+
+Financial crisis
+
+Business failure
+
+Output collapse
+
+Currency crisis
+
+●●Theft/robbery
+
+Terrorism
+
+War
+
+●●Murder
+
+Bomb attack
+
+Civil war
+
+Riot
+
+Coup d‘état
+
+Resettlement
+
+Political default
+
+Domestic fuel
+
+Drought
+
+Volcanic eruption
+
+Lightning strike
+
+Flood
+
+Earthquake
+
+Landslide
+
+Air pollution
+
+Hail
+
+Climate change
+
+Pollution of river
+
+Nuclear disaster
+
+Childhood
+Parenthood
+Death (widowhood,
+orphanhood)
+Old age (longevity)
+
+Health
+
+Illness
+Injury
+Employment-related injury
+and infection
+Pregnancy
+Delivery
+
+Employment and economy
+
+Hyper-inflation
+Society and polity
+
+Nature
+
+Environment
+
+Deforestation
+
+Notes: Consensus exists only on the risks printed in bold, i.e. it is controversial if support provided for the
+management of any of the others can be considered social protection as well.
+Sources: Authors’ own adapted from Coudouel et al. (2002, 169); Holzmann and Jørgensen (1999); Loewe (2009a);
+World Bank (2000).
+
+by all authors. The table also differentiates the nature of risk and whether the risk concerns an
+individual (idiosyncratic) or several people at the same time (covariate).
+The question therefore arises whether the traditional list of risks has to be expanded by
+at least some of the risks that have newly emerged or that are of greater relevance in other
+country contexts. Many authors have affirmed this (e.g. Devereux and Sabates-Wheeler 2004;
+Holzmann and Jørgensen 2000; Shepherd et al. 2004).
+People everywhere are highly vulnerable to health risks because the costs of necessary
+medical treatment can easily exceed what people can pay out of their pockets – which holds
+even for many high-income people (see Chapter 36). Old age, in contrast, constitutes a greater
+risk for people in HICs and for people in urban areas of LICs and MICs because their children
+tend to live at a distance from them and do not have the time and resources to care for their
+parents when they retire. In traditional, more rural settings, in contrast, many people still rely
+on their children or at least other relatives or neighbours to look after them and support them
+when they get old (see Chapter 21). Likewise, parenthood, widowhood, unemployment and
+work disability is a much larger risk for people living in towns, depending on a single or just
+two income sources (wage employment) and being only little embedded in societal solidarity
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 13
+networks. This contrasts with people in rural areas who have many different small income
+sources and better access to support within their neighbourhood. As a consequence, people in
+rural, more traditional settings have fewer difficulties in managing life-cycle risks than people
+in urban settings with higher dependencies on single-income sources. But they are highly
+vulnerable to natural, ecological, political and societal risks because these are often more
+covariate than life-cycle risks. And droughts, flood, river pollution or civil war threaten all
+people in a region alike with the effect that these risks cannot be managed by mutual support
+within the family, tribe or village. Support from outside is thus all the more important (Collins
+et al. 2009, 65ff.; Coudouel et al. 2002; EC 2012, 16ff.).
+1.2.4
+
+Instruments
+
+Social protection instruments can be categorised by the way they deal with risks: preventing
+them, mitigating them or helping people cope with them (World Bank 2001):
+●● Risk prevention aims at lowering risks, i.e. reducing the likelihood of hazards (possible
+adverse events) such as illness, job loss or bad harvests. Examples include hygiene, healthy
+diet and safety at work.
+●● Risk mitigation aims at limiting the possible impact of risks, i.e. the shock that a hazard
+(a possible adverse event) can have on people. It includes three sub-forms: risk diversification reduces the possible effects of single risks at the price of a higher number of risks
+(e.g. through crop diversification); risk provisioning is the accumulation of assets that help
+to deal with possible future shocks (e.g. savings); and risk pooling or risk sharing is insurance, i.e. the mutual sharing of individual risks within a group (which does not reduce the
+risks in total but their impacts on every group member, e.g. social insurance).
+●● Risk coping is any ex-post reaction of households to shocks. Social protection in this area
+would thus be any support to households that helps them reduce at least the long-term
+effect of a hazard once it has already occurred. Examples include the provision of credit,
+social assistance, job placement support and retraining.
+All three categories can contribute to all four functions of social protection (preventive,
+protective, promotive and transformative) even though some categories are more strongly
+aligned with one or two functions in particular. For example, risk prevention and mitigation
+are particularly strong with regards to the preventive function, while support in risk coping is
+important for the protective and promotive function.
+The bulk of the literature recognises that social protection includes risk mitigation as well
+as risk coping, i.e. social insurance and social transfers (e.g. Devereux and Sabates-Wheeler
+2004; UNDP 2016). Some publications, though, focus more on instruments that help people
+mitigate risks, especially through social insurance (including non-contributory contingency
+benefit schemes) and micro-insurance (e.g. ILO 2010), while others emphasise instruments
+that help people cope with risks, especially through social transfers (including social assistance, public works and conditional cash-transfer schemes) and social services (e.g. Grosh et
+al. 2008).
+The majority of social protection experts, however, see both groups of instruments as the
+core of social protection (see Table 1.2 and Figure 1.5). Therefore, this handbook has separate
+chapters on social insurance, micro-insurance, social transfers and social services (Part I, see
+also Figure 1.4).
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+14
+
+Handbook on social protection systems
+
+Table 1.2
+Provider
+Risk prevention
+
+Providers and instruments of social protection
+Society (solidarity
+
+Informal/ third-sector
+
+networks)
+
+organisation
+
+Market-based actor
+
+State or public institution
+
+Hygiene (e.g. societal
+consent
+
+Construction of dams,
+
+Voluntary labour and
+
+Pandemic protection orders
+
+dykes, mountain
+
+environmental protection Safety-at-work regulations
+
+to wash hands
+
+terraces and river
+
+standards
+
+and wear masks during basins by communities In-service training
+
+Environmental protection laws
+Reforestation
+
+pandemics)
+
+against river and sea
+
+Infrastructure (e.g. dams, dykes,
+
+Healthy diet
+
+floods and avalanches
+
+mountain terraces, tsunami
+warning)
+
+Caution in traffic
+Risk
+
+Crop and plot
+
+Cooperatives with
+
+Training (to diversify
+
+Public health and education policy
+Agricultural extension
+
+mitigation (risk
+
+diversification
+
+division of labour
+
+skills)
+
+Trade liberalisation and
+
+diversification)
+
+Income/job
+
+among members
+
+diversification (to reduce
+
+diversification
+
+dependence from single markets)
+
+Investment in physical
+
+Quality education
+
+and human capital
+Risk
+
+Accumulation of buffer Savings and credit
+
+Savings accounts in
+
+National provident funds
+
+mitigation (risk
+
+stocks
+
+associations
+
+financial institutions
+
+Funded social insurance (if
+
+provisioning)
+
+(e.g. local food supply
+
+Investment in human
+
+Micro-savings
+
+intertemporal redistribution is
+
+reserves)
+
+capital (gifts, rituals,
+
+dominant, otherwise under ‘risk
+
+care, loans)
+
+pooling/sharing’)
+
+Non-commercial
+micro-savings
+Group-based/mutual
+
+Risk mitigation
+
+Solidarity networks
+
+Private insurance
+
+Social insurance (health, work
+
+(risk pooling/
+
+(mutual support among micro-insurance
+
+Commercial
+
+disability, unemployment, etc.)
+
+sharing)
+
+friends/neighbours
+
+micro-insurance
+
+based on generalised
+reciprocity)
+Risk coping
+
+Child labour
+
+Savings and credit
+
+Commercial loans (from
+
+Social transfers (social assistance,
+
+Loans from friends,
+
+associations
+
+banks, money lenders,
+
+conditional cash transfers, cash
+
+relatives, colleagues
+
+Non-commercial
+
+etc.)
+
+for work)
+
+Transfers from
+
+micro-credit
+
+Sale of assets
+
+Social services (e.g. education,
+
+networks of mutual
+
+health, training, support to people
+
+support
+
+with disabilities)
+Active labour market policies
+Subsidies
+
+Notes: Consensus exists only on the instruments printed in bold. All others are not considered social protection
+instruments by all experts.
+Source: Authors’ own drawing essentially from World Bank (2001, table 8.3).
+
+In addition, there is a chapter (Chapter 4) on LMPs, even though some scholars do not recognise all LMP instruments as social protection. LMPs include (1) the regulation of the labour
+market (by constitutions, laws and government decrees, but also agreements resulting from
+collective bargaining), (2) active labour market policies (ALMPs), which are meant to help
+unemployed people find new jobs through (re)training, facilitation of work experience acquisition or job search assistance, and (3) passive labour market policies (PLMPs), which provide
+assistance to people that deal with lack of income due to unemployment and underemployment
+(e.g. unemployment assistance or insurance, cash for work). Almost all experts agree that
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 15
+
+Source: Authors’ own illustration.
+
+Figure 1.4
+
+The five core instruments of a social protection system
+
+PLMPs are social protection; many consider ALMPs as an element of social protection as well
+(ADB 2003; World Bank 2011) but others do not (e.g. ILO 2017).
+In a similar way, many actors (e.g. EC 2012) see social services as an integral part of social
+protection while other actors do not (e.g. ILO 2017). For comprehensiveness, the handbook
+also includes a chapter (chapter 5) on social services.
+There are also instruments that the book does not cover yet, despite the fact that many
+authors have been arguing for a long time for a larger understanding of social protection that
+includes more instruments, among them prevention (e.g. World Bank 2001; Gsänger 1992;
+Devereux 2016; UNDP 2016). Prevention includes, for example, the conduct of campaigns
+and the provision of tools for preventive health care as well as the construction of dams and
+mountain terraces and the replanting of coastal mangroves as a means to reduce natural risks.
+Measures of this kind are only mentioned sporadically in large parts of the social protection
+literature (e.g. in EC 2010; Hickey and Seekings 2017; Gentilini and Omamo 2011; ILO 2017)
+even if some authors have shown that they can they can have a higher effectiveness and efficiency than risk mitigation and coping measures.
+While prevention is discussed more in the context of climate change (e.g. Aleksandrova
+2019; Malerba 2020; Chapter 42), it rarely features when it comes to preventing river pollution, nuclear disaster, government failure, pandemics such as COVID-19 (see Chapter 43),
+volcanic eruption or civil war (exceptions include Loewe 2009a; Norton et al. 2002; Shepherd
+et al. 2004).
+Another issue is whether indirect cash transfers such as commodity, credit or investment
+subsidies should also be seen as social protection instruments. In the past at least, many governments have used in particular food, housing and credit subsidies as an instrument to fight
+poverty by increasing the purchasing power of the poor (Vidican Auktor and Loewe 2021).
+The social protection strategy of the World Bank recognises these instruments as social protection schemes as well (Holzmann and Jørgensen 1999; see Table 1.2) while other institutions
+do not (e.g. BMZ 2017; EC 2012; ILO 2017). Figures 1.5a–b present a more comprehensive
+categorisation of state-owned social protection schemes, explained below.
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Figure 1.5a
+
+Overview of state-initiated social protection schemes
+
+Handbook on social protection systems
+
+Source: Authors’ own illustration.
+
+16
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Overview of state-initiated social protection schemes
+Figure 1.5b
+
+Source: Authors’ own illustration.
+
+Introduction 17
+
+18
+
+Handbook on social protection systems
+
+Notes: Figures 1.5a–b categorise the most important public social protection instruments by six major criteria/characteristics – most of them discussed in Part II of this handbook: (1) source of funding, (2) determinants of benefit levels,
+(3) financing/redistribution strategy, (4) administration, (5) targeting and (6) nature of benefits. It presents examples
+for all existing combinations and should be read top-down.
+The first distinction criterion is whether an instrument is financed by taxes (left part of the flow sheet) or by
+contributions (right part) (Chapter 7). Both kinds can generate direct transfers but non-contributory (tax-financed)
+instruments can also subsidise the prices of key commodities or factors. The net benefit that consumers draw from the
+latter kind depends either on their total purchases or on their needs or a combination of both.
+In the first case, typically, all consumers can buy certain products (e.g. bread, cooking oil, sugar, petrol, heating
+oil, electricity, water) at a reduced price (i.e. below the market equilibrium price). The price reduction is paid, in the
+end, by taxpayers, i.e. more affluent people in the case of income and property taxes, but all consumers in the case of
+consumption taxes (sometimes poorer households even disproportionately). The funding mechanism is thus vertical
+redistribution – sometimes top-down (e.g. in the case of dark bread subsidies) and sometimes bottom-up (e.g. in the
+case of petrol subsidies because low-income earners do not own cars in the majority of LICs and MICs).
+In the second case, only low-income earners are entitled to a price reduction for specific goods (e.g. annual ticket
+for local public transportation, credit, school fees, health care). The targeting can rely on income tests, proxy means
+tests or categories. Typically, indirect transfers are financed by top-down vertical redistribution because low-income
+households are normally the main beneficiaries.
+In both cases, the administration is always by a public organisation (Chapter 10).
+The word ‘transfer’ is most often used for direct transfers only, rather than for indirect transfers/subsidies (and never
+for the benefits of contributory schemes). These are most often provided by public organisations but still fall into four
+quite distinct categories (the first three are discussed in more detail in Chapter 2).
+Category 1 is what most people have in mind when they hear the term ‘direct transfers’: transfers that are targeted in
+one way or another at people in need (by income test, (proxy) means test, categorical targeting, community-based targeting or self-targeting; see Chapter 8). Transfers of this kind can be in cash, vouchers or in-kind but they always aim
+at topping up the residual income of low-income earners in order to help them sustain at least most basic livelihoods.
+In addition, the transfers can be conditional on investment into education and health (such as in the case of conditional
+cash transfers) or on work (such as in the case of cash for work/public works schemes) or anything else – but they can
+also be unconditional (such as social assistance, food stamps, education vouchers, ration cards or health cards). The
+transfers are always financed by some combination of vertical redistribution (from the rich to the poor) and horizontal
+redistribution (between people with similar risk profiles where some have been hit by a risk while others have not).
+Category 2 includes direct transfers that are flat (independent of the need or income/previous income of beneficiaries) but may depend on certain contingencies (being old, sick, a child, etc.). The transfers are thus universal (such as in
+the case of lump-sum citizen grants, see Case study B in this handbook) or targeted to certain groups of society (such
+as in the case of social pensions, see Case study A). The transfers are in cash or in-kind and generated from taxes using
+any combination of all kinds of interpersonal redistribution: social pensions, for example, redistribute vertically (from
+the rich to the poor), horizontally (from those who die young to those who live long) and intergenerationally (from
+those at working life to those at old age).
+Category 3 refers to allowances awarded to people for their merits: e.g. because they served as soldiers, because their
+relatives have been killed in a war or because they have experienced particularly bad living conditions (e.g. a war or
+post-war reconstruction). The benefits are most often in cash.
+Category 4 includes instruments that are very similar to contributory social protection schemes. Here, the entitlement to benefits depends fully on predefined contingencies (old age, illness, parenthood) such as in most schemes of
+Category 2 but the benefit level depends also on (previous) income levels. People with higher previous income levels
+sometimes receive higher benefits (just like in contributory social insurance schemes) while people with higher current
+income levels sometimes receive lower benefits (just like in Category 1 social transfer schemes). In most cases, the
+transfers are in cash and financed from taxes using any combination of all kinds of interpersonal redistribution.
+Contributory schemes, finally, provide benefits that are contingent on specific predefined risks (e.g. bad health, old
+age, death of the main bread-winner or loss of job) and depend on contributions paid previously by beneficiaries. They
+can also be divided into three categories.
+Category 1 includes contributory pension schemes that build mainly on intergenerational redistribution within the
+same year from people at working age to retired people (in addition to some horizontal redistribution from those who
+die young to those who live longer). The schemes are called ‘statutory social insurance’ and ‘Bismarckian social
+protection schemes’ and are always organised by public entities. Contribution rates are adjusted regularly because
+benefit levels are typically defined.
+Category 2 covers mandatory and voluntary funded social insurance schemes, where benefits are also financed by
+contributions but through intertemporal redistribution (combined, of course, by some degree of horizontal redistribution). Here, contributions are always defined while benefits are not (their level depends on the level of contributions
+and the rate of return to the contributions, e.g. from their investment in capital markets). The schemes can be organised
+by public but also private entities. The most prominent examples are the social pension and health insurance schemes
+in Chile.
+Category 3 refers to national provident funds, still e.g. in Lebanon, Singapore, Kenya and other countries that used to
+be United Kingdom colonies. Again, benefits are financed by contributions but only through intertemporal redistribution. As a result, the level of benefits depends only on the level of contributions paid previously (and not the number of
+years remaining after retirement until death, the reason why the risk of longevity is not really covered). Administration
+can be again private or public. Membership can be voluntary or mandatory.
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 19
+1.2.5
+
+Ways of Financing
+
+Most publications on social protection focus on the three interpersonal channels of financing:
+vertical, horizontal and intergenerational redistribution (see Table 1.3).4
+Table 1.3
+
+The five ways to finance social protection benefits
+
+Provider
+
+Intertemporal redistribution
+
+Intertemporal redistribution
+
+(no transfers between people)
+
+(no shifts of consumption possibilities over time)
+
+Forwards
+
+Backwards from
+
+from present to
+
+future to present,
+
+Intergenerational
+
+future, respectively respectively present
+past to present
+State
+(or public
+
+funds
+
+schemes
+
+Vertical
+
+people with similar
+
+(from the rich to the
+
+risk profiles)
+
+to past
+
+●●National provident ●●Public credit
+
+Only intragenerational
+Horizontal (between
+
+●●Social pensions
+●●Child allowances
+
+●●Work accidents
+insurance
+
+poor)
+●●Social assistance
+(conditional or
+unconditional
+
+institutions)
+
+cash transfers)
+Market (commercial ●●Bank savings
+actors)
+
+accounts and
+
+●●Formal bank
+
+●●Private insurance
+
+credits
+
+(e.g. health, liability accident)
+
+schemes
+Third sector (groups ●●Rotating savings and credit associations
+
+●●Mutual insurance
+associations
+
+and other informal
+actors)
+Society (traditional ●●Mutual support based on balanced
+social networks)
+
+reciprocity*
+
+●●Mutual support
+
+●●Mutual support
+
+●●Mutual support
+
+between parents
+
+based on general-
+
+based on altruistic
+
+and children
+
+ised reciprocity*
+
+donations of
+
+(traditional
+
+richer to poorer
+
+intergenerational
+
+people
+
+contract)
+
+Notes: Consensus exists only on the instruments printed in bold. All others are not considered social protection
+instruments by all experts.
+Some social protection instruments combine two or more of the financing mechanisms listed above. For example,
+pay-as-you-go pension insurance schemes combine intergenerational and horizontal intragenerational redistribution.
+Public and private funded pension schemes combine horizontal and (forward) intertemporal redistribution. Social
+health insurance combines horizontal and vertical redistribution.
+*
+The difference between generalised and balanced reciprocity is as follows. Generalised reciprocity prevails in very
+traditional communities, often rural and long distance from other communities. Here, all people know that they
+depend on each other and if one of them is in need, everybody who can will try to help. Once the person recovers,
+they are expected to support in turn others in need – but not necessarily to pay back the support received to those
+who have given it. The redistribution is thus similar to an insurance club: from everybody to those in need. Balanced
+reciprocity, in contrast, dominates in more urban and more modernised communities, where the relations between
+people are weaker and more personalised. Here, people still help each other in difficult situations but those who give
+expect to get back their support from exactly the people they have helped once they have recovered. This is partly
+because everybody is aware of the risk that neighbours may move away and hence not be able to pay back much
+later. Mutual support is thus like giving/receiving a credit or like investing into human capital that can be mobilised
+again later, and hence the mechanism is intertemporal redistribution (Cronk et al. 2019; Loewe 2009b).
+Source: Loewe (2009b).
+
+4
+Social protection depends always on a shift of resources in cash or in-kind from one place, point
+in time or person to another. This shift is meant to cover possible or effective gaps in the liquidity of
+households or communities by payments being made (1) earlier or (2) later by the very same households
+or communities (intertemporal redistribution) or by other households or communities being (3) similar
+to the households or communities of concern (horizontal interpersonal redistribution) or (4) better off
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+20
+
+Handbook on social protection systems
+
+Vertical interpersonal redistribution runs top-down, i.e. from more affluent people to people
+in lower socio-economic strata, and constitutes the dominant financing mechanism of all
+schemes providing direct and indirect cash and in-kind transfers (conditional or unconditional cash transfers, public works programmes, subsidies, etc.; see Table 1.3). Virtually all
+publications on social protection acknowledge at least implicitly that vertical interpersonal
+redistribution is a key – even though perhaps not the dominant – mechanism of financing
+social protection schemes.
+Vertical redistribution also includes financial support given by foreign donors to social
+protection schemes in LICs and MICs because such support is ultimately financed from the
+taxes paid by the inhabitants of HICs, who are generally more affluent than the beneficiaries
+of social protection schemes in LICs and MICs.
+Horizontal interpersonal redistribution is probably even more important in most national
+social protection systems and equally recognised by the literature on social protection. It is
+another expression for risk pooling or risk sharing and hence the mechanism underlying any
+insurance scheme. Technically, horizontal redistribution is the shift of resources between
+households with similar risks, where those who have had good luck (i.e. not been affected by
+a previously well-described risk such as a work accident) pay compensation to others who
+have had bad luck (i.e. have been affected by the very same risk such as a work accident).
+Typically, horizontal redistribution is financed by advance payments (pre-payments, contributions or premiums) but the benefits granted to those in need (who have been affected by a bad
+risk) can also be financed by ex-post payments such as in some informal insurance arrangements and traditional solidarity networks (see Table 1.3 and Chapter 10).
+Some social protection schemes in turn are also based on intergenerational redistribution.
+In particular, parents pay for the needs of their children in all societies world-wide. And in
+more traditional settings, children tend to give back to their parents when the latter are old and
+no longer able to work, which used to be one of the reasons that people in traditional societies
+had a high number of children (see Table 1.3). In modern societies, the circle is broken in one
+or another way. Parents still care for their children until they can live on their own but the
+children are no longer expected to cover all the expenses of their parents when they are old
+because most people make provisions for their old age or have private or public pension insurance.5 And still, intergenerational redistribution is taking place in most countries – however,
+not within the family but within public pension schemes if they are based on pay-as-you-go
+financing: Contributions paid by the economically active population are immediately paid out
+again to the retired generation in the form of old-age pensions (see Table 1.3).6
+Focusing on only these three channels of financing neglects, however, that some risks can also
+– or even better – be managed by intertemporal redistribution (i.e. consumption shifts from
+than these (vertical interpersonal redistribution) or (5) from a different age group (intergenerational
+redistribution).
+5
+Of course, in some countries (e.g. Japan, Germany), children are legally obliged to support their
+parents at old age if parents have very low and the children high incomes.
+6
+The pros and cons of this form of redistribution was discussed at length during the pension debate
+during the 1990s, which started with the publication of the report Averting the Old-Age Crisis by the
+World Bank (1994). The report lobbied for a shift of pension schemes from intergenerational to intertemporal redistribution and numerous authors raised their voices to support or contest the recommendation.
+The ILO, in particular, sharply rejected a radical systemic change (see e.g. Beattie and McGillivray
+1995).
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 21
+present to future or from future to present). Some experts (e.g. EUROSTAT 2019) argue that
+a financing mechanism that is not collective in nature cannot be labelled ‘social protection’,
+and that social protection must have a solidarity element. These arguments ignore, however,
+that intertemporal redistribution also takes place in many social protection schemes, where
+either of the three interpersonal modes of redistribution is the dominant one. Funded social
+insurance schemes, for example, combine intertemporal and horizontal redistribution (see
+Table 1.3).
+Intertemporal redistribution takes place, among others, in funded pension schemes. Here,
+contributions are accumulated in individual funds, which are invested on the capital market
+and later used to finance the contributor’s own pension. Benefits are thus financed by payments made earlier, i.e. a shift of resources over time. The same happens if people make
+savings during good times for possibly worse times in the future (see Table 1.3). Intertemporal
+redistribution can be done from now to later (present to future) but also from later to now
+(future to present). The former is the underlying mechanism of savings schemes, which can
+be run by the state (e.g. national provident funds), market-based actors (e.g. private savings
+plans), third-sector associations (e.g. rotating savings and credit associations) or informal
+providers. While the latter is the underlying mechanism of any credit, i.e. bank loans, social
+credits are offered by government or non-governmental organisations, borrowing among
+friends or relatives and rotating savings and credit associations (see Table 1.3).
+Interestingly, all five mechanisms of financing can be used by most possible providers of
+social protection (see Table 1.3).
+1.2.6
+
+The Basis of Claims for Benefits
+
+Finally, the bulk of the social protection literature focuses on economic and legal rather than
+social entitlements to social protection benefits. Economic entitlements originate from contributions paid to any social protection scheme at some point in time. Legal entitlements can be
+derived from the constitution, laws or government decrees of a country that stipulate for the
+generation of in-kind or cash benefits for people in specific situations (e.g. with disabilities,
+old aged, sick, with children, poor). Both international law (e.g. the Universal Declaration of
+Human Rights) and the majority of national constitutions contain a right to social protection
+(see Chapter 9). However, for several reasons, this legal entitlement is not obeyed in all countries as rights are not easily enforceable through the legal system.
+Social entitlements, finally, are based on the values and norms (solidarity, charity, brotherhood or compassion) prevailing in a society, which should of course constitute the ethical basis
+for constitutions, laws and government decrees, as well. In traditional societies, such values
+and norms can be strong and not only oblige governments to set up social protection schemes
+but also communities and individuals to support households and individuals in need.
+Most social protection schemes are based on combinations of at least two of the three kinds
+of entitlements (see Figure 1.6).
+1.2.7
+
+An Emerging Consensus
+
+Despite some remaining controversies regarding what social protection is and what it entails,
+there seems to be some kind of consensus emerging among scholars, policy makers and practitioners. This consensus is made up of the following four trends.
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+22
+
+Handbook on social protection systems
+
+Source: Authors’ own illustration.
+
+Figure 1.6
+
+Three bases of claims for social protection benefits
+
+Move towards universal social protection
+With the Global Partnership for Universal Social Protection to Achieve the Sustainable
+Development Goals (USP 2030), many different institutions and countries that were previously
+not pushing for universalism such as the World Bank or the Inter-American Development
+Bank have made a commitment towards broadening the scope of social protection. Social
+protection is no longer meant as a quick patch-up for the poorest in society but has turned into
+a more systematic endeavour of giving citizens the necessary means to deal with different
+adversities throughout the life cycle, which not only has advantages for the individual but also
+for society at large.
+Universality not only refers to universal access but also to the adequacy of support being
+rendered and the rights and entitlements of citizens being granted. Even though organisations
+as diverse in approaches as the World Bank and the ILO have joint hands, they still have
+different priorities as to how universal social protection is being achieved and which dimen-
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 23
+sions of universality are prioritised. While the World Bank prioritises the poorest (Jorgensen
+and Bennett 2019), the ILO promotes approaches that reach out to all members of a certain
+category such as all elderly (ILO 2019a, 233) and also lobbies for vertical coverage extension.
+Common standards but no blueprints
+Donors have rallied behind SPIAC-B to coordinate assessments, support and advocacy and
+most countries have endorsed the social protection floor recommendation (No. 202) in 2012
+(ILO 2012), which means that they have agreed on a set of principles that guide social protection policy making. Even if countries prior to 2012 also defined core principles in their national
+social protection strategies and signatories to different ILO conventions showed readiness to
+abide by international standards, 2012 marked the the first time that countries unanimously
+rallied behind common standards. They have committed to provide basic social protection,
+guaranteeing minimum levels of protection with respect to health and maternity care, income
+security for children, persons in active age who don’t earn sufficient income and persons in old
+age. This does not mean, of course, that social protection systems are all converging or have
+similar features. They differ as the previous discussion has shown with respect to the main
+goals, the range of risks covered, the instruments used, the actors and funding mechanisms
+prioritised. This is also a reflection of the different socio-economic conditions of countries,
+the different political regimes as well as different norms and values of the population. Hence,
+there is agreement, also inherent in the standard-setting documents, that there is a need for
+variability in social protection systems.
+Systems approach to social protection
+National governments and donors have agreed to adopt a systems approach to social protection (BMZ 2019; EC 2015; FAO 2017; ILO 2019a; Irish Aid 2017; OECD 2019; UNDP
+2016; UNICEF 2019; World Bank 2012a), even if Section 1.3 demonstrates that not all of
+them have sufficiently specified what they mean by this. This represents a departure from the
+earlier focus in many LICs and MICs on getting social protection onto the national agenda
+and mounting a first cash-transfer pilot or a single programme with national coverage (ILO
+2017). Now, there is a general sentiment that the broader goals of social protection can only be
+achieved when the different components of the social protection system talk to each other and
+are synchronised across policies, programmes as well as the delivery chain. Linkages across
+these three levels ensure a more effective response to varying needs across different groups in
+society and limit behavioural disincentives on the side of recipients and providers. They also
+create economies of scale, which are particularly welcome in resource-constrained contexts.
+For these effects to materialise, social protection policies and programmes not only need to be
+harmonised across one another but they also have to be synchronised with other policies and
+sufficiently responsive to changing socio-economic trends (see Section 1.3 and Chapter 11).
+Social contract as an analytical framework rather than a buzz-word
+Social protection is increasingly analysed as a key element of the social contract, which has
+been defined as the ‘entirety of explicit or implicit agreements between all relevant societal
+groups and the sovereign (i.e. the government or any other actor in power), defining their
+rights and obligations towards each other’ (Loewe et al. 2020a). Social protection, on the one
+hand, stabilises horizontal relations between societal groups: richer ones finance social protection as a price for the acceptance of their property rights. The erosion of social contracts comes
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+24
+
+Handbook on social protection systems
+
+regularly with rising theft rates. On the other hand, social protection strengthens the vertical
+relations and the trust between governments and citizens. Citizens are meant to pay taxes and
+accept their governments if these provide the three Ps: protection (security), participation
+(in decision making) and provision (of services such as infrastructure, education and social
+protection) (Loewe et al. 2020a). If, however, governments fail in this regard, citizens might
+ask why they should pay taxes and accept the political system of their country and they might
+possibly even revolt against it. For the stability of social contracts, it is thus important that
+vertical redistribution (from the rich to the poor) plays some role and that the government takes
+responsibility for it. Once other actors – e.g. foreign donors – become more active than governments in setting up social protection systems, citizens start trusting these rather than their
+government. Such a scenario can be seen in countries with weak and highly aid-dependent
+governments (Loewe et al. 2020b).
+
+1.3
+
+A SYSTEMS APPROACH TO SOCIAL PROTECTION
+
+While nowadays most actors in social protection talk about a systems approach and that efforts
+are being undertaken to build systems rather than programmes, very few authors have actually
+sufficiently concretised what a systems approach entails. A handbook on social protection
+systems can, of course, not leave this question undiscussed. If a country has one flagship social
+protection programme, can it already be called a system? Does any effort towards putting
+programmes in place qualify already as a move towards a social protection system? Are there
+particular standards that need to be fulfilled and do they hold across countries? And why is it
+important at all to follow a systems approach in social protection? In this section, we will first
+present a definition of social protection systems and then dissect a systems approach into key
+components, key processes and standards.
+1.3.1
+
+Definition
+
+The World Bank social protection strategy from 2012 defines social protection systems as
+‘portfolios of coherent programs that can communicate with each other, share common administrative sub-systems, and work together to respond to risks and to deliver resilience, equity
+and opportunity to the population’ (World Bank 2012b, 14). According to this definition,
+systems are therefore made up of several programmes, have programmatic and administrative
+linkages and they work towards a common goal. The Organisation for Economic Co-operation
+and Development (OECD) definition concentrates on concrete social protection pillars and
+also stresses the importance of integration or at least coordination: ‘While there is variation
+across countries, the term social protection system usually refers to a framework whereby
+the three pillars of social protection – social assistance, social insurance and labour market
+programmes – are integrated or, at a minimum, co-ordinated’ (OECD 2018, 13).
+The United Nations Children’s Fund (UNICEF) equally highlights the importance of coordination but emphasises the overarching goals of systems by defining a social protection system
+as: ‘a network of responses, that take a multi-pronged and coordinated approach to the multiple and compounding vulnerabilities faced by children and their families’ (UNICEF 2012,
+42). The combination of programmes should thus be more than the sum of its parts (Pace et al.
+2017; Shigutea et al. 2020), which is also postulated by UNDP (2016, 44): a ‘social protection
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 25
+system should be focused on how programmes interact and complement each other across
+objectives’. This vision is supported by the FAO (2017) which, however, subsumes not only
+social protection schemes under ‘parts’ but also considers livelihood promotion interventions
+as part of the system. On a similar note, ILO (2019a) thinks that it takes a systems approach
+to achieve the greater goal of universality by extending coverage horizontally and vertically.
+1.3.2
+
+Key Components
+
+What the OECD considers as the main components of a social protection system is in line
+with the definitions of other organisations. The ILO (2019a), for example, calls for a social
+protection floor of contributory and non-contributory schemes, expansion strategies in the
+form of contributory schemes as well as linkages to ALMPs. The joint systems approach by
+the World Bank and UNICEF (2013) does not provide a list of different intervention areas but
+focuses on those that address social and economic vulnerability and their interaction. They
+also make explicit that long- as well as short-term measures are included. Looking at the
+World Bank strategy (2012b), however, it becomes clear that the focus is equally on social
+assistance, social insurance and LMPs. UNICEF, in its 2019 social protection strategy, lists
+social transfers, social insurance, labour and jobs as well as social service workforce as key
+components. This is also mirrored by the primer on social protection by UNDP (2016). The
+FAO (2017) focuses on social transfers and social insurance with in-built linkages to livelihood components which are not only labour- but also production based.
+Our handbook equally focuses on social transfers, social insurance, LMPs, social services
+and micro-insurance as five areas that we consider cornerstones of social protection (see Part
+I). There is some discussion to what extent LMPs and social services are separate policy areas
+but we consider them important when pursuing the full range of social protection functions.
+LMPs prevent people from losing their main source of income and help them size new opportunities. Social services next to income security are needed to manage risks and cope with
+poverty which is not only monetary but also multidimensional in nature. Micro-insurance
+might not be a primary component but is still a second-best solution for the provision of social
+protection where the government is not willing or able to provide a good social insurance
+scheme or where households on a voluntary basis want to ensure themselves against risks that
+are normally not covered by public schemes.
+A system also requires that different components are not only included at policy level but
+that they are all mirrored in the national budget (Irish Aid 2017; UNDP 2016). It is therefore
+common standard to call for a sustainable financing basis. Organisations like the ILO also
+demand that financing for social protection should not be through any means but on a collective basis (ILO 2019a). Sustainable funding is equally discussed in the handbook, not only in
+terms of identifying revenue streams but also in terms of ensuring that financing is in line with
+social protection goals and does not indirectly strain those that it is meant to support.
+1.3.3
+
+Key Processes
+
+A systems approach to social protection also means that there is a certain logic as to how
+policy makers decide on the types of social protection schemes and their combination over
+time. The starting point for the ILO is to develop a national social protection policy and legal
+framework that defines clearly what kinds of social protection interventions should be in place
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+26
+
+Handbook on social protection systems
+
+(ILO 2019a). Those should of course correspond to the vulnerabilities that have been mapped
+out upfront as UNICEF (2012, 2019) and the Australian Department of Foreign Affairs and
+Trade (2015) stress. USP 2030 (Global Partnership for Universal Social Protection 2019),
+BMZ (2019) and Department of Foreign Affairs and Trade (2015) also highlight the importance of having a national vision and ownership behind the process. Once in place, interventions should be regularly monitored to allow for iterative policy cycles. This of course requires
+the compilation of solid data on social protection that organisations such as the ILO, World
+Bank and OECD have supported.
+A systems approach equally necessitates a coordination mechanism in place for policy
+design, implementation and evaluation to ensure coherence, fill coverage gaps and manage
+processes efficiently. This does not only apply to national stakeholders but also to international
+stakeholders (EC 2015). The introduction of the SPIAC-B in 2012 and the USP 2030 partnership in 2016 show that donors also recognised the importance. Next to coordination, effective
+social dialogue is equally important as stressed by FAO (2017), ILO (2019a), UNICEF (2019),
+USP 2030 (Global Partnership for Universal Social Protection 2019) and BMZ (2019). It gives
+voice to the people who are concerned and thereby makes the system more legitimate and
+effective. The inherent structure of this handbook reflects this process orientation, illustrating
+that social protection systems are fluid and that the continuation of programmes is subject to
+the political economy, evidence base and future trends.
+1.3.4
+
+Key Standards
+
+Social protection systems also need to comply with certain standards or principles, which
+several institutions such as the World Bank and UNICEF (2013) have developed over time
+and which have also been spelled out by international law such as the ILO Convention 102
+(ILO 1952) or the recommendation 202 (ILO 2012). Even countries that have not signed the
+convention would probably agree that a social protection system that is effective, coherent and
+sustainable (the main criteria for the OECD 2018) adheres to the following standards of being:
+●● Synchronised: A social protection system should be coherent at policy, programme and
+administrative levels (World Bank and UNICEF 2013), which lies at the heart of system
+building. This means that the system as a whole tries to support the population as effectively and efficiently as possible to manage risks and confront poverty. At policy level,
+a tax policy would for instance not undo the effect of a social protection policy. With
+respect to programmes, interventions wouldn’t function in silos but cut across different
+risks, following the logic that sometimes several interventions are needed for a person to
+manage risks, graduate from poverty or reintegrate into society and into the economy after
+a shock. At administrative level, administrative functions such as identification, registration, service provision and data management would be integrated where possible.
+Synchronised also calls for avoiding incentives on the beneficiary side to go for the most
+financially attractive rather than the most suitable benefit. Providers need to be equally
+incentivised to not just focus on their individual service (providing for instance a health
+benefit without worrying about the reintegration of this person after the qualifying period)
+but collaborate with other providers to achieve the best possible output for the beneficiary.
+Synchronisation equally means that there are horizontal linkages with other policy areas
+such as education, health and labour as well as vertical linkages in a decentralised context.
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 27
+●● Inclusive and equitable: A social protection system should cater for and be accessible
+to anyone in society who needs support in the fight against poverty or management of
+individual shocks. The system has to be sufficiently responsive to changing risks such as
+climate change or new pandemics such as COVID-19 (see Chapters 42 and 43), to societal
+trends such as a new understanding of family obligations or new mobility pattern, to new
+economic development such as automatisation and shorter employment spells (Chapter 41)
+as well as to demographic shifts (Chapter 39). The system also needs to ensure that while
+everyone is entitled to access, support is individualised according to the special needs of
+certain groups in society and specific access constraints are addressed (Part IV). Resources
+should in this way also be distributed in an equitable way, providing greater support to
+those in greater need. Needs of the most marginalised groups should be met with greater
+priority in countries with resource and capacity constraints that are progressively extending
+coverage, while countries should still take sensible decisions when it comes to reaching out
+to those groups (ILO 2019a).
+●● Transparent and accountable: Social protection systems need to be managed, assessed and
+redesigned in a transparent and consultative way. This ensures that the system stays relevant, is broadly owned and is effective. An honest and open discussion around the effectiveness and efficiency of social protection interventions as well as the system as a whole
+is indispensable. This presupposes that monitoring and evaluation is taken seriously and
+not just lip service. Accountability can be guaranteed by inviting and also structuring
+participation from the different groups of society that are concerned as recipients and/or
+payers. Beyond this, functional accountability mechanisms need to be in place that allow
+for complaint management as well as for legal redress (BMZ 2019; ILO 2019a; World
+Bank and UNICEF 2013).
+●● State-anchored: The state is one of the key actors in social protection in light of its
+regulatory power: the state sets standards for all actors involved, monitors compliance
+with these standards and guarantees the transparency of all processes within the system.
+In addition, the state is responsible for guaranteeing citizens access to social protection
+and a fair treatment, even if benefits and services are provided by non-state actors. While
+organisations generally agree that social protection is not possible without state involvement, they disagree on the required degree of state involvement. The ILO (2019a) accords
+the state a central role and translates the ‘social’ in social protection into public social
+protection, whereas the World Bank (2012a) highlights the multitude of different actors
+that provide social protection next to the state. Social protection systems therefore need
+to be state-anchored, even if the state is not the only actor in a social protection system
+and the scope of a social protection system is not solely determined by the number of
+state-provided schemes (see Chapter 10).
+This handbook puts these standards centre-stage and discusses in greater detail how they
+can be reached. Three parts of the handbook deal with different aspects of synchronisation:
+(1) systematic policy design and possible variations in this (Chapter 11), (2) harmonisation
+of social protection policies and horizontal coordination across relevant policy fields (Part
+III) as well as (3) administrative synchronisation and vertical coordination (Part V). While
+the general debate around universalism is launched in Chapter 8 in Part II, Part IV discusses
+in greater detail what inclusive and equitable social protection looks like and Part VIII highlights which (upcoming) trends social protection needs to be responsive to. Transparency and
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+28
+
+Handbook on social protection systems
+
+accountability are dealt with by the chapters that focus on delivering social protection in Part
+V, by the discussions around political economy and public preferences of Part VI as well as
+by Part VII that presents the evidence base around social protection. The role of the state is
+discussed in Part II in Chapter 10 on actors.
+
+1.4
+
+RATIONALE AND OUTLINE
+
+This handbook arose out of the interest to have an introductory book on all aspects of social
+protection policy, going beyond what social protection is and delving into the systems
+approach to social protection in a holistic manner. It is naturally not the first book on social
+protection systems but it is unique concerning the focus, breadth and depth of issues. It has
+greater depth on social protection than the Handbook of Social Policy and Development by
+Midgley et al. (2019) and covers systems that have not been dealt with so far in other handbooks on the traditional welfare states of the Global North such as the Oxford Handbook of the
+Welfare State by Castles et al. (2014). While providing recommendations, it is not the classical
+manual that details the ‘how to’, which has already been done in an exemplary way by other
+institutions such as the World Bank (Grosh et al. 2008; Lindert et al. 2020) and EPRI (Samson
+et al. 2010) or the collection of good practices of countries that have moved towards a systems
+approach in social protection such as the ILO (2019b). While some organisations have defined
+what a systems approach may be, there is no book according to our knowledge yet that systematically deals in particular with social protection systems in the context of LICs and MICs.
+While the remainder of the handbook also contains more classical sections that focus, for
+instance, on the main instruments of social protection, the systems focus is still immanent and
+illustrated for instance by the discussion on the place each instrument takes in the overall social
+protection system. Other issues such as financing, targeting and actors, which are discussed at
+a programme level by many other handbooks, are raised in this handbook at a systems level,
+which has a different connotation. It does for instance make a difference whether we talk about
+targeting as a programme-level decision or as a systemic feature of social protection that cuts
+across different interventions. This handbook does not simply match instruments and target
+groups but studies more carefully how different instruments can be meaningfully combined
+and harmonised for different groups in society and how the system needs to be structured so
+that any harm is avoided. While the focus is on social protection, the handbook also draws
+linkages to other policy fields that are important to ensure a coherent system that best protects
+and empowers citizens. Even the chapter on social protection administration has a systems
+focus, studying more closely the administrative implications of system building such as integrated data management, portability and implementation across different governmental levels.
+For systems to be sustained in the future, they need to be politically accepted, build on demonstrably effective interventions and be sufficiently versatile to respond to new challenges. All
+of this is equally discussed in the handbook in a comprehensive way.
+The handbook is meant for students and researchers who start working on social protection
+but also for practitioners who are not only interested in the ‘how to’ of social protection but
+also the underlying conceptual and academic debates. While the book offers an introductory
+reading, it is also meant as a source of information for people who have already been exposed
+to social protection. Different parts and/or different chapters that centre on specific issues and
+fairly recent debates are downloadable and can be read depending on one’s interest. While
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 29
+the handbook is meant to include all central debates around social protection systems, it is
+certainly not exhaustive. The editors’ aim is to update the electronic version of the handbook
+over time to include issues that were either not included in the first round or that arise in the
+future. Next to the electronic version of the handbook, the reader will have the opportunity to
+also download an app that offers an integrated version of the handbook with further multimedia features. Furthermore, the book is not meant to be prescriptive but offers a balanced view
+of academic debates and practical examples and, in this way, exposes the reader to different
+viewpoints. It still presents good practices or general policy recommendations to guide social
+protection practitioners and sensitise students and academics to the practical implications.
+There is no specific regional focus to the handbook; the different chapters bring in authors
+and also country case studies from different regions. The thematic focus of the handbook is
+on social protection systems in LICs and MICs but it explicitly aims to connect the debates of
+LICs, MICs and HICs, where possible, and therefore also contains important take-aways for
+HICs. The explicit divide between the two worlds as it is often practised in academic debates
+and in other handbooks on social policy seems unwarranted.
+The handbook is divided into eight parts. Part I on Instruments elaborates on five key
+social protection instruments: social transfers, social insurance, LMPs, social services and
+micro-insurance. The respective chapters discuss the concepts, the place of the instrument
+in the social protection system, the most important design parameters, the key take-aways in
+terms of evidence as well as the main challenges.
+Part II on System design discusses different parameters that are not exclusively decided at
+intervention level but also have to be determined at systems level. At the systems level, different priorities can be set when it comes to the financing mix, the main target group, the role of
+human rights standards as well as the mix of actors. Part II outlines different options to answer
+these questions, discusses their advantages and drawbacks and cumulates in a final chapter that
+outlines different systems’ approaches that can be taken to social protection.
+Part III on Policy coordination deals with the important question in what ways and with
+what kind of other policies social protection needs to be harmonised. Not only is it important
+to ensure that similar instruments are harmonised with one other but also that instruments are
+coordinated across different instrument groups to generate synergies, optimise effects and
+avoid duplications and disincentives. It is equally crucial to ensure policy coherence with
+other fields such as taxation and humanitarian policies. In this way, effects are not undone and
+build on each other. Part III finishes by introducing social budgeting as an important tool to
+coordinate social protection instruments through the allocation of funds to them.
+Part IV on Groups in focus highlights the specific social protection needs of different groups
+in society that cannot be easily reached with a standardised toolbox. Part IV highlights how
+a social protection system needs to be designed so that it is inclusive of gender and disability
+aspects, pays attention to children as well as the elderly and also reaches out to groups that
+easily fall off the social protection radar such as the informal sector or refugees. Part IV not
+only specifies for each group different policy options and their respective implications but also
+attunes the reader to more implicit forms of discrimination.
+Part V on Administration spells out the delivery mechanisms and related debates of the two
+main social protection instruments, social transfers and social insurance, and then raises questions at systems level with respect to integrated data management, the portability of claims
+across systems within and across countries as well as decentralisation.
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+30
+
+Handbook on social protection systems
+
+Part VI on Political economy highlights that social protection planning is not a purely
+technocratic matter but a political process where decisions are influenced not only by rational
+considerations but also powerful stakeholders. Part VI discusses in particular in what way
+international actors have shaped the social protection systems of LICs and MICs and looks
+into the role of public preferences in social protection design. Next to this, it identifies other
+factors that have led to the adoption of social protection and have favoured reform processes.
+Part VII on Effects provides an overview of the databases and analytical methods used to
+assess the effectiveness and efficiency of social protection systems, while also zooming in
+on the evidence that exists so far on the effects of different social protection interventions on
+key outcome areas: poverty and inequality, food consumption and nutrition, health, economic
+development as well as social cohesion and nation building.
+Part VIII on Major challenges and reform options closes the handbook by discussing the
+main future challenges for social protection systems and deliberating how these could best
+respond to the challenges. While demographic change, globalisation and the future of work
+have been well identified as relevant factors in this regard, climate change and pandemics such
+as COVID-19 have more recently become an item on the reform agenda of social protection
+systems.
+
+REFERENCES
+ADB (Asian Development Bank) (2003). Social protection: Manila. https://​think​-asia​.org/​bitstream/​
+handle/​11540/​3553/​social​-protection​.pdf​?sequence​=​1
+Adesina, J. (2012). Beyond the social protection paradigm: Social policy in Africa’s development.
+Canadian Journal of Development Studies/Revue Canadienne des Etudes du Developpement 32 (4),
+454–70.
+Alderman, H. and R. Yemtsov (2014). How can safety nets contribute to economic growth? The World
+Bank Economic Review 28 (1), 1–20.
+Aleksandrova, M. (2019). Social protection as a tool to address slow onset climate events: Emerging
+issues for research and policy. DIE Discussion Paper 16/2019. Bonn: Deutsches Institut für
+Entwicklungspolitik. www​.die​-gdi​.de/​uploads/​media/​DP​_16​.2019​_01​.pdf
+Althammer, J. and H. Lampert (2019). Lehrbuch der Sozialpolitik, 8th edition. Berlin: Springer.
+Babajanian, B., J. Hagen-Zanker and R. Holmes (2014). How do social protection and labour programmes contribute to social inclusion? Evidence from Afghanistan, Bangladesh, India and Nepal.
+London: Overseas Development Institute. www​.odi​.org/​sites/​odi​.org​.uk/​files/​odi​-assets/​publications​
+-opinion​-files/​8922​.pdf
+Barrientos, A. and M. Niño-Zarazúa (2011). Social transfers and chronic poverty: Objectives, design,
+reach and impact. Chronic Poverty Research Centre Report. University of Manchester. www​
+.chronicpoverty​.org/​uploads/​publication​_files/​socia​ltransfers​fullreport​.pdf
+Beattie, R. and W. McGillivray (1995). A risky strategy: Reflections on the World Bank report ‘Averting
+the old age crisis’. International Social Security Review 48 (3–4), 5–22.
+BMAS (2010). Social security, website formulated on 9 March 2010. Berlin: Bundesministerium für
+Arbeit und Soziales. www​.bmas​.de/​EN/​Our​-Topics/​Social​-Security/​start​-social​-security​.html
+BMZ (2009). Sector strategy on social protection. BMZ Strategies 190. Bonn: Bundesministerium für
+wirtschaftliche Zusammenarbeit und Entwicklung.
+BMZ (2017). Social protection for equitable development. Position paper. Paper 09. Bonn:
+Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung.
+BMZ (2019). A systems perspective on universal social protection. Bonn: Bundesministerium für
+wirtschaftliche Zusammenarbeit und Entwicklung.
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 31
+Browne, E. (2015). Social protection: Topic guide. Birmingham: GSDRC, University of Birmingham.
+https://​opendocs​.ids​.ac​.uk/​opendocs/​bitstream/​handle/​20​.500​.12413/​14885/​Social​_Protection​_Topic​
+_Guide​_online​.pdf​?sequence​=​1​&​isAllowed​=​y
+Burchi, F., D. Malerba, N. Rippin and C. Montenegro (2019). Comparing global trends in multidimensional and income poverty and assessing horizontal inequalities. DIE Discussion Paper 2/2019. Bonn:
+Deutsches Institut für Entwicklungspolitik. www​.die​-gdi​.de/​uploads/​media/​DP​_2​.2019​.pdf
+Castles, F., S. Leibfried, J. Lewis, H. Obinger and C. Pierson (eds) (2014). The Oxford Handbook of the
+Welfare State, 3rd edition. Cambridge, MA: Polity Press.
+Collins, D., J. Morduch, S. Rutherford and O. Ruthven (2009). Portfolios of the Poor: How the World’s
+Poor Live on $2 a Day. Princeton, NJ: Princeton University Press.
+Coudouel, A. et al. (2002). Social protection. In J. Klugman (ed.), A Sourcebook for Poverty Reduction
+Strategies, Vol. 2: Macroeconomic and Sectoral Approaches. Washington, DC: World Bank, 163–200
+and 509–42.
+Cronk, L. et al. (2019). Managing risk through cooperation: Need-based transfers and risk pooling among
+the societies of the Human Generosity Project. In Colette Berbesque et al. (eds), Global Perspectives
+on Long Term Community Resource Management. Basel: Springer, 41–75.
+de Neubourg, C. (2009). Social protection and nation-building: An essay on why and how universalist
+social policy contributes to stable nation-states. In P. Townsend (ed.), Building Decent Societies.
+London: Palgrave Macmillan, 63–79.
+de Neubourg, C. and C. Weigand (2000). Social policy as social risk management. Innovation: The
+European Journal of Social Sciences 13 (4), 401–12.
+Department of Foreign Affairs and Trade (2015). Strategy for Australia’s aid investments in social
+protection. Canberra: Australian Government, Department of Foreign Affairs and Trade. www​.dfat​
+.gov​.au/​aid/​topics/​investment​-priorities/​building​-resilience/​social​-protection/​Pages/​social​-protection
+Devereux, S. (2010). Building social protection systems in Southern Africa. Paper prepared in the framework of the European Report on Development 2010. Brussels: European Commission. http://​citeseerx​
+.ist​.psu​.edu/​viewdoc/​download​?doi​=​10​.1​.1​.671​.2698​&​rep​=​rep1​&​type​=​pdf
+Devereux, S. (2016). Social protection for enhanced food security in Sub-Saharan Africa. Food Policy
+60, 52–62.
+Devereux, S. and R. Sabates-Wheeler (2004). Transformative social protection. IDS Working Paper
+232. Brighton: Institute of Development Studies. www​.unicef​.org/​socialpolicy/​files/​Transformative​
+_Social​_Protection​.pdf
+DfID (2006). Social protection in poor countries. London: UK Department for International Development.
+www​.gsdrc​.org/​docs/​open/​sp17​.pdf
+EC (2010). Social protection for inclusive development: A new perspective in EU cooperation with
+Africa. European Report on Development. Brussels: European Commission. https://​cadmus​.eui​.eu/​
+bitstream/​handle/​1814/​15496/​ERD​_Report​_2010​%5BEN​%5D​.pdf​?sequence​=​2
+EC (2012). Communication from the Commission to the European Parliament, the Council, the European
+Economic and Social Committee and the Committee of the Regions on ‘Social protection in European
+Union development cooperation’. Brussels: European Commission. https://​eur​-lex​.europa​.eu/​legal​
+-content/​EN/​TXT/​PDF/​?uri​=​CELEX:​52012DC0446​&​from​=​EN
+EC (2015). Supporting social protection systems. Concept Paper No 4, Tools and Methods Series.
+Brussels: European Commission.
+ECHO (2017). Social protection in humanitarian contexts. ECHO factsheet. Brussels: European
+Commission and European Civil Protection and Humanitarian. https://​ec​.europa​.eu/​echo/​files/​aid/​
+countries/​factsheets/​thematic/​social​_protection​_en​.pdf
+Esping-Andersen, G. (1990). The Three Worlds of Welfare Capitalism. Princeton, NJ: Princeton
+University Press.
+EUROSTAT (2019). European system of integrated social protection statistics ESSPROS. Manual and
+user guidelines. Brussels: European Statistical Office. https://​ec​.europa​.eu/​eurostat/​web/​products​
+-manuals​-and​-guidelines/​-/​KS​-GQ​-19​-014
+FAO (2017). Social protection framework: Promoting rural development for all. Rome: Food and
+Agriculture Organization of the United Nations. www​.fao​.org/​3/​a​-i7016e​.pdf
+Gentilini, U. and S. Omamo (2011). Social protection 2.0: Exploring issues, evidence and debates in
+a globalizing world. Food Policy 36, 329–40.
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+32
+
+Handbook on social protection systems
+
+Gentilini, U. et al. (2020). Social protection and jobs responses to COVID-19: A real-time review of
+country measures. Living paper version. Washington, DC: World Bank.
+Ghosh, J. (2011). Dealing with ‘the poor’. Development and Change 42 (3), 849–58.
+Global Partnership for Universal Social Protection (2019). Together to achieve universal social protection by 2030 (USP2030): A call to action. Geneva. www​.usp2030​.org/​gimi/​RessourcePDF​.action​?id​
+=​55464
+Grosh, M. et al. (2008). For Protection and Promotion: The Design and Implementation of Effective
+Safety Nets. Washington, DC: World Bank.
+Gsänger, H. (1992). Social Security and Poverty in Kenya: Developing Social Security Systems for
+Poverty Alleviation. Berlin: Deutsches Institut für Entwicklungspolitik.
+Guhan, S. (1994). Social security options for developing countries. International Labour Review 133
+(1), 35–54.
+Hanlon, J., A. Barrientos and D. Hulme (eds) (2010). Just Give Money to the Poor: The Development
+Revolution from the Global South. Sterling, VA: Kumarian Press.
+Harvey, P., R. Holmes, R. Slater and E. Martin (2007). Social protection in fragile states. London:
+Overseas Development Institute. www​.odi​.org​.uk/​sites/​odi​.org​.uk/​files/​odi​-assets/​publications​
+-opinion​-files/​4547​.pdf
+Hickey, S. (2014). Relocating social protection within a radical project of social justice. European
+Journal of Development Research 26, 322–37. https://doi.org/10.1057/ejdr.2014.9
+Hickey, S. and J. Seekings (2017). The global politics of social protection. WIDER Working Paper 2017/
+115. Helsinki: United Nations University World Institute for Development Economics Research.
+www​.wider​.unu​.edu/​sites/​default/​files/​wp2017​-115​.pdf
+Hickey, S. et al. (2018). The negotiated politics of social protection in Sub-Saharan Africa. WIDER
+Working Paper 34/2018. Helsinki: United Nations University World Institute for Development
+Economics Research. https://​doi​.org/​10​.35188/​UNU​-WIDER/​2018/​476​-6
+Holzmann, R. and S. Jørgensen (1999). Social protection as social risk management: Conceptual underpinnings for the social sector strategy paper. Social Protection Discussion Paper 9904. Washington,
+DC: World Bank.
+Holzmann, R. and S. Jørgensen (2000). Social risk management: A new conceptual framework for social
+protection and beyond. Social Protection Discussion Paper No. 0006. Washington, DC: World Bank.
+www​.researchgate​.net/​profile/​Steen​-Jorgensen​-2/​publication/​5148552​_Social​_Risk​_Management​
+_A​_New​_Conceptual​_Framework​_for​_Social​_Protection/​links/​00463​5252f7ff7b​787000000/​Social​
+-Risk​-Management​-A​-New​-Conceptual​-Framework​-for​-Social​-Protection​.pdf
+Holzmann, R., D. Robalino and N. Takayama (2009). The role of social pensions and other retirement income transfers: Closing the coverage gap. Washington, DC: World Bank. http://​documents​
+.worldbank​.org/​curated/​en/​2009/​01/​10894094/​role​-social​-pensions​-other​-retirement​-income​
+-transfers​-closing​-coverage​-gap
+ILO (1952). Social security (minimum standards) convention, No. 102 of 1952. Geneva: International
+Labour Organization. www​.ilo​.org/​dyn/​normlex/​en/​f​?p​=​NORMLEXPUB:​12100:​0:​:​NO:​:​P12100​
+_ILO​_CODE:​C102
+ILO (2010). World social security report 2010/11: Providing coverage in times of crisis and beyond.
+Geneva: International Labour Office. www​.ilo​.org/​wcmsp5/​groups/​public/​-​-​-dgreports/​-​-​-dcomm/​-​-​
+-publ/​documents/​publication/​wcms​_146566​.pdf
+ILO (2012). Social protection floors recommendation (No. 202). Geneva: International Labour Office.
+www​.ilo​.org/​dyn/​normlex/​en/​f​?p​=​NORMLEXPUB:​12100:​0:​:​NO:​:​P12100​_ILO​_CODE:​R202
+ILO (2017). World social protection report 2017–19: Universal social protection to achieve the
+Sustainable Development Goals. Geneva: International Labour Organization. www​.ilo​.org/​wcmsp5/​
+groups/​public/​-​-​-dgreports/​-​-​-dcomm/​-​-​-publ/​documents/​publication/​wcms​_604882​.pdf
+ILO (2019a). Universal social protection for human dignity, social justice and sustainable development.
+International Labour Conference 108th Session. Geneva: International Labour Organization.
+ILO (2019b). 100 years of social protection: The road to universal social protection systems and floors,
+Vol. 1: 50 country cases. Geneva: ILO. www​.ilo​.org/​wcmsp5/​groups/​public/​-​-​-ed​_protect/​-​-​-soc​_sec/​
+documents/​publication/​wcms​_669790​.pdf
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 33
+ILO (2020). Ratifications of C102 – social security (minimum standards) convention, 1952 (No. 102).
+Geneva: International Labour Organization. www​.ilo​.org/​dyn/​normlex/​en/​f​?p​=​1000:​11300:​0:​:​NO:​
+11300:​P11300​_INSTRUMENT​_ID:​312247 (14 April).
+Irish Aid (2017). Social protection strategy. Dublin: Development Co-operation Division of the
+Department of Foreign Affairs and Trade. www​.irishaid​.ie/​media/​irishaid/​allwebsitemedia/​20​
+newsandpub​lications/​pub​licationpd​fsenglish/​s​-2947/​IA​-Social​-Protection​-Strategy​-2017​.pdf
+Jawad, R. (2019). A new era for social protection analysis in LMICs? A critical social policy perspective
+from the Middle East and North Africa region (MENA). World Development 123, 1–15.
+Jorgensen, S.L. and P. Bennett (2019). Social protection in an era of increasing uncertainty and disruption: Social risk management 2.0. Washington, DC: World Bank Group.
+Kabeer, M. (2014). The politics and practicalities of universalism: Towards a citizen-centred perspective
+on social protection. European Journal of Development Research 26 (3), 338–54.
+Lindert, K., T.G. Karippacheril, I. Rodriguez Caillava and K. Nishikawa Chavez (2020). Sourcebook
+on the Foundations of Social Protection Delivery Systems. Washington, DC: World Bank. https://​
+openknowledge​.worldbank​.org/​handle/​10986/​34044
+Loewe, M. (2009a). Soziale Sicherung, informeller Sektor und das Potenzial des
+Kleinstversicherungsansatzes. Baden-Baden: Nomos.
+Loewe, M. (2009b). The third way to social protection: Promoting group-based micro-insurance.
+Pavartak Journal of Insurance and Risk Management 4 (1), 72–90.
+Loewe, M. (2013). Caring for the urban middle class: The political economy of social protection in
+Arab countries. In K. Bender, M. Kaltenborn and C. Pfleiderer (eds), Social Protection in Developing
+Countries: Reforming Systems. London: Routledge, 196–204.
+Loewe, M. et al. (2020a). The social contract as a tool of analysis: Introduction to the special issue on
+‘Framing the evolution of new social contracts in Middle Eastern and North African countries’. World
+Development, 4 May. 10.1016/j.worlddev.2020.104982
+Loewe, M. et al. (2020b). Community effects of Cash-for-Work programmes in Jordan: Effects on host
+communities’ local economic development, gender roles, and social cohesion. Bonn: Deutsches
+Institut für Entwicklungspolitik.
+Malerba, D. (2020). Poverty alleviation and local environmental degradation: An empirical analysis in
+Colombia. World Development 127 (March), Article 104776.
+Midgley, J. (2013). Social protection in countries experiencing rapid economic growth: Goals and
+functions. In J. Midgley and D. Piachaud (eds), Social Protection, Economic Growth and Social
+Change: Goals, Issues and Trajectories in China, India, Brazil and South Africa. Cheltenham, UK
+and Northampton, MA, USA: Edward Elgar Publishing, 7–28.
+Midgley, J. et al. (eds) (2019). Handbook of Social Policy and Development. Cheltenham, UK and
+Northampton, MA, USA: Edward Elgar Publishing.
+Mkandawire, T. (2004). Social policy in a development context: Introduction. In T. Mkandawire (ed.),
+Social Policy in a Development Context. Basingstoke: Palgrave Macmillan, 1–36.
+Norton, A., T. Conway, and M. Foster (2001): Social protection concepts and approaches: Implications
+for policy and practice in international development. ODI Working Paper 143. London: Overseas
+Development Institute. http://www.odi.org.uk/Publications/working_papers/wp143.pdf
+OECD (2009). Promoting pro-poor growth: Social protection. Paris: Organisation for Economic
+Co-operation and Development. www​.google​.com/​url​?sa​=​t​&​rct​=​j​&​q​=​&​esrc​=​s​&​source​=​web​&​cd​
+=​3​&​ved​=​2ahUK​EwjW4p3Y5N​3oAhVKnaQK​HdLQCdIQFj​ACegQIARAB​&​url​=​https​%3A​%2F​
+%2Feuropa​.eu​%2Fcapacity4dev​%2Ffile​%2F26963​%2Fdownload​%3Ftoken​%3DO0C1xgfW​&​usg​=​
+AOvVaw0Se​_sve7r4eutI​_TTMHFhW
+OECD (2018). Social protection system review: A toolkit. Paris: Organisation for Economic Co-operation
+and Development. https://​doi​.org/​10​.1787/​9789264310070​-en
+OECD (2019). Can social protection be an engine for inclusive growth? Paris: Organisation for
+Economic Co-operation and Development. https://​doi​.org/​10​.1787/​9d95b5d0​-en
+Pace, N., S. Daidone, B. Davis, S. Handa, M. Knowles and R. Pickmans (2017). One plus one can
+be greater than two: Evaluating synergies of development programmes in Malawi. Journal of
+Development Studies 54 (11), 2023–60.
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+34
+
+Handbook on social protection systems
+
+Ranci, C., T. Brandsen and S. Sabatinelli (2014). New social risks and the role of local welfare: An introduction. In C. Ranci, T. Brandsen and S. Sabatinelli (eds), Social Vulnerability in European Cities:
+The Role of Local Welfare in Times of Crisis. London: Palgrave Macmillan, 3–30.
+Ravallion, M., D. Jolliffe and J. Margitic (2018). Social protection and economic development: Are
+the poorest being lifted-up or left-behind? NBER Working Paper 24665. Cambridge, MA: National
+Bureau of Economic Research. www​.nber​.org/​papers/​w24665
+Sabates-Wheeler, R. and S. Devereux (2011). Transforming livelihoods for resilient futures: How to
+facilitate graduation in social protection. FAC Working Paper 23. Brighton: Future Agricultures
+Consortium. http://​opendocs​.ids​.ac​.uk/​opendocs/​bitstream/​handle/​123456789/​2320/​FAC​_Working​
+_Paper​_023​.pdf​?sequence​=​1
+Sabates-Wheeler, R., A.-G. Abdulai, N. Wilmink, R. de Groot and T.R. Spadafora (2017). Linking
+social rights to active citizenship for the most vulnerable: The role of rights and accountability in the
+‘making’ and ‘shaping’ of social protection. Innocenti Working Paper 2017-14. Florence: UNICEF
+Office of Research. www​.unicef​-irc​.org/​publications/​pdf/​IWP​-14​%20​%20Social​%20Protection​
+%20and​%20active​%20citizenship​%20Rev​.pdf
+Samson, M., I. van Niekerk and K. Mac Quene (2010). Designing and implementing social transfer
+programmes, 2nd edition. Economic Policy Research Institute, South Africa. http://​epri​.org​.za/​wp​
+-content/​uploads/​2016/​07/​Designing​-and​-Implementing​-Social​-Transfer​-Programmes​-EPRI​.pdf
+Schüring, E. et al. (2017). Social protection as an alternative to migration? An assessment of the
+role of social protection in reducing push factors for migration in different country contexts.
+Berlin: Gesellschaft für Versicherungswissenschaft und -gestaltung. www​.dguv​.de/​medien/​inhalt/​
+praevention/​themen​_a​_z/​migration/​study​_migration​_social​_protection​.pdf
+Shepherd, A. et al. (2004). Policy paper on social protection. Mimeo produced for DfID. London:
+Overseas Development Institute. www​.odi​.org/​sites/​odi​.org​.uk/​files/​odi​-assets/​publications​-opinion​
+-files/​1670​.pdf
+Shigutea, Z., C. Strupat, F. Burchi, G. Alemu and A. Bedi (2020). Linking social protection schemes: The
+joint effects of a public works and a health insurance program in Ethiopia. Journal of Development
+Studies 56 (2), 431–48.
+Solórzano, A. and I. Cárdenes (2019). Social protection and climate change. Panama: World Food
+Programme Regional Bureau for Latin America and the Caribbean, and Oxford: Oxford Policy
+Management. https://​docs​.wfp​.org/​api/​documents/​WFP​-0000110761/​download/​
+Standing, G. (2007). Social protection. Development in Practice 17, 4–5.
+UN (2015). Transforming our world: The 2030 Agenda for Sustainable Development. Resolution
+adopted by the General Assembly on 25 September 2015 (without reference to a Main Committee
+(A/70/L.1)), A/RES/70/1. New York: United Nations. www​.un​.org/​ga/​search/​view​_doc​.asp​?symbol​
+=​A/​RES/​70/​1​&​Lang​=​E
+UNDP (2015). Work for human development. Report. New York: United Nations Development
+Programme. www​.hdr​.undp​.org/​sites/​default/​files/​2015​_human​_development​_report​_0​.pdfUND
+UNDP (2016). Leaving no one behind: A social protection primer for practitioners. New York:
+United Nations Development Programme. www​.undp​.org/​content/​dam/​undp/​library/​Sustainable​
+%20Development/​Leaving​%20No​%20One​%20Behind​-​%20A​%20Social​%20protection​%20Primer​
+%20for​%20Practitioners​%20FINAL​.pdf
+UNICEF (2012). Integrated social protection systems: Enhancing equity for children. New York: United
+Nations Childrens Fund.
+UNICEF (2019). UNICEF’s global social protection programme framework. New York: United Nations
+Childrens Fund.
+UNStats (2015). Global indicator framework for the Sustainable Development Goals and targets of the
+2030 Agenda for Sustainable Development. New York: United Nations Statistical Office. https://​
+unstats​.un​.org/​sdgs/​indicators/​Global​%20Indicator​%20Framework​%20after​%202020​%20review​
+_Eng​.pdf
+Vidican Auktor, G. and M. Loewe (2021). Subsidy reforms in the Middle East and North Africa:
+Strategic options and their consequences for the social contract. Discussion Paper 12/2021. Bonn:
+German Developent Institute. https://​www​.die​-gdi​.de/​uploads/​media/​DP​_12​.2021​.pdf".
+World Bank (1994). Averting the old age crisis: Policies to protect the old and promote growth. Washington,
+DC. http://​documents​.worldbank​.org/​curated/​en/​973571468174557899/​pdf/​multi​-page​.pdf
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+Introduction 35
+World Bank (2000). From safety net to spring board: Social protection sector strategy. Washington, DC.
+World Bank (2001). Attacking poverty. World Development Report 2000/2001. Washington, DC.
+World Bank (2011). Resilience equity and opportunity: 2012–2022 Social Protection and Labor Strategy.
+Washington, DC. http://​documents1​.worldbank​.org/​curated/​en/​443791468157506768/​pdf/​73235​
+0BR0CODE20​0doc0versi​on0REVISED​.pdf
+World Bank (2012a). Safety nets work: During crisis and prosperity. Washington, DC.
+World Bank (2012b). The World Bank’s social protection and labor strategy 2012–2022. Washington, DC.
+World Bank (2016). Poverty and shared prosperity 2016: Taking on inequality. Washington, DC. doi:​10​
+.1596/​978​-1​-4648​-0958​-3
+World Bank and UNICEF (2013). Common ground: UNICEF and World Bank approaches to building
+social protection systems. Washington, DC and New York. https://​socialprotection​.org/​discover/​
+publications/​common​-ground​-unicef​-and​-world​-bank​-approaches​-building​-social​-protection
+
+Markus Loewe and Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:39:49AM
+via communal account
+
+

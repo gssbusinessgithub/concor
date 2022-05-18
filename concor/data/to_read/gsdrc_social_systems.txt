@@ -1,0 +1,158 @@
+www.gsdrc.org
+
+Professional Development Reading Pack
+
+No. 49
+
+Social Protection Systems
+Philip White
+July 2016
+A social protection system, in an international development context, is
+broadly understood to be an integrated national portfolio of interventions
+which aims to serve four basic functions for households and individuals:
+protection of a minimum standard of living, prevention of deprivation
+through increasing resilience to shocks, and promotion of sustainable
+livelihood improvements. At a societal level, it may aim to bring about
+transformation towards improved equity, reduced exclusion and
+realization of the human right to social security. (Devereux & SabatesWheeler 2004). Social protection systems can provide one of the most
+direct means for the achievement of SDG1 (‘to end poverty in all its forms
+everywhere’), with a potential to contribute to several other SDGs too.
+Common system components are social assistance (non-contributory
+transfers in cash or kind to individuals or households in need), social
+insurance (contributory schemes providing compensatory support in the
+event of contingencies such as illness, injury, disability, death of a spouse
+or parent, unemployment and old age), and social care services for those
+facing social risks such as violence, abuse, exploitation, discrimination and
+social exclusion. Labour market programmes may also be included,
+whether active (promoting labour market participation) or passive
+(ensuring minimum employment standards).
+
+Philip White
+(philip@rauwhite.freeserve
+.co.uk) is an independent
+consultant who has held
+research and teaching
+positions at the University
+of Leeds, and at the
+University of East Anglia
+where he currently retains
+Research Associate status.
+With an agricultural
+economics background, he
+has recently specialised in
+food security, complex
+emergencies, disaster risk
+reduction, and social
+protection design and
+value-for-money
+appraisals. He has
+extensive field experience
+spanning more than 35
+years, predominantly in
+Africa and South Asia.
+
+The last decade has seen a growing consensus among development actors
+on the need to shift focus from individual social protection programmes,
+often donor-funded pilots with minimal government buy-in, to the
+establishment of sustainable national systems under government
+ownership and coordination. A system-level approach allows resources to
+be channelled to social protection policy and strategy development,
+potentially avoiding gaps and overlaps in programme coverage and
+improving overall coherence and cost-effectiveness. This involves
+strengthening institutional capacities for coordinating management across
+multiple programmes, building integrated management information
+Reading packs are commissioned by the UK Government’s Department for International Development (DFID) for
+independent study and professional development use. They are intended to be thought-provoking introductions to
+emerging issues and debates within the subject areas they cover. The views expressed are those of the author, and do not
+necessarily reflect the opinions of GSDRC, its partner agencies or DFID. © DFID Crown Copyright 2016. Licensed under the
+Open Government Licence: www.nationalarchives.gov.uk/doc/open-government-licence
+Suggested citation: White, P. (2016). Social protection systems. GSDRC Professional Development Reading Pack no. 49.
+Birmingham, UK: University of Birmingham.
+
+systems and beneficiary registries, and system-wide assessment and evaluation. To this end,
+development partners have established a Social Protection Inter-Agency Cooperation Board (SPIACB), chaired by the ILO and World Bank, to support international efforts in system promotion, policy
+coherence, coordination, and knowledge sharing. SPIAC-B is developing a set of Inter-Agency Social
+Protection Assessment (ISPA) tools to help countries analyse and improve their social protection
+system.
+Related to this has been recognition on the part of development partners of the need to move
+beyond support for fragmented, time-bound ‘safety nets’ tightly targeted to the ‘extreme poor’ and
+often conditioned on prescribed beneficiary behaviours, towards the broader goal of universal,
+legally guaranteed entitlement to a minimum level of social protection. This generally envisages
+access to essential health care, including maternity care, and basic income security for children, for
+persons of active age who are unable to work (e.g. through sickness, maternity, disability, or
+unemployment), and for older persons, as specified in the 2012 ILO-adopted Social Protection Floor
+Recommendation (No. 202). Nevertheless, debates continue on the relative merits of these two
+approaches. On the one hand concentrating limited resources on the extreme poor can, in principle,
+maximise cost-effectiveness in reducing poverty and inequality but it is subject to high inclusion and
+exclusion errors, manipulation by elites and social divisiveness. On the other hand, a more universal
+approach that addresses lifecycle vulnerabilities across categorically-defined population groups
+involves higher overall costs, but avoids targeting drawbacks, providing more secure entitlements
+and excluding fewer vulnerable people. While many low and lower-middle income countries aspire
+to a universal social protection floor, in practice most have yet to identify revenue generation to
+cover the 2.5-5% of GDP that would make it fiscally sustainable. However, a social protection floor
+can potentially deepen the ‘state-citizen contract’, engendering wider political support both for
+extending social security provision and for its financing through domestic taxation.
+Ultimately, the effectiveness and cost-effectiveness of a social protection system will depend on the
+integrity of its institutional arrangements and implementation systems, and, it is often argued, on its
+ability to generate positive growth, productivity and employment spinoff effects. While attempts to
+reduce caseloads by ‘graduating’ beneficiaries into productive enterprises often fail to take account
+of shocks and labour constraints, evidence is accumulating that social protection can, over the
+longer term, boost household livelihood investments, improve resilience and enhance the lifechances of future generations, as well as generate significant multiplier impacts in the local
+economy.
+
+Key readings
+Reading 1: Bastagli, F. (2015). Bringing taxation into social protection analysis and planning. ODI
+working paper 421. London: Overseas Development Institute.
+https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/9700.pdf
+
+Reading 2: Devereux, S. & Sabates-Wheeler, R. (2004). Transformative social protection. IDS working
+paper 232. Brighton: Institute of Development Studies. http://www.ids.ac.uk/files/dmfile/Wp232.pdf
+Reading 3: Hickey, S. (2011). The politics of social protection: what do we get from a ‘social contract’
+approach? CPRC working paper 216. Manchester, UK: Chronic Poverty Research Centre, University of
+Manchester. http://www.chronicpoverty.org/uploads/publication_files/WP216%20Hickey.pdf
+
+2
+
+Reading 4: Kidd, S. (2015). The political economy of “targeting” of social security schemes. Pathways’
+perspectives on social policy in international development 19. Orpington, UK: Development
+Pathways. http://www.developmentpathways.co.uk/resources/the-political-economy-of-targeting-of-socialsecurity-schemes/
+
+Reading 5: Robalino D., Rawlings, L., & Walker, I. (2012). Building social protection and labor
+systems: Concepts and operational implications. Background paper for the World Bank 2012-2022
+social protection and labor strategy. World Bank discussion paper 1202. Washington D.C.: World
+Bank. http://siteresources.worldbank.org/SOCIALPROTECTION/Resources/SP-Discussion-papers/4305781331508552354/1202.pdf
+
+Reading 6: White, P., Hodges, A. & Greenslade, M. (2015). Measuring and maximising value for
+money in social protection systems. London: DFID.
+http://r4d.dfid.gov.uk/pdf/outputs/ChronicPoverty/61479_ValueForMoneyInSocialProtectionSystems_24Nov2
+015.pdf
+
+Questions to guide reading
+1. What specific objectives have motivated governments to build and expand social protection
+systems in different low and lower middle income contexts, and what main challenges do they
+face in each case?
+2. What is the state of evidence on the different impacts ascribed to social protection in low and
+lower middle income countries? How important is evidence of impact and cost-effectiveness in
+social protection policy processes?
+3. What are the advantages and risks associated with moving from a programme to a system
+focused approach to social protection?
+4. How can social protection systems be sustainably financed in the medium to long term?
+5. How can functional linkages between social assistance and social insurance best be established
+in low to lower middle income countries, so that social insurance is extended beyond formal
+sector employment?
+6. What are the most appropriate roles for development partners in social protection system
+development?
+
+Further reading
+Browne, E. (2015). Social protection topic guide. Birmingham, UK: GSDRC, University of Birmingham.
+http://www.gsdrc.org/topic-guides/social-protection/
+
+Hinds, R. (2014) Defining social protection systems. (GSDRC Helpdesk Research Report 1085).
+Birmingham, UK: GSDRC, University of Birmingham. http://www.gsdrc.org/docs/open/hdq1085.pdf
+The Transfer Project. (2014). The broad range of cash transfer impacts in sub-Saharan Africa:
+Consumption, human capital and productive activity. Research brief. Chapel Hill NC: UNC Carolina
+Population Center. https://transfer.cpc.unc.edu/wp-content/uploads/2015/09/TransferProjectBrief_201401_BroadImpactsofSCT.pdf
+
+3
+
+

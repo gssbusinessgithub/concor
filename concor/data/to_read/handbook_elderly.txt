@@ -1,0 +1,505 @@
+21. The elderly and social protection
+Luis H. Vargas Faulbaum
+
+21.1
+
+INTRODUCTION
+
+Over the last decades, the living conditions of a vast proportion of the population have been
+improving, reducing child mortality and the prevalence of communicable diseases, raising the
+life expectancy of the people by the time they retire. This process of demographic ageing is
+particularly marked in high- and upper-middle-income countries which have adopted policies
+to provide income security, access to adequate health care and specialised long-term care. In
+low- and middle-income countries (LICs and MICs), the same challenges will arise in the following decades, so there is a demographic dividend to capture, which translates into a higher
+number of working-age people when compared to dependent people (elderly and children).
+Hence, the productive population contributes to the economy, leaving more fiscal space to
+allocate the necessary resources to support the life conditions of dependants.
+Ageing is an ongoing process that is affecting, deeply, high and upper-middle countries.
+However, the main challenge for developing countries is the pace that this process is happening. In particular, passing from 7 to 14 per cent of the elderly as a share of the overall
+population is a process that took Western European societies more than one century. It will
+happen in less than one generation among developing countries. Consequently, of the expected
+2 billion older people globally, three-quarters ‘will live in the developing world by 2050. Such
+countries will not be faced predominantly with supporting large numbers of active healthy
+retired people, but frail dependent elders in real need’ (Harper 2006, 31). Many of these
+countries are yet to establish minimal social protection schemes and face real challenges. The
+expected higher number of older people puts direct pressure to enhance policies on pensions
+and health care in developing countries that need to establish a basic set of social protection
+schemes to overcome future challenges regarding social protection for old-age people. Hence,
+the main challenges for developing countries are, on the one hand, to face the consequences of
+the epidemiological transition, such as high levels of infectious diseases and a growing share
+of non-communicable ones. On the other hand, this increasing share of the elderly population
+brings along a rising demand for economic security and care that governments must solve.
+In a nutshell, social protection for the elderly population needs to provide access to affordable and qualified health care, income security through the provision of adequate contributory
+and non-contributory old-age pensions and national schemes for long-term care. These three
+policy areas are crucial when setting up the foundations and extension of social protection for
+people in old age, particularly relevant for LICs and MICs. There are different issues that need
+to be addressed in these policy fields.
+The main issues that health-care policies need to address in LICs and MICs are the availability of health-care workers, the extension of out-of-pocket health expenditure, the rise in
+prevalence of non-communicable disease among old-age people and a lack of adequacy of
+specialised health services such as geriatrics.
+378
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+The elderly and social protection 379
+Second, when it comes to income security, the effective coverage of pensions by contributors of the working-age population in developing regions (28.9 per cent in Latin America
+and the Caribbean, 9.6 per cent in Africa and 7.8 per cent in Southern Asia) is significantly
+lower than the levels achieved in areas like Western Europe (64.4 per cent) or North America
+(76.2 per cent) (ILO 2017). Hence, the main constraints for this expansion are the low levels
+of active contributors due to the extent of the informal labour market and the likelihood of not
+meeting the requirements for a contributory pension. Countries have been adopting several
+strategies to achieve universal social protection for old-age people (ILO 2018).
+Finally, the constraints on long-term care are considerable, calling for policies on the supply
+side to meet growing demands, such as the need for infrastructure and provision of
+training and job incentives for specialised practitioners responsible for performing the
+related tasks.
+Following Lloyd-Sherlock (2000), the adoption of an intersectoral view is crucial to increase
+the impact of social policies. In particular, health and long-term care policies should consider
+the well-being of older people and their close relatives in order to contribute to a positive and
+active old age, preventing older people taking a passive and dependent role.
+The rest of this chapter is organised as follows. First, I will introduce the needs of old-age
+people (Section 21.2) that justify different social protection responses (Section 21.3) with
+a focus on LICs and MICs. Section 21.3 entails a general characterisation of the types of
+policy instruments that benefit the elderly and the existing gaps that should be considered
+by policymakers, with in-depth cases to consider as examples. In particular, I will consider
+non-contributory pensions to tackle income security for the most vulnerable old-age people in
+LICs and MICs, followed by health-care access and long-term care systems. Finally, Section
+21.4 concludes with general policy recommendations.
+
+21.2
+
+THE NEEDS OF OLD-AGE PEOPLE
+
+The constraints that need to be overcome by social protection for old-age people are concentrated on providing economic security after the active stage of life, granting access to
+qualified health care to increase their well-being and access to specialised centres or personnel
+for long-term care when they are unable to deal with their daily tasks. Focusing on LICs and
+MICs, this subsection depicts the global issues that old-age people need to face and solve
+through the guarantees provided by social protection policies.
+As people retire and are no longer actively participating in the labour market, they smooth
+out consumption and increase their risk of being in a poverty situation. The living conditions
+of old-age people will depend on their family and employment history, including assets accumulated through their active lifetime. Nevertheless, not all people have individual savings and
+assets for their old age. It becomes more crucial in the current context of a growing elderly
+population, particularly in MICs, that governments provide a guarantee of income to reduce
+the likelihood of poverty after retirement. The way to tackle economic insecurity is to expand
+pension coverage and raise the adequacy of the amounts through a mix of voluntary and mandatory arrangements (Barr and Diamond 2008). This expansion is performed within a context
+of uncertainty in terms of earnings, life span or the future needs that the person will need to
+meet. Consequently, pensions (in particular, social pensions) need to be the central policy in
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+380
+
+Handbook on social protection systems
+
+providing economic security through redistribution, insurance, poverty relief and consumption
+smoothing.
+A growing share of the elderly population carries several challenges that governments must
+address, such as adequacy of the health-care facilities due to the rise of non-communicable diseases and comorbidity. It is crucial to create fiscal space to allow sustainable funding of public
+health insurance. For instance, the World Health Organization showed that old-age people face
+significant barriers for health-care utilisation, such as transportation costs, self-perception of
+good health and negative past events with practitioners in health-care centres (World Health
+Organization 2015). According to the World Bank (2019), out-of-pocket expenditure as
+a percentage of current health expenditure represents between 41 and 56.2 per cent in low- and
+lower-middle-income countries, respectively.
+As living conditions improve in LICs and MICs, it is likely that non-communicable disease
+prevalence will rise, especially among people with lower educational and income levels living
+in countries with advanced urbanisation (Wong et al. 2011). Nevertheless, the situation of the
+elderly is more severe as they do not have a secure source of income (if they are receiving
+a pension) and they utilise health-care facilities and resources more frequently than younger
+cohorts. LICs and MICs still have a window of opportunity to work on affordability and
+access to health care as the elderly population does not represent a significant percentage of
+the overall population.
+Older adults will need to have access to specialised care as their self-reliance will diminish
+over the years, especially if they are suffering from a non-communicable disease or dementia
+that deteriorates their quality of life and independence. However, there are challenges for policies to tackle this growing demand, such as access provision for old-age people, to innovation
+on having sustainable funding from different sources and recognition of informal care workers
+by considering them part of the policy implementation. Also, access to long-term care services
+for the elderly in LICs and MICs remains a significant issue that is mainly solved by the
+families, with the financial inequities that this involves at the national level for old-age care.
+
+21.3
+
+SOCIAL PROTECTION RESPONSES TO THE NEEDS OF
+THE ELDERLY
+
+21.3.1
+
+Achieving Economic Security for Old-Age People
+
+Economic security for old-age people may take the form of access to contributory pensions
+(with eligibility criteria typically being at least 15 years of contributions, depending on
+the national legislation). Contributory schemes may adopt a different forms, depending on
+whether they are fully funded or pay as you go.
+Fully-funded schemes are those based on savings which are invested in financial instruments, whose returns are credited to collective or individual funds to meet future obligations.
+According to Barr and Diamond (2008), the link between liabilities and funding could be
+reached through defined contributions (adjustments of obligations) or defined benefits (adjustments on funds). Pay-as-you-go schemes are based on taxation of the current working population for funding current retirements. These contributions do not accumulate on any collective
+or individual funds owned by taxpayers. There is in effect an intergenerational redistribution
+of resources from active workers to retirees. Nevertheless, most of the allocation parameters
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+The elderly and social protection 381
+are uncertain and depend on current and future decisions. Hence, as Barr and Diamond (2008)
+noted, ‘systems regularly adjust both contributions and benefits (and, in public systems,
+government transfers) to preserve a financial balance. Moreover, since legislation will occur
+in the future, the design of a public system can influence future political outcomes’ (Barr and
+Diamond 2008, 39).
+Pension systems usually have multiple pillars that allow them to meet different goals
+of economic security and avoid risks of poverty for the elderly. The World Bank offers
+a five-pillar model that countries may adapt and consider for reform options. The advantage
+of a multi-pillar model is the flexibility to meet the needs of most groups of the population
+and to have different instruments for the different risks that pension systems may have to
+face. These five pillars are (1) zero pillar or non-contributory pension benefit; (2) mandatory
+first pillar, which is typically funded on a pay-as-you-go basis; (3) mandatory second pillar,
+which is fully funded on a defined-contribution basis for individual savings for future returns
+and benefits; (4) voluntary third pillar, which may include risks other than old age, such as
+disability or death; and (5) non-financial fourth pillar, formed by granted access to other public
+services, individual financial assets and informal programmes, such as family support (Hinz
+and Holzmann 2005).
+However, contributory pensions are not fully suitable for significant periods of informality
+affecting access to income-related pensions. MICs, since the mid-2000s, have begun to realise
+that the traditional scheme of pensions centred on formal employment and payroll contributions or earmarked taxes (Pillars 1 and 2) is not enough to face the increasing challenges of
+an ageing population. Hence, the relevance of alternatives to previous contribution records
+for income security for the elderly is a crucial issue to be solved by governments in LICs
+and MICs. Within this context, the adoption of non-contributory pension schemes is one of
+the primary responses, but the situation is heterogeneous across nations. The coverage of
+contributory schemes is mainly restricted to those employed in the formal sector, in countries
+with a labour market marked by the extended informal sector. Hence, social pensions partly
+overcome issues on eligibility based on formal employment and irregular contributions
+history. According to data released by the World Bank but derived from the ILOSTAT
+database of the ILO, the share of vulnerable employment (contributing family workers and
+own-account workers) in LICs and MICs represented 51.5 per cent of the total employment in
+those countries (in LICs only it represented 77.9 per cent of the total employment), whereas
+in high-income countries it represented 9.1 per cent. As a result, pension schemes built upon
+mandatory contributions for formal workers are not entirely suitable for countries with large
+informal labour markets. For the provision of economic security for old-age people that do not
+meet the contributory requirements, governments are enacting tax-funded social pensions to
+smooth consumption after retirement.
+Only a handful of LICs have been adopting social pensions as part of their social protection
+system (see Box 21.1). According to Pension Watch (2018), by 2018, 113 social pensions
+were operating in the world. Figure 21.1 shows the distribution of the implementation of
+social pensions among the different country income groups. In particular, there are four LICs,
+27 lower-middle-income countries, 34 upper-middle-income countries and 39 countries that
+belong to upper-income groups that have active social pensions.
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+382
+
+Handbook on social protection systems
+
+BOX 21.1 NEPAL: OLD-AGE ALLOWANCE IN A LOW-INCOME
+COUNTRY
+In 1995 Nepal introduced the Old Age Allowance programme for people aged 70 and over,
+except for residents of the Karnali area and Dalits. The monthly benefits are equivalent to
+30.8 per cent of gross domestic product (GDP) per capita, to a total of USD 63.6, followed
+by a stipend of 50 per cent of this amount for health expenses. The elderly are also beneficiaries of free health-care services granted by the Senior Citizen Health Care Programme.
+The coverage of the population older than the age of eligibility (70 years old) is 79.9 per
+cent, which makes this programme a nearly universal grant at the cost of around 0.7 per
+cent of the Nepalese GDP.
+The impact on children’s welfare has been greater, with a rise in the survival rate of seven to eight percentage points (Li and Mora 2016). Samson (2012) shows that among poor
+households, the spending is concentrated on essential food consumption and agricultural
+inputs, but there is an internal redistribution as it supports young children’s education and
+access to health care.
+Dhungana et al. (2019) find a large utilisation of the allowance for personal items (91.4
+per cent), access to health care and medicines (75 per cent) and attendance at religious services (62 per cent). Beneficiaries expect an increase of the pension amount, but there are
+positive impacts including more inclusion of old-age people with their families and local
+communities.
+The Nepalese experience is remarkable as a low-income country that was able to introduce a quasi-universal non-contributory scheme which has positive outcomes on the
+well-being and economic security of the elderly population.
+Among MICs, the main challenge is the coverage extension and adequacy of the amounts,
+including the establishment of proper indexation mechanisms (such as the variation of the
+Consumer Price Index or any wage index) so there is fiscal space for further expansion.
+According to International Labour Organization guidelines, a benchmark of liabilities equivalent to 1 per cent of GDP could be quite achievable to provide economic security for the
+elderly population. This standard would continue having a direct impact on the reduction of
+old-age poverty, on older people’s economic autonomy and on improvement of the household
+situation. Expanding on this, Packard et al. (2019) acknowledge a broad set of pooling-risk
+instruments for financing this policy, arguing that countries may opt for a combination of
+universal basic income or tapered universal basic income with universal social insurance and
+tapered universal social insurance.
+Focusing on LICs, the data gathered by Pension Watch states that the average amount of the
+benefit is USD 34, which represents 18.2 per cent of GDP per capita of this group of countries.
+The coverage, measured as a percentage of the population aged 60 or more, represents between
+0.43 per cent (Zanzibar Universal Pension Scheme – Tanzania) and 31.2 per cent (Old Age
+Allowance – Nepal). The total cost, on average, is equivalent to 0.253 per cent of GDP.
+Among lower-middle-income countries, the average of the benefits granted by social pensions is USD 72, which is equivalent to 15.3 per cent of GDP per capita. The average coverage
+represented 29.2 per cent among the population aged 60 and more; however, there is a wide
+variance in this regard. On the one hand, there are countries with coverage higher than 80 per
+cent, such as Timor-Leste (102 per cent), Bolivia (97 per cent) and Georgia (87 per cent). On
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+The elderly and social protection 383
+
+Source: Author’s own illustration based on data provided by Pension Watch (2018).
+
+Figure 21.1
+
+Social pensions in the world by income groups of countries, 2018
+
+the other hand, there are countries whose national social pensions cover less than 5 per cent
+of the population aged 60 or more, such as Indonesia (0.1 per cent), Moldova (0.7 per cent),
+Mongolia (1 per cent) and Myanmar (0.6 per cent). The total cost of social pensions among
+lower-middle-income countries, on average, represented 0.01 per cent of GDP, so there is still
+fiscal space for further expansions of these initiatives. Lastly, the current landscape of social
+pensions among upper-middle-income countries has, on average, a cost of only 0.006 per cent
+of GDP, with a coverage of 41 per cent among the population aged 60 and older. The benefits
+are more generous than those granted by lower-middle- and low-income countries, as the
+average is USD 157.7, equivalent to 13.7 per cent of GDP per capita of this group of countries.
+There is a growing need to introduce non-contributory pillars in the form of means-tested or
+universal schemes, both as a complement or as the only available option. These are innovative
+options for risk-pooling finance, with measures to be taken in contributory schemes to incentivise inter- and intragenerational solidarity through cross-subsidies. These coverage gaps
+were highly concentrated on women and informal workers, so a non-earnings-related pension
+was becoming more necessary in order to avoid future issues regarding access. MICs have
+particular challenges, such as the ‘need to address three issues: how to better target social pensions to reduce fiscal costs; how to better integrate social pensions with other social assistance
+programs; and how to better integrate social pensions with contributory programs in order to
+improve incentives to contribute and save and thus reduce the long-term costs of the programs’
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+384
+
+Handbook on social protection systems
+
+(Asher 2009, 94). Consequently, MICs are under pressure to adopt broader non-contributory
+pension schemes, as they have a growing share of the elderly population and high expectations, but they cannot fund generous and comprehensive benefits as costs are likely to rise.
+21.3.2
+
+Progress towards Universal Health Coverage and Elderly Population
+
+Regarding access to health care, old-age people need particular arrangements to promote
+utilisation by removing barriers. In LICs these barriers are geographical with high transportation costs, lack of availability and unaffordable medication and diagnostic tests, among
+other difficulties that disincentivise old-age people to seek proper health attention (HelpAge
+International 2017). In terms of funding, ageing is crucial in triggering an epidemiological
+transition that will change the burden of diseases among the local population. Even more, the
+financial burden for health-care systems is significant, as in LICs and MICs they are more
+prepared for infectious diseases. Consequently, health-care systems are encouraged to universalise their access and to find sustainable funding by combining a pooled risk of resources.
+Detailing the particular challenges of the policy responses of universal health care in this
+group of countries, Savedoff et al. (2012) argued that LICs and MICs have more serious epidemiological challenges than high-income countries, but they have been making faster achievements with higher financial constraints. South Korea, Malaysia, Mexico, Thailand, Colombia,
+Indonesia and Brazil are examples of countries who have expanded their health-care services
+through effective policy mechanisms for pooling resources. LICs and MICs have been creating
+a basic health package according to their domestic needs and achieving important outcomes
+efficiently. The Thai experience (see Box 21.2) is an insightful case of the universalisation of
+access to health care to informal workers and people who are not contributing actively, such
+as retired people. Nonetheless, with different results on the mechanisms for pooling resources,
+the outcome depends on the role that governments adopt such as regulating the health-care
+sector or acting as the direct provider.
+
+BOX 21.2 THE THAI EXPERIENCE IN UNIVERSAL HEALTH
+CARE
+Thailand established the Universal Healthcare Coverage Scheme in 2002 in order to cover the previously non-insured population. Its main objective was the provision of ‘equal
+access to quality care according to individuals’ needs, regardless of their income and socioeconomic status. Thus, this government-funded program covers people working in
+the informal sector as well as those who were previously uninsured’ (Damrongplasit and
+Melnick 2015, 158). Thailand is experiencing a rapidly aging population which will add
+a significant financial burden on the future sustainability of the health-care system. In particular, authors like Hsu et al. (2015) suggest that informal employment affects the system
+financing, resulting in constraints on the government’s ability to finance health care, especially for the elderly population, and a labour tax burden reduction of more than 40 per cent.
+Consequently, the main weakness for the pursuit of universal health care in middle-income
+countries, even good cases such as Thailand, is the emergence of potential finance imbalance if there is not immediate action to secure funding sources. The expansion of the funding must come from a set of instruments based on general revenues and payroll taxation and
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+The elderly and social protection 385
+continuing efforts to manage the reduction of health-care costs (Reich et al. 2016).
+The Universal Healthcare Coverage Scheme improved the public hospital admission rate by one percentage point, and even more significantly for the elderly population
+(Tangcharoensathien et al. 2018). Also, a benefit-incidence analysis determines that this
+policy is mostly pro-poor as utilisation of health services is higher in the most deprived
+quintiles compared to the richer ones, with the main factors being the extensive geographical distribution of primary centres and a benefits package free of charge. As a result,
+out-of-pocket household payments were reduced from 34 per cent (2000) to 12 per cent
+(2014) of the total health expenditure. This reduction of out-of-pocket expenditure has as
+an outcome the reduction of medical impoverishment marked by catastrophic health expenditures for the families (Tangcharoensathien et al. 2018).
+In conclusion, LICs and MICs are facing an epidemiological transition, particularly from
+infectious to non-communicable diseases, within a shorter time frame. Certainly, this has an
+impact on the health-care system as treatment costs for the family and the system are higher
+and involve more exogenous factors to be successful. Also, the social determinants of health
+play a crucial role in the risk factors that have a variation in the development of degenerative
+or chronic diseases in adulthood. As societies put their effort into maternity and child health,
+including major infectious diseases, now the challenge is to strengthen ‘existing health-care
+systems in their ability to provide comprehensive, accessible, community-based, family health
+care – preventive, curative and rehabilitative – for both communicable and non-communicable
+diseases’ (Miranda et al. 2008, 1232).
+21.3.3
+
+Old-Age Long-Term Care
+
+The evidence suggests that a rapid ageing process generates a swift demand for long-term care,
+but widespread access is absent. In addition, access to market-based options are unaffordable
+for the vast majority of families, resulting in long-term income inequalities. Families in LICs
+and MICs, in the absence of policies on this topic, are obliged to provide the necessary care
+and attention to elderly members who are not self-sufficient. Consequently, families perform
+tasks that are too overwhelming to cope with, reproducing long-term income inequalities by
+accessing informal care providers that may not meet the specific requirements that old-age
+care demands (Rossel and Filgueira 2015). Nevertheless, there is a deficit in research on the
+implications of the foundation of long-term care systems in developing countries for several
+reasons, such as a delay in the recognition of a rapid ageing process from the policymakers’
+perspective, followed by ‘a tendency to assume that informal support networks continue to
+function relatively well in most developing countries, reducing the need for specific policies
+and interventions’ (Redondo and Lloyd-Sherlock 2009, 4).
+South Korea built its long-term care system by expanding the supply side to ensure its
+proper implementation, followed by funding based on unique social insurance for long-term
+care similar to the health insurance system. Contributions are tripartite and collected by the
+National Health Insurance Service. Poor people do not fully contribute as it is subsidised by
+the government. Access to the care centres is funded through a co-payment scheme that ranges
+between 15 and 20 per cent. Long-term care services were politically and electorally attractive
+and gained traction because the elderly population was one of the main groups with higher
+turnout in elections (Rhee et al. 2015).
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+386
+
+Handbook on social protection systems
+
+Despite cases in South Korea, Costa Rica (see Box 21.3), Thailand, Uruguay and Argentina
+that prove the benefits for establishing long-term care institutions, this policy area needs more
+considerable attention in LICs and MICs. The establishment of these systems is an essential
+asset to enhance old-age well-being, reducing the role of families as primary caregivers.
+Moreover, it reduces the care burden for families that cannot afford private long-term care
+institutions.
+
+BOX 21.3 THE COSTA RICAN EXPERIENCE IN ESTABLISHING
+A LONG-TERM CARE SYSTEM
+Costa Rica is considered a middle-income country but its population is at an advanced stage
+of ageing and life expectancy is rising. In 1999, the National Council of the Elderly was
+created, which in 2010 sponsored a comprehensive care network for the elderly. This initiative looks at the establishment of ‘community-based long-term care networks with a focus
+on impoverished and highly vulnerable older people. Among other activities, the networks
+train retired teachers to act as unpaid community volunteer pensioners’ (Lloyd-Sherlock
+et al. 2017, 775). These volunteers conduct one home visit per month providing personal
+assistance which includes nutrition, personal hygiene recommendations and monitoring
+intake of medicines. They receive in-kind and cash incentives for their work and are funded
+by a special tax on tobacco and alcohol, as well as a family allowance contribution (5 per
+cent of gross salary) paid by formal workers. According to Lloyd-Sherlock et al. (2017), the
+lessons for low- and middle-income countries of this kind of initiative are that community
+volunteers are an excellent asset to build the foundations of a long-term care system for
+old-age people in resource-constrained countries.
+Regarding the funding of these schemes, it is noteworthy to consider risk-pooling systems
+on this issue for the following reasons: it is unknown whether an old-age person will need
+professional care due to illness or disability. Also, individual costs for long-term care are
+unaffordable for the vast majority of people with special needs for care services. Hence,
+faced with unpredictable and large sums involved, governments are encouraged to design and
+provide a public risk-pooling scheme to reduce out-of-pocket expenditures and compensate
+the opportunity costs of informal care (Muir 2017).
+Another determinant is the capacity of the family to shoulder the opportunity cost associated with family caregivers. The public long-term care system will largely replace the tasks
+performed by informal caregivers that may not fully accomplish the specific demands for
+qualified services. In particular, these public-funded schemes will allow poor old-age people
+to access certified services, reducing the families’ commitment and responsibility, especially
+for rural households which are ‘relatively large and there may be other available family
+members to take on caregiving tasks’ (Hosseinpoor et al. 2013, 337). Thus, the establishment
+of long-term care policies and institutions will reduce the domestic burden of women, who are
+the primary caregivers in LICs and MICs. These reforms will involve a pro-gender policy with
+a direct impact on improving the growing need for elderly care and diminishing the family
+commitment on out-of-pocket expenditures to finance risks in old age.
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+The elderly and social protection 387
+
+21.4
+
+CONCLUSIONS
+
+In sum, social protection for elderly people living in LICs and MICs is tackling growing
+needs, partly pushed by the rapid ageing rate that these countries are experiencing. The main
+issues are the provision of income security to amend the negative effects caused by segmented
+benefits in the contributory scheme, partly due to membership of occupational groups or by
+non-fulfilment of the basic requirements of contributions. Elderly people need to overcome
+several barriers to have access to health care, such as transportation, medicines and availability of general practitioners and specialists such as geriatrics. Also, these systems have to be
+adequately funded with the provisions to face non-communicable diseases in limited resource
+contexts. Finally, long-term care systems for the elderly population need to start to overcome
+the issues generated by the shortage of the supply side of centres and personnel, followed by
+encouraging the use of the specialised public care provided and reducing the burden of family
+or community commitments. As the share of old-age people as a percentage of the population
+increases, it becomes more difficult to implement these reforms due to deepening budget
+constraints.
+
+REFERENCES
+Asher, M. (2009). Social pensions in four middle-income countries. In R. Holzmann, D. Robalino and
+N. Takayama (eds), Closing the Coverage Gap: The Role of Social Pensions and Other Retirement
+Income Transfers. Washington, DC: World Bank, 85–98.
+Barr, N. and P. Diamond (2008). Reforming Pensions: Principles and Policy Choices. Oxford: Oxford
+University Press.
+Damrongplasit, K. and G. Melnick (2015). Funding, coverage, and access under Thailand’s universal
+health insurance program: An update after ten years. Applied Health Economics and Health Policy
+13, 157–66.
+Dhungana, G., M. Sapkota and B. Bista (2019). Older people’s satisfaction with and utilisation patterns
+of the Old Age Allowance in Nepal. Australasian Journal on Ageing, 1–7.
+Harper, S. (2006). Ageing Societies: Myths, Challenges and Opportunities. London: Hodder Arnold.
+HelpAge International (2017). Cash Transfers and Older People’s Access to Healthcare: A Multi-Country
+Study in Ethiopia, Mozambique, Tanzania and Zimbabwe. London: HelpAge International.
+Hinz, R. and R. Holzmann (2005). Old Age Income Support in the 21st Century: An International
+Perspective on Pension Systems and Reform. Washington, DC: World Bank Group.
+Hosseinpoor, A., N. Bergen and S. Chatterji (2013). Socio-demographic determinants of caregiving in
+older adults of low- and middle-income countries. Age and Ageing 42, 330–8.
+Hsu, M., X. Huang and S. Yupho (2015). The development of universal health insurance coverage in
+Thailand: Challenges of population aging and informal economy. Social Science and Medicine 145,
+227–36.
+ILO (2017). World Social Protection Report 2017–19: Universal Social Protection to Achieve the
+Sustainable Development Goals. Geneva: International Labour Organization.
+ILO (2018). Social Protection for Older Persons: Policy Trends and Statistics 2017–19. Geneva:
+International Labour Organization.
+Li, Y. and R. Mora (2016). Re-assessing the impact of the grandparent’s income on the infant mortality
+rate: An evaluation of the old age allowance program in Nepal. World Development 87, 333–48.
+Lloyd-Sherlock, P. (2000). Population ageing in developed and developing regions: Implications for
+health policy. Social Science and Medicine 51 (6), 887–95.
+Lloyd-Sherlock, P., A. Pot, S. Sasat and F. Morales-Martinez (2017). Volunteer provision of long-term
+care for older people in Thailand and Costa Rica. Bulletin of the World Health Organization 95 (11),
+774–8.
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+388
+
+Handbook on social protection systems
+
+Miranda, J.J., S. Kinra, J. Casas, G. Davey Smith and S. Ebrahim (2008). Non‐communicable diseases in
+low‐ and middle‐income countries: Context, determinants and health policy. Tropical Medicine and
+International Health 13, 1225–34.
+Muir, T. (2017). Measuring Social Protection for Long-Term Care. Paris: OECD Publishing.
+Packard, T. et al. (2019). Protecting All: Risk Sharing for a Diverse and Diversifying World of Work.
+Washington, DC: World Bank.
+Pension Watch (2018). www​.pension​-watch​.net
+Redondo, N. and P. Lloyd-Sherlock (2009). Institutional Care for Older People in Developing
+Countries: Repressing Rights or Promoting Autonomy? The Case of Buenos Aires, Argentina.
+Norwich: University of East Anglia.
+Reich, M. et al. (2016). Moving towards universal health coverage: Lessons from 11 country studies.
+Lancet 387 (10020), 811–16.
+Rhee, J., N. Done and G. Anderson (2015). Considering long-term care insurance for middle-income
+countries: Comparing South Korea with Japan and Germany. Health Policy 119 (10), 1319–29.
+Rossel, C. and F. Filgueira (2015). Old age. In S. Cecchini, F. Filgueira, R. Martínez and C. Rossel
+(eds), Towards Universal Social Protection: Latin American Pathways and Policy Tools. Santiago:
+Economic Commission for Latin America and the Caribbean, 209–42.
+Samson, M. (2012). Nepal’s senior citizens’ allowance: A model of universalism in a low-income
+country context. In S. Handayani and B. Babajanian (eds), Social Protection for Older Persons: Social
+Pensions in Asia. Manila: Asian Development Bank, 214–45.
+Savedoff, W., D. de Ferranti, A. Smith and V. Fan (2012). Political and economic aspects of the transition to universal health coverage. Lancet 380 (9845), 924–32.
+Tangcharoensathien, V. et al. (2018). Health systems development in Thailand: A solid platform for
+successful implementation of universal health coverage. Lancet 391 (10126), 1205–23.
+Wong, R. et al. (2011). Burden of Aging in Developing Countries: Disability Transitions in Mexico
+Compared to the United States. RAND Seminar Working Paper.
+World Bank (2019). Health, Nutrition and Population Statistics. https://​datacatalog​.worldbank​.org/​
+dataset/​health​-nutrition​-and​-population​-statistics
+World Health Organization (2015). World Report on Ageing and Health. Geneva: WHO.
+
+Luis H. Vargas Faulbaum - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:32:31AM
+via William and Mary School of Law
+
+

@@ -1,0 +1,1582 @@
+8
+
+research paper
+
+ilo future of work
+research paper series
+
+Finding proactive features
+in labour market policies:
+A reflection based on the
+evidence
+
+Miguel
+Á. Malo
+
+University
+of Salamanca,
+Spain
+
+Copyright © International Labour Organization 2018
+First published 2018
+Publications of the International Labour Office enjoy copyright under Protocol 2 of the Universal Copyright
+Convention. Nevertheless, short excerpts from them may be reproduced without authorization, on condition
+that the source is indicated. For rights of reproduction or translation, application should be made to ILO
+Publications (Rights and Licensing), International Labour Office, CH-1211 Geneva 22, Switzerland, or by
+email: rights@ilo.org. The International Labour Office welcomes such applications.
+Libraries, institutions and other users registered with a reproduction rights organization may make copies in
+accordance with the licences issued to them for this purpose. Visit www.ifrro.org to find the reproduction
+rights organization in your country.
+
+Finding proactive features in labour market policies: A reflection based on the evidence
+ISBN 978-92-2-031131-8 (print)
+ISBN 978-92-2-131132-5 (web pdf)
+International Labour Office – Geneva: ILO, 2018
+
+The designations employed in ILO publications, which are in conformity with United Nations practice, and
+the presentation of material therein do not imply the expression of any opinion whatsoever on the part of the
+International Labour Office concerning the legal status of any country, area or territory or of its authorities,
+or concerning the delimitation of its frontiers.
+The responsibility for opinions expressed in signed articles, studies and other contributions rests solely with
+their authors, and publication does not constitute an endorsement by the International Labour Office of the
+opinions expressed in them.
+Reference to names of firms and commercial products and processes does not imply their endorsement by the
+International Labour Office, and any failure to mention a particular firm, commercial product or process is
+not a sign of disapproval.
+Information on ILO publications and digital products can be found at: www.ilo.org/publns.
+This publication was produced by the Document and Publications Production,
+Printing and Distribution Branch (PRODOC) of the ILO.
+Graphic and typographic design, layout and composition,
+printing, electronic publishing and distribution.
+PRODOC endeavours to use paper sourced from forests managed
+in an environmentally sustainable and socially responsible manner.
+Code: DTP-SCR-REP
+
+Finding proactive features
+in labour market policies:
+A reflection based on the
+evidence
+Miguel Á. Malo*
+University of Salamanca, Spain
+
+*	This article has been prepared on behalf of the Research Department of the International Labour
+Organization. I gratefully acknowledge the insightful comments from Hannah Johnston, Verónica
+Escudero and Martin Ostermeier, and the anonymous reviewers. I take responsibility for any remaining
+errors and for the opinions included in the text. Contact: malo@usal.es.
+
+iii
+
+Abstract
+Proactive labour market policies consist of active labour market measures or other
+interventions that are implemented preemptively, with the aim of protecting people
+against a wide range of labour market problems and economic shocks. Proactive policies
+will be important in facing the challenges of the future of work. The discussion is
+based on a review of effective active labour market policies (ALMPs) including training,
+public works, direct job creation, employment incentives and job counselling and other
+labour market services; specifically, it examines how ALMPs and their integration with
+income support programmes can be used in a proactive manner. Throughout the paper,
+differences between developed and developing and emerging countries are considered.
+The paper suggests that policy implementation is crucial for a proactive approach, which
+can permit the use of complementary policies and programmes with proactive and
+reactive features that support activation of the labour force. It argues that social dialogue
+may enhance the role of implementation variables, especially tripartite social dialogue
+at an aggregate level. A combination of policies in the context of social protection floors
+for developing countries and activation strategies for developed countries can also help
+in the transition to an effective proactive approach.
+
+v
+
+Preface
+In August 2017, the Director-General of the International Labour Organization convened
+an independent Global Commission on the Future of Work. The Commission will produce
+an independent report on how to achieve a future of work that provides decent and
+sustainable work opportunities for all. This report will be submitted to the centenary
+session of the International Labour Conference in 2019.
+The Future of Work Research Paper Series aims to support the work of the Commission
+by publishing in-depth, original studies on specific topics of interest to the Commission,
+ranging from explorations of artificial intelligence and the platform economy to lifelong
+learning and universal social protection. Each paper provides a critical analysis of
+current and future developments and raises important questions about how to ensure a
+future of inclusive development with decent work at its heart.
+In a future of work facing significant challenges of labour-saving technologies, climate
+adaptation policies, offshoring and reshoring, among others, there is growing interest in
+the role of labour market policy to support workers through such transitions and avoid
+the “scarring effects” of unemployment. This paper, by Miguel Malo, provides a very
+useful state-of-the-art review of research investigating the effectiveness of active labour
+market policy (ALMP). It condenses a wealth of highly technical (largely microeconomic)
+empirical analysis to draw out the key points of impact, both positive and negative.
+The paper separates out the design and impact of ALMP for developed and developing/
+emerging countries, reflecting the different institutional context, resources and policy
+design observed. Malo highlights many of the differences and intricacies of empirical
+results, including that: training programmes seem to have a different impact in
+developed versus developing countries; programmes targeting young people seem less
+effective than all-age programmes, while the same is not true of programmes that target
+women; and job effects in the short and long term need to be balanced against equity
+effects (e.g. reducing disadvantage among the long-term unemployed or specific groups
+of people).
+Two further aspects of Malo’s review are very relevant to our future of work discussions.
+The first is the need to understand the degree of “institutional complementarity” (to
+use the vocabulary of the Varieties of Capitalism school of thought). The effects of
+active labour market policies need to be analysed alongside interactions with so-called
+“passive” labour market policies, including income protection and child-care provision,
+for example, among other features of social protection and family support policy. Such
+interactions are likely to differ across countries, with the implication that there is unlikely
+to be a uniform effect of a given ALMP.
+The second aspect is that good design and implementation depend on social dialogue
+(adequately resourced and representative) and a steady political commitment to funding
+ALMP. These are not easy policy instruments to get right and further research sensitive
+to economic and institutional context is essential in charting responses to future
+challenges in the world of work.
+Miguel Á. Malo is an associate professor of economics at the University of Salamanca
+(Spain). Along 2013 he worked as Senior Economist at the Research Department of the
+International Labour Organization. His main research interests are evaluation of labour
+market policies, analysis of labour market reforms, non-standard forms of employment,
+
+vii
+
+the labour market participation of people with disabilities, and the impact of labour
+market performance on poverty. He has been a visiting scholar at UMIST (University of
+Manchester Institute of Science and Technology), ECASS (European Centre for Analysis
+in the Social Sciences, Essex University), and NBER (National Bureau of Economic
+Research). From 2007 to 2009 he was President of the Spanish Association for Labour
+Economics.
+
+Damian Grimshaw
+Director
+Research Department
+
+viii
+
+1. Introduction
+The great recession created a huge dislocation of many national labour markets. In
+addition, the adjustment policies implemented across the globe during the recession
+had an asymmetric time distribution of costs and benefits: almost all costs were in the
+short term and almost all benefits were expected in the long term (ILO, 2013; Islam
+and Verik, 2011). Conventional policy responses have been implemented across the
+world, with and without social dialogue (Rychly, 2009), to address the problems of both
+new and long-term unemployed workers, as well as others seeking work from outside
+the labour market (e.g. Bonoli, 2010; Cazes, Heuer and Verick, 2011; McKenzie, 2017;
+Auer, Efendioglu and Leschke, 2008).
+As rapid responses to these problems, various labour market policies were implemented
+reactively as a short-term answer to longer-term existing problems, sometimes even
+structural ones. Some of these policies, so-called “passive” labour market policies,
+sought to lessen the financial burden on workers who had been laid off, through the
+provision of unemployment benefits, cash transfers and other types of income support.
+These were accompanied by complementary “active” labour market policies (ALMPs),
+named for their objective to activate the labour force towards reemployment. However,
+due to the implementation of these policies in response to economic shocks, most policy
+implementation was reactive.
+This paper seeks to identify how labour market policies can become proactive. Here we
+will consider that a labour market policy has proactive features when this measure or
+intervention is not necessarily designed to react to a specific problem at a given moment
+in the short term, but to potentially pre-empt a wide range of problems or imbalances
+caused by economic shocks or other sources of unexpected changes. “Proactivity” is
+thus a matter of degree, and we will review different types of labour market policies in
+an attempt to determine whether they are more or less proactive.
+The current reflection will mainly rest on the analysis of ALMPs; however, passive
+policies are also included in the analysis. The reason for this broad-based approach
+is that passive and active policies can be complementary measures, for example
+in developing and emerging countries where ALMPs must include income support
+because of the absence of a general unemployment benefits system. In the case of
+developed countries, we will review activation strategies, which combine income support
+policies with ALMPs aiming at a faster return to work or improving access to the labour
+market. The paper also reviews how ALMPs can contribute to the development of
+social protection floors, and can serve as a crucial element to protect workers against
+unexpected risks during their working life. Overall, the paper takes a broad approach to
+examining combinations of policies and the aggregate impacts of labour market policies,
+with particular attention to ALMPs. Ultimately, policy implementation is found to be
+a key issue that has an impact on the efficacy of specific ALMPs and their aggregate
+impacts, and on the effects of the integrated approach between ALMPs and income
+support policies (Schmid, 1996; Escudero, 2018). The review of the available evidence
+leads us to consider that implementation remains a very important channel to imprint a
+proactive feature on labour market policies.
+Although the focus of this paper is on proactive implementation of ALMPs and though
+we consider that more of them are needed to confront the challenges of the future of
+work, policies with reactive characteristics are also required. In fact, proactive and
+reactive features are complementary for a balanced design of labour market policies, as
+in the case of active and passive labour market policies.
+
+1
+
+This paper is structured as follows. It begins by presenting the basic tenets of ALMPs
+and a review of their use (Section 2). Although the evidence examined comprises mainly
+impact evaluations, the review also includes evidence on the impact of ALMPs on
+aggregate labour market outcomes such as national unemployment and employment
+rates, and identifies features of these policies that are proactive. This is followed by
+a section that examines implementation of the policies previously discussed, with
+particular attention paid to the proactive features emerging from the previous review
+(Section 3). A conclusion section closes the paper (Section 4).
+
+2. Critical review of current
+active labour market
+policies
+2.1. International experiences
+Given the wide range of labour market policies, those reviewed in this article have been
+selected based on their prominent position in the impact evaluation literature. Descriptive
+studies and narrative reviews are used in a complementary manner to discuss policy
+use and effect. However, this article’s wide use of impact evaluations does not mean
+that efficiency is the only motivation for implementing labour market policies, including
+ALMPs. In particular, there are deep equity reasons to implement ALMPs, such as the
+support they can afford to more disadvantaged workers by increasing opportunity and
+addressing structural barriers such as discrimination (Auer, Efendioglu and Leschke,
+2008) or by contributing to poverty reduction or alleviation, as they may also include
+income transfers. Indeed, equity is a key element in ALMP design and implementation,
+and eligible beneficiaries must enjoy the same participation opportunities if ALMPs are
+to be effective at improving equity (ILO, 2016).
+
+Basic concepts
+Traditionally, labour market policies are categorized as either passive or active. The first
+group comprises policies that focus on income maintenance when workers are out of
+employment, while the second group refers to policies aimed at increasing or improving
+the employment opportunities of unemployed or inactive persons to get or return to a job.1
+This classification, as outlined by the OECD (see, for example, Annex 2.b in OCED, 1993),
+defines active policies as including labour market services,2 labour market training,
+
+1 Note that the terms “active” and “passive” bear no positive or negative assessment about the effectiveness or desirability of each type
+of policy. They simply refer to policies with different functions, as described in the text.
+2 Labour market services refer to all interventions related to intermediation between jobseekers and employers, counselling and jobsearch assistance, provided by a public office or by a private organization. We will use the term “public employment service” for the
+government institutions. Usually, these public institutions manage both active and passive policies. This terminology follows the ILO
+Employment Service Convention, 1948 (No. 48). See, for example, ILO (2016). In this paper we distinguish the institution (public
+employment service) from the corresponding active measures (labour market intermediation, counselling, etc.).
+
+2
+
+employment incentives, sheltered and supported employment and rehabilitation, direct
+job creation and start-up incentives. Passive policies, on the other hand, are comprised
+of unemployment insurance and benefits, redundancy and bankruptcy compensation,
+and early retirement. The main features of this classification are a clear distinction
+between each type of policy, and assuming implicitly that ALMPs may focus on some
+activation activities while passive policies will provide simultaneous income support;
+however, this definition was created within an advanced economy context, thus requiring
+some modification with reference to developing and emerging countries.
+There are two main differences regarding developing and emerging countries that
+motivate the use of a specific classification of ALMPs (ILO, 2016; Auer, Efendioglu and
+Leschke, 2008). First, different characteristics of national and regional labour markets
+exist within developing countries, including higher informality, lower unemployment
+and higher participation. Secondly, a lower – and many times weaker – administrative
+capacity limits the scope of existing programmes (for example, a lack of unemployment
+benefits) and programme implementation (Vodopivec, 2013). As a result, in developing
+and emerging countries ALMPs have a wider scope which often includes income support
+and other anti-poverty measures, and there is a general tendency to merge different
+interventions and objectives (ILO, 2016).
+Having these nuances in mind about focus, scope and configuration, the ILO (2016)
+– taking into account findings from Auer, Efendioglu and Leschke (2008) – proposes
+the following classification for the main types of ALMPs in developing and emerging
+countries (see table 1 for a brief comparison of the ILO and OECD definitions):
+(i) Training: Training programmes provide workers with opportunities to acquire or
+improve on their skill portfolios. In the context of developing and emerging countries,
+training programmes may be accompanied by other active measures (i.e. public works)
+and may include some type of income support.
+(ii) Public works: These programmes try to compensate for shortcomings in job creation
+in the private sector by providing employment opportunities on public works projects.
+Sometimes, they are part of public–private collaborations. While in developed countries
+these types of programmes are decreasing in importance and focus on special cases
+(long-term unemployed in remote areas, for example), in developing and emerging
+countries they are closely related to poverty alleviation, frequently providing social and
+income protection during economic downturns, and they have been gaining importance
+during the last two decades.
+(iii) Employment subsidies: An employment subsidy is an incentive to hiring or
+maintaining jobs by reducing labour costs. The objective of these programmes is the
+same in all countries, although in developing and emerging countries they are also
+linked to other programmes, and aimed at hiring participants from conditional cash
+transfer programmes targeted to specific groups with poor labour market outcomes
+(underemployment, informality, etc.), and include money transfers subject to specific
+conditions for the beneficiaries, such as school attendance by their children, healthy
+habits, etc.
+(iv) Self-employment and micro-enterprise creation: These policies seek to provide the
+necessary supports to start an economic activity, either as self-employed or through
+the development of new business opportunities. The target group of these policies is
+wider in developing and emerging countries where the policies comprise employment
+promotion in formal and informal economies, and are often combined with business
+training, cash transfers or microcredits.
+
+3
+
+(v) Labour market services: Labour market services refer to all interventions aimed to
+connect jobseekers and employers, through a range of activities such as counselling,
+labour market intermediation and job-search assistance. These services can be provided
+by the Public Employment Service of the country, by a private organization or as part
+of other ALMPs. In developing and emerging countries, the role of public employment
+services providing these services is more limited than in developed countries, and with
+some peculiarities related to the economic context, for example including the promotion
+of transitions from informal to formal employment. The limitations of public employment
+services in these countries also affect the possibility of linking ALMPs with passive
+policies – where they still exist – as in the case of the OECD countries.
+
+Table 1. ALMPs: Developing and emerging countries compared to developed
+countries, ILO and OECD classifications
+Type of
+intervention
+
+Developing and emerging countries
+(ILO 2016 classification)
+
+Developed countries (OECD
+classification)
+
+Training
+
+The most common type of
+intervention and usually
+accompanied by other interventions.
+
+The most important type of
+intervention in terms of expenditure.
+Often, training targets specific
+groups.
+
+Public works
+
+These interventions are part of
+poverty alleviation and community
+development measures. They also
+provide social protection or income
+support against negative economic
+shocks. They are also combined
+with other interventions, sometimes
+providing assistance beyond the end
+of the programme.
+
+Since the 1990s, their importance
+is rather low, although they help to
+keep workers active in slow recovery
+periods.
+
+Employment
+subsidies
+
+They focus on groups of workers
+with deep problems in labour market
+integration and are less used during
+economic recessions. They are often
+conceived with a view to incentivizing
+employers to hire beneficiaries of
+anti-poverty programmes.
+
+They mostly target vulnerable groups
+and are often intensified during
+periods of slack demand.
+
+Self-employment
+and microenterprise
+creation
+
+These are very important
+interventions promoting employment
+creation in both the formal and
+informal economy. They are
+targeted to wide groups of workers.
+Sometimes, they are combined with
+poverty alleviation programmes and
+other interventions.
+
+They are usually targeted to young
+and higher-skilled individuals.
+
+Labour market
+services
+
+Because of limitations to the public
+resources allocated to labour market
+services, their role is limited. Part
+of the effort rests on improving the
+efficiency of labour market services
+provided, rather than creating
+new institutional frameworks or
+combining active with passive
+policies.
+
+The public employment service and
+labour market services provided are
+crucial for an effective provision of
+ALMPs. They are provided directly
+by the public sector or in partnership
+with private actors. Sometimes, they
+are combined with other ALMPs, but
+also with income support policies
+such as unemployment benefits.
+
+Source: ILO, 2016.
+
+4
+
+Effectiveness of ALMPs in developed countries
+Impact evaluations of ALMPs have been conducted in a variety of countries. While
+comparing these results is not an easy task, there are a few meta-analyses on the
+impact of ALMPs more generally (Card, Kluve and Weber, 2010, 2017; Eurofound,
+2017; Hardoy et al., 2018; Kluve, 2010; Kluve et al., 2016; Vooren et al., 2018).
+These reviews provide a general quantitative systematic review and a synthesis of the
+effectiveness of many ALMPs. In reviewing the effectiveness of ALMPs in developed
+countries, we discuss the main findings from these meta-analyses and provide details
+on specific programmes when further clarification is of benefit.
+The main conclusions of these meta-analyses are:3
+• In general, the short-term impact of ALMPs is close to zero; however, the impact becomes
+positive between two and three years after completion of the programme, with different
+time horizons by type of programme. There are larger average gains for programmes that
+emphasize human capital accumulation (Card, Kluve and Weber, 2017).
+• ALMPs are more likely to show positive impacts in a recession (Kluve, 2010; Card,
+Kluve and Weber, 2017). This anti-cyclical effect is much smaller than the effect of
+the programme type on programme effectiveness (Kluve, 2010).4
+• On average, training programmes have modest impacts (Kluve, 2010). However,
+although in the short term they are often completely or almost ineffective, they have
+clear positive impacts in the medium term (Card, Kluve and Weber, 2010). In fact,
+Vooren et al. (2018) find positive effects of training programmes from six to 36
+months after programme start, but with the same increasing pattern with time.
+• Job-search assistance programmes5 yield relatively favourable short-term programme
+impacts (Card, Kluve and Weber, 2010; Vooren et al., 2018), whereas subsidized
+public sector employment programmes are less effective (Card, Kluve and Weber,
+2010). Wage subsidies and job-search assistance can be effective in increasing
+participants’ employment probability (Kluve, 2010). According to Card, Kluve and
+Weber (2017) these effects are mainly in the short term, but Vooren et al. (2018),
+analysing the size of these impacts, find that they are also positive in the long term
+(until 36 months after finishing the programme). Vooren et al. (2018) also show that
+wage subsidies and public sector employment programmes have negative short-term
+impacts, but these impacts gradually turn positive in the long term.
+
+3 Almost all these conclusions were obtained considering only whether the impact was positive or not. In the revised meta-analyses,
+there are few comparisons based on the impact size of the active measures, because of the heterogeneity of the original studies and
+the different labour market outcomes considered in each study. The exception is Vooren et al. (2018) who collect standardized effect
+size estimates and correct by publication bias.
+4 Kluve (2010) also discusses the effect of what he calls “institutional context” on effectiveness. This author considers the following
+variables as institutional context at country level: index for dismissal protection regulation; index for fixed-term contract regulation;
+index for temporary work regulation; and the gross replacement rate. The rationale is proxying the influence of legal regulation on the
+willingness of employers to hire beneficiaries of active policies (through the above three indicators), and the willingness of beneficiaries
+to take jobs (through the gross replacement rate). Therefore, these variables do not capture the institutional framework of the national
+labour markets where the programmes are implemented, but only a very specific aspect of national labour regulation.
+5 This job-search assistance refers to special programmes beyond the usual job-search assistance linked to receiving unemployment
+benefits in most developed countries (Card, Kluve and Weber, 2010). What is considered as usual is not exactly the same in
+each country, but job-search assistance always refers to special services beyond the national standard level for beneficiaries of
+unemployment benefits. In Vooren et al. (2018) this type of programme is called “enhanced services” to denote the special emphasis
+on additional measures such as regular encounters with caseworkers. On the other hand, job-search assistance includes not only
+programmes based on special activities such as improving capacities of job-seekers, or teaching how to search for a job, but also
+programmes based on sanctions and threats for a non-intensive search. However, none of these meta-analyses provide a disaggregation
+of their results considering exclusively the effects of programmes only based on sanctions and threats. Therefore, this evidence is not
+linked to the debate on the activation of policies, revised below in section 2.2.
+
+5
+
+• Employment subsidies have mainly short-term impacts but reveal little impact in the
+medium and long terms. This marks a notable difference from the impacts of training
+programmes. Employment subsidies are clearly more effective when targeting a specific
+group of workers than when there is no targeted group (Eurofound, 2017). Nevertheless,
+when a non-targeted programme of employment subsidies is implemented through
+caseworkers, firms using this type of ALMP outperform other firms in terms of
+employment and in other performance dimensions such as firm size, wage sum, profits,
+value added and per-worker productivity (Lombardi, Skans and Vikstrom, 2018). These
+effects persist until five years after the programme ends. Therefore, the intervention
+of labour market services in the implementation of employment subsidies may be
+beneficial both for workers and for firms. Finally, while targeting workers changes
+the effectiveness of this policy, targeting different types of firms does not affect the
+effectiveness of employment subsidies (Eurofound, 2017).
+• In the literature, self-employment and start-up programmes are often grouped with
+employment subsidies. Therefore, specific results for these interventions are not
+provided. Literature that does analyse the particular impacts of self-employed and
+start-up programmes is highly focused on the unemployed. Baumgartner and Caliendo
+(2008), for example, find that two German programmes were effective for the
+unemployed for a stable return into employment until five years after the completion
+of the programme, and one of them is efficient – it saves more in income support
+than the cost of the programme. Caliendo and Künn (2011), meanwhile, analyse the
+heterogeneity of the same two programmes and find that start-up subsidies for the
+unemployed tend to be most effective for disadvantaged groups in the labour market.
+A similar result is obtained for an evaluation in the United States, but with a selfemployment training programme: the intervention helped unemployed participants to
+remain self-employed five years after programme entry, but it was not effective for
+participants who were not unemployed (Michaelides and Benus, 2012).
+• Direct job creation in the public sector is generally less effective in terms of increasing
+the probabilities of employment compared to other types of ALMPs (Kluve, 2010; Card,
+Kluve and Weber, 2010). Considering different time horizons, these programmes also
+tend to have much smaller or even negative average impacts in the short, medium
+and long term (Card, Kluve and Weber, 2017). However, there is also evidence that
+these programmes may have positive net social benefits, as in the case of Denmark
+(Jespersen, Munch and Skipper, 2008). In addition, these programmes may also be
+implemented not because of their effectiveness, but for equity reasons as, in developed
+countries, they usually address the most disadvantaged groups of unemployed people
+(Auer, Efendioglu and Leschke, 2018).
+• There is systematic heterogeneity by gender, with larger impacts for specific programmes
+for that target women compared to mixed programmes (Card, Kluve and Weber, 2017;
+Bergemann and van den Berg, 2008).6 In mixed programmes, the impacts are more
+favourable for women in economies with a lower female labour force participation,
+especially in the case of training programmes (Bergemann and van den Berg, 2008).
+• Programmes that target young people specifically typically have lower impacts than
+mixed age programmes (Card, Kluve and Weber, 2010, 2017). There is also a nonnegligible number of specific youth programmes with no effects or non-significant
+effects (Kluve et al., 2016). Among those that are effective, Hardoy et al. (2018) find
+
+6 Card, Kluve and Weber (2010) do not find systematic differences by gender in their meta-analysis, but they explicitly recognize that this
+is an anomaly with respect to the rest of the literature.
+
+6
+
+that training programmes and wage subsidies generally have more positive results than
+other measures such as work practice and employment in the public sector, which is in
+line with the results for ALMPs for all age groups revised above. However, programmes
+that integrate multiple interventions and add complementary services to the main
+intervention tend to do better. Following Kluve et al. (2016), the interpretation is
+that the success of youth employment programmes rests on their ability to respond
+to multiple needs facing a heterogeneous group of beneficiaries, and successful
+youth employment programmes will need to be able to offer a comprehensive set of
+interventions. These characteristics are prominent in the package of policies known as
+Youth Guarantee and implemented across the European Union, as explained in box 1.
+• The impact of ALMPs on older workers (typically those over 45) is not well delineated, as
+this category often includes all workers over the age of 25. Until recently older workers
+were often targeted for early retirement programmes or long-term unemployment subsidies
+rather than for reintegration into the labour market using ALMPs (Boockmann and
+Brändle, 2015). In fact, Huttunen, Pirttilä and Uusitalo (2013) find that a Finnish wage
+subsidy programme targeting low-wage older workers made part-time early retirement
+arrangements costlier to employers. The programme increased working hours of these
+
+Box 1. Youth Guarantee: A package of active labour market policies
+The Youth Guarantee (YG) is a policy agreed by the European Union in 2013 to fight youth
+unemployment, mainly based on improving the transition from school to work (Andor and
+Veselý, 2018). The objective of the YG is to “ensure that all young people under the age of 25
+years receive a good-quality offer of employment, continued education, an apprenticeship or a
+traineeship within a period of four months of becoming unemployed or leaving formal education”
+(Council Recommendation of 22 April 2013 on establishing a Youth Guarantee, 2013/C 120/1).
+Therefore, the YG is not a new type of measure, but a set of coordinated ALMPs requiring a
+deep coordination of the educational system and employment services. How to decide what
+measure is the best for unemployed young people requires specialized caseworkers at the public
+employment offices, and a high level of coordination with training course organization by different
+actors, including the public educational system. The experiences of the Nordic countries are the
+benchmark for the YG, mainly the cases of Finland and Sweden (Mascherini, 2012).
+Escudero and López Mourelo (2017) review the scarce literature on the effectiveness of
+YG, based on impact evaluations. The available impact evaluations attend to specific parts
+of the YG, such as training in Latvia, where no significant impacts were found (Bratti et al.,
+2018). Hämäläinen, Hämäläinen and Tuomala (2018) evaluate the effects of the YG reform
+introduced in Finland in 2005. They found small positive impacts – a 2 percentage point
+increase in the activation ratio and an increase in employment of 7 days per year. However,
+these positive impacts were concentrated among unemployed young persons who already had
+a vocational secondary education, while there was no effect for those who were unskilled, with
+only compulsory schooling.
+When it comes to implementation, Escudero and López Mourelo (2017) find that while most
+countries have established clear eligibility criteria and appropriate institutional frameworks, and
+are providing a comprehensive package of measures, many of them are still facing challenges
+when meeting the objectives of early intervention and effective enforcement mechanisms. As
+Andor and Veselý (2018) remark, the YG is an ambitious change in how governments conceive
+youth employment policies, and revamping and coordinating existing interventions will take time.
+Especially, several European countries will need to build up administrative capacity to manage a
+YG programme, which requires additional resources. In fact, resource allocations have not been
+sufficient to match the recommendations (Escudero and López Mourelo, 2017). Eichorst and
+Rinne (2017) remark that the actual implementation of the YG in European countries with higher
+unemployment rates is far from the initial expectations, and this depends not only on enough
+funding but also on effective implementation of the different interventions included in the YG.
+
+7
+
+workers, mainly making some former part-time workers work full time. Nevertheless, the
+wage subsidy was not effective in increasing the total employment of low-wage older
+workers. On the other hand, Boockmann and Brändle (2015) have evaluated a German
+programme for workers aged 50 and older including coaching, counselling and casework.
+The programme had positive effects, increasing employment of these workers, especially
+men. Other evaluations of job counselling for older workers also show positive effects on
+the job-finding rate of this group (Bollens, 2011).
+
+Effectiveness of ALMPs in developing and emerging
+countries
+The literature on the effectiveness of ALMPs in developing and emerging countries often
+provides different results from those for developed countries (Betcherman, Olivas and
+Dar, 2004; Escudero et al., 2017; McKenzie, 2017):
+• A key ALMP in developing and emerging countries is investment in public works
+(McKenzie, 2017; Auer, Efendioglu and Leschke, 2008), though these initiatives are
+usually regarded as poverty alleviation programmes. McKenzie (2017) argues that
+direct job creation policies through public works programmes are effective because
+these interventions focus on the private sector, helping firms to overcome obstacles
+for innovating, growing and creating more jobs.
+• The effectiveness of training programmes is relatively small compared to developed
+economies (McKenzie, 2017).7 However, effects might be economically more significant
+as labour markets often offer fewer possibilities, and programmes focus on groups who
+are harder to assist (ILO, 2016). Escudero et al. (2017) find for Latin America and the
+Caribbean countries that training programmes are only slightly more successful than
+other programme types. Quite different from the results for ALMPs worldwide reviewed
+above, the impact estimates from training programmes in a developing country context
+do not increase over time. The reason for this difference is not clear, but probably the
+human capital component may not be sufficient to generate sustained impacts. Training
+programmes with a short duration (four months or less) are significantly less likely to
+produce positive impact estimates, as well as training programmes with more than
+one component – i.e. single-component training interventions are more likely to show
+positive labour market impacts (Escudero et al., 2017).
+• ALMPs in these countries seem to be working particularly well during an upswing,
+suggesting that these policies will be more effective in helping individuals to obtain a
+job when the labour market is already expanding. This is the opposite of the results
+obtained by Card, Kluve and Weber (2017) using a worldwide sample of evaluations,
+where there is a counter-cyclical pattern of programme effects.8
+• The relative importance of interventions targeted at micro-entrepreneurs and small
+and medium firms is also a distinctive feature in developing and emerging countries.
+Usually, these programmes focus on income stabilization and poverty reduction and
+are sometimes composed of different elements, including subsidies, business training
+or financial facilities. In general, the results show that the impacts on employment
+7 McKenzie (2017) calculates that in developing countries, a typical intervention increased employment rates by 2 percentage points.
+However, usually these impacts are not statistically significant, i.e. the estimations of the impact could be zero with a non-negligible
+probability. In any case, this limitation could be related to the small sample sizes frequently used in evaluation studies in developing
+countries.
+8 Unfortunately, there is not enough information in the above references to elucidate whether the pro-cyclical pattern is a regional
+peculiarity or a typical feature of active policies in developing and emerging countries.
+
+8
+
+are relatively small (Grimm and Paffhausen, 2015). However, interventions focused on
+promoting self-employment (new businesses) are more successful than those aiming to
+increase employment in existing firms. The impact of financial interventions is weaker
+than the effects of entrepreneurship training or business development services. This
+is line with the trend of replacing “simple” microcredit programmes based only on
+funding new or expanding small businesses by programmes adding entrepreneurship
+training jointly with funding. In this line, Cho and Honorati (2014) also find that
+combined packages of finance and training are more effective for promoting labour
+market activity than separately providing either training or finance. This is especially
+interesting, because in the studies analysed by Cho and Honorati (2014) the packages
+of finance and training often targeted vulnerable groups.
+• According to McKenzie (2017), programmes helping workers in intersectoral
+and geographical mobility are promising, although they are complex and need
+experienced providers. Successful examples include assistance with learning about
+job opportunities in a different location, such as recruiting for business process
+outsourcing in Indian rural villages (Jensen, 2012), or subsidizing transport for a wider
+job search of young Ethiopians in different parts of Addis Ababa (Abebe et al., 2016).9
+• Because of the extension of informal employment, work quality is an important
+dimension in ALMPs in developing and emerging countries. Escudero et al. (2017) find
+that ALMPs in these countries are particularly effective in increasing the probability
+of having a formal job, compared to other labour market outcomes. Considering job
+quality, training is the most important type of programme to obtain a job in the formal
+sector.
+• Focusing on young people, there are better results for youth compared to prime-age
+workers (Escudero et al., 2017). Programmes for young people are more likely to have
+a positive impact in middle- and low-income countries, and they are especially helpful
+for the most vulnerable population groups – low-skilled, low-income young people,
+suggesting that targeting low-income young populations in middle- and low-income
+countries has more positive effects than in high-income countries (Kluve et al., 2016).
+• As regards gender differences, females are more likely to benefit from ALMPs than
+males (Escudero et al., 2017), as was the case for developed countries.
+To sum up, the effectiveness of ALMPs in developing and emerging countries is linked
+to implementation details, combination in packages with other ALMPs or with income
+support policies. The combination of policies is related to an explicit poverty alleviation
+objective and to the development of social protection floors, as we will see in section 2.2.
+
+Aggregate effects
+The above impact evaluations are helpful to understand the individual-level impacts
+of ALMPs; however, the aforementioned analyses do not reflect the impacts of ALMPs
+on aggregate variables such as total unemployment for the region or the country where
+the programme was implemented. For example, training courses may improve the
+employment prospects of beneficiaries but can displace workers with lower levels of
+human capital who did not participate in the programmes. This can result in no overall
+
+9 The programme evaluated by Abebe et al. (2016) included an alternative intervention consisting of training on how to make effective
+job applications. Both interventions improved the quality of the jobs (more stable and formal) obtained by these young workers. The
+analysis showed that the first intervention helped to overcome barriers to access to more and better vacancies by jobseekers, and the
+second intervention helped young job applicants to better signal their skills to potential employers using certification of skills that are
+hard to observe directly by employers, such as cognitive ability.
+
+9
+
+change in the unemployment rate. On the other hand, when it comes to employment
+subsidies, the subsidized jobs might have been created without the intervention. Or the
+formal programme can lead to displacement of some workers by those whose labour
+has been targeted by the employment subsidy. These effects, termed deadweight and
+displacement, are aggregate effects not necessarily captured by impact evaluations
+(Heckman and Smith, 1996).
+Understanding the overall impacts, including displacement effects, is important for
+grasping the overall efficacy of ALMPs. Some studies have been designed to capture this
+type of effect in local labour markets, showing that displacement may exist, leading to
+very small net effects of ALMPs, as shown by Crépon et al. (2013) for a programme for
+jobseekers in France. It has also been found that displacement effects may be related
+to implementation characteristics of policies. Lombardi, Skans and Vikstrom (2017),
+for example, use Swedish data to show that the intervention of the public employment
+offices in subsidy allocation can have a positive impact on net employment in subsidized
+firms, but this does not happen when all firms have access to employment subsidies.
+While deadweight can be considered a net social loss, displacement is different. A policy
+targeting a very disadvantaged group may increase the labour market participation of
+the group of beneficiaries instead of other workers who might have been hired. The
+aggregate net effect would be zero in terms of employment, but disadvantaged workers
+would be better off. Therefore, a labour market policy creating a displacement effect
+may be defensible for equity reasons, which is not the case for deadweight losses.
+Aggregate impact analysis provides a sort of “macro” evaluation of the impact of ALMPs
+on different labour market outcomes (including the unemployment rate, the proportion
+of long-term unemployment, and the outflow rate from unemployment to employment)
+which takes into account indirect effects such as displacement (Bellman and Jackman,
+1996; Koning, 2001). There are two main strands in this aggregate literature. The first
+one analyses the macroeconomic effects of labour market institutions and reforms of
+which ALMPs are one component among others (e.g. Scarpetta, 1996; Murtin and de
+Serres, 2014; Blanchard and Wolfers, 2000), while the second focuses on the aggregate
+effects of ALMPs specifically, from a macro perspective.
+When it comes to the macroeconomic effects of labour market institutions generally, the
+research has found that ALMPs decrease the unemployment rate, but have a relatively
+small aggregate impact (Scarpetta, 1996). Results are similar when focusing on the
+aggregate unemployment outflow rate. In other words, ALMPs increase the outflow
+from unemployment, improving job creation.10 Even when considering the interaction
+of policies and economic shocks, an increase in ALMP spending leads to a decrease in
+the unemployment rate when there is a negative shock (Blanchard and Wolfers, 2000).
+Therefore, these aggregate results are consistent with those obtained in the impact
+evaluations of programmes reviewed in previous sections.
+The second strand focuses specifically on the aggregate effects of ALMPs and, in
+some cases, even disaggregating the analysis by type of ALMP (e.g. OECD, 1993;
+Koning and Mosley, 2001; Estevão, 2007; Baker et al., 2005; Bassanini and Duval,
+2006; Escudero, 2018). In general, this literature remarks the complementarity between
+
+10 Murtin and de Serres (2014) estimate the impact of policy variables on labour market tightness measured as the ratio of job vacancies
+to unemployment. The interpretation is the following: as a larger ALMP spending increases this ratio, there will be more vacancies for
+the same level of unemployed people or, alternatively, for the same level of vacancies there will be fewer unemployed jobseekers.
+
+10
+
+ALMPs, unemployment insurance and related welfare benefit systems (Martin, 2015).11
+The complementary role of ALMPs is stressed by Estevão (2007). His results show that
+ALMPs raise employment through labour market adjustments,12 but at the same time
+do not substitute for other labour market policies.13 Focusing on specific policies, some
+aggregate evaluations show that countries spending much more in employment subsidies
+do not improve aggregate transitions into employment because of displacement and
+deadweight effects (Arranz, Garcia Serrano and Hernanz, 2013).14
+Interestingly, the research finds that aggregate labour market outcomes are also
+impacted by variations in how ALMPs are implemented. Using a database from 31
+advanced economies for the period 1985–2010, Escudero (2018) finds that ALMPs
+have non-negligible effects on aggregate labour market outcomes and confirms that
+these effects arise mainly through the implementation features of these policies.
+Her analysis shows that allocating more resources to programme administration has
+positive effects, and the same happens with the continuity of public spending in active
+measures – i.e. fluctuations in public budget exceeding the business cycle swings. This
+is consistent with the reviewed results from impact evaluations of specific programmes,
+where implementation was also revealed as a key variable to obtain positive impacts,
+and potentially linked to proactive features of different ALMPs.
+In terms of specific collectives, Escudero (2018) shows that start-up incentives and
+measures for vulnerable groups are more effective than other ALMPs in reducing
+unemployment and increasing employment. In addition, they are also more beneficial for
+low-skilled workers. Probably, this is related to the “double dividend” of these policies
+whereby subsidized firms not only create additional jobs – particularly for low-skilled
+workers – but also contribute to positive effects via start-up incentives (Caliendo and
+Künn, 2014).
+Finally, a key issue about policy implementation at an aggregate level is how to
+coordinate all interventions, balancing the different objectives of labour market policies.
+In this vein, social dialogue is the way to improve specific and aggregate effectiveness
+of labour market policies and to balance measures affecting different groups of workers.
+More specifically, tripartite and bipartite social dialogue may find a balance between
+ALMPs and other measures to enhance proactive features but maintain reactive features
+when needed by some groups of workers – as shown in the case on short-time work and
+ALMPs for disadvantaged groups described in box 2.
+
+11 Martin (2015) provides a narrative review of the bulk of these macroeconomic evaluations, jointly with the results of impact evaluations
+of specific programmes focusing on OECD countries.
+12 In other words, a higher ALMP expenditure is associated with a larger adjustment in wages for the same level of unemployment.
+13 In particular, a huge increase in ALMP expenditure to replace other policies would probably be linked to an increase in taxes, with
+potentially negative effects on labour supply (Estevão, 2007).
+14 Arranz, Garcia Serrano and Hernanz (2013) present an aggregate impact analysis of ALMPs in Spain, where employment subsidies were
+widely used from 1997 to 2006. They also find positive, but small, effects of training on different aggregate labour market outcomes.
+
+11
+
+Box 2. Balancing policies: Social dialogue, short-time work and ALMPs
+The great recession led many governments to intensify their appeal to social partners to negotiate
+or participate in joint consultations. In general, when governments turn to the social partners
+at the early stage of the crisis, the policies implemented are more likely to be in line with the
+needs of all participants in the labour market. According to Rychly (2009), the recent crisis has
+led to a more proactive approach towards social dialogue and collective bargaining even in less
+dialogue-oriented countries, not only in Europe but also in Asia and Latin America. However,
+in other countries the first attempts to manage the employment impacts of the great recession
+through social dialogue were unfruitful. For example, Spain was one of the first countries where
+the social partners discussed anti-crisis measures (as early as the summer of 2008), but only
+one-off agreements were made – when reached – and tripartite social dialogue remains weak
+(ILO, 2014). Comprehensive legally binding tripartite or bipartite agreements were reached only
+in Japan, the Republic of Korea and South Africa as an answer to the great recession across the
+world (Rychly, 2011).
+The importance of bipartite social dialogue during the great recession is exemplified by the
+German model. The use of short-time work schemes to preserve jobs in Germany has been an
+example for many other countries, where governments decided, in line with the claims of the
+social partners, to improve the conditions of workers affected by shorter working hours and thus
+lower wages (Rychly, 2009). In the German case, the Government extended short-time working
+allowances very generously (Bosch, 2011). According to Knuth (2014) short-time work accounted
+for about one third of the absorption of the economic shock.
+As short-time work usually includes workers’ compensation – for example, via partial
+unemployment benefits – or training, this measure may be considered as a policy for incumbent
+workers with proactive features (these features are discussed in more detail in the following
+section). In any case, short-time work seems to be more useful for temporary negative shocks
+or as a first step toward a permanent adjustment in a less traumatic way, but with no clear
+aggregate effects on the labour market in the long term (Cahuc and Carcillo, 2011). In this vein,
+international evidence (Hijzen and Martin, 2013) supports the theory that short-time work helped
+to preserve a significant number of jobs during the great recession, but that its continued use
+during the recovery may have affected the content of jobs during that time. Therefore, although a
+significant gross positive impact on the number of jobs in most – developed – countries analysed
+was shown, the net effect on aggregate employment of short-time work schemes was negligible or
+even negative. Through case studies of developed countries, Thelen (2014) shows that countries
+more tied to short-time work spend less on ALMPs, and the converse. She interprets short-time
+work as support for “insiders”, while active policies would be mainly support for the “outsiders”
+of the labour market – i.e. precarious workers. Following this interpretation, a continuous support
+for short-time work would move the adjustment towards precarious workers, hence the negligible
+impact of short-time work on aggregate employment in the long term.
+ALMPs target vulnerable groups of workers, and these workers are traditionally not covered by
+social dialogue (Vaughan-Whitehead, 2011), unlike other measures such as short-time work.
+It is important to note that when social dialogue – especially tripartite social dialogue – deals
+with ALMPs it is possible to reach a balance between protection for incumbent workers and
+greater opportunities for disadvantaged workers, with consequent positive impacts on aggregate
+employment in the long term.
+
+12
+
+2.2. Combinations of policies: Activation
+strategies and social protection floors
+Activation strategies in developed economies
+In the 1990s, the term “activation strategies” was frequently used in developed countries
+to underscore a combination of income support policies – mainly unemployment
+insurance and assistance – with different ALMPs, including different degrees of
+conditionality on job-search intensity (Martin, 2015; Immervoll and Scarpetta, 2012).
+The general objective was to speed up the transition from non-employment into jobs.
+International organizations, such as the OECD and the European Commission, promoted
+activation as a key issue to improve the management and outcomes of labour market
+policies.15
+This strategy of activation soon spread across the European Union and other advanced
+economies. Weishaupt (2011) analyses this trajectory as a convergence in welfare
+interventions at international level with two main institutional regime types: the Nordic
+model, with high levels of activation and economic activity, and state-led child-care
+provision; and the Anglophone model, based on “making work pay”, focusing on
+individual responsibility, and more market mechanisms.16 Of course, these are “pure”
+or “ideal” types, and they have evolved over time. For example, the Nordic model
+has become more concerned with cost containment and effectiveness of programmes.
+Meanwhile, the Anglophone model – at least in some countries such as Ireland – has
+included elements of the service-centred Nordic model. Moreover, the development of
+the Lisbon strategy in the European Union has led continental European countries to
+different combinations of the two models (Weisshaupt, 2011), increasing their reliance
+on market forces (as in the Anglophone model) with a more interventionist role for the
+State (as in the Nordic model).
+Although activation strategies in developed countries vary, there are number of core
+elements that are shared. In terms of labour market policies, all countries that have
+implemented activation strategies include early interventions, individually-tailored case
+management, and benefits conditionality. Additionally, when it comes to employment
+protection, countries have an enlarged scope of labour market services provided by
+the public employment office, including the work-first principle (or acquiring skills
+through working), an expansion of state-led child-care provision, and incentives for
+work (“making work pay”). Finally, activation strategies in a developed country context
+include: management by objectives, independent review and/or focus on quality
+management, fusion of employment and welfare agencies, introduction of quasimarkets, and customer orientation (Weishaupt, 2011).
+This activation paradigm has resulted in distinct advantages. According to the OECD
+(2013), the general lessons of the activation strategies from a review of a handful of
+countries include the following:17
+
+15 See OECD (2013) and Martin (2015) for a review of how the activation strategies for labour market policies became dominant in the
+OECD countries since the 1990s.
+16 The reasoning of Weishaupt (2011) is based on the three worlds of welfare state proposed by Esping-Andersen (1990): Anglophone,
+Continental, and Nordic models. The Continental model falls between the other two.
+17 The countries reviewed in OECD (2013) were Australia, Finland, Ireland, Japan, Norway, Switzerland and the United Kingdom.
+
+13
+
+• A well-developed system of unemployment income support can benefit from an
+employment-focused activation system through job-search assistance, reducing
+barriers to employment and training programmes, and backed up when necessary by
+different types of sanctions18 or mandatory referrals. Nevertheless, there is no unique
+unemployment benefits design or combination of passive and active measures for an
+effective activation. With national variations, an individual action plan is widely used.
+These individual plans are designed in collaboration with specialized counsellors and
+include different interventions considering the labour market problems and the local
+economy context for each individual.
+• Reforms to activate beneficiaries of unemployment insurance and assistance require
+care and may take time to increase the employment rates of beneficiary groups.
+• Institutional reforms are a critical component of activation strategies. The main features
+of these reforms are organizational mergers and labour market services that combine
+employment assistance with benefit administration – for example, the merging of the
+public employment service and the benefit agency in the United Kingdom.19
+• Management improvements increase the effectiveness of public and private
+employment services. These improvements were guided not only by establishing
+targets for the performance of public and private employment services but by adapting
+these targets to local conditions and to the employability of jobseekers, as in Austria
+and Switzerland (OECD, 2013).
+In some countries, activation strategies have been implemented by combining labour
+market services and training using market-based mechanisms. The case of the
+programme Workforce Investment Act in the United States is a prominent example of
+a shift of initiatives – here, at the state level – towards a business-oriented, demanddriven system (King and Barnow, 2009). Probably, the key in this intervention is a sort
+of voucher – the so-called Individual Training Accounts – which allowed participants to
+select their own training provider and occupational programme. The evidence on the
+effectiveness of these vouchers is mixed, showing that disadvantaged workers frequently
+overreached in selecting programmes (Barnow, 2009), although they are popular among
+participants and generally accepted as a useful feature of the programme because local
+boards can put some limits on the choice of participants, providing strong guidance
+(King and Barrow, 2009).20
+A key issue of the debate on activation has been how effective the strategy is in times
+of crisis. Martin (2015) reviews what happened in the OECD countries with activation
+strategies during the great recession, suggesting that in countries that had implemented
+successful activation strategies before the crisis, unemployment rose less than in other
+countries. However, this author also remarks that during the recession the European
+Nordic countries provide some evidence for a change in focus from a “work-first” to a
+“train-first” approach. This would be coherent with the results on an anti-cyclical pattern
+in the effectiveness of training programmes in developed countries (see section 2.1).
+
+18 The review by Meyer (1995) of different unmonitored US job-search programmes found that there was consistently an increase in
+unemployment duration (around three weeks more). However, job-search monitoring does not always improve job finding, especially
+when monitoring is very intensive. Klepinger, Johnson and Joesch (2002) evaluated the impact of different job-search requirements
+in a US programme, and found that variations of the programme with the strongest requirements decreased the duration of insured
+unemployment but did not increase job finding. There is also empirical evidence that although monitoring and sanctions can accelerate
+the return to work, they may also decrease the quality of accepted jobs (Arni, Lalive and Van Ours, 2013).
+19 According to the OECD (2013), this merger in the United Kingdom improved the employment outcomes of jobseekers and was costeffective.
+20 For a full description of the characteristics of this programme, see Barnow (2009).
+
+14
+
+From a wider perspective, empirical evidence also shows that activation strategies
+increase the likelihood of benefit recipients moving from unemployment into employment
+in recession years (Michaelides and Mueser, 2017; Martins and Costa, 2014), although
+more research is needed.
+
+Social protection floors in developing and emerging
+countries
+Since the 1990s there has been increasing interest in implementing anti-poverty
+policies in low- and middle-income countries, while at the same time finding ways to
+combat dependency on public income support schemes (Almeida et al., 2011). These
+goals have helped to shape an approach that combines ALMPs and income support
+programmes in developing and emerging countries. At the same time, there is an
+increasing trend in linking income support with a “promotion” function that requires
+those receiving benefits from social assistance to also participate in education, health
+and nutrition services, with the goal of improving earnings and opportunities through
+programmes promoting higher employability (Robalino, Walker and Rawlings, 2012). In
+other words, the ambition of social protection in developing countries is not restricted
+to compensating those in poverty for their lack of income, but rather aimed at providing
+populations with the tools to achieve more sustainable sources of livelihood for the
+purpose of broader development (Barrientos and Hulme, 2009; Barrientos, 2011).21
+The objective of reducing poverty is only one of the objectives of social protection:
+beyond providing basic income security, social protection must contribute to increase
+opportunities of households to access better and higher quality forms of sustainable
+income generation. The combination of “traditional” or “simple” ALMPs with elements
+related to income support, small business promotion, or investment has created new
+policies adapted to the reality of developing and emerging countries.
+In different degrees, all these policies are concerned about incentive compatibility and
+anti-poverty strategies – they focus not only on employment or earnings but mainly
+on development. Almeida et al. (2011) suggest that there are two different kinds of
+policies: interventions to improve access to jobs and earnings opportunities, which are
+complementary to employment-related support services when targeting groups facing
+multiple barriers to work; and graduation policies with a poverty exit ambition and
+targeting beneficiaries of social assistance programmes.22
+Some policies, such as conditional cash transfers, may be considered as being between
+each of these categories. These policies consist of an income transfer to targeted
+households conditional on some requisites, for example children’s school attendance,
+improving health conditions of the household, etc. A common concern in the design
+of these income transfers has been the impact on labour force participation. There
+are different evaluations showing that these programmes do not appear to discourage
+beneficiaries from participating in the labour market (Almeida et al., 2011) and even
+
+21 In this context, the ILO adopted in 2012 the Recommendation concerning national floors of social protection, No. 202. In this
+Recommendation, a social protection floor is defined as a combination of income and health security provided through cash transfers
+and transfers in kind including in the form of access to essential social services (Cichon, 2014). The ILO strategy promoting social
+protection floors includes support at country level, contribution to global strategies, policies and debates on social protection floors,
+and work in knowledge management and sharing experiences (ILO, 2017).
+22 At first sight, the development of social protection shares with the activation strategies the combination of policies and, sometimes,
+conditionality. However, there is a key difference: while social protection floors in developing and emerging countries have an explicit
+anti-poverty objective, activation strategies in developed countries are policies to fight unemployment but they are not part of antipoverty policies of these countries. For a discussion on the activation and graduation policy terminology, see Almeida et al. (2011).
+
+15
+
+that in some cases the programmes create incentives for participants to work or look for
+work (ILO, 2010). Box 3 develops the issue of the impact of conditional transfers and
+graduation policies on labour market outcomes.
+
+Box 3. The impact of conditional cash transfers and graduation policies on labour market
+outcomes
+Conditional transfers and graduation policies are development policies implemented around
+the world. The design of both types of policy combine income transfers with other measures.
+In the case of conditional transfers, income is conditioned on eliminating child labour through
+school assistance, for example, or conditioned on healthy practices. Although both policies
+target households in severe poverty, graduation policies (which have a poverty exit ambition)
+target the poorest members of villages providing income jointly with training, coaching, health
+information, etc. For this reason, graduation policies are also known as “ultrapoor” policies. They
+often include specific direct funding to improve the family small business. In other cases, there
+are also occasional transfers to finance basic goods for household consumption. The objective
+is always to uplift the low initial endowment base of the household so that it can gain access to
+other economic and social resources (Halder and Mosley, 2004).
+Usually, these policies are evaluated in terms of their impacts on different dimensions of wellbeing such as consumption, health or empowerment, but also on economic outcomes such as
+savings, business profits, investment or employment. Kabeer and Waddington (2015) present a
+meta-analysis of conditional transfers using 46 studies analysing different household impacts in
+developing countries. As regards the effects on household adult labour supply, they find mixed
+evidence. The overall impact is an increase of 3 percentage points in the labour participation
+of household adults, but this effect ranges from an adverse effect of 5 percentage points to a
+growth of 12 percentage points in the labour participation of adults. This suggests that income
+transfer has an income effect, but, in general, it is not necessarily enough for a significant
+increase in labour participation. For the effects on child labour, the evidence strongly suggests
+a decrease in child labour through increasing school attendance.
+Banerjee et al. (2015) evaluate the impact of a multifaceted graduation programme for the
+very poor in six developing countries. Therefore, their results are a meta-analysis of these
+programmes, but based on much more homogeneous programme characteristics than usual.
+They test the impacts on different social and economic outcomes of poor households. Concerning
+labour outcomes, they find overall positive impacts on total time spent working, with a positive
+impact on more time working in a micro-enterprise and a negative impact on time spent in paid
+labour, but neither effect is statistically significant.
+There are many evaluations showing that these types of policies, designed as packages of various
+ALMPs or ALMPs provided jointly with income support, are, in general, effective. Hashemi and
+Rosenberg (2006) find that a public works programme in Bangladesh increased self-employment
+among beneficiaries of social protection programmes. Macours, Schady and Vakis (2012) analyse
+Nicaragua’s “Atención a Crisis” programme and suggest that the integrated approach of the
+programme promotes reskilling and adaptation to a changing employment situation. Martínez,
+Puentes and Ruiz-Tagle (2018) find that a Chilean conditional cash transfer programme (“Chile
+Solidario”) has long-lasting employment effects, increasing labour market participation and
+earnings.
+
+16
+
+3. Identifying proactive
+features: The key role
+of implementation
+ALMPs have had different roles over time. They began in the 1950s in Sweden as a
+supplementary set of macroeconomic policies for sustaining a non-inflationary growth,
+and evolved into a mechanism to help manage labour market flows (Weishaupt, 2011).
+The joint implementation of ALMPs and income support programmes that has developed
+since the 1990s has also altered the divide between passive and active policies, showing
+that they can be complementary and interrelated (Auer, Efendioglu and Leschke, 2008).
+Over the great recession, ALMPs were used as a reaction against the huge and fast
+increase in unemployment, especially in the European Union. In many EU countries,
+ALMPs were one of the most popular areas of intervention (ILO, 2015). In addition, as
+Auer, Efendioglu and Leschke (2008) remark, most countries with high levels of global
+economic integration utilize ALMPs to mitigate the negative employment effects of
+globalization and technological change.
+ALMPs are well suited to proactive implementation, and can be used to help anticipate
+a wide menu of labour market changes and challenges that may affect workers’ welfare
+and the economy more broadly. In fact, implementation seems to be a key channel for
+enhancing proactive characteristics in labour market policies in developing and emerging
+countries as well as developed economies.
+
+The central role of implementation
+From a macroeconomic perspective, key implementation characteristics that increase
+the effectiveness of ALMPs include the allocation of additional resources to programme
+administration, and a continuity of public spending in active measures that increases
+during recessions but does not fade away during times of growth (Escudero, 2018). At
+this aggregate level, implementation may be improved through social dialogue, especially
+tripartite social dialogue (Rychly, 2009, 2011). As some authors have remarked,
+bipartite social dialogue mainly attends to interventions for incumbent workers. ALMPs,
+on the other hand, are typically directed towards individuals who are less likely to be
+covered by bipartite negotiation (Thelen, 2014; Vaughan-Whitehead, 2011) as they
+are also aimed at inactive persons. For this reason, tripartite social dialogue, which
+includes employer and worker representation as well as government participation, may
+be better suited for input and development of macro-oriented labour market policies.
+However, the specific role of the social partners in the implementation of ALMPs and
+how it affects their effectiveness and the emergence of proactive and reactive features
+remains an open topic. As far as we know, there is a short and relatively recent literature
+for developed countries on the direct engagement of employers in ALMPs. This research
+shows that there is room for more extensive involvement from employers (see box 4),
+but that further research is needed to assess to what extent employer involvement will
+be either proactive or reactive.
+
+17
+
+Box 4. The engagement of employers in ALMPs: The Danish case
+Research focusing on the engagement of employers with ALMPs is rather scarce. Bredgaard
+(2017) is one exception, analysing empirically the case of Denmark.
+This author proposes a typology of four types of employers, distinguishing positive and
+negative preferences from participation and non-participation in ALMPs. These four types
+are: the committed employer, the sceptical employer, the passive employer and the dismissive
+employer. The committed employer has a positive attitude towards ALMPs and participates
+in them, while the dismissive employer has a negative attitude and does not participate. The
+other two types are intermediate cases: the sceptical employer has a negative attitude but
+participates, and the passive employer has a positive attitude but does not participate in
+these policies.
+Bredgaard’s survey of Danish employers based on these concepts shows that most employers
+are dismissive (46%) or passive (35%) with respect to ALMPs, and that only a minority can
+be considered as sceptical (8%) or committed employers (11%). As passive employers are not
+enrolled in ALMPs, but have a positive attitude, Bredgaard considers that they may be able to
+be convinced of the usefulness of these policies – for example, he suggests improving their
+collaboration with the local job centres – and there is wide room for enrolment of employers in
+ALMPs.
+According to Bredgaard, a deeper and more systematic knowledge about why and how employers
+engage in ALMPs would improve the effectiveness of these programmes.
+
+The implementation of a combined set of policies – different types of ALMPs or
+ALMPs with income support policies – has shown an important potential to enhance
+the proactive nature of different labour market policies. These combinations may act
+in a proactive manner by helping to strengthen social protection floors. In developed
+countries these combinations include, for example, individualized plans combining
+income support (passive policies) and labour market integration activities – training, jobsearch activities and monitoring, etc. The package of policies known as Youth Guarantee
+(see box 1) is also a promising way to enhance proactive features for young people, as
+they improve their labour market integration with different interventions addressing not
+only the short-term problems of young unemployed but also trying to remove long-term
+drawbacks such as lack of enough formal training.
+In developing and emerging countries the combined approach, implementing ALMPs
+jointly with income support and basic services such as education and health, is aimed
+to target specifically the poorest households. Graduation policies are a prominent
+example. They aim to address short-term problems such as low incomes, but have also
+a wider anti-poverty perspective adding other interventions to overcome poverty traps.
+More specifically, we detect proactive features in policies combining self-employment
+or small business promotion and management training in graduation policies. This
+type of policy not only strengthens the economic fabric of local economies, but also
+provides incentives for self-sustaining earnings which may in turn reduce poverty. The
+evidence for Latin America and the Caribbean (Escudero et al., 2017) also shows that
+ALMPs in these countries have the potential to increase access to formal employment,
+which we consider an important proactive characteristic because an increase in formal
+employment improves resilience to diverse negative economic shocks.
+
+18
+
+Proactive features in specific policies
+Considering specific programmes, we have also shown that implementation
+characteristics are important and that, in addition, each type of programme presents
+proactive or reactive features. We present here a summary for each type of ALMP
+following the order of table 1.
+
+(i)
+
+Training
+
+Training programmes share reactive and proactive characteristics. Training courses may
+be clearly reactive when they are intended to provide specific skills to fill vacancies
+in the local economy. Proactive features may be associated with increasing general
+rather than job-specific human capital, as general human capital can be applied to
+many different jobs. It may also be reflected in the proactive retraining of workers in
+response to anticipated changes in labour market needs. Therefore, the main emphasis
+in providing this training would be on the government (as a policy) and not on the
+firms.23 The analysis of the US case using market-based mechanisms with training
+vouchers to cover needs of local firms – linked to increases in specific human capital –
+shows mixed results (Barnow, 2009). Their usually positive evaluation is mostly linked
+to the engagement of caseworkers and counsellors – which, again, highlights the role of
+implementation and the need for a combination of policies to develop proactive features.
+The predominant role of proactive features is clear when assessing training interventions
+in developed countries. For example, evaluations show that the effectiveness of training
+is rather low in the short term, but clearly positive in the medium and long terms (Card,
+Kluve and Weber, 2010, 2017; Vooren et al., 2018). This feature links training with
+building capacities to adapt to labour market challenges beyond the short term and the
+specific problems of local labour markets. On the other hand, in these countries the
+impact of training programmes is larger during crisis and smaller in good times, thereby
+indicating the reactive efficacy of these measures as well. However, the evidence also
+shows that this counter-cyclical pattern is not so large compared to the always positive
+effects of training compared to other types of ALMPs. Therefore, in developed countries
+the reactive feature derived from the anti-cyclical pattern may be less important
+compared to the effects associated with their proactive features.
+For developing and emerging countries – at least based on the available evidence for
+Latin America and the Caribbean – the impact of training programmes is pro-cyclical
+(larger in expansions and smaller during crisis). At first sight, this pro-cyclical pattern
+is rather proactive. Then, are training programmes clearly proactive in developing and
+emerging countries? We have to remark that, at the same time, the review shows that
+impacts of training are shorter-lived in developing and emerging countries, probably
+because their funding is insufficient for a long and in-depth implementation (Auer,
+Efendioglu and Leschke, 2008). This lack of long-term effects limits the proactive
+features of training in emerging and developing countries but could probably be
+overcome through adequate and sustained funding.
+
+23 This follows the traditional rule of how to fund general and specific human capital (Becker, 1964), although this general rule has been
+qualified in recent years. Acemoglu and Pischke (1998) have explained that firms are more likely to be interested in funding general
+human capital in imperfect labour markets where wages are compressed. Lazear (2008) has shown that even in the case of general
+skills, their combination in a job is rather specific, and wage profiles and the split of human capital costs depend on thickness of the
+market. Gathman and Schönberg (2010) show that skills are more portable (more “general”) than usually assumed, as workers move
+to occupations with similar task requirements.
+
+19
+
+(ii)
+
+Public works and direct job creation
+
+In developed countries, public works and direct job creation programmes are rather
+limited and restricted to very specific groups of disadvantaged workers. Often, they
+have neither positive nor negative effects, and when they have a positive impact, such
+effect is the smallest relative to other ALMPs (Kluve, 2010; Card, Kluve and Weber,
+2010, 2017). The main rationale for these programmes in developed countries is
+not effectiveness but equity, such as providing a sheltered and partial labour market
+integration to people otherwise excluded from the labour market. In these terms, they
+are more reactive than proactive, but this distinction does not seem as relevant in this
+case as equity reasons are probably much more important than efficiency.
+Public works and direct job creation may hold greater promise for proactive
+implementation in the case of developing and emerging countries, where these
+programmes have a wider presence and play a greater role of providing income support
+for specific groups and/or in case of bad economic conditions (Auer, Efendioglu and
+Leschke, 2008). Specifically in a developing and emerging country context, these types
+of ALMPs can be implemented as one component of a broader social protection floor
+strategy. They achieve this by combining income support and other interventions, such
+as training, to improve labour market integration of beneficiaries and with an objective
+of alleviating poverty. In these terms and combined with other policies within a social
+protection floor strategy, these policies may be considered as proactive, because they
+provide income and social protection against different situations and, at the same time,
+may improve labour market integration in the medium and long term.
+
+(iii) Employment subsidies
+Employment subsidies are more a developed-country type of ALMP, probably given their
+relatively costly implementation. Their effectiveness is mainly restricted to the short
+term and is clear only when targeting specific disadvantaged groups. For these reasons,
+this type of ALMP has strongly reactive features.
+However, reactive features of employment subsidies have been very useful in achieving
+short-term results for some groups of workers who face long-term labour market
+integration obstacles, such as older unemployed workers (Boockmann and Brändle,
+2015). The reviewed evidence for developed countries shows that employment subsidies
+for older workers may be effective, especially when combined with counselling and other
+labour market services to attend their potential health and social problems. On the
+other hand, there is also evidence showing that employment incentives may overcome
+displacement effects, if subsidies are implemented through caseworkers. Again, we
+appreciate that implementation characteristics are crucial to enhancing the effectiveness
+of policies and their proactive or reactive features, which could be achieved by the joint
+implementation of employment subsidies with caseworkers.
+Finally, the analysis of this policy clearly shows a key issue mentioned in the introduction:
+reactive features may be crucial for some groups of workers and, therefore, they are also
+needed in a balanced design of labour market policies.24
+
+24 When it comes to the possibility of proactively implementing employment subsidies, there may be room for their consideration in
+industry transformation, by helping to draw unemployed workers into a sector where future need and growth has proactively been
+identified. While no research is available thus far to support possible use to this effect, it may be helpful to consider the economic and
+policy implications of using employment subsidies more proactively as we enter a future where labour market transitions increase.
+
+20
+
+(iv) Self-employment and micro-enterprise creation
+ALMPs that promote self-employment and micro-enterprise creation have strong
+proactive features, and there is strong empirical evidence demonstrating their
+effectiveness in both developed and developing economies. In developed countries they
+have long-lasting effects, especially for disadvantaged groups of previously unemployed
+workers (Baumgartner and Caliendo, 2008; Caliendo and Künn, 2011).
+In the case of developing and emerging countries, evaluations reviewed in previous
+sections show that these interventions are effective when combined with some type of
+management training – as in graduation policies. Note that providing training for small
+entrepreneurs increases their human capital and they become more resilient to future
+changes in the economic context – i.e. they will tackle difficult managerial problems
+better. In addition, these combinations also have an anti-poverty objective as part of
+the strategy of enhancing social protection floors. Therefore, funding for start-ups and
+improving current small businesses – explicitly including self-employed workers – have
+proactive features in developing and emerging countries.
+
+(v)
+
+Labour market services
+
+Labour market services can play a crucial role in improving the overall implementation
+of ALMPs, as well as in providing important tools to help workers better navigate labour
+markets. They are therefore identified as having prime importance in transitioning toward
+a more proactive policy approach to labour markets. In developed countries, there is
+a key role for caseworkers, for example, in some employment incentives programmes
+where the intervention of these workers avoided the displacement effects which are
+typical of employment incentives that are not sufficiently targeted (Lombardi, Skans and
+Vikstrom, 2018). In fact, the role of caseworkers in these programmes was to provide
+support in hiring and, indirectly, to create a kind of targeting. Therefore, the added value
+of labour market intermediation in employment incentive policies is in making them
+targeted. In addition, labour market services are key elements in activation strategies.
+Enhanced job-search assistance, for example, is one of the policies increasing the
+probability of return to work when linked to income support policies. Probably, simple
+public or private labour market intermediation may be considered as reactive – i.e.
+placing non-employed people into available vacancies as quickly as possible. However,
+in combination with other measures it provides more effective and stable labour market
+integration, which is clearly a proactive feature.
+Another aspect shown in the review of the empirical evidence for developing countries
+was that some policies needed well-trained staff – as in the case of job applications
+training and transport subsidies to improve job-matching quality for jobseekers. To
+sustain the quality of the staff required to correctly implement these policies, middleand low-income countries must develop effective labour market services. Because of
+the usual limitations on public funding, long-term public–private partnerships may
+be considered. A permanent organization to provide labour market services would be
+helpful in developing such services with proactive characteristics in developing and
+emerging countries.
+
+21
+
+4. Conclusions
+Finding and implementing successful responses to the great recession has for many
+years been of major concern to policy-makers. Once the recovery spread around the
+globe, there were new challenges for labour market policies. The increased emphasis on
+ALMPs arose as one solution to meet these challenges, but also as a way of responding
+to longer-term trends such as globalization, technological change or environmental
+degradation. ALMPs also have the potential to address unexpected future change. In
+this context, this paper has reviewed the different types of ALMPs, as well as various
+combinations of policies – such as social protection floors and activation strategies –
+with a view to discerning whether they are potentially useful in protecting workers, while
+pre-empting a wide range of problems caused by economic shocks. We have called this
+feature proactivity. This is in contrast to reactive characteristics, which would relate to
+interventions addressing a specific problem in the short term. Both types of features
+are useful in the design of a balanced portfolio of labour market policies, but proactive
+features are likely to be closer to the debates about the future of work. Moreover,
+understanding the distinction between proactive and reactive characteristics of labour
+market policies may add a useful tool to improve the design of these policies.
+The paper argues that implementation appears to be crucial in enhancing the proactivity
+of labour market policies. From an aggregate perspective, we have identified in the
+empirical evidence two key implementation variables (Escudero, 2018): adequate
+funding for the administrative management of ALMPs, and continuity of public spending
+on these policies. These two dimensions of implementation increase the positive impact
+of ALMPs, but also have proactive features as they allow these policies – and their
+effects – to be sustainable over time. Considering the whole economy, tripartite social
+dialogue seems an ideal instrument to find avenues to enhance the positive effects of
+these implementation variables and proactive features. As Rychly (2009) remarks, the
+great recession has led to a more proactive approach towards social dialogue, even
+in countries with less dialogue-oriented public administrations. Therefore, the current
+recovery period would be the appropriate time to use tripartite social dialogue with this
+objective.
+In addition, implementation appears also to be key in enhancing the proactivity of more
+comprehensive policy approaches, such as those comprising a combination of policies.
+In developing and emerging countries, the combination of policies has been a distinctive
+characteristic of the development of social protection floors since the 1990s. The ILO
+Social Protection Floors Recommendation, 2012 (No. 202) is an important part of this
+“quiet revolution” in social protection in developing and emerging countries (Barrientos
+and Hulme, 2009). These policies provide income support as an anti-poverty measure,
+but also with a view to broadening the labour market opportunities of individuals through
+the joint implementation of ALMPs. Impact evaluations show that these joint approaches
+have generally positive results not only in terms of improving employment and earnings,
+but also in terms of providing effective access to basic services such as health or child
+education. Their proactive features are based on this joint implementation, because
+it is this articulation of income support and ALMPs that improves the perspectives of
+beneficiaries in the medium and long term.
+In the case of developed countries, the combination of policies has been shaped by
+the activation strategies mainly promoted by the OECD and the European Commission.
+Activation strategies have linked passive policies with different ALMPs. As such, this
+
+22
+
+joint approach provides income support, but also greater opportunities for job access
+and reskilling, among others. In other cases, they are also linked to training interventions
+through market-based mechanisms (King and Barnow, 2009). In addition, the evidence
+shows that these types of combined policies have larger impacts when caseworkers
+intervene, which emphasizes the importance of labour market services for a successful
+implementation of labour market policies. In fact, the main lesson from the activation
+strategies is that the articulation of income support (passive) policies with ALMPs may
+improve their medium- and long-term results, as in the case of employment incentives
+when they are intermediated by caseworkers (Lombardi, Skans and Vikstrom, 2018).
+The review of the evidence on the effectiveness of specific ALMPs has provided a more
+detailed characterization of proactive and reactive features for each type of programme.
+It is interesting that the proactive and reactive characteristics of each type of ALMP
+varies between developed and developing and emerging countries. While training has
+a clearer proactive feature for developed countries, this is not the case for developing
+and emerging countries, mainly because in the latter countries the impacts of training
+are short-lived – as shown by the evidence from Latin America and the Caribbean
+(Escudero et al., 2017). Public works and direct job creation policies present proactive
+features for all groups of countries, although they seem more meaningful for developing
+and emerging countries as they are relevant for a greater share of the population. The
+proactive feature is also clearer in developing and emerging countries given their explicit
+anti-poverty objective of sustaining people’s incomes. Employment subsidies present
+reactive features, as their effects are mainly short-lived, when they exist at all. This
+reactive characteristic is especially suitable for low-wage older workers, for whom this
+policy seems especially effective (Boockman and Brändle 2015; Huttunen et al 2013).
+Self-employment and start-up programmes present clear proactive features. While these
+policies improve and sustain earnings for the unemployed in all countries, in developing
+and emerging countries they also collaborate to improve the earnings of informal workers
+and their transition to formal employment. In addition, in emerging and developing
+countries these policies are sometimes included in the development of social protection
+floors. Finally, labour market services have proactive features, especially when they
+are implemented jointly with other policies in developed countries. In developing and
+emerging countries, the evidence is along the same lines, but as these policies must
+rest on skilled caseworkers and counsellors, they are costly and not easy to implement
+without additional and sustained financial support.
+Finally, increasing resources to ALMPs would help to develop a balanced set of policies
+with proactive and reactive features, especially in developing and emerging countries
+and in the case of training. In this vein, Auer, Efendioglu and Leschke (2008) propose to
+encourage donors to embrace the goals of ALMPs and align their funds for this purpose.
+This is already a reality for graduation policies, for example, but stable funding beyond
+isolated initiatives is necessary, especially in low-income countries. In this vein, it is
+important to highlight again that funding stability during the business cycle increases
+the aggregate effectiveness of ALMPs (Escudero, 2018) and is a key proactive feature
+of ALMPs from an aggregate perspective. In fact, the lack of adequate and sustained
+funding may even slow down the interesting evolution of social protection floors as
+a combination of policies with an explicit anti-poverty objective, and with proactive
+features at the same time.
+
+23
+
+References
+Abebe, G.; Caria, S.; Fafchamps, M.; Falco, P.; Franklin, S.; Quinn, S. 2016. Anonymity or distance?
+Experimental evidence on obstacles to youth employment opportunities, Working Paper (London,
+Department for International Development).
+Acemoglu, D.; Pischke, J. S. 1998. “Why do firms train? Theory and evidence”, in Quarterly Journal of
+Economics, Vol. 113, No. 1, pp. 79−119.
+Almeida, R.; Arbelaez, J.; Honorati, M.; Kuddo, A.; Lohmann, T.; Ovadiya, M.; Pop, L.; Sanchez Puerta,
+M. L.; Weber, M. 2011. Improving employability and earning opportunities: The role of activation and
+graduation programs, Social Protection and Labor Discussion Paper No. 1204 (Washington DC, World
+Bank).
+Andor, L.; Veselý, L. 2018. The EU’s Youth Guarantee: A broadly accepted reform in need of full
+implementation, OSE Opinion Paper No. 19 (Brussels, Observatoire Social Européen).
+Arni, P.; Lalive, R.; Van Ours, J. C. 2013. “How effective are unemployment benefit sanctions? Looking
+beyond unemployment exit”, in Journal of Applied Economics, Vol. 28, No. 7, pp. 1153–1178.
+Arranz, J. M.; García Serrano, C.; Hernanz, V. 2013. “Active labour market policies in Spain: A
+macroeconomic evaluation”, in International Labour Review, Vol. 152, No. 2, pp. 327–348.
+Auer, P.; Efendioglu, Ü.; Leschke, J. 2008. Active labour market policies around the world: Coping with
+the consequences of globalization, 2nd edition (Geneva, International Labour Office).
+Baker, D.; Glyn, A.; Howell, D. R.; Schmitt, J. 2005. “Labor market institutions and unemployment: A
+critical assessment of the cross-country evidence” in D. R. Howell (ed.): Fighting unemployment: The
+limits of free market orthodoxy (Oxford, Oxford University Press), pp. 72–118.
+Banerjee, A.; Duflo, E.; Goldberg, N.; Karlan, D.; Osei, R.; Parienté, W.; Shapiro, J.; Thuysbaert, B.;
+Udry, C. 2015. “A multifaceted program causes lasting progress for the very poor: Evidence from six
+countries”, in Science, Vol. 348, No. 6236.
+Barnow, B. S. 2009. “Vouchers in U.S. vocational training programs: An overview of what we have
+learned”, in Journal for Labour Market Research, Vol. 42, No. 1, pp. 71–84.
+Barrientos, A. 2011. “Social protection and poverty”, in International Journal of Social Welfare, Vol.
+20, No. 3, pp. 240–249.
+—; Hulme, D. 2009. “Social protection for the poor and the poorest in developing countries: Reflections
+on a quiet revolution”, in Oxford Development Studies, Vol. 37, No. 4, pp. 439–456.
+Bassanini, A.; Duval, R. 2009. “Unemployment, institutions, and reform complementarities: Reassessing the aggregate evidence for OECD countries”, in Oxford Review of Economic Policy, Vol. 25,
+No. 1, pp. 40–59.
+Baumgartner, H. J.; Caliendo, M. 2008. “Turning unemployment into self-employment: Effectiveness of
+two start-up programmes”, in Oxford Bulletin of Economics and Statistics, Vol. 70, No. 3, pp. 347–373.
+Becker, G. S. 1964. Human capital (Chicago, University of Chicago Press).
+Bellmann, L.; Jackman, R. 1996. “Aggregate impact analysis”, in G. Schmid, J. O’Reilly and K.
+Schömann (eds.): International handbook of labour market policy and evaluation (Cheltenham, Edward
+Elgar), pp. 143–162.
+Bergemann, A. H.; van den Berg, G. J. 2008. “Active labor market policy effects for women in Europe:
+A survey”, in Annales d’Economie et de Statistique, No. 91–92, pp. 385–408.
+Betcherman, G.; Olivas, K.; Dar, A. 2004. Impacts of active labor market programs: New evidence from
+evaluations with particular attention to developing and transition countries, Social Protection Discussion
+Paper Series No. 0402 (Washington DC, World Bank).
+Blanchard, O.; Wolfers, J. 2000. “The role of shocks and institutions in the rise of European
+unemployment: The aggregate evidence”, in Economic Journal, Vol. 110, No. 461, pp. 1–33.
+Bollens, J. 2011. Evaluating the mandatory activation of older unemployed, WSE Report 5-2011
+(Leuven, Steunpunt Werk en Sociale Economie).
+
+24
+
+Bonoli, G. 2010. “The political economy of active labor-market policy”, in Politics & Society, Vol. 38,
+No. 4, pp. 435–457.
+Boockmann, B.; Brändle, T. 2015. Coaching, counseling, case-working: Do they help the older
+unemployed out of benefit receipt and back into the labor market?, IZA Discussion Paper Series No.
+8811 (Bonn, Institute for the Study of Labor
+Bosch, G. 2011. “The German labour market after the financial crisis: Miracle or just a good
+policy mix?”, in D. Vaughan-Whitehead (ed.): Work inequalities in the crisis. Evidence from Europe
+(Cheltenham, Edward Elgar), pp. 243–275.
+Bratti, M.; Ghirelli, C.; Havari, E.; Santangelo, G. 2018. Vocational training and labour market outcomes:
+Evidence from Youth Guarantee in Latvia, European Commission Joint Research Centre (JRC) Working
+Paper (Luxembourg, Publications Office of the European Union).
+Bredgaard, T. 2017. “Employers and active labour market policies: Typologies and evidence”, in Social
+Policy and Society, forthcoming.
+Cahuc, P.; Carcillo, S. 2011. “Is short-time work a good method to keep unemployment down?”, in
+Nordic Economic Policy Review, Vol, 1, No. 1, pp. 133–164.
+Caliendo, M.; Künn, S. 2011. “Start-up subsidies for the unemployed: Long-term evidence and effect
+heterogeneity”, in Journal of Public Economics, Vol. 95, No. 3–4, pp. 311–331.
+—; —. 2014. “Regional effect heterogeneity of start-up subsidies for the unemployed”, in Regional
+Studies, Vol. 48, No. 6, pp. 1108–1134.
+Card, D.; Kluve, J.; Weber, A. 2010. “Active labour market policy evaluations: A meta-analysis”, in The
+Economic Journal, Vol. 120, No. 548, pp. 452–477.
+—; —; —. 2017. “What works: A meta-analysis of recent active labor market program evaluations”, in
+Journal of the European Economic Association, forthcoming.
+Cazes, S.; Heuer, C.; Verick, S. 2011. “Labour market policies in times of crisis”, in I. Islam and S.
+Verick (eds.): From the great recession to labour market recovery (London, Palgrave Macmillan), pp.
+196–226.
+Cho, Y.; Honorati, M. 2014. “Entrepreneurship programs in developing countries: A meta regression
+analysis”, in Labour Economics, Vol. 28, pp. 110–130.
+Cichon, M. 2014. The making or breaking of a UN social protection strategy: The post 2015 development
+agenda, paper prepared for the UNRISD Conference on New Directions in Social Policy: Alternatives
+from and for the Global South, 7–8 April 2014, Geneva, Switzerland (Geneva, United Nations Research
+Institute for Social Development).
+Crépon, B.; Duflo, E.; Gurgand, M.; Rathelot, R.; Zamora, P. 2013. “Do labor market policies have
+displacement effects? Evidence from a clustered randomized experiment”, in Quarterly Journal of
+Economics, Vol. 128, No. 2, pp. 531–580.
+Eichorst, W.; Rinne, U. 2017. The European Youth Guarantee: A preliminary assessment and broader
+conceptual implications, IZA Policy Paper No. 128 (Bonn, Institute for the Study of Labor).
+Escudero, V. 2018. “Are active labour market policies effective in activating and integrating low-skilled
+individuals? An international comparison”, in IZA Journal of Labor Policy, Vol. 7, No. 1, pp. 1–26.
+—; López Mourelo, E. 2017. The European Youth Guarantee: A systematic review of its implementation
+across countries, ILO Research Department Working Paper No. 21 (Geneva, International Labour
+Office).
+—; Kluve, J.; López Mourelo, E.; Pignatti, C. 2017. Active labour market programmes in Latin America
+and the Caribbean: Evidence from a meta-analysis, ILO Research Department Working Paper No. 20
+(Geneva, International Labour Office).
+Esping-Andersen, G. 1990. The three worlds of welfare capitalism (Cambridge, UK, Polity Press).
+Estevão, M. 2007. “Labor policies to raise employment”, in IMF Staff Papers, Vol. 54, No.1, pp.
+113–138.
+Eurofound. 2017. Employment effects of reduced non-wage labour costs (Luxembourg, Publications
+Office of the European Union).
+
+25
+
+Gathmann, C.; Schönberg, U. 2010. “How general is human capital? A task-based approach”, in Journal
+of Labor Economics, Vol. 28, No. 1, pp. 1–49.
+Grimm, M.; Paffhausen, A. L. 2105. “Do interventions targeted at micro-entrepreneurs and small
+and medium-sized firms create jobs? A systematic review of the evidence for low and middle income
+countries”, in Labour Economics, Vol. 32, pp. 67–85.
+Halder, S. R.; Mosley, P. 2004. “Working with the ultra-poor: Learning from BRAC experiences”, in
+Journal of International Development, Vol. 16, No. 3, 387-406.
+Hämäläinen, K.; Hämäläinen, U.; Tuomala, J. 2018. “The evaluation of a Finnish youth guarantee:
+Lessons for Europe”, in M. A. Malo and A. Moreno-Mínguez (eds.): European youth labour markets:
+Problems and policies (Springer International), pp. 219–234.
+Hardoy, I.; Roed, K.; von Simson, K.; Zhang, T. 2018. “Initiatives to combat the labour market exclusion
+of youth in Northern Europe: A meta-analysis”, in M. A. Malo and A. Moreno-Mínguez (eds.): European
+youth labour markets: Problems and policies (Springer International), pp. 235–251.
+Hashemi, S.; Rosenberg, R. 2006. Graduating the poorest into microfinance: Linking safety nets and
+financial services, CGAP Focus Note No. 34 (Washington DC, Consultative Group to Assist the Poor).
+Heckman, J. J.; Smith, J. A. 1996. “Experimental and nonexperimental evaluation”, in G. Schmid,
+J. O’Reilly and K. Schömann (eds.): International handbook of labour market policy and evaluation
+(Cheltenham, Edward Elgar), pp. 37–88.
+Hijzen, A.; Martin, S. 2013. “The role of short-time work schemes during the global financial crisis
+and early recovery: A cross-country analysis”, in IZA Journal of Labor Policy, Vol. 2, No. 5, pp. 1−31.
+Huttunen, K.; Pirttilä, J.; Uusitalo, R. 2013. “The employment effects of low-wage subsidies”, in
+Journal of Public Economics, Vol. 97, Issue C, pp. 49–60.
+ILO. 2010. Effects of non-contributory social transfers in developing countries: A compendium, Social
+Security Department Working Paper (Geneva, International Labour Office).
+—. 2013. “How to shift to a more equitable and job-friendly economic path”, World of Work 2013:
+Repairing the economic and social fabric (Geneva, International Labour Office), pp. 101–116.
+—. 2014. Portugal: Tackling the jobs crisis in Portugal, Studies in Growth with Equity Series (Geneva,
+International Labour Office).
+—. 2015. Inventory of labour market policy measures in the EU 2008–1: The crisis and beyond,
+Synthesis Report (Geneva, International Labour Office).
+—. 2016. What works: Active labour market policies in Latin America and the Caribbean, Studies of
+Growth with Equity Series (Geneva, International Labour Office).
+—. 2017. Independent evaluation of the ILO strategy and actions for creating and extending social
+protection floors 2012–2017, Evaluation Office (Geneva, International Labour Office).
+Immervoll, H.; Scarpetta, S. 2012. “Activation and employment support policies in OECD countries: An
+overview of current approaches”, in IZA Journal of Labor Policy, Vol. 1, No. 1, pp. 1−20.
+Islam, I.; Verick, S. 2011. “The great recession of 2008–09: Causes, consequences and policy
+responses”, in I. Islam and S. Verick (eds.): From the great recession to labour market recovery (London,
+Palgrave Macmillan), pp. 19–52.
+Jensen, R. 2012. “Do labor market opportunities affect young women’s work and family decisions?
+Experimental evidence from India”, in Quarterly Journal of Economics, Vol. 127, No. 2, pp. 753–792.
+Jespersen, S. T.; Munch, J. R.; Skipper, L. 2008. “Costs and benefits of Danish active labour market
+programmes”, in Labour Economics, Vol. 15, pp. 859–84.
+Kabeer, N.; Waddington, H. 2015. “Economic impacts of conditional cash transfer programmes: A
+systematic review and meta-analysis”, in Journal of Development Effectiveness, Vol. 7, No. 3, pp.
+290–303.
+King, C. T.; Barnow, B. S. 2009. The use of market mechanisms in U.S. workforce programs: Lessons
+for WIA reauthorization and the European Social Fund, paper presented to the Conference on What
+the European Social Fund Can Learn from the WIA Experience, 7 November 2009, Washington DC.
+Available at: http://umdcipe.org/conferences/WIAWashington/Papers/King-The_Use_of_Market_
+Mechanisms_in_U.S._Workforce_Programs.pdf.
+
+26
+
+Klepinger, D. H.; Johnson, T. R.; Joesch, J. M. 2002. “Effects of unemployment insurance worksearch
+requirements: The Maryland experiment”, in Industrial and Labor Relations Review, Vol. 56, No. 1,
+pp. 3–22.
+Kluve, J. 2010. “The effectiveness of European active labor market programs”, in Labour Economics
+Vol. 17, No. 6, pp. 904–918.
+—; Puerto, S.; Robalino, D.; Romero, J. M.; Rother, F.; Stöterau, J.; Weidenkaff, F.; Witte, M. 2016.
+Do youth employment programs improve labor market outcomes? A systematic review, IZA Discussion
+Paper No. 10263 (Bonn, Institute for the Study of Labor).
+Knuth, M. 2014. 2014 German labour market outlook (Essen, Institut Arbeit und Qualifikation (IAQ),
+Universität Duisburg-Essen). Available at: http://www.iaq.uni-due.de/aktuell/veroeff/2014/knuth01_
+en.pdf.
+Koning, J. de. 2001. “Aggregate impact analysis of active labour market policy: A literature review”, in
+International Journal of Manpower, Vol. 22, No. 8, pp. 707–735.
+—; Mosley, H. 2001. Labour market policy and unemployment: Impact and process evaluations in
+selected European countries (Cheltenham, Edward Elgar)
+Lazear, E. 2009. “Firm-specific human capital: A skill-weights approach”, in Journal of Political
+Economy, Vol. 117, No. 5, pp. 914–940.
+Lombardi, S.; Skans, O. N.; Vikstrom, J. 2018. “Targeted wage subsidies and firm performance”, in
+Labour Economics, forthcoming.
+Macours, K.; Schady, N.; Vakis, R. 2012. “Cash transfers, behavioral changes, and cognitive
+development in early childhood: Evidence from a randomized experiment”, in American Economic
+Journal: Applied Economics, Vol. 4, No. 2, pp. 247–273.
+Martin, J. P. 2015. Activation and active labour market policies in OECD countries: Stylized facts and
+evidence on their effectiveness, IZA Policy Paper No. 84 (Bonn, Institute for the Study of Labor).
+Martínez, C.; Puentes, E.; Ruiz-Tagle, J. 2018. “The effects of micro-entrepreneurship on labor market
+performance: Experimental evidence from Chile”, in American Economic Journal: Applied Economics,
+Vol. 10, No. 2, pp. 101–124.
+Martins, P.; Costa, S. 2014. Reemployment and substitution effects from increased activation: Evidence
+from times of crisis, IZA Discussion Paper No. 8600 (Bonn, Institute for the Study of Labor).
+Mascherini, M. 2012. Youth guarantee: Experiences from Finland and Sweden (Dublin, European
+Foundation for the Improvement of Living and Working Conditions).
+McKenzie, D. 2017. How effective are active labor market policies in developing countries? A critical
+review of recent evidence, IZA Discussion Paper No. 10655 (Bonn, Institute for the Study of Labor).
+Meyer, B. D. 1995. “Lessons from the US unemployment insurance experiments”, in Journal of
+Economic Literature, Vol. 331, No. 1, pp. 91–131.
+Michaelides M.; Benus J. 2012. “Are self-employment training programs effective? Evidence from
+Project GATE”, in Labour Economics, Vol. 19, No. 5, pp. 695–705.
+—; Mueser, P. 2017. Are reemployment services effective? Experimental evidence from the great
+recession, Department of Economics Working Paper 06-15 (Nicosia, University of Cyprus). Available
+at: http://papers.econ.ucy.ac.cy/RePEc/papers/06-15.pdf.
+Murtin F.; de Serres A. 2014. “How do policies affect the exit rate out of unemployment? Disentangling
+job creation from labour market frictions”, in Labour, Vol. 28, No. 2, pp. 190–208.
+OECD. 1993. “Active labour market policies: Assessing macroeconomic and microeconomic effects”,
+in Employment Outlook 1993 (Paris, Organisation for Economic Co-operation and Development), pp.
+39–80.
+—. 2013. “Activating jobseekers: Lessons from seven OECD countries”, in Employment Outlook 2013
+(Paris, Organisation for Economic Co-operation and Development), pp. 127–190.
+Robalino, D.; Walker, I.; L. Rawlings. 2011. Building social protection and labor systems: Concepts
+and operational implications, Social Protection & Labor Discussion Paper No. 1202 (Washington DC,
+World Bank).
+
+27
+
+Rychly, L. 2009. Social dialogue in times of crisis: Finding better solutions, Industrial and Employment
+Relations Department (DIALOGUE) Working Paper No. 1 (Geneva, International Labour Office).
+—. 2011. “Coping with crises: Easing the burden of macroeconomic and structural adjustment through
+social dialogue”, in I. Islam and S. Verick (eds.): From the great recession to labour market recovery
+(London, Palgrave Macmillan), pp. 227–251.
+Scarpetta, S. 1996. “Assessing the role of labour market policies and institutional settings on
+unemployment: A cross-country study”, in OECD Economic Studies, Vol. 26, No. 1, pp. 43–98.
+Schmid, J. 1996. “Process evaluation: Policy formation and implementation”, in G. Schmid, J. O’Reilly
+and K. Schömann (eds.): International handbook of labour market policy and evaluation (Cheltenham,
+Edward Elgar), pp. 198–231.
+Thelen, K. 2014. Varieties of liberalization and the new politics of social solidarity (Cambridge,
+Cambridge University Press).
+Vaughan-Whitehead, D. 2011. “Introduction: Has the crisis exacerbated work inequalities?”, in D.
+Vaughan-Whitehead (ed.): Work inequalities in the crisis: Evidence from Europe (Cheltenham, Edward
+Elgar), pp. 1–37.
+Vodopivec, M. 2013. “Introducing unemployment insurance to developing countries”, in IZA Journal of
+Labor Policy, Vol. 2, No. 1, pp. 1–23.
+Vooren, M.; Haelermans, C.; Groot, W.; van den Brink, H. M. 2018. “The effects of active labour market
+policies: A meta-analysis”, in Journal of Economic Surveys, forthcoming.
+Weishaupt, J. T. 2011. From the manpower revolution to the activation paradigm: Explaining institutional
+continuity and change in an integrating Europe (Amsterdam, Amsterdam University Press).
+
+28
+
+

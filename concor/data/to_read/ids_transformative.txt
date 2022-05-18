@@ -1,0 +1,1504 @@
+IDS Working Paper 232
+
+Transformative social protection
+
+Stephen Devereux and Rachel Sabates-Wheeler
+
+October 2004
+
+INSTITUTE OF DEVELOPMENT STUDIES
+Brighton, Sussex BN1 9RE
+ENGLAND
+
+i
+
+Transformative social protection
+Stephen Devereux and Rachel Sabates-Wheeler
+IDS Working Paper 232
+First published by the Institute of Development Studies in October 2004
+© Institute of Development Studies 2004
+ISBN 1 85864 844 0
+A catalogue record for this publication is available from the British Library.
+All rights reserved. Reproduction, copy, transmission, or translation of any part of this publication may be made
+only under the following conditions:
+•
+with the prior permission of the publisher; or
+•
+with a licence from the Copyright Licensing Agency Ltd., 90 Tottenham Court Road, London W1P
+9HE, UK, or from another national licensing agency; or
+•
+under the terms set out below.
+This publication is copyright, but may be reproduced by any method without fee for teaching or non-profit
+purposes, but not for resale. Formal permission is required for all such uses, but normally will be granted
+immediately. For copying in any other circumstances, or for re-use in other publications, or for translation or
+adaptation, prior written permission must be obtained from the publisher, and a fee may be payable.
+Available from:
+Communications Unit
+Institute of Development Studies
+at the University of Sussex
+Brighton BN1 9RE, UK.
+Tel: +44 (0)1273 678269
+Fax: +44 (0)1273 621202
+Email: publications@ids.ac.uk
+www.ids.ac.uk/ids/bookshop
+Printed by XPS Limited, Brighton UK
+IDS is a charitable company limited by guarantee and registered in England (No. 877338).
+
+ii
+
+Summary
+Social protection describes all public and private initiatives that provide income or consumption transfers
+to the poor, protect the vulnerable against livelihood risks, and enhance the social status and rights of the
+marginalised; with the overall objective of reducing the economic and social vulnerability of poor,
+vulnerable and marginalised groups. This paper argues against the popular perception of social protection
+as “social welfare programmes for poor countries”, consisting of costly targeted transfers to economically
+inactive or vulnerable groups. It also challenges the limited ambition of social protection policy in practice,
+which has moved little from its origins in the “social safety nets” discourse of the 1980s, and aims to
+provide “economic protection” against livelihood shocks, rather than “social protection” as broadly
+defined here. Instead, we argue that social protection can be affordable; it should extend to all of the
+population; it can contribute to the Millennium Development Goal of poverty reduction; and it can
+empower marginalised people and be socially “transformative”.
+
+iii
+
+iv
+
+Contents
+Summary
+
+iii
+
+1
+
+Introduction
+
+1
+
+2
+
+Conceptualising social protection
+
+2
+
+2.1
+
+Current definitions of social protection
+
+3
+
+2.2
+
+The Social Risk Management framework
+
+5
+
+2.3
+
+Introducing the transformative element
+
+8
+
+3
+
+4
+
+Social protection in practice: protection, prevention, promotion and
+transformation
+
+14
+
+3.1
+
+Protective social protection: non-formal social safety nets in Uganda
+
+14
+
+3.2
+
+Preventive social protection: formal social security in Uganda
+
+16
+
+3.3
+
+Protective/promotive social protection: school feeding
+
+19
+
+3.4
+
+Promotive/transformative social protection: minimum wages
+
+20
+
+3.5
+
+Transformative social protection: anti-discrimination campaigns
+
+24
+
+Conclusion
+
+26
+
+References
+
+28
+
+Tables
+Table 2.1
+
+A framework for social protection programmes
+
+13
+
+A conceptual framework for social protection
+
+11
+
+Figures
+Figure 2.1
+
+Boxes
+Box 2.1
+
+Agency definitions of social protection
+
+v
+
+3
+
+vi
+
+1 Introduction
+Social protection emerged as a critical response to the “safety nets” discourse of the late 1980s and early
+1990s. In the 1990 World Development Report, for instance, safety nets were very much the third prong of the
+World Bank’s three-pronged approach to “attacking poverty” (World Bank 1990), and were
+conceptualised as minimalist social assistance in countries too poor and administratively weak to introduce
+comprehensive social welfare programmes. During the 1990s, as thinking on livelihoods, risk and
+vulnerability, and the multi-dimensional nature of poverty became more nuanced, safety nets were
+increasingly criticised as residualist and paternalistic, and more sophisticated alternatives began to be
+proposed. At the same time, the broader potential of social protection began to be recognised, and bigger
+claims are now being made for what social protection can and should strive to achieve.
+There are two interconnected strands in this response, both linked to a concern for long-term and
+sustainable poverty reduction. The first links risk management explicitly with economic growth, and
+argues that reducing risk or protecting the poor against income and consumption variability will allow
+them to invest and accumulate – a “trampoline” out of poverty (World Bank 2000). Despite being
+vigorously promoted in international development publications, this link has not yet become a key
+component of anti-poverty programming in practice. In low-income countries, social protection continues
+to be perceived by governments and donors as comprising fiscally unsustainable “consumption” transfers
+to the economically inactive or unproductive poor, which diverts scarce public resources from
+“productive” investment for economic growth, and therefore deserves lower priority as a poverty
+reduction tool.
+At the same time, most advocates of social protection do not make the second connection which we
+argue is of fundamental importance to long-term poverty reduction, namely the positive relationship
+between livelihood security and enhanced autonomy or empowerment. Social protection continues to be
+conceptualised by development agencies mainly in terms of public responses to livelihood shocks – the
+conventional, narrowly specified “safety net” function. But this is “economic protection”, not “social
+protection”, and it is hardly socially transformative. Largely missing from the World Bank’s Social Risk
+Management framework, for instance, is a concern for equity and social rights. We argue that an
+appreciation of this second linkage can help create the policy conditions for a virtuous cycle of pro-poor
+growth, governance systems that are accountable and responsive to poorer as well as wealthier citizens,
+and an approach to development that is grounded in concerns for social equity.
+In an attempt to challenge the negative perceptions and narrow preconceptions that still surround
+social protection, this paper addresses three topical challenges in the policy literature:
+•
+
+Affordability: Given binding budget constraints, how can low-income countries deliver effective social
+protection to their vulnerable citizens at affordable cost?
+
+•
+
+Growth: Can social protection policies contribute to the Millennium Development Goal of halving
+extreme poverty and hunger, by supporting pro-poor economic growth?
+
+1
+
+•
+
+Equity: How can existing definitions and frameworks for social protection be extended to incorporate
+the “social” as well as “economic” aspects of risk and vulnerability?
+
+Recent thinking and research is starting to provide some encouraging answers to these questions, and is
+demonstrating their positive interconnections. For instance:
+•
+
+Many forms of social protection are affordable even in the poorest countries, especially those that are
+not based on large or repeated income transfers to beneficiaries, but instead provide protection to
+the poor and vulnerable through, say, legislative change.
+
+•
+
+Evidence is accumulating that social protection can contribute, both directly and indirectly, to
+economic growth and poverty reduction:
+•
+
+Directly: redistributive transfers raise the incomes and smooth the consumption of the poor,
+which also allows them to engage in moderate risk-taking, and to protect rather than erode their
+asset holdings when confronted by livelihood shocks;
+
+•
+
+Indirectly: several social protection mechanisms contribute to economic growth through asset
+creation (e.g. public works programmes build infrastructure, school feeding schemes invest in
+human capital), and income or employment multipliers.
+
+•
+
+“Rights-based approaches” to development focus explicitly on social equity concerns, and propose
+interventions that modify prejudicial attitudes and behaviours towards socially vulnerable groups –
+such as challenging customary law on inheritance rights to protect widows; introducing minimum
+wages for low-paid workers; and sensitisation campaigns to protect people living with HIV/AIDS
+against discrimination.
+
+This paper is structured into two main sections. The next section is conceptual: it reviews current social
+protection definitions and analytical frameworks, identifies several limitations of these, and presents our
+own conceptualisation, which highlights the “transformative” potential of social protection. The following
+section considers social protection policies in practice, by discussing several measures that can be labelled
+as “protective”, “preventive”, “promotive”, and “transformative” social protection. The paper concludes
+by reasserting the case for social protection as supporting social as well as economic goals of
+development.
+
+2 Conceptualising social protection
+This section of the paper presents some currently influential definitions of social protection, critically
+assesses the World Bank’s Social Risk Management framework, and proposes a new definition and
+analytical framework that incorporates a “transformative” element which recognises the need for social
+equity as well as protection against livelihood risks.
+
+2
+
+2.1 Current definitions of social protection
+
+Although social protection has recently become mainstreamed in development discourse, it remains a
+term that is unfamiliar to many and carries a range of definitions, both in the development studies
+literature and among policymakers responsible for implementing social protection programmes. One
+inevitable result of this proliferation of concepts and understandings is confusion: the core components
+and boundaries of social protection are far from agreed, and different stakeholders perceive social
+protection in very different ways. For example:
+(i)
+
+Some see social protection narrowly, essentially as a new label for old-style social welfare provided to
+the “deserving poor” (e.g. widows and orphans, or people with disabilities).
+
+(ii) Many policymakers continue to equate social protection with social safety nets, or interventions that
+cushion the poor against production and consumption shocks, such as food aid for drought-affected
+farmers in subsistence-oriented communities.
+(iii) Others adopt a very broad approach, including education and health subsidies, job creation and
+microcredit programmes, as well as safety nets for groups that may be vulnerable to shocks, but are
+not usually regarded as among the poorest strata of society (e.g. coffee farmers facing falling export
+prices).
+(iv) A more “political” or “transformative” view extends social protection to arenas such as equity,
+empowerment and economic, social and cultural rights, rather than confining the scope of social
+protection to targeted income and consumption transfers.
+Some current definitions of social protection from the policy literature are listed in Box 2.1.
+
+Box 2.1 Agency definitions of social protection
+‘Social protection refers to the public actions taken in response to levels of vulnerability, risk and
+deprivation which are deemed socially unacceptable within a given polity or society’. Overseas
+Development Institute (ODI)
+‘Social protection is a collection of measures to improve or protect human capital, ranging from labor
+market interventions, publicly mandated unemployment or old-age insurance to targeted income support.
+Social protection interventions assist individuals, households, and communities to better manage the
+income risks that leave people vulnerable’. World Bank
+Social protection is ‘the provision of benefits to households and individuals through public or collective
+arrangements to protect against low or declining living standards’. International Labour Office (ILO)
+Social protection is defined as ‘the set of policies and programs designed to reduce poverty and
+vulnerability by promoting efficient labor markets, diminishing people’s exposure to risks, and enhancing
+their capacity to protect themselves against hazards and interruption/loss of income’. Asian Development
+Bank (ADB)
+Sources: Norton, Conway and Foster (2000) (ODI); World Bank (2004) (World Bank); van Ginneken (1999)
+(ILO); Ortiz (2001) (ADB).
+
+3
+
+All the definitions in Box 2.1 share three common elements that we would question:
+1)
+
+Problem identification: According to all these agencies, social protection is required to address a
+narrowly specified set of economic problems or livelihood shocks – ‘in response to [unacceptable]
+levels of vulnerability, risk and deprivation’, ‘managing income risks’, ‘protect against low or declining
+living standards’, ‘protect individuals from the risks inherent in earning a living’. This view excludes
+many elements that we believe should be included in the list of concerns addressed by social
+protection, particularly “social risks” such as child labour, domestic violence, armed conflict and
+ethnic discrimination.
+
+2)
+
+Problem prioritisation: Each definition prioritises a slightly different set of problems – either ‘low’
+levels of income or living standards; or ‘downward fluctuations in incomes’ and ‘declining living
+standards’. In our view, social protection should address both types of livelihood threat: vulnerability
+associated with “being poor” (for which social assistance is needed), and vulnerability associated with
+the risk of “becoming poor” (for which social insurance is needed), as well as social injustice arising
+from structural inequalities and abuses of power (for which “social equity” is needed).
+
+3)
+
+Social protection providers: Each definition refers to ‘public actions’, ‘public or collective
+arrangements’, or ‘a set of policies and programs’ – clearly, it is assumed that social protection is
+delivered mainly through “public” (government) agencies; only the ILO mentions other forms of
+“collective” provision, which presumably would include community-based and private sector
+institutions. This paper favours a broader classification of social protection providers, including
+formal (“public” and “private”) as well as informal (“collective” or “community-level”) sources.
+
+An additional layer of confusion comes from the fact that different agencies subscribe to different
+frameworks when elucidating and implementing their social protection policies. For example, the ILO has
+developed a framework, derived largely from the work of Guhan (1994), which asserts that social
+protection in poor countries must be viewed ‘as part of, and fully integrated with anti-poverty policies,
+with such policies themselves being broadly conceived in view of the complex, multi-dimensional nature
+of poverty and deprivation’ (Guhan 1994: 38). Within the ILO framework, social protection is
+differentiated between:
+•
+
+protective measures – which have the specific objective of guaranteeing relief from deprivation;
+
+•
+
+preventive measures – which directly seek to avert deprivation in various ways; and
+
+•
+
+promotional measures – which aim to enhance real incomes and capabilities.
+
+The categories are intended to suggest a gradation of interventions, proceeding from a narrow domain
+(protection measures in the form of, say, safety nets) to increasingly broader domains (preventive and
+even promotional measures). One strength of the ILO framework is its broad conceptualisation of
+poverty and vulnerability, which allows the notion of deprivation to be defined along multiple lines, over
+and above income and consumption poverty. A possible critique is that including the promotional element
+4
+
+allows social protection to be conceptualised so broadly as to include almost all elements of the
+development agenda. According to Sabates-Wheeler and Waite (2003: 6), the ILO agenda can become
+operationally manageable ‘by defining specific sections of the society that qualify for social protection, or
+by focusing on one or two elements within the framework. A further benefit to retaining the “promotive”
+element is that it encourages and affords donors, NGOs, governments and informal systems (such as the
+extended family or burial societies) an exit strategy in the longer-run’.
+2.2 The Social Risk Management framework
+
+The World Bank’s Social Risk Management framework (SRM) has emerged in recent years as the
+dominant framework for conceptualising social protection. Social risk management ‘consists of a
+collection of public measures intended to assist individuals, households and communities in managing
+risks in order to reduce vulnerability, improve consumption smoothing, and enhance equity while
+contributing to economic development in a participatory manner’ (Holzmann and Jørgensen 1999). The
+SRM framework is an analytical tool to identify alternative strategies and arrangements for dealing with
+risks, and it has four basic elements (sometimes a fifth element – risk analysis – is also included):
+1)
+
+The type of income risk incurred: This element traces the impacts of shocks and risks on various
+livelihood assets (financial, human capital, land, social assets). The World Development Report’s
+(2000/2001) table on ‘Main sources of risk’ (World Bank 2000: 136) provides the basis for this
+framework.
+
+2)
+
+The type of strategies to address income shocks:
+•
+
+Risk reduction: ex ante actions to increase the level of expected income or reduce variations;
+
+•
+
+Risk mitigation: ex ante actions to reduce the income variance if a shock were to occur (portfolio
+diversification), e.g. holding multiple assets with different risk characteristics or insurance i.e.
+pooled coverage through payment of insurance premium or hedging (risk exchange);
+
+•
+
+Risk coping: ex post actions to alleviate the impact of a shock (e.g. borrowing or dis-saving,
+charity, means-tested transfers, public works programmes).
+
+3)
+
+The type of instruments by formality of arrangements: These range from informal or personal
+arrangements, such as marriage, real assets such as cattle or gold, community support; to marketbased arrangements, such as financial assets and insurance markets; to formal or publicly mandated
+or provided arrangements, such as rules, laws, social insurance, and welfare transfers.
+
+4)
+
+The type of institutions and actors involved: The SRM framework recognises that a diverse range
+of actors can be involved in social protection provision, including state institutions, market-based
+institutions, international donor agencies, NGOs and charities, households and individuals.
+
+The SRM framework’s rise to prominence has occurred over the last five years and has been greatly
+facilitated by a five-day training workshop on social protection, run by the World Bank Institute, that
+government officials from developing countries are encouraged to attend. The SRM training programme
+
+5
+
+is designed for ‘high and mid-level government officials from the ministries of finance, economics and
+planning, labor and social affairs, parliamentarians, project staff, policy analysts and field staff from
+NGOs, and, because of the multi-sectoral quality of the Social Risk Management approach, researchers
+and trainers from academic institutions’.1 The training programme has been rolled out in more than 20
+African countries, and includes seminars, workshops in Washington D.C. or Paris, video-conferences, and
+regional workshops.
+The terminology of this framework has become so well entrenched in the language of officials in a
+number of African countries that attempts to use different terminologies or concepts to discuss social
+protection is problematic. However, we argue that there are a number of reasons why this framework and
+its terminology should not be accepted as the “truth about social protection”. Specifically, the Social Risk
+Management framework:
+•
+
+reflects a limited conceptualisation of vulnerability;
+
+•
+
+does not explicitly address the chronic (core) poor;
+
+•
+
+concerns itself predominantly with public (state, donor or NGO) and market-based social protection
+strategies;
+
+•
+
+encourages a limited role for government in social protection provision.
+
+Limited conceptualisation of vulnerability
+
+Vulnerability can be conceptualised in a variety of ways, depending critically on the unit of analysis. Within
+the SRM framework (as in most literature on social protection) vulnerability is attributed to the
+characteristic of a person or group, an event affecting a person or group, or a point in a person’s life-cycle.
+For instance, people living with disabilities can be characterised as more or less vulnerable than people
+living without disabilities in any given context. This type of analysis tends to classify vulnerability
+according to a range of risks or shocks that affect one or more of a variety of livelihood assets (World
+Bank 2000: 136–38). This is reflected in the range of policy instruments proposed, such as reception
+centres for orphans, shelters for domestically abused women, disability aids for farmers living with
+disabilities, foodgrain warehouses, and various social assistance programmes (World Bank 2000: 141).
+However, if rather than focusing on risk as an exogenously given factor to be managed, vulnerability is
+conceptualised as emerging from and embedded in the socio-political context, then our attention would
+no longer be focused on how to design a policy so that various groups face less risk in a given context, but
+on how to change this context to minimise risk for a range of vulnerable groups.2
+The SRM framework mainly addresses economic risks to incomes and assets (World Bank 2000:
+138). Absent from the framework are “social risks” that also contribute to poverty and vulnerability. This
+is evidenced by the way in which social inclusion, social cohesion and social stability are treated as positive
+externalities of well-designed SRM interventions. Social risks may be categorised as “structural” or
+1
+2
+
+www.worldbank.org/wbi/socialriskmanagement/srmafrica/objectives.html (accessed 9 August 2004).
+For a more detailed discussion, see Sabates-Wheeler and Waite (2003).
+6
+
+“contingent”. The former refers to situations where groups or individuals are marginalised or
+discriminated against, and by nature have longer term implications for poverty and vulnerability than the
+latter. Contingent risk is a function of environmental or economic factors, such as an earthquake, or
+hyper-inflation. Because the SRM framework is largely focused on income variability, with other (especially
+social) dimensions of vulnerability being effectively overlooked, we argue that the SRM approach does not
+incorporate a comprehensive understanding of vulnerability, and is therefore limited in its scope and
+purpose of social protection provisions.
+Does not explicitly address the chronic (core) poor
+
+The chronic poor include those who have never recovered from a severe shock, such as a disabling illness
+or loss of assets. In their analysis of chronic poverty and social protection, Barrientos and Shepherd (2003:
+7) state that: ‘Although risk and vulnerability are key factors in explaining the descent into poverty, it is
+not clear . . . how important they are in maintaining people in poverty, transmitting poverty from one
+generation to the next, and in preventing the interruption of poverty’. Importantly, their paper highlights
+structural reasons related to ‘social, political and economic structures and relationships, and processes of
+exclusion and adverse incorporation’ (Barrientos and Shepherd 2003: 3) that prevent some of the
+chronically poor benefiting from development policies and market changes. The chronic poor ‘have fewer
+options, less freedom to take up available options, and so remain stuck in patterns of life which give them
+low returns to whatever few assets they have maintained’ (Hulme, Moore and Shepherd 2001: 8). This
+observation is similar to the point made above, however here we do not see a clear distinction between
+risk and vulnerability, and structural factors as determinants of poverty. We would argue that structural
+factors cannot be disentangled from determinants of risk and vulnerability. Social, political and economic
+structures are typically the defining characteristics of livelihood risk, with the possible exception of some
+natural disasters – though even in these cases, the contributions of socio-political factors and human
+agency have been persistently under-appreciated (Bankoff et al. 2004).
+The SRM framework remains rooted in a safety nets agenda (see discussion on pages 146–9 of the
+World Development Report 2000/2001). That is, it proposes to put instruments in place to catch and
+protect people when they face short-run shocks and livelihood risks.3 However, a commitment to longterm, chronic poverty reduction requires that social protection is conceptualised as more than just safety
+nets – interventions must provide support for the “chronic poor” as well as the “transitory poor”, and
+they must extend beyond just protecting consumption against transitory economic shocks.
+Focuses on public and market-based social protection strategies
+
+Discussions of social protection in Western countries typically limit their thinking to a narrow technical
+conceptualisation of specific state-funded and state-managed programmes. However, in poor countries,
+
+3
+
+This is particularly apparent if we consider ‘Mechanisms for Managing Risks’ – the last row of the matrix in the
+World Development Report 2000/2001 (World Bank 2000: 141).
+7
+
+due to a variety of constraints that restrict the range of social protection services offered by the welfare
+state, the concept of social protection must be widened to include both private and public mechanisms for
+social protection provisioning. Among others, these constraints include:
+•
+
+limited scope for private insurance against risk, given the underdeveloped nature of credit and
+insurance markets;
+
+•
+
+limited scope for social insurance, given high levels of self-employment, of unstable and irregular
+wage employment and widespread underemployment (rather than unemployment);
+
+•
+
+limited resources for formal social protection measures, given low tax-generated revenue and
+competing demands on the national budget;
+
+•
+
+limitations in reaching rural (and even urban informal sector) populations who are spatially scattered,
+occupationally diverse and administratively difficult to service.
+
+For these reasons, social protection in poor countries needs to be conceived of more broadly and
+creatively than in industrialised countries. We argue that an important role exists for non-formal systems
+of social protection, for instance, those based on kinship and traditional institutions of reciprocity and
+dependency.
+Envisages a limited role for government in social protection provisions
+
+As pointed out by MacKinnon (2002): ‘within the SRM framework the role of public social protection
+institutions are envisaged as playing a somewhat prescriptive and limited role as a means only to
+compensate for market failure’. Holzmann and Jørgensen (2000: 28) explicitly state that social protection
+will: ‘provide risk management instruments where the private sector fails’; ‘enact income redistribution if
+market outcomes are unacceptable’, and that government should mainly provide ‘social safety nets for risk
+coping’. The World Bank’s limited expectations regarding the appropriate role for government in social
+protection provision is presented most clearly in the latter quote, which reflects the World Bank’s true
+intentions in terms of limiting the wider risk-mitigating role of public social protection systems. In
+contrast, we argue that the government should play a central role in providing and facilitating the
+provision of social protection. Especially in situations of widespread poverty, where insurance
+mechanisms of the poor are ineffective, and there is likely to be under-provision by private providers, the
+case for public intervention by the state is strong.
+2.3 Introducing the transformative element
+
+If the need for social protection is defined in the narrow “safety net” sense, as mechanisms for smoothing
+consumption in response to declining or fluctuating incomes, then the focus of interventions will logically
+be on targeted income or consumption transfers to affected individuals. In our view, the range of
+interventions that can contribute to the provision of social protection is much broader than resource
+transfers, though these are obviously important in cases where vulnerable groups are literally unable to
+
+8
+
+survive on their own resources. Targeted income transfers provide “economic protection” in response to
+economic risks and livelihood vulnerability. Other forms of “social protection” would address distinct
+problems of “social vulnerability”, not necessarily through resource transfers, but through delivery of
+social services, and through measures to modify or regulate behaviour towards socially vulnerable groups.
+Strategies to deal with problems of social vulnerability require a transformative element, where
+“transformative” refers to the need to pursue policies that relate to power imbalances in society that
+encourage, create and sustain vulnerabilities. For instance, support to trade unions may enable socially
+marginalised groups to claim rights to livelihood enhancing assets; sensitisation and awareness-raising
+campaigns can transform public attitudes and behaviour; and changes to the regulatory framework could
+protect vulnerable or minority groups against discrimination and abuse.
+Another sphere where transformative social protection policies may be needed is the intra-household
+division of resource ownership, access and use. For instance, many of the difficulties involved in the
+provision of social protection for women relates to socio-cultural values that leave women in vulnerable
+positions. Clearly, social protection instruments designed for many categories of women must include a
+substantial “transformative” element, in the sense that power relations between men and women become
+more balanced. Appropriate legislation is necessary, but this goes only a small way to changing sociocultural values. Efforts could focus on educating men and women about their rights and how to access
+their rights. Other more political and institutional constraints relate to: lack of access to the legal system;
+cultural resistance; and commonly held beliefs about women’s role in land management and ownership.
+Bearing the above points in mind, we have devised our own conceptual and operational definitions
+of social protection. We utilise the terminology set out by Guhan (above), as this does not limit social
+protection to economic risk and vulnerability. Our conceptual definition is as follows:
+SOCIAL PROTECTION describes all public and private initiatives that provide income or consumption transfers to the
+poor, protect the vulnerable against livelihood risks, and enhance the social status and rights of the marginalised; with
+the overall objective of reducing the economic and social vulnerability of poor, vulnerable and marginalised groups.
+Our working definition elaborates on the mechanisms that deliver social protection:
+
+SOCIAL PROTECTION is the set of all initiatives, both formal and informal, that provide: social assistance to
+extremely poor individuals and households; social services to groups who need special care or would otherwise be
+denied access to basic services; social insurance to protect people against the risks and consequences of livelihood
+shocks; and social equity to protect people against social risks such as discrimination or abuse.
+The key objective of social protection is to reduce the vulnerability of the poor. The full range of social
+protection interventions can be categorised under protective, preventive, promotive and transformative
+measures.
+
+9
+
+Protective measures provide relief from deprivation. Protective measures are narrowly targeted safety
+net measures in the conventional sense – they aim to provide relief from poverty and deprivation to the
+extent that promotional and preventive measures have failed to do so. Protective measures include social
+assistance for the “chronically poor”, especially those who are unable to work and earn their livelihood.
+This equates most closely to mainstream “social welfare”. Social assistance programmes typically include
+targeted resource transfers – disability benefit, single-parent allowances, and “social pensions” for the
+elderly poor that are financed publicly – out of the tax base, with donor support, and/or through NGO
+projects. Other protective measures can be classified as social services. These would be for the poor and
+groups needing special care, including orphanages and reception centres for abandoned children, feeding
+camps and provision of services for refugees and Internally Displaced Persons (IDPs), and the abolition
+of health and education charges (as with Uganda’s Universal Primary Education policy) in order to extend
+access to basic services to the very poor.
+
+Preventive measures seek to avert deprivation. Preventive measures deal directly with poverty
+alleviation. They include social insurance for “economically vulnerable groups” – people who have fallen or
+might fall into poverty, and may need support to help them manage their livelihood shocks. This is similar
+to “social safety nets”. Social insurance programmes refer to formalised systems of pensions, health
+insurance, maternity benefit and unemployment benefits, often with tripartite financing between
+employers, employees and the state. They also include informal mechanisms, such as savings clubs and
+funeral societies. Strategies of risk diversification – such as crop or income diversification – are also
+considered as preventive measures.
+
+Promotive measures aim to enhance real incomes and capabilities, which is achieved through a range of
+livelihood-enhancing programmes targeted at households and individuals, such as microfinance and
+school feeding. The inclusion of promotive measures as a category here is open to the criticism that it
+takes social protection too far beyond its original conceptualisation. However, the intention is not to
+broaden the scope to include (potentially) all development initiatives, but to focus on promotive measures
+that have income stabilisation at least as one objective. A case in point is microcredit that fulfils income
+stabilising and consumption smoothing functions.
+
+Transformative measures seek to address concerns of social equity and exclusion, such as collective action
+for workers’ rights, or upholding human rights for minority ethnic groups. Transformative interventions
+include changes to the regulatory framework to protect “socially vulnerable groups” (e.g. people with
+disabilities, or victims of domestic violence) against discrimination and abuse, as well as sensitisation
+campaigns (such as the ‘HIV/AIDS Anti-Stigma Campaign’, which is discussed later in this paper) to
+transform public attitudes and behaviour and enhance social equity.
+
+10
+
+These categories may overlap, in that some measures could simultaneously “promote” incomes as well as
+“prevent” deprivation. Public works projects, for instance, aim both at transferring short-term food or
+cash and building useful long-term infrastructure. Figure 2.1 illustrates the relationship between these
+measures and presents a new conceptual framework for thinking about social protection. The solid black
+lines indicate an obvious and direct relationship. For instance, preventive policies, such as crop
+diversification to reduce future risk, may also have promotive aspects of social protection in the sense that
+a wider crop portfolio may lead to a competitive market advantage. Most preventive mechanisms could be
+argued to have promotive effects, in the sense that risk reduction enables people to take advantage of
+opportunities that they would otherwise have been unable to do.
+
+Figure 2.1 A conceptual framework for social protection
+
+Promotive
+Economic opportunities
+
+Minimum wage
+legislation
+Labour market
+regulations
+
+Crop diversification
+Migration
+Property rights
+Microfinance
+
+Springboards
+
+Transformative
+Transformative action
+
+Agricultural
+extension
+Micro-finance
+
+Preventive
+Insurance and diversification
+mechanisms
+(social security)
+School feeding
+
+Safety nets
+
+Protective
+Social assistance and coping
+strategies
+(social assistance –
+formal and non-state)
+
+The thick dashed lines indicate a less obvious relationship. For instance, some preventive mechanisms can
+be transformative, and vice versa, but this relationship is not strong, nor inevitable. One example is
+microfinance schemes that simultaneously provide both social insurance and economic opportunities, and
+often have knock-on effects by empowering individuals within their households, and households within
+their communities. Similarly, some social protection instruments, such as minimum wage legislation, can
+
+11
+
+be both promotive and transformative (see Section 3.4). Paying workers a fair wage enhances their
+incomes and capabilities. At the same time, the very process of bargaining with employers to enforce the
+minimum wage – through trade unions or public campaigns, and with explicit government support – can
+be empowering and have positive transformative implications.
+The thin dotted line indicates a weak relationship between the protective and promotive aspects of
+social protection, to highlight the possibility that safety nets may in some cases enable people to take
+opportunities that otherwise they would not have taken, to enhance their economic opportunities. In the
+following section of this paper we draw on the example of school feeding schemes to illustrate this
+linkage. Finally, the very thick dashed line indicates that many protective measures can have the
+unfortunate effect of reinforcing established power hierarchies and patterns of exclusion. Furthermore,
+they can introduce social polarisation. For instance, some targeting mechanisms that are applied on public
+works or school feeding schemes can have stigmatising effects that create social tensions and exacerbate
+vulnerabilities. For this reason alone, progressive thinking on social protection must move beyond
+equating social protection exclusively with safety nets.
+Having now considered different categories of instruments, it is important to consider their intended
+beneficiaries. Our operational definition and conceptual framework, as presented above, cover three
+categories of people in need of social protection:
+1)
+
+the chronically poor
+
+2)
+
+the economically vulnerable
+
+3)
+
+the socially marginalised.
+
+Often these categories overlap, because of the composite nature of vulnerability. For instance, socially
+marginalised groups – e.g. ethnic minorities, people living with AIDS or disability – are often
+economically vulnerable as well, being unable to work (in the case of the severely disabled or terminally ill)
+or being confined to low status livelihood activities that generate low and variable incomes (e.g. beggars).
+Another way of expressing this is that the weakest members of society are usually those who are both
+economically and socially vulnerable – because these sources of vulnerability interact with and reinforce
+each other – and they are often in greatest and most urgent need of social protection.
+The specific instruments, mechanisms and actors involved in social protection provisioning are by no
+means new. In its narrowest conceptualisation, social protection is equated with social security, where
+social security is often interpreted as meaning the specific public programmes of assistance, insurance and
+benefits that people can draw upon in order to maintain a minimum level of income. Our approach
+identifies four sets of interventions that are required to address adequately the social protection needs of
+the three vulnerable groups listed above. Table 2.1 summarises these distinctions between different
+categories of vulnerability and examples of “vulnerable groups”, and different categories of interventions,
+with examples of social protection programmes associated with each category.
+
+12
+
+Table 2.1 A framework for social protection programmes
+Vulnerability
+categories
+Chronically
+Poor
+
+Examples of
+affected groups
+Severely disabled
+
+Social
+Assistance
+
+Disability benefit
+Single-parent allowances
+
+Ethnic minorities
+
+Social pensions
+
+Urban unemployed
+
+Food aid
+
+Pastoralists
+
+Food-for-work
+Social insurance
+
+Formalised pensions
+
+Cash crop farmers
+
+Unemployment benefits
+
+Internally Displaced
+Persons
+
+Health insurance
+
+Orphans
+
+Maternity benefits
+
+Informal sector workers
+
+Burial societies
+
+Widows
+
+Transformative
+action
+
+The elderly
+Socially
+vulnerable
+
+Types of programmes
+
+Terminally ill
+
+Subsistence smallholders
+Economically
+at risk
+
+Category of
+interventions
+
+Ethnic minorities
+
+Operationalising economic,
+social and cultural rights
+
+Abducted children
+
+Sensitisation campaigns
+
+People living with AIDS
+Victims of domestic abuse
+
+Changes to regulatory
+framework to protect
+vulnerable groups
+
+Social services
+
+Community based care
+
+People with disabilities
+
+Orphanages
+
+Street children
+
+Refugee/IDP camps
+
+Female-headed households
+
+Crèches/pre-schools
+
+Source: Devereux et al. (2002).
+
+13
+
+3 Social protection in practice: protection, prevention, promotion and
+transformation
+This section presents practical examples of social protection measures under the four categories as set out
+in the framework above: protective, preventive, promotive, and transformative. In each case, an
+application will be made to the specific context of Uganda. It should also be emphasised that many
+interventions that can be considered as social protection measures have more than one objective, and are
+therefore discussed as both protective and promotive (as in the case of school feeding schemes), or as
+both promotive and transformative (as in the case of minimum wage legislation).
+3.1 Protective social protection: non-formal social safety nets in Uganda
+
+Non-formal social security provision refers both to “traditional” or “indigenous” systems of extended
+family, kinship and community support, and to new institutional forms that have emerged in response to
+the inaccessibility of formal social security, rising needs for social security support, and the declining
+ability of informal networks to address these needs. In contemporary Africa, these self-help and mutual
+aid mechanisms include various forms of cooperatives, market associations, savings and credit clubs, and
+burial societies.
+The conventional view on the evolution of social protection in sub-Saharan Africa follows a similar
+trajectory across most countries in the region. The narrative can be divided crudely into three phases: precolonial, colonial, and post-independence.
+The popular view is that pre-colonial Africans lived in mutual support networks of community,
+extended family and clan groups. ‘Reciprocity and social cohesion [were] the two pillars of traditional
+social protection . . . acts of reciprocity, altruism, social cohesion and personal intimacies were sufficient to
+guarantee social protection in both good and bad times to all members of any ethnic nationality by
+ensuring equity and social justice’ (Ouma 1995: 6). Other writers have challenged this optimistic and
+benevolent view of the role and resilience of “traditional” institutions of social protection in Africa,
+arguing that there is a “dark side” to social capital – e.g. it fails to recognise that ‘the moral economy . . .
+often engenders relations of subservience and dependence’ (Davies 1996: 37), or that the burden of caring
+for relatives (especially the ill and infirm) falls mainly on women – and over-estimates the capacity of these
+mechanisms to deal with shocks, especially at the community level.
+The erosion of these informal support systems is often attributed to the disruptive impacts of
+colonialism and commodification. Politically, the undermining of village- and clan-based power
+relationships ‘inevitably undermined the authority of the kinship system in matters of socialisation and
+social control – thus in turn undermining its ability to protect socially vulnerable groups such as the aged
+and the sick’ (Ouma 1995: 6). Economically, the commercialisation of labour and the increasing cash
+orientation of economic activity (to pay taxes or purchase goods and services) undermined individual acts
+of altruism or reciprocity (e.g. neighbours assisting each other with farming chores) or collective efforts
+(e.g. building or maintaining community infrastructure).
+
+14
+
+In a relatively little-known contribution to this literature, Amartya Sen (1980) once wrote about a
+phase of development between the non-market economy and the market economy. This is a period during
+which a population group or society finds its traditional locally-based socioeconomic systems disrupted by
+processes of “modernisation”, but the economy and administrative infrastructure have not yet evolved to
+a point where effective social protection can be provided to vulnerable members of society through the
+centralised mechanisms of taxation and redistribution:
+. . . in the process of industrialisation or colonial development a precapitalist economy typically seems
+to go through a phase in which its traditional sources of nonexchange income (cultivation of own
+land) contract sharply much before the modern sources of non-exchange income (social security)
+expand or even come into existence. There is, then, a much enhanced dependence on the exchange
+system for one's survival.
+(Sen 1980: 31)
+Sen labelled this phase ‘PEST’, meaning ‘pre-existing systems transition’. Elsewhere, Sen (1981: 173)
+wrote that: ‘The phase of economic development after the emergence of a large class of wage labourers but
+before the development of social security arrangements is potentially a deeply vulnerable one’. Much of the
+population of contemporary rural Uganda can arguably be characterised as surviving in this transitional
+‘PEST’ phase – a situation of heightened vulnerability and reduced capacity to mitigate risks and cope with
+shocks.
+In the specific context of Uganda’s post-independence history, the political turbulence and state
+violence of the 1970s and early 1980s is often seen as further eroding or demolishing informal social
+protection mechanisms, due to the death or displacement of individuals, families and entire communities.
+Civil instability remains a disruptive factor in parts of Uganda even today, notably in the north where the
+Lord’s Resistance Army is pursuing a campaign of terror and destabilisation based on mutilation, killing,
+and abduction of children. An additional stress on informal social protection has been posed by AIDS. In
+the 1980s, Uganda was the epicentre of the first wave of the pandemic in Africa, and although HIVprevalence appears to be levelling off, the legacy in terms of impoverishment and orphans continues to
+impose heavy burdens on both kin-based and formal social protection mechanisms.
+A recent study of community and kinship-based social security systems found these to be widespread
+and significant, but declining in effectiveness and resilience, due to increasing pressures caused by
+processes such as HIV/AIDS and the commercialisation of social relations (Kasente et al. 2002). Nonformal social security institutions in Uganda include the kinship and extended family systems – though
+these have been described as “gradually disintegrating” – and mutual aid groups (e.g. burial societies,
+savings clubs and rotating credit associations). The tradition of mutual assistance is known in Uganda as
+‘munno mu kabi’ (‘friend in need’). The effectiveness of these systems in terms of providing social
+protection is also limited by their low capital base, due to small contributions by members, and limited
+financial management skills. Another important point is that ‘kinship-based social protection tends to
+
+15
+
+exploit women to the benefit of other family members, without guaranteeing their own social protection’
+(Kasente et al. 2002: 178). Most notably, it is women who are taking on most of the burden of caring for
+orphans.
+3.2 Preventive social protection: formal social security in Uganda
+
+Western-style social security, which depends on regular contributions by wage-earners and employers,
+reaches only a small minority of citizens in most African countries – just 6 per cent of Tanzanians, for
+instance (Mchomvu et al. 2002). Unemployment insurance, occupational pensions, paid maternity and sick
+leave, disability insurance and so on are inaccessible and even inappropriate for the majority of Africans,
+who live outside formal employment and survive on low and irregular earnings. In Uganda, formal social
+security mechanisms cover some of the least vulnerable groups of citizens: government workers and
+private sector employees. ‘The social security legislation in force is designed for employees in the formal
+sector, including the public service, and thus is inapplicable to the 80 per cent of the labour force
+employed in agriculture and associated pursuits who are classified as self-employed, own-account workers
+and unpaid family workers’ (ILO/UNDP 1996: 14).
+Much effort has gone into reforming Uganda’s social security system over the past decade. In 1996
+the ILO and UNDP submitted a commissioned ‘Report to the Government on the Development of
+Social Protection’, which recommended a three-tier structure of social protection:
+1.
+
+a tax-financed tier of primary level services and minimum incomes for those in the greatest
+need;
+
+2.
+
+a compulsory social insurance tier relying on solidarity and resources contributed by employers
+and employees;
+
+3.
+
+a complementary tier giving scope to individuals and employers to obtain additional protection
+as required.
+(ILO/UNDP 1996: 4)
+
+Arguably, the first tier will always face binding budget constraints. The capacity of the Ugandan state to
+deliver social protection is severely constrained by the country’s narrow tax base and low ratio of
+taxpayers to non-taxpayers. (‘ . . . less than 15 per cent of Uganda’s population is in remunerated
+employment while the majority still remain in the rural and non-formal sector. The tax base, therefore, is
+small’ (Ouma 1995: 11) .) ‘In the long-run, arrangements for modern social protection will have to be
+broadened and extended to the more populous countryside . . . In the meantime, however, socioeconomic
+development must precede the emergence of a comprehensive social insurance scheme’ (Ouma 1995: 11).
+The ILO/UNDP report acknowledged the problem of large uncovered sections of the population with
+substantial unmet needs, but offered few ideas on how to extend coverage to them. (‘Social security
+coverage by contributory schemes is a long term goal . . .’ (ILO/UNDP 1996: 35) .) For instance, the
+
+16
+
+report recognised that the urban informal sector is an important source of livelihood for increasing
+numbers of poor Ugandans, but that there is little or no formal social protection for these workers.
+The second tier covers those Ugandans who are employed in establishments of five or more
+employees, and comprises two institutions: the National Social Security Fund (NSSF) for private sector
+employees, and the Public Service Pension Scheme (PSPS) for public sector employees. The NSSF
+operates a defined contribution scheme funded out of mandatory contributions by employers (10 per cent
+of wages), and employees (5 per cent of wages), while the PSPS is a “defined benefit” scheme funded out
+of general revenues. The NSSF is essentially a compulsory savings scheme, which pays out a lump sum to
+the employee on termination of employment due to retirement, disability or death. The ILO/UNDP
+study recommended “liberalisation” of the NSSF, exposing it to competition from private providers and
+encouraging it to offer a wider range of financial products and services. The report had little to offer for
+workers employed or self-employed outside the formal sector.
+In July 2000 a paper was submitted to the Presidential Economic Council by the Director of
+Economic Affairs, titled ‘A Contribution Towards a Comprehensive View of Social Security Reform in
+Uganda’ (Suruma 2000). This paper adopted a broad definition of social security:
+social security is comprehensively defined as that ideal where there is security of income for every
+citizen of Uganda. Under this ideal, every citizen is assured of access to the basic requirements of life
+namely, food, shelter, clothing, education and healthcare. The right of access to these basic needs is
+essentially unconditional . . . As such, civilised society is obliged to make arrangements for the
+protection of all categories of society.
+(Suruma 2000: 3-4)
+Although this paper focuses on government-managed pension funds (NSSF and PSPS) and private sector
+pension providers, it argues against liberalisation of the NSSF, on the grounds that the state has a
+responsibility to protect its citizens that cannot be met through private provision. ‘Liberalisation without
+social security or social responsibility will create a harsher and more dangerous society’ (Suruma 2000:
+10-11). It also emphasises the needs of groups who fall outside the reach of the public and private sector
+providers of social security, concluding that: ‘Uganda needs a vision of social security that includes caring
+for “the destitute, the disabled, the orphaned, the retired, the unemployed and the sick” ‘ (Suruma 2000:
+13).
+In 2003, a consultant for the Bank of Uganda submitted a report on ‘Social Security in Uganda’
+which focused almost entirely on reforming the National Social Security Fund (Lüders 2003), and opening
+up the market to private actors. The report also concluded that the PSPS ‘is probably fiscally unsustainable
+in the medium and long-run’ (Lüders 2003: 2).
+The report established several “guiding principles”, including:
+
+17
+
+•
+
+Social Security is to cover in the long-run in Uganda old age and survival pensions, including child
+protection; as well as invalidity, major medical health, and unemployment risks for all citizens.
+
+•
+
+Mandatory contributions are to finance basic benefits. Voluntary contributions finance additional
+benefits.
+
+•
+
+If a person’s income is not high enough to make the necessary contributions to finance basic
+benefits, government will, if financially possible, subsidise contributions. These are targeted
+demand subsidies.
+(Lüders 2003: 6)
+
+The debate on affordability of social protection often reduces to a debate around universal versus targeted
+provision. As Hickey (2003:17–18) notes, in Uganda the universalist model appears to have been rejected
+on grounds of its unsustainable costs, which means that ‘targeting is likely to become the default mode of
+reaching the poorest groups in Uganda’. The reality is more complex, however, with some recent moves
+towards universal provision in the social sectors – Universal Primary Education, the abolition of user fees
+for health services – suggesting that political commitment is as important a determinant of the
+“sustainability” of social programmes as their fiscal cost. These policies also suggest a possible precedent
+for universalist approaches in (selected areas of) social protection. The abolition of education and health
+fees was aimed at enhancing access and outreach to the poor, but was motivated as much by the
+Government of Uganda’s commitment to poverty reduction goals as by equity concerns (McGee 2000). It
+follows that a case for universal social protection measures must similarly be argued on poverty reduction
+rather than “welfarist” grounds.
+Hickey (2003) describes several cases in recent Ugandan history of political manipulation of targeted
+programmes, which compromised their poverty outreach and impact, and have created a climate of
+distrust for targeted interventions. More generally, narrowly targeted interventions are often critiqued as
+reinforcing a “projectisation” approach that is associated with instrumentalist, residualist “social safety
+net” interventions and is incompatible with new thinking that advocates institutionalised, mainstreamed,
+“social protection”. In Uganda, the inclusion of social protection as one “cross-cutting” theme in the
+Poverty Eradication Action Plan (PEAP) revision process is indicative of this progressive, holistic
+approach. It is important not to generalise, however. Some targeting is valid, necessary and politically
+popular – support for HIV/AIDS orphans being a powerful political mobiliser in Uganda, for instance.
+Another complaint against targeting is that it stigmatises and patronises “beneficiaries”. Wherever
+possible, it is important that social protection is delivered on the basis of claims being made by citizens
+with entitlements, rather than on the basis of charitable “handouts” to beneficiaries or victims, if it is to be
+truly empowering rather than disempowering.
+
+18
+
+3.3 Protective/promotive social protection: school feeding
+
+One example of a social protection intervention that can contribute to longer-term poverty reduction
+goals is school feeding schemes that provide learners with free meals at school. Because school meals
+serve two functions – providing an immediate consumption transfer to children who are often
+malnourished, and encouraging children from poor households to attend school even during difficult
+times – school feeding schemes can be characterised as serving both protective and promotive social
+protection objectives. However, making this case requires demonstrating that education generates higher
+incomes for school-leavers, that school feeding improves educational outcomes, and that school feeding is
+pro-poor.
+Education for all is not only a basic right, it is also an investment in the future. In Uganda, the right
+to education is enshrined in the Constitution of 1995, and the case for education as a driver of poverty
+reduction has been empirically proven (Appleton 2001; Lawson et al. 2003). Poverty and lack of education
+are closely correlated, while returns to education are significant, and higher for primary than for secondary
+or tertiary education. Educated Ugandans benefited most from Uganda’s strong recent growth and
+poverty reduction performance. While the national poverty headcount fell by 39 per cent during the
+1990s, it fell by only 28 per cent for Ugandans in households with uneducated heads (Appleton 2001: 4).
+A large part of the explanation is that education enhances access to non-agricultural employment, and
+Uganda’s agriculture sector grew more slowly than other sectors in the 1990s.
+School feeding is controversial, and empirical evidence on its positive and negative impacts is limited
+and inconclusive. However, several case studies have confirmed that provision of free meals at school
+increases enrolment and attendance rates, and reduces drop-out rates, and that these effects are highest
+among poorer families. School feeding even has “safety net” effects: in difficult times such as during a
+drought or conflict, providing school meals (or take-home rations – “food-for-education”) encourages
+parents to leave their children in school, rather than withdrawing them to save costs and assist in the
+search for food. Some school feeding projects have been found to reduce gender gaps in education access
+and attainment, and even to improve learners’ concentration in class and their performance in
+examinations (Bennett 2003).
+Uganda has implemented Universal Primary Education (UPE) since 1997. Under UPE, fees were
+waived for state primary schools, which resulted in a doubling of primary enrolment. Given this success in
+terms of improved access to education, the case for introducing a school feeding scheme on top of UPE
+might seem rather weak. In fact, President Museveni declared in 2003 that there should be no free school
+meals in Uganda: the Government’s responsibility is to provide teachers, classrooms and textbooks; and it
+is the responsibility of parents to send their children to school and to ensure that they are adequately fed.
+On the other hand, large numbers of Ugandan children remain outside the formal education system,
+including several groups identified by the Ministry of Education as “disadvantaged children”: children
+who have never enrolled in school; those who have dropped out; orphans; refugees; geographically and
+culturally isolated children; street children; children who must work; children with disabilities; and abused
+children (MoES 2002). UPE has not reached these vulnerable categories of children, partly because fees
+19
+
+are not the only education cost facing parents and partly because the poorest families see no immediate
+benefit in educating their children or orphans in their care. In these circumstances, providing a daily meal
+for a child from a food insecure household can provide the incentive needed, and it enhances equity of
+access to education.
+Taking these considerations into account, the Uganda Social Protection Study Team argued that
+targeted school feeding should be considered for specific vulnerable groups (such as orphans) and in areas
+where poverty is high and is recognised as a barrier to participation in education. This would include
+geographically inaccessible communities, areas with high concentrations of displaced or resettled people,
+and informal urban settlements where street children and destitute households are concentrated
+(Devereux and Sabates-Wheeler 2003). This recommendation supported the second Participatory Poverty
+Appraisal (UPPAP2), which recommended providing orphans with meals at school, to improve both their
+nutritional and educational status (MFPED 2002: 145).
+3.4 Promotive/transformative social protection: minimum wages
+
+Mandated minimum wages are a labour market intervention that aims to reduce poverty by raising the
+wages of the poorest categories of workers towards or above the poverty line. Intuitively, introducing
+minimum wages for workers who are paid very low wages seems an attractive policy option for social
+protection purposes: it reaches low-paid groups, it costs little to government or donors (since the cost of
+raising wages is borne by private sector employers), and it has both direct (income-enhancing) and indirect
+(multiplier effects) poverty-reducing impacts. Moreover, in addition to these “promotive” benefits, this is
+a “transformative” policy in that it empowers categories of workers who are typically either un-unionised
+and/or have little bargaining power with respect to their employers. A related argument is that those
+sectors where wages are lowest also tend to have bad working conditions, negligible benefits (no
+redundancy pay, maternity leave, or pensions) and very low job security, so that fair wages can provide
+partial compensation for the absence of job-related social protection, as enjoyed by better-paid workers.
+Despite these various benefits, minimum wages are controversial and vigorously debated, and the
+debate is often characterised as being conducted between opponents of “labour market rigidities” and
+supporters of “fair labour standards”. The theoretical case against mandated minimum wages is made on
+both efficiency and equity grounds. Economists argue that interfering with market-determined wage rates
+will create excess supply of labour in low-wage sectors, destroying jobs among the very group who were
+intended to gain from the imposition of a “fair wage”. According to this argument, the “equity” case for
+minimum wages is misguided, especially if the rate is set above the market-clearing equilibrium. In a
+competitive labour market, higher wages for some workers can only be enforced at the welfare cost of
+laying off others. Even worse, employees whose relative costs rise most because of an imposed wage
+increase – i.e. the lowest paid unskilled workers – are most vulnerable to this “disemployment” effect. A
+pragmatic argument against minimum wages is that most poor workers in developing countries fall outside
+
+20
+
+waged employment altogether, in “uncovered” sectors like subsistence agriculture and informal (self-)
+employment. Even if minimum wages are legislated, compliance is difficult to enforce in these sectors, so
+that the poorest segments of the working population are rarely reached (Alatas and Cameron 2003).
+The theoretical case against minimum wages has been challenged by the ‘”new economics” of the
+minimum wage’ (Lustig and McLeod 1996), which argues that the “textbook” critique is built on three
+critical assumptions – that labour markets are perfectly competitive, that workers are perfectly
+substitutable, and that perfect information exists in the economy – and that relaxing any of these
+assumptions can yield positive benefits from a minimum wage. For instance, where labour markets are
+monopsonistic – a realistic scenario in many developing countries – a higher wage rate can actually increase
+aggregate employment. The reason is that monopsony employers pay workers less than their marginal
+value product (this is known as ‘Pigovian exploitation’) and hire to a point where the marginal cost of
+labour exceeds labour supply; so forcing the monopsonist to pay a competitive wage raises the supply of
+labour towards a market-clearing equilibrium (Jones 1997: 3). Put another way, employers who are
+extracting excess profits by under-remunerating labour can afford to raise wage rates without laying off
+workers, and might even increase their profitability by hiring more workers at these higher rates.
+Empirical evidence can be found to support both proponents and opponents of minimum wages.
+One cross-country regression analysis covering 22 countries found statistically significant evidence that
+minimum wage legislation can contribute to poverty reduction: ‘minimum wages and poverty are inversely
+related: i.e., an increase (decline) in real minimum wages is accompanied by a fall (rise) in poverty’ (Lustig
+and McLeod 1996: 1). Another review of several 1990s studies found ‘little, if any, disemployment effect’
+from minimum wage policies (Saget 2001: 21).
+Case study evidence from Africa presents a more mixed picture. Botswana introduced a Minimum
+Wage Policy in 1974, ‘to protect workers against exploitative employers who might take advantage of
+urban unemployment to push wages to excessively low levels’ (Sesinyi 1998: 8). But coverage is limited to
+private firms (manufacturing, construction, transport, trade) and government workers. Agricultural
+labourers and domestic workers are excluded, and average wages in these two sectors are well below the
+minimum wage in covered sectors. Ghana has also implemented minimum wages in its formal sector since
+the 1970s. A study of the impact of a mandated increase in the minimum wage in 1991 found that it had
+had the unintended effect of reducing manufacturing employment by 5-6 per cent, displacing workers
+who lost their jobs into the informal sector and depressing informal wages (Jones 1997). In South Africa,
+domestic workers and farm workers are recognised as two of the poorest and most vulnerable occupation
+categories, and are therefore regarded by the Department of Labour as prime candidates to benefit from a
+targeted minimum wage policy. However, a simulation exercise found that mandatory wage increases
+would result in significant job losses in the targeted sectors. Bhorat (2000) concludes that a “modest”
+minimum wage should be introduced, to send a “moral signal” to employers about the desirability of
+raising workers’ wages, but without imposing a minimum wage so high that substantial disemployment
+follows.
+
+21
+
+In Namibia, activists campaigning for better working conditions for farmworkers argue that
+deficiencies in the labour market allow employers to act as monopsonists, colluding with other farmowners in the locality to extract excess profits by under-paying their workers. The vulnerability of
+farmworkers to this exploitation arises from an over-supply of unskilled labour willing to accept very low
+wages, because of their poverty and lack of alternative employment options. Against the criticism that
+raising farmworkers’ wages through legislation will distort the labour market and result in mass
+redundancies, Chimana and Hengari (1997:12-14) argue that the market is already distorted, and that the
+excessive power of collusive employers needs to be countered by efforts to strengthen the weak
+bargaining position of unskilled workers.
+Support for the view that farm-owners in dualistic agriculture can act as monopsonists to exploit
+farmworkers comes from a study of commercial wheat production in Morocco. A small number of large
+farms in Morocco are mechanised and irrigated, but most employ some seasonal or permanent wage
+labourers drawn from the large number of small farms in their vicinity. Azam (1992) found that
+agricultural employment and wheat production increased steadily in Morocco during the 1970s and 1980s,
+despite several rises in the real minimum wage during this period. The explanation comes from
+monopsony theory: controlling for the market price of wheat, Azam found that an increase in the
+minimum wage increased wheat production and therefore the demand for labour. Azam (1992: 172)
+concluded that the minimum wage is an effective ‘device for offsetting the monopsony power of the
+employer, and for reducing the resulting Pigovian exploitation’.
+In Uganda, the debate about minimum wages is ongoing, and unresolved. Although a Minimum
+Wages Board was established in 1935, the statutory minimum wage has not been raised since 1984, and
+has collapsed in value to such an extent that it has no real effect. In some sectors, such as the agricultural
+estates, wages and conditions of employment are so bad that workers are trapped in poverty and are at the
+mercy of employers who – among other illegal or unethical practices – lay off pregnant women who have
+to reapply for their jobs after giving birth, continuously rotate casual workers so as to avoid employing
+them on a permanent basis, and force their workers to work illegally long hours (MFPED 2002).
+In Uganda, as elsewhere, economists and policymakers who are opposed to raising the minimum
+wage argue that it interferes in the market and will raise labour costs and reduce employment – but this
+assumes that markets are well-functioning. In rural Uganda, with an unregulated labour market and an
+over-supply of cheap labour, the potential for employers to pay “exploitation wages” is great, and there is
+no reason to believe that a legislated improvement in minimum wages would result in mass
+retrenchments. Most likely, it would reduce the profit margin that employers extract from their underpaid
+workers, and transfer some of that profit to the workers in the form of fairer wages. In the absence of an
+effective union for estate workers,4 the Uganda Human Rights Commission has consistently called for
+government intervention to protect workers against exploitation by raising the minimum wage to a “living
+4
+
+The National Union of Plantation and Agricultural Workers of Uganda (NUPAWU) was criticised as weak and
+ineffectual by plantation workers interviewed for Uganda’s second Participatory Poverty Assessment (MFPED
+2002: 72).
+22
+
+wage” level (UHRC 1999). Also, the government may need to intervene to improve working conditions to
+ensure that the law on maximum working hours is respected, that workers are provided with decent basic
+accommodation, that women are not fired for falling pregnant, and that some form of job security for
+“permanent casuals” is introduced.
+Two caveats to this proposal must be noted. Firstly, the impacts of introducing these legislative
+changes would need to be carefully monitored, both to ensure that employers adhere to them – labour
+inspections will be required – and to establish whether some estate workers are in fact retrenched if the
+labour market tightens in response to rising labour costs. This is a possible transitional effect, at least until
+the labour market adjusts to a “fair wage” regime. Adequate social protection arrangements must be in
+place to provide a safety net for these adversely affected families. Secondly, this is not an argument for
+raising the minimum wage to unrealistic levels for all sectors across the country. Instead, the argument for
+raising the statutory minimum wage must be examined on a case-by-case basis for each economic sector
+and for different parts of the country.
+A final consideration is the problem of compliance. In Uganda, civil service reform has been
+associated with severe cutbacks in personnel. The number of Labour Inspectors has fallen dramatically, to
+a level where even urban workplaces are now inadequately monitored. The capacity of the Department of
+Labour to enforce compliance would need strengthening. Also, workers employed on plantations or
+estates in tropical countries, including Uganda, are often partly remunerated in kind (food, alcohol, and
+housing), which complicates the enforceability of a minimum wage valued in cash. Nonetheless, Uganda’s
+rural labour market appears to share many relevant characteristics with Moroccan agriculture, such as
+agricultural dualism, labour immobility, and monopsonistic employers. Ceteris paribus, this would suggest
+that the introduction of a binding minimum wage (within limits) should have poverty-reducing effects
+among a highly vulnerable group of workers, with no negative consequences in the form of retrenchments
+or cutbacks in non-wage benefits.
+Summarising this evidence from six African countries, minimum wages have ambiguous effects when
+applied to either formal or informal sector workers. The Ghana study and the South African simulation
+support the conventional view that legislated minimum wages can displace workers from formal
+employment. However, the case of Moroccan agriculture confirms the view of farmworker activists in
+Namibia and Uganda that, where monopsony conditions pertain, minimum wages can achieve positive
+outcomes in terms of both social protection for exploited workers and economic growth, with no
+disemployment effects. As with many policy choices, any decision about labour market interventions must
+be based on careful analysis of the specific labour markets concerned. Minimum wages should be applied
+selectively to sectors where workers are clearly underpaid and the wage elasticity of demand for labour is
+low. Two additional challenges facing many countries that are considering introducing or extending
+minimum wages are: how to extend coverage to low-paid sectors that are traditionally difficult to regulate
+(agricultural, domestic and informal sector workers); and how to ensure compliance, which is problematic
+given the personnel constraints currently faced by most Departments of Labour in Africa.
+
+23
+
+3.5 Transformative social protection: anti-discrimination campaigns
+
+Curiously, as noted above, much of the conceptual and policy literature on social protection to date has
+been preoccupied with mechanisms for providing economic support (e.g. food aid, or cash transfers)
+against economic risks and livelihood shocks. This preoccupation has moved the concept and practice of
+social protection very little beyond the safety nets discourse of the early 1990s – which, in the terminology
+of micro-economists, aimed at smoothing consumption in the face of income variability. Conspicuously
+absent from most mainstream thinking on social protection has been a concern with the social. Our
+argument in this paper is that social protection should concern itself directly with addressing aspects of
+“social risk” and non-economic vulnerability, such as social exclusion, discrimination, and violations of
+minority rights.
+One arena of social protection that does attend to the “social” needs of socially vulnerable groups is
+campaigning against various forms of discrimination – whether on the basis of ethnicity, gender, religion,
+or sexual orientation – as part of a broader emerging agenda around upholding economic, social and
+cultural rights. A good example is the Convention on the Elimination of All Forms of Discrimination
+Against Women (CEDAW), a United Nations campaign during the 1990s that raised awareness about
+gender discrimination in countries across the world.
+Recently, concerns have been raised about the nature of formal and non-formal responses to
+HIV/AIDS, specifically its “social impacts” in terms of the burden of caring and attitudes towards people
+living with AIDS (PLWA). In Uganda, which was the epicentre of HIV/AIDS in Africa during the 1980s,
+the pandemic has had a terrible impact, causing over 800,000 estimated deaths and creating over 2 million
+single- or double-parent orphans – almost one child in five. Approximately 25 per cent of Ugandan
+households now include one or more orphans. Many of these are elderly- or widow-headed households,
+under traditional arrangements of caring for orphans through extended family and kinship relationships,
+which tends to place the burden of care on women. These informal social protection mechanisms are
+coming under severe strain, as the costs of caring for the ill and providing for the food and clothing needs
+of large numbers of dependants is stretching the limited resources of poor Ugandan families beyond their
+capacity to cope. Orphans who are not located in extended families or supportive communities, and are
+not taken into reception centres, often become street children, surviving by begging or petty crime.
+In the late 1990s, the Government of Uganda launched a “crusade” against HIV/AIDS, with strong
+donor support, under the umbrella of a five-year National Strategic Framework for reducing prevalence
+rates and strengthening national response capacity (UNDP 2000: 16). HIV sero-prevalence did in fact
+decline between 1996 and 2000, from 10 per cent to 8.3 per cent, largely because of changes in sexual
+behaviour among the Ugandan population (Republic of Uganda 2001: 104). In this period, the
+government’s response to AIDS focused on creating awareness about the causes of HIV transmission,
+encouraging behavioural change – including challenging cultural practices such as re-marrying of widows
+by the brother of the deceased – and promoting the use and availability of condoms.
+A parallel set of interventions has also emerged in many high-prevalence African countries since the
+1980s, focusing more on the consequences of the disease than its prevention. Recognising the costs that
+24
+
+HIV/AIDS imposes on the livelihoods and coping capacity of poor households, these initiatives aim to
+provide various forms of support to PLWA, “AIDS orphans” and carers. A number of institutions and
+initiatives are engaged with these issues in Uganda. These include major donors such as Belgium Survival
+Fund, DFID, GTZ, NORAD, SIDA, UNICEF and USAID; international NGOs such as ActionAid,
+Feed the Children, and Save the Children UK; and local NGOs and CBOs including the Uganda Red
+Cross Society and UWESO (Uganda Women’s Effort to Save Orphans). These initiatives are enormously
+important to the people they assist, but they are also patchy and limited in impact, with incomplete
+coverage across the country and variable provision of support – from blankets, vocational training and
+reception centres for orphans, to microcredit and nutritional advice for orphan carers.
+Most of these measures can be characterised as standard social assistance interventions to meet the
+subsistence needs of PLWA and orphans for care, food, health, housing and education. These measures
+address the reality that HIV/AIDS has deepened poverty in Ugandan households, as affected families lose
+productive labour, sell off assets to care for terminally ill members, and pay burial costs after a death. In
+other words, these measures address the economic costs of HIV/AIDS at the household level. Until
+recently, relatively little attention was given to the “social costs” of AIDS, such as the problems faced by
+PLWA in terms of securing or retaining employment, the stigma and social exclusion faced by bereaved
+relatives, the vulnerability of widows to being remarried against their will, and the risks faced by orphans
+of being abused or neglected.
+In a special session on AIDS in June 2001, the United Nations General Assembly passed a
+declaration of commitment to fight AIDS, which included a global target for all UN member states to
+enact or strengthen anti-discrimination protection for people living with HIV/AIDS. In 2002, the
+International Federation of Red Cross and Red Crescent societies (IFRC) launched its own ‘HIV/AIDS
+Anti-Stigma and Discrimination Campaign’, in support of the United Nations declaration. Under this
+global initiative, the Uganda Red Cross Society launched a two-year campaign in July 2002, aimed at
+eliminating stigma and discrimination against Ugandans living with HIV/AIDS, in accordance with the
+commitment of the IFRC to ‘making a difference in the lives of the vulnerable’ (URCS 2002). A key
+message of the campaign was: ‘AIDS is a disease and not a disgrace’. The intention was to challenge
+attitudes and practices that discriminate against PLWA, such as employers insisting on job applicants
+taking pre-employment HIV tests, and rejecting all HIV-positive applicants. The overarching objective of
+the campaign was: ‘to contribute to the change in perceptions, attitudes, policies and behaviour towards
+PLWA, in order to ensure that those people who are already HIV+ or have AIDS are able to receive the
+appropriate care, have access to affordable drugs and can live full and useful lives within their
+communities’ (URCS 2002).
+This campaign can be characterised as a “transformative social protection” measure. Unlike
+conventional social safety net or “protective social protection” measures, anti-discrimination measures
+address the social rather than economic needs of a socially vulnerable group. Like minimum wages, this is
+an affordable intervention, since it has negligible implications for public spending or donor budgets. Antidiscrimination campaigns also have the potential to be “protective” and “promotive” as well as
+25
+
+“transformative”. It is well documented that discrimination reduces the livelihood opportunities of
+affected groups. Affirmative action campaigns to promote minority groups, such as black South Africans
+or low-caste Indians, recognise that social exclusion carries economic costs, and attempt to intervene in
+the labour market to correct for this socio-economic discrimination. Similarly, the anti-stigma campaign in
+Uganda attempts to ensure that hostility towards people living with HIV/AIDS does not undermine their
+ability to earn a living.
+
+4 Conclusion
+By arguing in this paper for an approach to social protection that emphasises social justice we are not
+arguing against the important “safety net” role that social protection has conventionally played, in terms of
+safeguarding lives and livelihoods in contexts of chronic and acute economic risk and vulnerability.
+Instead, we are focusing attention on the relatively neglected area of social risk and vulnerability, and
+building a case for a stronger role for social protection in terms of empowering the poor and transforming
+the conditions in which they struggle to construct viable livelihoods.
+Although the socially vulnerable – orphans, people living with HIV/AIDS, ethnic minorities – often
+need income and consumption support, social protection, properly conceptualised, is not just “economic
+protection”. Poverty and vulnerability are about social deprivation as well as economic deprivation, and an
+elaborated understanding of social protection has the potential to address both the material needs and the
+social inequities faced by poor, vulnerable and marginalised individuals and groups.
+Apart from establishing a more positive and proactive role for social protection that extends its scope
+beyond its roots in residualist and often stigmatised social safety nets, there are other reasons for
+supporting the “transformative” component of social protection. Firstly, “transformative social
+protection” is generally more fiscally affordable than “economic social protection”, which is universally
+unpopular with economists and policymakers because it implies expensive transfers of public resources to
+large numbers of people who are generally regarded as having low or zero productivity (McDonald et al.
+1999). In developing countries, policymakers face binding fiscal constraints that limit their public spending
+choices, so the identification of low-cost interventions that can significantly improve the livelihoods of the
+poor – such as mandated minimum wages, whose cost is borne by employers rather than the state, or antidiscrimination campaigns that have negligible fiscal implications – is doubly attractive.
+Secondly, we have identified powerful synergies between the “economic” (protective, preventive,
+promotive) and “social” (transformative) roles performed by several social protection measures
+considered in this paper. We have noted that income or consumption transfers such as school feeding
+schemes or public works projects have the dual aims of providing immediate protection against nutritional
+deprivation and investing in durable assets – human capital through education and physical capital
+through community-level infrastructure, respectively – which endow these interventions with both
+“protective” and “promotive” potential. By empowering low-paid workers to claim fairer wages and
+
+26
+
+challenging employers to provide better working conditions, minimum wage legislation simultaneously
+raises incomes (which is “promotive”) and enhances workers’ rights and bargaining power in the labour
+market (which is “transformative”).
+It is true that most social protection measures – school feeding, public works, minimum wages – are
+controversial, and heated debates around the merits and (cost-) effectiveness of specific interventions will
+certainly continue. For positive social protection objectives to be achieved, the package of measures
+actually adopted must be carefully selected, prudently designed and effectively implemented. Nonetheless,
+the point remains that transformative social protection can be affordable while contributing to the
+fundamental policy goals of pro-poor economic growth and improved social equity. A comprehensive and
+coherent package of social protection measures can support a development trajectory that maximises the
+reduction of both poverty and inequity, without breaking the national budget.
+
+27
+
+References
+Alatas, V. and Cameron, L., 2003, ‘The impact of minimum wages on employment in a low income
+country: an evaluation using the difference-in-differences approach’, World Bank Policy Research
+Working Paper 2985, Washington, D.C.: World Bank
+Appleton, S., 2001, ‘Education, incomes and poverty in Uganda in the 1990s’, mimeo, Nottingham:
+University of Nottingham
+Azam, J.-P., 1992, ‘The agricultural minimum wage and wheat production in Morocco (1971-89)’, Journal of
+African Economies, Vol 1 No 2: 171-91
+Bankoff, G., Frerks, G. and Hilhorst, D. (eds), 2004, Mapping Vulnerability: Disasters, Development and People,
+London: Earthscan
+Barrientos, A. and Shepherd, A., 2003, ‘Chronic Poverty and Social Protection’, paper prepared for the
+International Conference on ‘Staying Poor: Chronic Poverty and Development Policy’, IDPM,
+University of Manchester, 7–9 April 2003
+Bennett, J., 2003, Review of School Feeding Projects, London: Department for International Development
+Bhorat, H., 2000, ‘Are Wage Adjustments an Effective Mechanism for Poverty Alleviation? Some
+Simulations for Domestic and Farm Workers’, paper presented at the ‘Trade and Industrial Policy
+Secretariat (TIPS), 2000 Annual Forum’, Cape Town: Development Policy Research Unit, University
+of Cape Town
+Chimana, S. and Hengari, M., 1997, Farmworkers’ Wages in Namibia: An Analysis of Wage Structure and
+Possibility of Minimum Wages, Windhoek: Legal Assistance Centre
+Davies, S., 1996, Adaptable Livelihoods: Coping with Food Insecurity in the Malian Sahel, London: Macmillan
+Devereux, S., Lwanga Ntale, C. and Sabates-Wheeler, R., 2002, ‘Phase I report: vulnerability assessment
+and review of initiatives’, Social Protection in Uganda: Study to Inform the Development of a Framework for
+Social Protection in the Context of the Poverty Eradication Action Plan, Kampala: Ministry of Gender, Labour
+and Social Development
+Devereux, S. and Sabates-Wheeler, R., 2003, ‘Phase II report: a vulnerability issues paper’, Social Protection
+in Uganda: Facilitating the Process of Mainstreaming Social Protection into the PEAP Revision, Kampala:
+Ministry of Gender, Labour and Social Development
+Guhan, S., 1994, ‘Social security options for developing countries’, International Labour Review Vol 133
+No 1: 35–53
+Hickey, S., 2003, ‘The Politics of Staying Poor in Uganda’, paper prepared for the International
+Conference on ‘Staying Poor: Chronic Poverty and Development Policy’, IDPM, University of
+Manchester, 7–9 April 2003
+Holzmann, R. and Jørgensen, S., 2000, Social Protection Sector Strategy Paper: From Safety Net to Trampoline,
+Washington, D.C.: World Bank
+—— 1999, ‘Social Risk Management: a new conceptual framework for social protection and beyond’,
+Social Protection Discussion Paper 6, Washington, D.C.: World Bank
+
+28
+
+Hulme, D., Moore, K. and Shepherd, A., 2001, ‘Chronic poverty: meanings and analytical frameworks’,
+CPRC Working Paper 2, Manchester: IDPM, University of Manchester
+International Labour Office and United Nations Development Programme (ILO/UNDP), 1996, Uganda:
+Report to the Government on the Development of Social Protection, Geneva: ILO
+Jones, P., 1997, ‘The impact of minimum wage legislation in developing countries where coverage is
+Incomplete’, WPS/98-2, Oxford: Centre for the Study of African Economies
+Kasente, D., Asingwire, N., Banugire, F. and Kyomuhendo, S., 2002, ‘Social security systems in Uganda’,
+Journal of Social Development in Africa, Vol 17 No 2: 157-84
+Lawson, D., McKay, A. and Okidi, J., 2003, ‘Factors affecting poverty dynamics and persistence in
+Uganda’, mimeo, University of Nottingham
+Lüders, R., 2003, ‘Draft executive summary’, Social Security in Uganda, Kampala: Bank of Uganda
+Lustig, N. and McLeod, D., 1996, ‘Minimum wages and poverty in developing countries: some empirical
+evidence’, Brookings Discussion Papers in International Economics 125, Washington, D.C.: Brookings
+Institution
+MacKinnon, R., 2002, ‘Social Risk Management: a conceptual fallacy of composition’, Risk Management,
+Vol 4 No 2/3: 21-31
+McDonald, C., Schiller, C. and Ueda, K., 1999, ‘Income distribution, informal safety nets, and social
+expenditures in Uganda’, IMF Working Paper 99/163, Washington, D.C.: International Monetary
+Fund, Fiscal Affairs Department
+McGee, R., 2000, ‘Meeting the international development targets in Uganda: halving poverty and
+achieving Universal Primary Education’, Development Policy Review 18: 85-106
+Mchomvu, A., Tungaraza, F and Maghimbi, S., 2002, ‘Social security systems in Tanzania’, Journal of Social
+Development in Africa, Vol 17 No 2: 11-28
+Ministry of Education and Sports (MoES), 2002, Basic Education Policy for Disadvantaged Children, Kampala:
+MoES, Government of Uganda
+Ministry of Finance, Planning and Economic Development (MFPED), 2002, Uganda Participatory Poverty
+Assessment Report: Deepening the Understanding of Poverty, Kampala: MFPED, Government of Uganda
+Norton, A., Conway, T. and Foster, M., 2000, ‘Social protection concepts and approaches: implications
+for policy and practice in international development’, Working Paper 143, London: Centre for Aid and
+Public Expenditure, Overseas Development Institute (ODI)
+Ortiz, I. (ed.), 2001, Social Protection in Asia and the Pacific, Manila: Asian Development Bank (ADB)
+Ouma, S., 1995, ‘The role of social protection in the socioeconomic development of Uganda’, Journal of
+Social Development in Africa, Vol 10 No 2: 5-12
+Republic of Uganda, 2001, Uganda Poverty Status Report: 2001, Kampala: Ministry of Finance, Planning and
+Economic Development
+Sabates-Wheeler, R. and Waite, M., 2003, ‘Migration and social protection’, Migration, Globalisation and
+Poverty Working Paper Series, Migration Centre, University of Sussex, December
+
+29
+
+Saget, C., 2001, ‘Is the minimum wage an effective tool to promote decent work and reduce poverty? The
+experience of selected developing countries’, ILO Employment Paper 2001/13, Geneva: International
+Labour Office
+Sen, A., 1981, Poverty and Famines: An Essay on Entitlement and Deprivation, Oxford: Clarendon Press
+—— 1980, ‘Economic Development: Objectives and Obstacles’, Chapter 1 in R.F. Dernberger (ed.),
+China's Development Experience in Comparative Perspective, Cambridge: Harvard University Press
+Sesinyi, M., 1998, ‘Minimum wages and employment: literature review and background on minimum
+wages in Botswana’, BIDPA Working Paper 16, Gaborone: Botswana Institute for Development
+Policy Analysis
+Suruma, E., 2000, ‘A contribution towards a comprehensive view of social security reform in Uganda’,
+PEC Paper, Kampala: Presidential Economic Council
+Uganda Human Rights Commission (UHRC), 1999, Annual Report 1999, Kampala: UHRC
+Uganda Red Cross Society (URCS), 2002, Launch of the 2002 World Disaster Report and HIV/AIDS AntiStigma Campaign, Kampala: Uganda Red Cross Society
+United Nations Development Programme (UNDP), 2000, Uganda Human Development Report 2000,
+Kampala: UNDP
+van Ginneken, W. (ed.), 1999, Social Security for the Excluded Majority: Case Studies of Developing Countries,
+Geneva: International Labour Office (ILO)
+World
+
+Bank,
+
+2004,
+
+http://wbln0018.worldbank.org/HDNet/hddocs.nsf/c207c7f854bd0a0985
+
+25660b007a272d/fb93d792069e704e852568190058d7bc?OpenDocument (accessed 9 August 2004)
+—— 2000, World Development Report 2000/2001, Washington, D.C.: World Bank
+—— 1990, World Development Report 1990, Washington, D.C.: World Bank
+
+30
+
+

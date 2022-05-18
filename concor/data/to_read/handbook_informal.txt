@@ -1,0 +1,690 @@
+22. The informal sector and social protection
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins
+
+22.1
+
+INTRODUCTION
+
+There is growing interest to extend social protection coverage to people working in the informal economy. This interest has risen through the realization that the right to social protection
+is not yet a reality for 71 per cent of the world’s population (International Labour Organization
+2017). In the Asia and Pacific region, for example, only 38.9 per cent of the population are
+effectively covered by at least one social protection cash benefit compared to 67.6 per cent
+in the Americas; while Africa has only 17.8 per cent of the population covered (International
+Labour Organization 2017). Access to social protection is still a challenge, more so for the
+informal sector, who are not poor enough to qualify for social transfer schemes and not rich
+enough to participate in existing contributory schemes (OECD 2019).
+Recent experience with the COVID-19 crisis, especially in low- and middle-income
+countries, has exposed the fractured labour market and social protection systems that do not
+cover the ‘missing middle’ (Rutkowski 2020). Lock-downs that characterized responses to the
+COVID-19 pandemic meant permanent or temporal loss of work and income for some people
+in the informal economy. In the North, lock-downs meant that taxis lost 80 per cent of customers, but neighbouring sector food delivery increased (Svynarenko and Perkiö 2020), suggesting that not all informal sectors suffered equally. In some countries, restaurant workers, street
+vendors and domestic workers could not report for work while farmers in rural areas experienced low sales of their farm produce due to restrictions in movement (ActionAid 2020). At
+the same time, unpaid care work increased due to closure of schools and other facilities.
+Governments responded differently when it came to mitigating social-economic challenges
+caused by the COVID-19 crisis. Reports suggest that cash transfers were being adapted to the
+COVID-19 response. Administrative adaptations such as flexibility in the time of collection
+took place in Algeria, while home delivery of cash for seniors was implemented in Armenia
+(Allahoum et al. 2020). At the same time, Egypt, for example, increased benefits among
+pre-existing programmes. However, most people remained uncovered by social protection
+programmes leaving them vulnerable to various shocks. Therefore, extending social protection
+coverage to the informal economy, including to agricultural workers, presents an opportunity
+to reduce poverty and vulnerability.
+This chapter examines contributory social protection coverage, for informal economy
+workers, including the agricultural sector focusing on alternatives for contributory schemes
+for this population. In Section 22.3 we discuss the characteristics of the informal economy.
+Section 22.4 shows the magnitude of informal economy workers across the globe, and Section
+22.5 highlights challenges in coverage extension for this group. Section 22.6 presents policy
+options for extending coverage and argues for an integrated approach comprising tax-financed
+social transfers, contributory social insurance and micro-finance to cover informal economy
+workers. Section 22.7 suggests modes of social protection delivery and argues that a public–
+private mix provides an opportunity to extend social protection coverage in an efficient and
+389
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+390
+
+Handbook on social protection systems
+
+effective manner. Finally, we present a roadmap towards achieving coverage of informal
+economy workers. We use the agricultural sector as an example of an informal economy.
+
+22.2
+
+DEFINITIONS
+
+The concept of social protection refers to the set of interventions instituted by the state in
+order to prevent or address the condition of vulnerability and poverty in a socio-economic and
+geographical environment. We use the terms ‘informal sector’, ‘informal employment’ and
+‘informal economy’ referring to the same unit of focus in literature on labour and social protection (Alfers et al. 2017; Pellissery and Walker 2007). Informal economy is a broad term that
+encompasses both the informal sector and informal employment. The term comprises all economic activities by workers and economic units that are – in law or in practice – not covered
+or insufficiently covered by formal arrangements (Chen 2012; Phe Goursat and Pellerano
+2016). The informal economy includes workers who work for their own account, employees in
+informal establishments, contributing family workers and employees in formal establishments
+without social protection or other legal requirements, compensation pay or paid annual leave.
+
+22.3
+
+CHARACTERISTICS OF THE INFORMAL ECONOMY
+
+Informal economy workers fulfil two or more of the following characteristics: (1) low and
+irregular wages; (2) no written contract; (3) no entitlement to annual vacations; or (4) no or
+inadequate social protection coverage. Workers can function in the formal or informal sector.
+In the formal sector, for example, gardeners may work for a company without a formalized
+contract or annual leave.
+Informal economy workers often have low and fluctuating incomes, because their employment and its permanence are unpredictable (Van Ginneken 1999). Low incomes are fostered
+by ill-defined or lack of written employment contracts and fluid work arrangements (Pellissery
+and Walker 2007). In Mexico, for example, informal economy workers such as domestic
+workers have very low wages (Rojas-García and Toledo González 2018). Mexico’s situation
+is similar to Zambia where some general workers and cleaners can earn as little as USD 30 per
+month despite the existence of laws to regulate wages. Efforts are being made e.g. in South
+Africa to formalize domestic worker agreements and to provide some protection for employees including a minimum wage (Department of Labour 2017).
+However, not all informal workers have low incomes, as highly skilled workers may
+conduct undeclared self-employment and informal wage work (Winkler et al. 2017), in the
+grey economy. The common feature between low- and high-earning informal economy
+workers is that they are all vulnerable to income shocks from unemployment, illness and old
+age. The situation suggests that regardless of income level and sector of operation, they require
+protection against economic shocks.
+There are many similarities between the characteristics and experiences of informal
+economy workers across low- and middle-income countries, but the group itself can be seen
+as heterogeneous. Categories of informal workers include (1) subcontracted workers and/or
+home-based or self-employed workers engaged in production, (2) service workers in restaurants, and as street vendors, waste pickers and recyclers, massage workers, public motorcycle
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+The informal sector and social protection 391
+riders and cab taxi drivers or domestic workers; and (3) agricultural workers (Kongtip et al.
+2015). They may operate in different settings, from the home to factories or streets.
+Another prominent feature for informal economy work is lack of representation. Some countries do not have strong labour movements, which can contribute towards advocacy and rights
+for informal economy workers. This is the case for informal agricultural workers, as most of
+them are self-employed or working in family farms (International Labour Organization 2017).
+In such settings, having labour representation through trade unions may be considered unnecessary and socially inappropriate. For example in Zambia, reports suggest that the majority of
+workers in the agricultural sector are self-employed (53.8 per cent) or unpaid family workers
+(41.6 per cent) (Phe Goursat and Pellerano 2016). Further, 97 per cent (representing 2,821,566)
+of agriculture, forestry and fishery industry workers are informally employed.
+Other subcategories of informal economy workers facing the challenge of representation
+include domestic workers’ associations. In Zambia, for example, associations for domestic
+workers have administrative challenges and low membership, making it difficult to function
+to a level impacting significantly on wage and working conditions for domestic workers
+(Mweetwa 2012). Elsewhere, it has been argued that existing labour movements for the
+informal economy are ‘bogus unions’ in that they do not represent workers’ interests despite
+high subscription fees (Wetlesen 2010). This situation is worse for domestic workers as they
+operate from homes as private settings. Domestic workers therefore operate ‘behind closed
+doors’ and are susceptible to the will of the employer (WIEGO 2020). They may be subjected
+to unhealthy and harmful working conditions. The lack of representation and bargaining power
+can affect workers’ morale and confidence as they are not protected from vulnerability.
+However, there are isolated cases of strong labour movements for informal economy
+workers across the world. The International Domestic Workers’ Federation engages at the
+global level to influence policy. In Mexico the Domestic Worker Union influences various
+aspects of policy and wage and employment conditions, including extension of social insurance to household workers. It is important to strengthen informal economy workers’ associations as they play a critical advocacy and social support role for their members.
+
+22.4
+
+MAGNITUDE OF THE INFORMAL ECONOMY
+
+The global community has high informal employment rates, with implications on the design
+of social protection systems. Two billion workers (61.2 per cent of the world’s employed population) are in informal employment, including the agricultural sector (International Labour
+Organization 2019). This type of employment is dominant in low- and middle-income countries, where it constitutes the base of the economy providing livelihoods and survival for most
+people (Patankar and Patwardhan 2016; Pellissery and Walker 2007; Smit and Mpedi 2015).
+Informal employment ranges from an average of 18.3 per cent, to 67.4 per cent to as high
+as 89.9 per cent in high-, middle- and low-income economies, respectively. There are regional
+disparities suggesting that various factors account for informal economy worker numbers
+across the globe. For example, Africa has 85.8 per cent of the labour force in informal
+employment, ranging from 81 per cent in Ghana to more than 90 per cent in Benin, Burundi,
+Democratic Republic of Congo, Uganda and Zimbabwe (International Labour Organization
+2019). The average number of informally employed is lower in the Asia and Pacific (68.2 per
+cent) and the Americas (40 per cent) (International Labour Organization 2019). As in other
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+392
+
+Handbook on social protection systems
+
+regions, there are significant differences between countries. In Europe and Central Asia, 25 per
+cent of all employed people are in informal employment, with only 15.6 per cent of workers in
+high-income countries. Overall, more than one in three workers in emerging economies (36.8
+per cent) work in the informal economy.
+Agriculture is a field that helps demonstrate the magnitude of informal work. We chose
+agriculture as an indicator sector because it (1) shares characteristics with other informal
+economy sectors and (2) remains one of the most dominant sources of employment in low- and
+middle-income countries. Globally, most agriculture workers are in low- and middle-income
+countries. Agriculture is an economic stay for most people in rural communities of Asia and
+Sub-Saharan Africa (Mundy 2017).
+Figure 22.1 suggests that the number of persons employed in the agricultural sector is
+reducing, especially in middle-income countries. However, the number of agricultural workers
+in low-income countries remains high due to low technological advancements and restricted
+opportunities in other sectors. Smallholder farms constitute approximately 80 per cent of all
+farms in Sub-Saharan Africa and employ approximately 175 million people directly (Food and
+Agriculture Organization 2020b).
+
+Source: Authors’ own illustration.
+
+Figure 22.1
+
+Employment in agriculture
+
+The magnitude of informal employment, including agriculture, has implications on the design
+and implementation of social protection interventions. Therefore, we need to understand why
+the world has more people working in the informal economy than in the formal economy.
+Three policy reasons for the persistence of a high number of people working in informal
+employment are espoused.
+First, low-tech agriculture has been the dominant economic activity in most low- and
+middle-income countries (Robyn et al. 2012; Steinbach 2019), where it has been performed as
+non-paid work by farmers and their family members supplemented by casual work labourers
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+The informal sector and social protection 393
+without formal employment contracts. This is particularly the case for most people in rural
+areas who lack access to essential social and economic opportunities. Therefore, some scholars
+argue that the informal economy persists because of ‘exclusion’ from the formal economy and
+state benefits (Williams and Bezeredi 2018).
+Second, Structural Adjustment Programmes promulgated by the World Bank and
+International Monetary Fund added to informal employment. The Programmes led to the
+reorganization of production and social reproduction, which impacted on the livelihoods
+and wellbeing of people in low- and middle-income countries (Asfaw and Von Braun 2004;
+Lebaron and Ayers 2013). These market-cantered policies promoted deregulation of the labour
+market, reduced social expenditure such as in health and education and promoted liberalization
+of the economy and sale of parastatals. The consequence was experiences of employment
+losses, shrinking of the formal labour, increased inequality and systematic drop in household
+earnings (Ossome 2010; Shaba 2013).
+The third possible reason is the voluntary exit explanation. The view posits that people exit
+from the formal sector as a result of rational economic choice (De Soto 2001; Maloney 2004).
+Some people may find it beneficial to work in the informal economy as they avoid paying
+taxes, contributions and being subject to stricter regulations. However, the numbers of persons
+that have voluntarily moved to the informal-sector may be small compared to those that have
+been ‘forced’ to embrace informal employment, as suggested by Southern African data (Smit
+and Mpedi 2015).
+These three policy explanations suggest the need for a broad range of policies to improve
+the conditions of work. They also call for holistic interventions including provision of training
+to prevent further expansion of the informal economy.
+
+22.5
+
+CHALLENGES IN EXTENDING SOCIAL PROTECTION
+
+Informal economy workers are excluded or only partially covered by social protection systems.
+They are largely excluded from contributory social insurance schemes. The lack of coverage in
+social protection is a result of five different contributing factors that we describe below.
+22.5.1
+
+Inadequate Legal Coverage
+
+A country’s legal framework can be ambiguous or explicitly exclude informal economy
+workers from social insurance coverage (Elveren 2013; Kongtip et al. 2015; Walker and
+Pellissery 2008). In Zambia, for example, there was ambiguity in relation to self-employed
+persons’ enrolment in the pension scheme until November 2019. In Turkey, the pension system
+is based on a male-breadwinner model where women are defined extensively as dependants
+(Elveren 2013), thereby excluded from coverage. This situation can mean that some working
+women temporarily employed in agriculture, those who earn less than minimum wage, unpaid
+family workers and informal workers are excluded from pension scheme entitlements. Also,
+periods of child rearing do not contribute to pension schemes.
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+394
+22.5.2
+
+Handbook on social protection systems
+Lack of Compliance and Inadequate Monitoring Mechanisms
+
+In some situations, the law may include informal economy workers’ social insurance coverage, but employers and employees do not comply. The casual nature of jobs makes registration
+and compliance difficult (Walker and Pellissery 2008). On the one hand employers may avoid
+the costs of registering and contributing for an employee whose contract may be terminated
+soon, while employees may prefer receiving money immediately, instead of saving for the
+future through contributing to a pension fund.
+The existing administrative systems for registering and collecting contributions and monitoring compliance are not robust enough for the informal economy (Castel and To 2012;
+Kongtip et al. 2015; Macha et al. 2012). Some countries do not have registers for people in
+the informal economy. In other countries registration systems and processes are cumbersome
+for informal economy workers. For example, Ghana’s health insurance registration process
+required that in order to enrol, one must go in person to a District Mutual Health Insurance
+Scheme office, complete registration paperwork (often after a substantial waiting time) and
+pay a small annual registration fee (Holmes and Scott 2016). This means long distances and
+transport expenditure, which is difficult for informal workers to invest in. This can be particularly the case for agricultural workers, whose presence is needed at the farms and who live in
+rural areas, far from offices.
+Concurrently, inspection systems are not always coordinated. Countries such as Nicaragua,
+Zambia and Malawi have two or more institutions monitoring compliance for different objectives: taxes, conditions of work and social protection. As such, inspection can be cumbersome
+for employers who have to report to different institutions (Phe Goursat and Pellerano 2016).
+Furthermore, these institutions are often understaffed, without the necessary technology that
+facilitates monitoring and at times do not have the incentive to report on defaulters.
+22.5.3
+
+Lack of Knowledge
+
+Informal economy workers may not be aware of their social insurance entitlements, including
+health insurance, pensions and unemployment insurance. In India, around 80 per cent of
+informal sector employees did not know what a pension was (Hu and Stewart 2009). There are
+similar indications in other countries such as Indonesia, Philippines and Zambia suggesting
+that most informal economy workers are unlikely to claim social protection benefits if they are
+unaware of their entitlements (Dartanto et al. 2016; Conchada and Tiongco 2015; Phe Goursat
+and Pellerano 2016). The lack of awareness could be a result of employers withholding information, weak social protection institutions or unions with poor communication campaigns
+about social protection.
+22.5.4
+
+High Contribution Rates: Design of Financially Sound Products
+
+Many informal economy workers have low and fluctuating incomes (Hu and Stewart 2009;
+Lofgren et al. 2008). For self-employed persons, making a double contribution of employer
+and employee as designed in most pension schemes is costly (Conchada and Tiongco 2015;
+Phe Goursat and Pellerano 2016), and due to fluctuating income contribution rates may be difficult to determine or meet (Hu and Stewart 2009). As is the case with others employed in the
+informal economy, they have competing priorities between immediate needs and contributing
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+The informal sector and social protection 395
+to social insurance. Employers may also find contributing for their employees a costly venture.
+Evidence from China showed that contribution rates for social insurance was high both for
+workers and employers, which was considered a burden (Giles et al. 2013). To avoid such high
+contributions, employers under-report wages and play with the system (Castel and To 2012).
+This suggests that high contribution costs and rates can incentivize informalization. Employers
+might become less willing to employ someone long term because of the implications on
+wages, social insurance and taxation, and lack of the possibility of dismissal without stringent
+legal implications. These factors are important to consider in connection with contributory
+social protection schemes.
+22.5.5
+
+Unattractive Benefit Packages and Mistrust
+
+Informal workers may avoid the social insurance schemes available to them because they do
+not appear sufficiently attractive, being designed for formal workers. The unattractiveness of
+benefits is worsened by lack of trust in social protection institutions and health service care
+providers. Evidence from health insurance shows how the benefit package and mistrust may
+affect willingness to participate. Problems on the service delivery side such as absence and
+attitudes of medical personnel and lack of medical supplies are disincentives towards health
+insurance contributions (Kotoh et al. 2017; Mundy 2017). The health insurance experience
+in Ghana suggests that overpricing and charging extra fees and selling drugs while these are
+covered under the National Health Insurance Scheme (Kotoh et al. 2017) raised questions
+about the credibility of the entire system. In pension schemes, corruption and embezzlement
+of funds were reported to occur in Nigeria (Fapohunda 2013). Such news erodes trust in public
+institutions, affecting willingness to contribute towards social protection. This suggests that
+people’s experience with the health-care system influences the level of acceptability of contributory programmes.
+In pension schemes, traditional benefits focus on meeting income needs for old age, neglecting immediate or short-term needs. Such packages are unlikely to attract informal economy
+workers who perceive social protection benefits as ‘too far’ to reach. Informal economy
+workers such as domestic workers and bus and taxi drivers find such schemes unattractive
+(Miti et al. Forthcoming), suggesting the need for short-term benefits as incentives that can
+enable members to meet some of the immediate needs.
+
+22.6
+
+POLICY OPTIONS FOR EXTENDING COVERAGE
+
+The challenges for extending coverage in the current models and policies described above can
+be addressed through policy options and modes of delivery in different combinations depending on the local context. We discuss some pertinent options below.
+22.6.1
+
+Legal Coverage: Contributory Social Insurance
+
+Social insurance systems have two basic goals: consumption smoothing and poverty prevention (Winkler et al. 2017). The modus operandi for social insurance has been provision
+through mandatory or voluntary contributions (see Chapter 3). This suggests the need for
+a legal framework that supports the inclusion of informal economy workers in social insurance
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+396
+
+Handbook on social protection systems
+
+schemes on a mandatory or voluntary basis. Incremental approaches have been successful in
+high-income countries, such as South Korea, where mandatory contributory social insurance
+successfully covers informal workers. This process initially targeted industrial workers in
+large corporations but was later extended to the self-employed, until it covered the entire
+population (Kwon 2009). Some factors that account for this success include political will,
+low contribution without major subsidization, limited role of government in the scheme, rapid
+economic growth and creation of a single fund (Kwon 2009). These factors may not be transferable but provide insight into possible considerations in designing schemes.
+Voluntary pension schemes can be found, for example, in Kenya (Kwena and Turner 2013),
+where the Mbao pension plan led to enrolment of over 35,000 informal economy workers into
+the pension scheme between 2010 and 2013 (Akbas et al. 2015). Its success is attributed to
+flexibility of contribution amounts and use of mobile money solutions (M-Pesa) to facilitate
+payment (Winkler et al. 2017). While comparing South Korea to low- and middle-income
+countries could be seen as distal, there are valuable lessons that can be learnt from this country
+without undermining the socio-economic and political contexts of low- and middle-income
+countries. A careful contextual analysis should be conducted before implementing voluntary
+or mandatory schemes to avoid crowding out members. For example, Moldovan studies show
+that when the social protection coverage of farmers was changed from mandatory to voluntary
+in 2009, almost all farmers stopped paying contributions (International Labour Organization
+2016).
+22.6.2
+
+Attractive Benefit Packages and Contribution Rates
+
+Informal economy workers could be attracted to the traditional social insurance if it has
+short-term benefits and low contribution rates (Phe Goursat and Pellerano 2016). This is
+because most people in the informal economy have fluctuations in income, such that saving
+for a distal future for pensions becomes a challenge as they also have various immediate needs.
+Benefit packages for social insurance could also be coupled with state subsidy as a viable
+option to extend coverage. Evidence shows that Tunisia gradually extended social protection
+through health insurance, pensions, maternity and employment injury benefits to over 84
+per cent in 1999 (Van Ginneken 2003b). One of the factors that led to this success was the
+improved benefits provided by the social protection system, which eventually led to a mind-set
+shift towards desire for coverage amongst people. In Mexico, social health insurance was
+extended through the Seguro Popular, a voluntary programme targeting individuals without
+access to any social protection programme (Parker et al. 2018). Seguro Popular is an innovative approach with low contributions and government subsidy that led to expanded coverage
+of health insurance, almost reaching its goal of universal health coverage (Winkler et al. 2017).
+Short-term benefits may include access to finance, and links to other essential services
+(Holmes and Scott 2016; Phe Goursat and Pellerano 2016). Inclusion of short-term benefits
+is relevant for both health insurance and pension schemes because people in the informal
+economy would prefer to see benefits almost immediately. For example, research in Zambia
+(Phe Goursat and Pellerano 2016) and the experience in South Korea (Kwon 2009) provide
+insight into the importance and need for short-term benefits. This is why Zambia has included
+short-term benefits such as access to credit, family funeral grants and maternity benefit into
+pensions for informal workers (see Case Study M on the extension of the contributory pension
+scheme to small-scale farmers in Zambia). This is how a pension scheme becomes a more
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+The informal sector and social protection 397
+generic social policy programme meeting several needs of the informal economy workers.
+Short-term benefits allow members to experience tangible benefits in their day-to-day lives,
+instead of a pension payment in 10 years. In the health insurance sector, South Korea included
+outpatient care coverage from the beginning, which was a short-term and immediate benefit
+rather than restricting benefits to cover for inpatient or catastrophic expenses. This provided
+enrolees with more opportunities to experience the benefits of health insurance, and helped to
+minimize dropouts (Kwon 2009).
+22.6.3
+
+Improved Administrative and Monitoring Mechanisms
+
+There is recognition that low- and middle-income countries do not have the much needed
+administrative and financial capacity to enforce mandatory schemes among informal economy
+workers (International Labour Organization 2017; Pellissery and Walker 2007; Smit and
+Mpedi 2015). This suggests that countries intending to extend coverage should work towards
+improving administrative systems including human resources and embrace the use of information communication technology. This could also counter the challenge of long distances to
+centres, especially a challenge for agricultural workers in rural areas.
+22.6.4
+
+Reducing the Social Protection Knowledge Gap
+
+There is a need to undertake deliberate programmes to sensitize informal economy workers
+about social protection in general and their right to social protection in particular, and the
+way in which social protection can meet their needs, whether in the agricultural or other
+sectors. This will allow the general citizenry to claim benefits and where necessary register for
+contributory schemes. These sensitizations can take various forms using different platforms.
+Evidence in education and health show that sensitization increases participation in social
+interventions (Wiesmann and Jütting 2000). Thus, there is also recognition in social protection
+that awareness raising is important as it can lead to participation from employers and workers
+in social protection services (Ulrichs 2016). Awareness raising opens up spaces for people to
+raise their voices to ensure social protection meets their needs.
+22.6.5
+
+Social Transfers
+
+Non-contributory social voucher or cash transfer schemes are another way to provide social
+protection (International Labour Organization 2017). They are tax financed and can be provided as conditional or unconditional (see Chapter 2). Social transfers target different groups
+for varying reasons. For example, child grants may be given to households with children who
+fall under some defined criteria such as health or education; old age grants can target elderly
+people not covered under social insurance; while other grants may be universal, without any
+targeting. During the COVID-19 crisis, countries such as Argentina and Brazil introduced
+emergency support to families, including informal economy workers; in Burkina Faso, cash
+transfers were directed at informal-sector workers (particularly women fruit and vegetable
+sellers) to help them during the crisis. Other countries including Togo and Tunisia also
+introduced cash transfers targeting informal economy workers during the crisis (Food and
+Agriculture Organization 2020a).
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+398
+
+Handbook on social protection systems
+
+Social transfers are necessary to complement social protection to reduce poverty and vulnerability of the elderly, some of whom could have been engaged in informal employment. These
+interventions can help release some of the pressure on children to financially maintain their
+parents during retirement (Van Ginneken 2003a).
+Some countries such as South Africa have used social transfers to extend social protection,
+for example child benefit (Zembe-Mkabile et al. 2015). Similarly, in Brazil and Mexico in the
+Bolsa Familia and Progresa programmes (Banerjee and Duflo 2013; International Labour
+Organization 2017; OECD 2019), mainly conditional social transfers are used in supporting
+access to education and health care. People in the informal economy stood to benefit through
+other criteria, and not because they were in the informal economy. Nordic welfare states, often
+described as ‘transfer heavy’, use conditional and unconditional social transfers as part of
+their social policy palette (see for example Medgyesi 2016; Kangas and Palme 2005). In the
+extension of coverage, social transfers could be attached to other services that would enable
+informal economy workers to improve their productivity such as enhancing their business and
+capital, training and improvement in their work conditions rather than tax-financed transfers
+alone.
+22.6.6
+
+Micro-Insurance
+
+Commercial and community-based (micro-)insurance schemes have the potential to contribute
+to informal worker coverage (see Chapter 6). The work of the Grameen Bank in covering informal and low-income households is a good example (Sane and Thomas 2015). The Grameen
+Bank in Bangladesh provides an old age pension scheme (Hu and Stewart 2009), guaranteeing
+an interest rate of 8 per cent for a deposit period of one to three years, 10 per cent of three
+to five years and 12 per cent if longer than five years. These interest rates are considered as
+contributing to increasing the membership base (Hu and Stewart 2009). The example suggests
+that commercial and community-based insurance schemes may service social objectives and
+mitigate problems of poverty and vulnerability in old age. At the same time products such as
+livestock insurance and crop insurance may incentivize people in the agricultural sector for
+membership. Such interventions also enhance understanding of context and establish trust
+between members and institutions for social protection.
+
+22.7
+
+MODES OF DELIVERY
+
+Countries may need to assess possibilities of using an organization and management system
+that has a public–private mix, private or public management (see Chapter 10). Partnership
+between social protection institutions and organizations such as associations, cooperatives and
+unions representing informal economy workers’ interests are vital in the extension of coverage. Such organizations operate as intermediaries and help to attain long-term goals (Mundy
+2017). They can raise awareness, collect contributions and address grievances. These intermediaries are usually associations that are well known and trusted by informal economy workers,
+where societal trust in institutions and the state may be low. In Zambia, the National Pensions
+Scheme Authority works with dairy cooperatives to extend pension schemes to small-scale
+dairy farmers. These cooperatives work as intermediaries to sensitize farmers and facilitate
+farmer contributions through deductions of proceeds of monthly milk supply. In South Africa,
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+The informal sector and social protection 399
+partnerships with traders’ associations were instrumental in improving health and safety for
+6000–8000 informal traders operating daily (Alfers et al. 2017). In the absence of such associations, there is a need to examine the social-economic context and establish common areas
+of interest among informal economy workers and make that an entry point in disseminating
+information and coverage for social protection.
+
+22.8
+
+CONCLUSION: A ROADMAP FOR ACHIEVING SOCIAL
+PROTECTION COVERAGE FOR INFORMAL WORKERS
+
+Informal economy is a source of livelihood for many people, especially those in low- and
+middle-income countries. Extending social insurance to these workers is essential, using the
+available and contextualized options and evidence from different settings. Extending coverage
+may not eradicate poverty and vulnerability entirely, but rolling out social protection can
+contribute to reducing these (Carter et al. 2018). Because of the heterogeneity of informal
+economy workers, a one-size-fits-all approach in extending coverage is not possible, but
+trends in successful programmes can be identified.
+New social insurance schemes may be tailored with a narrow focus. Alternatively, new
+social insurance schemes may be fitted to a more generic social policy environment. Quality
+education and health care can for instance increase willingness to enrol in contributory social
+protection among informal economy workers. Pension schemes could consider an educational
+component as a short-term benefit. Members could use this facility to either benefit themselves
+or children/dependants. Also, labour and employment arrangements impact the success of
+coverage extension, as most informal economy workers are subjected to harsh employment
+conditions including low income and employment insecurity as described in this chapter.
+These experiences have the potential to thwart willingness to contribute to social insurance.
+This suggests a need for improved enforcement of labour laws, and building political capacity
+of workers to demand their entitlements.
+
+REFERENCES
+ActionAid (2020). COVID-19 Impact on small scale farmers in Zambia. https://​zambia​.actionaid​.org/​
+opinions/​2020/​covid​-19​-impact​-small​-scale​-farmers​-zambia
+Akbas, M., M. Weber, D. Ariely and D. Robalino (2015). How to help the poor save a bit: Evidence from
+a field experiment in Kenya. Working Paper, 10024. http://​sites​.duke​.edu/​merveakbas/​files/​2014/​08/​
+How​-to​-help​-the​-poor​-​.pdf
+Alfers, L., F. Lund and R. Moussié (2017). Approaches to social protection for informal workers:
+Aligning productivist and human rights-based approaches. International Social Security Review 70
+(4), 67–85.
+Allahoum, A., C. Andrews, T. Aromolaran, J. Arulpragasam et al. (2020). Social Protection and Jobs
+Responses to COVID-19: A Real-Time Review of Country Measures. Washington, DC: World Bank.
+Asfaw, A. and J. Von Braun (2004). Can community health insurance schemes shield the poor against
+the downside health effects of economic reforms? The case of rural Ethiopia. Health Policy 70 (1),
+97–108.
+Banerjee, V.A. and E. Duflo (2013). Poor Economics, Vol. 53. New York: BS Public Affairs.
+Carter, D.J., P. Glaziou, K. Lönnroth et al. (2018). The impact of social protection and poverty elimination on global tuberculosis incidence: A statistical modelling analysis of Sustainable Development
+Goal 1. The Lancet Global Health 6 (5), e514–e522.
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+400
+
+Handbook on social protection systems
+
+Castel, P. and T.T. To (2012). Informal employment in the formal sector: Wages and social security tax
+evasion in Vietnam. Journal of the Asia Pacific Economy 17 (4), 616–31.
+Chen, M.A. (2012). The informal economy: Definitions, theories and policies. WIEGO Working Paper,
+1 (August), 26. https://​doi​.org/​10​.1016/​0305​-750X(94)90141​-4
+Conchada, M.I.P. and M.M. Tiongco (2015). Making social protection work for the informal sector: The
+case of PhilHealth and ALKANSSSYA Program for the Self-Employed AKI-CBMS Proposal on Social
+Protection. www​.pep​-net​.org/​sites/​pep​-net​.org/​files/​CBMS/​PEP​_Mtng/​13th/​Papers/​Tiongco​.pdf
+Dartanto, T., J.F. Rezki, W. Pramono, C.H. Siregar and H. Bintara (2016). Why are workers in the informal sector reluctant to join the National Health Insurance System in Indonesia? Journal of Southeast
+Asian Economies 33 (3), 320–48.
+De Soto, H. (2001). The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere
+Else. London: Black Swan.
+Department of Labour (2017). Domestic worker wages and conditions of employment. Occupational
+Health and Safety Act, No.85 of 1993, 1–27. https://​doi​.org/​10​.1017/​CBO9781107415324​.004
+Elveren, A.Y. (2013). A critical analysis of the pension system in Turkey from a gender equality perspective. Women’s Studies International Forum 41 (P1), 35–44.
+Fapohunda, T.M. (2013). The pension system and retirement planning in Nigeria. Mediterranean
+Journal of Social Sciences, 4 (2), 25–34.
+Food and Agriculture Organization (2020a). Impact of COVID-19 on informal workers. April. https://​
+doi​.org/​10​.4060/​ca8560en
+Food and Agriculture Organisation (2020b). Social cash transfers help break poverty cycle and foster
+productivity in Zambia. FAO Food and Agriculture Organization of the United Nations. www​.fao​
+.org/​in​-action/​social​-cash​-transfers​-help​-break​-poverty​-cycle​-and​-foster​-productivity​-in​-zambia/​en/​
+Giles, J., D. Wang and A. Park (2013). Expanding social insurance coverage in urban China. Research
+in Labor Economics 37, 123–79.
+Holmes, R. and L. Scott (2016). Extending social insurance to informal workers: A gender analysis.
+Working Paper, 31 March.
+Hu, Y.-W. and F. Stewart (2009). Pension coverage and informal sector workers. OECD Working Papers
+on Insurance and Private Pensions, 31. https://​doi​.org/​10​.1787/​227432837078
+International Labour Organization (2016). Extending the social security coverage for farmers in the
+Republic of Moldova: Findings and recommendations based on the social scurity assessment survey.
+Geneva.
+International Labour Organization (2017). World social protection report 2017–19: Universal social
+protection to achieve the Sustainable Development Goals. Geneva.
+International Labour Organization (2019). Interactions between workers’ organizations and workers in
+the informal economy: A compendium of practice. Geneva.
+Kangas, O. and J. Palme (eds) (2005). Social Policy and Economic Development in the Nordic Countries.
+Basingstoke: Palgrave.
+Kongtip, P., N. Nankongnab, C. Chaikittiporn, W. Laohaudomchok, S. Woskie and C. Slatin (2015).
+Informal workers in Thailand: Occupational health and social security disparities. New Solutions:
+A Journal of Environmental and Occupational Health Policy 25 (2), 189–211.
+Kotoh, A.M., G.C. Aryeetey and S. Van Der Geest (2017). Factors that influence enrolment and
+retention in Ghana’s National Health Insurance Scheme. International Journal of Health Polity and
+Management 6 (10), 1–12.
+Kwena, R.M. and J.A. Turner (2013). Extending pension and savings scheme coverage to the informal
+sector: Kenya’s Mbao Pension Plan. International Social Security Review 66 (2), 79–99.
+Kwon, S. (2009). Thirty years of national health insurance in South Korea: Lessons for achieving universal health care coverage. Health Policy and Planning 24, January, 63–71.
+Lebaron, G. and A.J. Ayers (2013). The rise of a ‘new slavery’? Understanding African unfree labour
+through neoliberalism. Third World Quarterly 34 (5), 873–92.
+Lofgren, C., N.X. Thanh, N.T.K. Chuc, A. Emmelin and L. Lindholm (2008). People’s willingness to
+pay for health insurance in rural Vietnam. Cost Effectiveness and Resource Allocation 6. https://​doi​
+.org/​10​.1186/​1478​-7547​-6​-16
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+The informal sector and social protection 401
+Macha, J., B. Harris, B. Garshong, J.E. Ataguba, J. Akazili, A. Kuwawenaruwa and J. Borghi (2012).
+Factors influencing the burden of health care financing and the distribution of health care benefits in
+Ghana, Tanzania and South Africa. Health Policy and Planning 27 (SUPPL.1).
+Maloney, W.F. (2004). Informality revisited. World Development 32 (7), 1159–78.
+Medgyesi, M. (2016). Conditional cash transfers in high-income countries and their impact on human
+capital accumulation. TARKI Social Research Institute, June, 1–3.
+Miti, J., M. Perkiö, A. Metteri and S. Atkins (Forthcoming). Pension expansion as social innovation: Informal economy workers’ perceptions of being covered by a pension scheme in Zambia.
+International Social Security Review.
+Mundy, P. (2017). Extending coverage: Social protection and the informal economy experiences and
+ideas from researchers and practitioners. www​.arsprogetti​.com
+Mweetwa, D. (2012). Domestic Workers Union in Zambia struggles to gain members, make a difference.
+https://​globalpressjournal​.com/​africa/​zambia/​domestic​-workers​-union​-in​-zambia​-struggles​-to​-gain​
+-members​-make​-a​-difference/​
+OECD (2019). Tackling vulnerability in the informal economy: Insights from the analysis of micro
+and macro data. www​.oecd​-ilibrary​.org/​docserver/​120e596f​-en​.pdf​?expires​=​1594195049​&​id​=​id​&​
+accname​=​guest​&​checksum​=​0F​DFDD8FCB2CABCD73BB5C919BF4A4D3
+Ossome, L. (2010). In search of the state? Neoliberalism and the labour question for pan-African feminism. Feminist Africa 20, 6–22.
+Parker, S.W., J. Saenz and R. Wong (2018). Health insurance and the aging: Evidence from the Seguro
+Popular Program in Mexico. Demography 55 (1), 361–86.
+Patankar, A. and A. Patwardhan (2016). Estimating the uninsured losses due to extreme weather events
+and implications for informal sector vulnerability: A case study of Mumbai, India. Natural Hazards
+80 (1), 285–310.
+Pellissery, S. and R. Walker (2007). Social security options for informal sector workers in emergent
+economies and the Asia and Pacific Region. Social Policy and Administration 41 (4), 401–9.
+Phe Goursat, M. and L. Pellerano (2016). Extension of Social Protection to Workers in the Informal
+Economy in Zambia: Lessons Learnt From Field Research on Domestic Workers, Small Scale
+Farmers and Construction Workers. Geneva: International Labour Organization.
+Robyn, P.J., A. Hill, Y. Liu, A. Souares, G. Savadogo, A. Sié and R. Sauerborn (2012). Econometric
+analysis to evaluate the effect of community-based health insurance on reducing informal self-care in
+Burkina Faso. Health Policy and Planning 27 (2), 156–65.
+Rojas-García, G. and M.P. Toledo González (2018). Paid domestic work: Gender and the informal
+economy in Mexico. Latin American Perspectives 45 (1), 146–62.
+Rutkowski, M. (2020). COVID-19 reinforces the case for fundamental reform of our social protection
+systems. https://​blogs​.worldbank​.org/​jobs/​covid​-19​-reinforces​-case​-fundamental​-reform​-our​-social​
+-protection​-systems
+Sane, R. and S. Thomas (2015). In search of inclusion: Informal sector participation in a voluntary,
+defined contribution pension system. Journal of Development Studies 51 (10), 1409–24.
+Shaba, W.G. (2013). Social protection and informal workers in Malawi. Paper presented at SASPEN and
+FES International Conference, November.
+Smit, N. and L. Mpedi (2015). Social protection for developing countries: Can social insurance be more
+relevant for those working in the informal economy? SSRN. https://​doi​.org/​10​.2139/​ssrn​.2625156
+Steinbach, R. (2019). Growth in low-income countries: Evolution, prospects, and policies. Working
+Paper, July.
+Svynarenko, A. and M. Perkiö (2020). Taxi platforms respond to COVID-19. https://​alusta​.uta​.fi/​2020/​
+04/​02/​taxi​-platforms​-respond​-to​-covid​-19/​
+Ulrichs, M. (2016). Informality, women and social protection: Identifying barriers to provide effective
+coverage. Working paper, 31 March.
+Van Ginneken, W. (1999). Social security for the informal sector: A new challenge for the developing
+countries. International Social Security Review, 19 December.
+Van Ginneken, W. (2003a). Extending Social Security: Policies for Developing Countries. Geneva:
+International Labour Organization.
+Van Ginneken, W. (2003b). Extending social security: Policies for developing countries. SSRN 142.
+https://​doi​.org/​10​.2139/​ssrn​.673121
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+402
+
+Handbook on social protection systems
+
+Walker, R. and S. Pellissery (2008). Giants old and new: Promoting social security and economic growth
+in the Asia and Pacific region. International Social Security Review 61 (2), 81–103.
+Wetlesen, A. (2010). Legal empowerment of workers in the informal economy: The case of the construction industry in Tamil Nadu, India. Journal of Asian Public Policy 3 (3), 294–308.
+WIEGO (2020). From Mozambique to Mexico, domestic workers are fighting for their rights – and
+telling their stories. www​.wiego​.org/​blog/​mozambique​-mexico​-domestic​-workers​-are​-fighting​-their​
+-rights​-—-and-telling-their-stories
+Wiesmann, D. and J. Jütting (2000). The emerging movement of community based health insurance in
+Sub-Saharan Africa: Experiences and lessons learned. Africa Spectrum 35, 1–19.
+Williams, C.C. and S. Bezeredi (2018). Explaining and tackling the informal economy: A dual informal
+labour market approach. Employee Relations 40 (5), 889–902.
+Winkler, H., E. Ruppert Bulmer and H. Mote (2017). Expanding social insurance coverage to informal
+workers. World Bank. https://​doi​.org/​10​.1596/​27932
+Zembe-Mkabile, W., R. Surrender, D. Sanders, D. Jackson and T. Doherty (2015). The experience of
+cash transfers in alleviating childhood poverty in South Africa: Mothers’ experiences of the Child
+Support Grant. Global Public Health 10 (7), 834–51.
+
+Jairous J. Miti, Mikko Perkiö, Anna Metteri and Salla Atkins - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:33:52AM
+via William and Mary School of Law
+
+

@@ -1,0 +1,1444 @@
+World Development 106 (2018) 87–98
+
+Contents lists available at ScienceDirect
+
+World Development
+journal homepage: www.elsevier.com/locate/worlddev
+
+The political path to universal health coverage: Power, ideas and
+community-based health insurance in Rwanda
+Benjamin Chemouni ⇑
+Department of International Development, London School of Economics and Political Science, UK
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 23 January 2018
+Available online 20 February 2018
+Keywords:
+Rwanda
+Health insurance
+Universal health coverage
+Political settlement
+Ideas
+Social protection
+
+a b s t r a c t
+Rwanda is the country with the highest enrolment in health insurance in Sub-Saharan Africa. Pivotal in
+setting Rwanda on the path to universal health coverage (UHC) is the community-based health insurance
+(CBHI), which covers more than three-quarters of the population. The paper seeks to explain how
+Rwanda, one of the poorest countries in the world, managed to achieve such performance by understanding the political drivers behind the CBHI design and implementation. Using an analytical framework relying on political settlement and ideas, it engages in process-tracing of the critical policy choices of the
+CBHI development. The study finds that the commitment to expanding health insurance coverage was
+made possible by a dominant political settlement. CBHI is part of the broader efforts of the regime to foster its legitimacy based on rapid socio-economic development. Yet, CBHI was chosen over other potential
+solutions to expand access to healthcare because it was also the option the most compatible with the ruling coalition core ideology.
+The study shows that pursuing UHC is an eminently political process but explanations solely based on
+objective ‘‘interests” of rulers cannot fully account for the emergence and shape of social protection programme. Ideology matters as well. Programme design compatible with the political economy of a country
+but incompatible with ideas of the ruling coalition is likely to run into political obstructions. The study
+also questions the relevance for poor countries to reach UHC relying on pure CBHI models based on voluntary enrolment and community management.
+Ó 2018 The Author. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://
+creativecommons.org/licenses/by/4.0/).
+
+1. Introduction
+Providing affordable healthcare to the population of low and
+middle-countries is a persistent development issue. The WHO estimated in 2010 that 100 million people are pushed into poverty and
+150 million suffer financial catastrophe because of out-of-pocket
+expenditure on health services every year (WHO, 2010: 8). Consequently, universal health coverage is a priority on the global development agenda, as demonstrated by its inclusion in the
+Sustainable Development Goals. Despite the global support for universal health coverage, how to reach this objective in poor countries remains highly debated (Kutzin, 2012; WHO, 2010).
+Rwanda has made impressive strides towards universal health
+coverage, mainly by providing health insurance to the poor in
+the informal sector through its community-based health insurance
+(CBHI), the focus of this article. The scheme, also known by its
+⇑ Address: London School of Economics and Political Science, Department of
+International Development, Connaught House, Houghton Street, London WC2A 2AE,
+UK.
+E-mail address: b.h.chemouni@lse.ac.uk
+
+French name, mutuelles de santé, has made Rwanda the country
+with the highest health insurance enrolment in Sub-Saharan Africa
+(Table 1). In 2015/2016, the scheme covered 81.6 percent of Rwandans according to the Rwandan Social Security Board (RSSB),1 the
+public body managing social security services. Furthermore, an additional 6 percent working in the formal economy were enrolled in
+other health insurance schemes: the RAMA (Rwandaise d’Assurance
+Maladie), which covers civil servants, the Military Medical Insurance
+(MMI), and private health insurances. These data are consistent with
+the findings of the Demographic Health Survey (DHS). In 2014/2015,
+while the official CBHI total enrolment was 76.5 percent2, the DHS,
+focusing only on respondents aged 15–49, found that 70 percent
+were enrolled in the CBHI (NISR, MoH, & ICF International, 2015).3
+CBHI in Rwanda has successfully increased medical care utilisation
+and decreased out-of-pocket expenses (Lu et al., 2012; Saksena,
+
+1
+RSSB Media weekly report of 06/10/2016: http://www.rssb.rw/sites/default/files/media_weekly_report_06-10-2016.pdf (accessed 6 April 2017).
+2
+MoH data: http://www.moh.gov.rw/index.php?id=3 (accessed 14 August 2015).
+3
+The difference can be due to that fact that the local bureaucracy has an incentive
+to inflate enrolment numbers (see later in the paper).
+
+https://doi.org/10.1016/j.worlddev.2018.01.023
+0305-750X/Ó 2018 The Author. Published by Elsevier Ltd.
+This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+88
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+Table 1
+health insurance enrolment in Sub-Saharan Africa.
+Country
+
+Coverage
+
+Insurance name
+
+Year of
+reference
+
+Source
+
+Rwanda
+
+CBHI (coverage reaches 87% if MMI, RAMA and private insurances are
+included)
+NHIP (National Health Insurance Program)
+
+2015
+
+RSSB
+
+Gabon
+
+81.6% for CBHI. 87%
+including other insurances
+45%
+
+2012
+
+Ghana
+Senegal
+
+38%
+32%
+
+NHI (National Health Insurance Scheme)
+Different insurance schemes
+
+2013
+2014
+
+Burundi
+Namibia
+
+25%
+18%
+
+CAM (Carte d’Assurance Maladie)
+Different insurance schemes
+
+2012
+2014
+
+Botswana
+
+17%
+
+2013
+
+Kenya
+
+17%
+
+2014
+
+MoH of Kenya (2014)
+
+South
+Africa
+Tanzania
+
+16%
+
+Different medical aid schemes, the biggest being BPOMAS (Botswana Public
+Officers’ Medical Aid Scheme)
+NHIF (National Hospital Insurance Fund) covered 15%, private insurance and
+CBHI the rest.
+Private insurances and different medical schemes
+
+Saleh, Barroy, and
+Couttolenc (2014)
+NHIA (2014)
+Ministère de la Santé et de
+l’Action social (n.d.)
+Ministère de la Santé (2015)
+Abt Associates and USAID
+(2014: 7)
+SHOPS Project (2014)
+
+2013
+2008
+
+Ethiopia
+Nigeria
+Lesotho
+
+8%
+3%
+2%
+
+National Health Insurance Fund (NHIF), Social Health Insurance Benefit
+(SHIB), Community Health Fund (CHF), Private insurance
+CBHI and SHI
+National Health Insurance Scheme (NHIS)
+Different insurance schemes
+
+Republic of South Africa
+(2014: 61)
+Mills, Ally, Goudge, Gyapong,
+and Mtei (2012)
+Lavers (2016)
+Dutta and Hongoro (2013)
+Lesotho 2014 Demographic
+health Survey (DHS)
+
+10%
+
+2015
+2013
+2014
+
+Source: author’s compilation. Countries with the highest health coverage according to ILO Social Security Inquiry were selected but data have been systematically verified. If it
+could not, countries have been removed (Gambia, Sudan, Djibouti). Additional countries with low enrolment numbers have been added as a way of illustration. Only the main
+insurance names are mentioned.
+
+Antunes, Xu, Musango, & Carrin, 2011; Wang, Temsah, & Mallick,
+2017). The scheme has evolved from a pure form of voluntary CBHI
+to one based on obligatory enrolment and subsidies from the formal
+sector, thus paving the way to a national health insurance model.
+Before the scheme became compulsory in 2006, it was already recognised as one of the rare successes of wide CBHI coverage in SubSaharan Africa (De Allegri, Sauerborn, Kouyaté, & Flessa, 2009;
+Soors, Devadasan, Durairaj, & Criel, 2010).
+Since the 1990s, CBHI has been widely promoted in poor countries as a tool to reduce the financial burden of accessing healthcare (Dror & Jacquier, 1999; Preker and Carrin, 2004). CBHI has
+three main features: it is based on pre-payments for purchasing
+healthcare, separating direct health payment from utilisation, it
+is controlled by the community, and it relies on voluntary membership (Atim, 1998; Hsiao, 2001; Preker et al., 2004).4 CBHI is
+one of three main financing strategies to reach universal health coverage. The two others being social health insurance (SHI), which is a
+compulsory system gathering resources for healthcare from
+employee payroll taxes and managed by a public or quasi-public
+organisation, and tax-based financing, whereby money is collected
+through general taxation of the entire population and finances
+healthcare through the general government budget.
+CBHI seems a particularly suitable solution to improve access to
+health services in low- and middle-income countries where the
+size of the formal sector is small, preventing payroll deduction
+for social health insurance, and the creation of a tax-base robust
+enough to finance universal health coverage. Yet, despite the global
+interest in CBHI, population enrolment in these schemes remains
+stubbornly low in poor countries, and especially in Sub-Saharan
+Africa (Appiah, 2012; De Allegri et al., 2009; Ndiaye, Soors, &
+Criel, 2007; Odeyemi, 2014; Soors et al., 2010), making Rwanda a
+conspicuous exception.
+Despite the importance of the Rwandan case to inform the
+debate about achieving universal health coverage in poor countries, the literature remains focused on the scheme’s technical
+4
+For simplicity’s sake, the Rwanda scheme will be referred as ‘CBHI’ throughout
+the article, although the scheme was not a pure form of CBHI from 2006 onwards,
+when it became compulsory.
+
+and managerial aspects (e.g., Musango, 2005; Lu et al., 2012;
+Saksena et al., 2011; Wang et al., 2017). While social protection
+involves shifting resource allocation and is consequently an eminently political process (Graham, 1995; Barrientos & Pellissery,
+2012), analyses of the history and politics behind the Rwandan
+impressive CBHI expansion are so far absent. This is especially surprising as the scheme features highly original and polarising characteristics, such as compulsory enrolment, public and private
+subsidisation, and massive donors’ funding. This raises questions
+about the origins of such innovations, the kinds of ideas that supported them, and the lessons that can be drawn from this experience. This article contributes to filling this gap. By analysing the
+politics and ideas behind the adoption and implementation of
+the CBHI, it seeks to understand why the policy took the shape that
+it did in Rwanda, and why it was successful at being scaled-up.
+The study constructs a historical narrative of the scheme, using
+process tracing of the crucial decisions that gave the CBHI its current form. Process-tracing can be defined as the investigation of
+the ‘‘decision process by which various initial conditions are translated into outcomes” (George & McKeown, 1985: 35). Analysis
+based on process-tracing often requires detailed historical analysis.
+This ensures the validity of the causal mechanism identified, while
+ruling out possible alternative hypotheses (George & Bennett,
+2004: 205–232). Sources of data include review of policy documents and semi-structured interviews. The paper draws on a wider
+research on state effectiveness in Rwanda which involved a ninemonth fieldwork conducted in 2012 and 2013, and included more
+than 150 interviews. Another fieldwork between January and
+March 2015 was the occasion to conduct further interviews. They
+include interviews of high-level politicians (eight interviews,
+including interviews of four former ministers of health), governmental technical staff within government, mainly from the Ministry of Health (16 interviews), staff from international
+organisations involved in the CBHI design, funding and implementation (five interviews).
+The article first introduces the theoretical framework guiding
+this study. It then presents a historical narrative of the policymaking process with respect to CBHI in Rwanda, concentrating
+on critical policy choices. Using the theoretical framework, it then
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+moves to an analysis of the political drivers and ideas behind the
+CBHI design and implementation. The conclusion highlights what
+lessons can be drawn from the Rwandan case to pursue universal
+health coverage in poor countries.
+
+2. Analysing the politics of health coverage: Political
+settlements and ideas
+The analysis draws on the theoretical framework developed by
+Lavers and Hickey (2015), which relies on two pillars. First, recognising the centrality of bargaining and contention between political
+groups in the evolution of social policies in advanced economies
+(Huber & Stephens, 2001; Korpi, 1978), the framework uses a political settlement approach to analyse the political drivers of social
+protection. Political settlement can be defined as ‘the balance or
+distribution of power between contending social groups and social
+classes’ (DiJohn and Putzel, 2009: 4). Identifying the different social
+groups and their relative power helps in understanding the institutional structure that underpins the distribution of rents under the
+form of social protection policies. This is because political settlements directly influence institutions, since ‘if powerful groups are
+not getting an acceptable distribution of benefits from an institutional structure, they will strive to change it’ (Khan, 2010: 4).
+Drawing on Khan (2010), horizontal (between elite factions)
+and vertical (between the elite and the population) distribution
+of power can be distinguished. As hypothesised by Lavers and
+Hickey (2015: 10–11), in a competitive political settlement where
+elite factions excluded from the ruling coalition are powerful and
+where the ruling coalition has little autonomy from its supporters
+and the population in general, social protection programmes are
+more likely to derail. Rulers have an incentive to turn them into
+clientelist channels of redistribution and sites of rent capture to
+accommodate the powerful opposition or reinforce the loyalty of
+their supporters. Implementation of social programmes might also
+suffer because ‘‘the more powerful lower level factions become, the
+greater the number of points at which the enforcement of particular rules can be blocked” (Khan, 2010: 65). Conversely, in a dominant settlement where power is concentrated both horizontally
+and vertically, social programmes are more likely to be functional
+and impartially implemented. In addition, implementation benefits
+from the higher enforcement capacities of the coalition. Consequently, in a dominant settlement, rulers are likely to feel secure,
+reason in a longer-term perspective and expand social protection
+as a means of legitimation to prevent the emergence of political
+opposition.
+In Rwanda, the political settlement can best be described as a
+dominant settlement. Power is concentrated in the hands of the
+Rwandan Patriotic Front (RPF). The RPF was created by Tutsi refugees who fled the anti-Tutsi pogroms of the 1950s and 1960s. It
+was formed in Uganda in 1987 with the objective of allowing the
+return of refugees to Rwanda, which the two Hutu-dominated
+regimes since independence have constantly opposed (Prunier,
+1998: 35–90). The RPF launched an attack from Uganda in 1990,
+and gained power in 1994 by stopping the genocide against the
+Tutsi ethnic group and achieving a clear victory over the governmental army. It gained power in a context of limited popular support. The Rwandan population is thought to be composed of
+roughly 85% Hutu, 14% Tutsi and 1% Twa. The Tutsi-led RPF ended
+the genocide against the Tutsi ethnic group and has ruled over a
+Hutu-dominated population. Such ethnic discrepancy was magnified by the horrors of the genocide and decades of anti-Tutsi ideology that constituted a central criterion of legitimacy of all regimes
+since independence (Prunier, 1998).
+Since the end of the genocide, power is horizontally concentrated in Rwanda because the political opposition is virtually inex-
+
+89
+
+istent for two main reasons. First, from 1994 onwards, the RPF has
+made sure to give a minimum representation in government to
+other legally-recognised political parties. This practice was later
+enshrined in the 2003 constitution, which provides that the dominant party in parliament (which has always been the RPF) cannot
+have more than 50 percent of ministerial portfolios. Yet, this
+arrangement does not reflect the reality of power. Power remains
+firmly entrenched in the RPF, helped by its control of the military
+apparatus, and supported by a range of military and party-owned
+large enterprises (Gökgür, 2012; Reyntjens, 2013). Second, the
+closed political space, and the limits put on media and civil society
+activities (Beswick, 2010; Reyntjens, 2013), prevent the emergence
+of alternative political ideas and projects. As a result, the political
+opposition is weak. It is mainly outside Rwanda, constituted by
+diaspora activists and the remnants of the armed opposition to
+the RPF that flew into the Democratic Republic of Congo after the
+genocide.
+Power is also vertically concentrated in the settlement. The RPF
+is generally analysed as a cohesive party, although this cohesiveness has been punctually challenged by the defection of highlevel individuals. It is dominated by Paul Kagame who enjoys enormous loyalty from party supporters. The RPF has a considerable
+autonomy from subordinate groups, giving it great enforcement
+capabilities. These capabilities are enhanced by the RPF’s tight control of the local administration (Chemouni, 2014).
+The second pillar of the theoretical framework recognises the
+importance of ideas in analysing social policy. One limit of the
+political settlement analysis is its inherent reliance on interestbased explanations (Lavers & Hickey, 2015). Institutions are conceptualised as mere reflection of the underlying distribution of
+power. Ideas are treated at best as instruments used by elites to
+reach their objectives. Yet, this reductive approach to political
+behaviour is questionable, especially in the case of social policy.
+It ignores that a significant scholarship has identified ideas as
+instrumental in shaping preferences in social policy (Béland,
+2005; Schmidt, 2002). Furthermore, social policy programmes
+can be the result of ideational transfer from abroad. Weyland
+(2009) argues that they are mainly the result of cognitive shortcuts
+to make easier the process of policy-making. Finally, ideas matter
+because the exclusive use of a political settlement framework
+ignores the fact that ‘‘any political settlement is likely to be compatible with several different policy approaches” (Lavers &
+Hickey, 2015: 11).
+To analyse the role of ideas in social protection, it is useful to
+distinguish between policy paradigms, i.e., mental road maps providing ‘‘a relatively coherent set of assumptions about the functioning of economic, social and political institutions” (Béland,
+2005: 8), problem definitions, i.e., a way of framing and understanding particular social issues, and finally policy ideas, which
+provide potential solutions to pre-defined social problems. Analysis also distinguishes between cognitive ideas, used to understand
+reality and how to act on it, and normative ideas that ‘indicate
+‘‘what is good or bad about what is” in light of ‘‘what one ought
+to do”’ (Schmidt, 2008: 306, in Lavers & Hickey, 2015). This overall
+framework, focusing on the crossroads of interests and ideas, is
+used to analyse the empirical material presented in the next
+section.
+
+3. CBHI: The quest for universal health coverage
+3.1. Recognising the problem
+Since the 1960s, patients have paid user fees for healthcare services in Rwanda. At the beginning symbolic, they increased dramatically in the early 1990s, following the 1987 Bamako African
+
+90
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+health ministers’ initiative, which called for cost recovery.
+Immediately after the genocide, healthcare became free. This was
+not due to the government’s ideological preferences, but was a
+pragmatic decision in the context of the post-genocide emergency
+period. The few state-run health facilities still functioning provided
+poor quality emergency care to an impoverished population unable
+to pay for healthcare services. Furthermore, the health sector
+mainly consisted of an aggregation of NGOs that provided free
+healthcare.
+User fees were progressively re-introduced in 1997, because of
+budgetary constraints. They resulted in a drop in the utilisation of
+health facilities (Fig. 1 below). Furthermore, donors’ assistance to
+the health sector progressively decreased as a result of the end of
+the emergency period (1994–98). This spurred the Ministry of
+Health (MoH) in 1998 to ask USAID for help to improve financial
+access to healthcare through health insurance. USAID readily
+agreed, as the request fitted with their existing Partnerships for
+Health Reform (PHR) project, a global five-year project which
+began in October 1995 to support health sector reform. In 1998,
+the consultancy firm Abt Associates, financed by the PHR, assisted
+the ministry in the design, implementation and evaluation of a
+pilot project.
+During this period, rendering access to healthcare partially or
+totally free was never contemplated, despite some NGOs advocating for such a solution.5 The lack of resources made it hard to consider free healthcare (i.e., based on general taxation and donors’
+support), as confirmed by the results of the 1998 National Health
+Account (Schneider et al., 2000b). Besides the financial constraints,
+lifting user fees was also ruled out for ideological reasons. The Rwandan leadership worried that it would open the door to a culture of
+assistance and dependency. As put by the then minister of health
+(1994–1997), Joseph Karemera, pre-payment schemes were already
+‘appealing to [him] because [they] created solidarity, ownership and
+self-reliance’.6 The 1995 Rwandan Health Policy consequently
+encouraged the population to create CBHI schemes and self-help
+mechanisms to increase financial access to healthcare (Schneider,
+Diop, & Bucyana, 2000a: 16).
+
+3.2. Devising a solution: The 1999 CBHI pilot
+The pilot’s design was shaped by three main factors. First, no
+existing African examples of pre-payment schemes stood out as
+having the potential to be directly translated into the Rwandan situation. Already in 1995, the MoH examined West African
+community-based schemes and the Burundian Assistance Health
+Card (CAM), a national health insurance scheme created in 1984.
+They were not considered as potential models as their results were
+deemed unsatisfactory, notably in terms of enrolment. The CBHI
+pilot design was however influenced by the experience of an Abt
+consultant who worked on pre-payment schemes tested at the
+time in Zambia. Individuals enrolled in these schemes paid a
+monthly sum to a health facility in exchange for free services when
+the person fell sick.
+The second influence lies in the ideological preference of the
+MoH to involve the community in the management of the scheme.
+It was a key difference with the Zambian scheme where health
+facility staff managed the funds. The intent of the MoH was to promote two kinds of participation: grassroots democratic participation, by increasing the population’s oversight in the management
+and use of funds; and financial participation to avoid the population being passive consumers not ‘owning’ the scheme or not
+5
+Interview with Joseph Karemera, former minister of health Kigali, 28 January
+2015 and MoH high official, Kigali, 19 February 2015.
+6
+Interview, Kigali, 28 January 2015.
+
+taking responsibility for it because, as stated by Joseph Karemera,
+former minister of health, ‘free things are not put to proper use’.7
+The third influence on the design of the pilot came from consultations with the grassroots level. The scheme’s features –benefit
+package, premium and co-payment levels, management structure–
+were based on the pilot steering committee’s consultation of the
+population, health staff and local leaders. Fact sheets laying out
+the advantages and disadvantages of each design option were submitted locally for discussion during several consultative workshops held from February 1999 to July 1999.
+Past initiatives aiming at decreasing the financial burden of
+healthcare on citizens in Rwanda hardly influenced the CBHI
+pilots. Solidarity funds, used to mitigate out-of-pocket expenditure for unplanned events such as illness or funerals, have existed
+since colonial times (Nzisabira, 1992). Six existed in 1998
+(MoH, 2004: 5), often organised around church-run health facilities, but encountered significant operational issues. An exception
+was a scheme created by the bourgmestre of the commune of
+Ruhondo in the North of the country, which achieved a significant
+enrolment rate. As recalled by Protais Musoni, former Minister of
+Local Government (2004–09), this initiative ‘created lots of
+enthusiasm in the leadership’ of the RPF.8 Yet, this initiative did
+not influence the pilot because it was deemed not participatory
+enough, as it was essentially a local tax for healthcare.
+Another potential influence on the pilot could have come from
+the Social Democratic Party (PSD), since CBHI featured in its 1991
+political programme. Yet, no direct link between the PSD programme and the CBHI seems to exist (cf. Golooba-Mutebi, 2013:
+19). Many of the key policy-makers at the time, including Protais
+Musoni and Joseph Karemera, simply did not know that the PSD
+included mutuelles in its programme.9 In addition, although two former health ministers, Vincent Biruta (in office from 1997 to 1999) and
+Jean-Damascène Ntawukuriryayo (2004–08), were from the PSD, they
+both denied a link between the PSD idea and the 1999 pilot.10
+The rollout of the pilot occurred in 3 health districts (Schneider,
+Diop, & Bucyana, 2000). Sensitisation campaigns began in February
+1999, only three months after the start of the project, and the pilot
+was eventually launched on 1 July 1999. It was a success. In only a
+year and a half, 8 percent of the population in the pilot districts had
+enrolled. The scheme increased health facility utilisation and
+decreased out-of-pocket expenses, although many poor remained
+excluded from the scheme because premiums were too expensive
+for them (Schneider & Diop, 2001). These results convinced the
+MoH to roll out CBHI nationwide. It also created demands from
+other health districts for similar pre-payment schemes.
+3.3. Expansion and consolidation: Toward national coverage
+One crucial finding of the pilot, in line with the commune-led
+experience in Ruhondo before 1999, was that involvement of local
+government officials to sensitise the population is vital to stimulate enrolment. Consequently, the Rwandan government made
+local officials the mainstay of the expansion of the CBHI schemes.
+In 2003, MINALOC instructed province governors and district mayors to create mutuelles ‘as quickly as possible’ and stated that ‘the
+7
+Interview former minister of health, Kigali, 29 January 2015; with Joseph
+Karemera, Kigali, 28 January 2015; with international consultant by phone, 28 July
+2015.
+8
+Mary Baines, senior cadres and historical figure of the RPF, was apparently
+instrumental in attracting the attention of the party on the Ruhondo scheme
+(interview with Protais Musoni, Kigali, 20 February 2015). See also interview with a
+former minister of health, Kigali, 29 January 2015.
+9
+Interview with Joseph Karemera, Kigali, 28 January 2015; with Protais Musoni,
+Kigali, 20 February 2015; with former minister of health, Kigali, 29 January 2015.
+10
+Interview with Vincent Biruta, Kigali, 19 February 2015; with Jean Damascène
+Ntawukuriryayo 23 January 2015.
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+91
+
+Fig. 1. Proportion of population covered by health insurance and health facility utilisation in Rwanda. Source: MoH and RSSB data. For health insurance enrolment from 2011
+on, the years are fiscal and not calendar years (e.g., 2011 is 2011/2012).
+
+creation of the mutuelles will be a criterion in their future evaluation’ (Musango, Doetinchem, & Carrin, 2009: 6).11 CBHI schemes
+developed rapidly as a consequence. There were 54 in 2000, 76 in
+2001, and 226 in 2004 (MoH, 2004: 4; Soors et al., 2010: 42). As a
+result, the trend of decreasing utilisation of health facilities since
+the introduction of user fees was reversed (Fig. 1).
+In parallel, CBHI attracted the attention of the top leadership.
+Presidential advisors regularly consulted the MoH to enquire about
+its last developments. It became a national priority: CBHI was integrated into the 2002 Poverty Reduction Strategy Paper (PRSP). It
+consequently benefited from the support of the whole executive
+branch of the government. Concretely, as recalled by a consultant
+who worked regularly on the CBHI from 1999 to 2011, ‘‘the ministry [of health] never had to demand resources to scale up the
+mutuelles. It is rather the presidency or the ministry of finance that
+made the budget available to the ministry”.12
+Nonetheless, the CBHI schemes remained a collection of patchy
+interventions initiated by different actors (churches, local governments, opinion leaders) with variation in the organisation, the care
+package and the amount of the premium and co-payments. Interventions at hospitals were not covered (MoH, 2004: 7). Recognising both the good results of the CBHI and their limits, the
+government laid out a series of principles in the 2004 Mutuelles
+Development Policy. Subscriptions were standardised at 1000
+RwF (1.7USD at the time) per person per year, although some
+donors argued that it was too high.13 At this rate, however, relying
+only on population contribution was not sustainable. Furthermore,
+the scheme remained unaffordable for the poorest, which decreased
+the equity and limited its expansion. Consequently, the 2004 policy
+stated that ‘a national solidarity mechanism between the formal
+public and private salaried sector and the rural world should be
+put in place’ (MoH, 2004: 17)14, laying the basis for the subsidising
+of the CBHI by the formal sector. The policy also recognised the need
+for the government to support the CBHI schemes financially and
+subsidise them for the poorest.
+
+11
+
+Author’s translation from the French.
+Interview by phone, 28 July 2015; see also interview with Maurice Bucagu,
+Geneva, 23 February 2015.
+13
+Interview with CCM member, Kigali, 20 January 2015, with Jean Damascène
+Ntawukuriryayo 23 January 2015; with former donor through phone, 20 March 2015.
+14
+Author’s translation from the French.
+12
+
+This commitment, apparently difficult to implement in the
+short run given its cost, materialised in 2006 thanks to funding
+from the Global Fund to Fight HIV/AIDS, Tuberculosis and Malaria
+(GFATM). The previous year, the Country Coordinating Mechanism
+(CCM) team for GFATM-funded projects in the MoH, composed of
+MoH and donors’ staff, had submitted an innovative application
+to a GFATM call for proposal. Instead of asking for funding for vertical interventions on particular diseases, the CCM successfully
+applied for funds to subsidise the CBHI for the poorest under the
+form of a ‘Health System Strengthening’ project. It became at the
+time one of only three ‘Health System Strengthening’ projects ever
+approved by GFATM (Kalk, Groos, Karasi, & Girrbach, 2010). The
+Global Fund accepted this unconventional project because the
+CCM argued convincingly that to effectively fight the diseases on
+which the GFATM focused (HIV, tuberculosis and malaria), financial access to healthcare for the poorest had to be improved. In January 2006, $34 million were made available to the CBHI for the
+next five years (Kalk et al., 2010).
+The success of the application came as a surprise and created
+tensions between donors and the MoH. Initially, as laid out in
+the proposal, a consortium composed of the German cooperation
+GTZ, UNDP and the Rwandan first lady’s Protection and Care of
+Families against AIDS (PACFA) were to manage the money (CCM
+Rwanda, 2005: 15). When the grant submission proved successful,
+however, the MoH decided against the consortium, in order to
+manage most of the funding by itself. The rationale was to
+strengthen national capacity, and to limit overhead costs of the
+members of the Consortium (Kalavakonda, Groos, & Karasi, 2007:
+18). On the donors’ side, concerns were raised about the capacity
+of the MoH to manage the money and implement the project.15
+Despite frictions, the MoH did not change its position and, as a consequence, UNDP withdrew from the process, while GTZ was only
+awarded about 1 percent of the total budget.
+The award of the grant had two main consequences for the
+CBHI. First, by paying the membership fees for 1.57 million
+Rwandans and the co-payments for 1.35 millions of them (Kalk
+et al., 2010: 95), it boosted the CBHI coverage dramatically and
+increased equity in accessing healthcare. Yet, 14 percent of the
+poorest Rwandans still had to pay the co-payment when seeking
+15
+Interview with CCM member, Kigali, 20 January 2015; with former donor through
+phone, 20 March 2015; with former MoH top official, Kigali, 23 March 2015.
+
+92
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+healthcare, which was often prohibitive at hospital level. The funding also created a precedent as GFATM provided further funding in
+subsequent grants. Second, the grant made mandatory health
+insurance enrolment enforceable, a measure impossible to implement without subsidising the CBHI for the poorest.
+3.3.1. Making CBHI enrolment compulsory
+The decision to make the CBHI compulsory was taken by ministerial order in 2006. It was subsequently enshrined in the 2007
+CBHI Law that states that ‘every person who resides in Rwanda shall
+be obliged to join the mutual health insurance scheme’.16 The need
+to justify local officials’ heavy-handed practices to boost enrolment
+explains why the mandatory nature of the CBHI was specified in a
+ministerial order instead of waiting for the law to be passed.17
+Four main factors explain why the bold and polarising decision
+of making health insurance enrolment mandatory was taken. First,
+Jean-Damascène Ntawukuriryayo, who had been minister of health
+since September 2004, was frustrated by the slow progress of CBHI
+enrolment. Second, it was clear to the MoH that low enrolment
+jeopardised the scheme’s financial sustainability, notably through
+adverse selection, with people in good health less likely to enrol
+(MoH, 2004: 9). Third, Minister Ntawukuriryayo had been inspired
+by his experience as a student in Belgium, where health insurance
+was mandatory.18 Finally, the GFATM grant subsidising health
+insurance for the poorest meant that compulsory enrolment for
+everyone could materialise.
+Mandatory enrolment was supported unanimously in government and parliament and the 2007 CBHI law was easily passed.
+Many donors however were opposed to compulsory enrolment,
+which they considered too authoritarian. Yet, the MoH did not
+change its stance. As recalled by the minister of health of the time,
+Jean Damascène Ntawukuriryayo:
+I had to fight with the Americans, the Germans, the Belgians, all
+those that were involved in the mutuelles because I was completely changing the original concept [of voluntary enrolment]
+and they were not expecting that.19
+Mandatory financial participation was not only a policy choice,
+but also a matter of principle. For instance, even when a donor
+could pay for the whole population in a given region, the MoH
+refused. As explained by Ntawukuriryayo:
+MSF [Doctors without Borders] Belgium who was operating in
+the North, in Burera, [. . .] wanted to pay the mutuelles to everyone. I told them that [this] was strange, since all these people
+were not indigent. One has to pay only for the people in need.
+It became a big deal [. . .] I told them they should not take our people hostage, not get them used to being fed, and when they [the
+donors] are going to leave, they will let them with nothing.20
+More generally, donors regularly put the question of lifting user
+fees – partially or totally – back on the table, invoking notably the
+examples of Uganda. By the time of the CBHI scale-up, the global
+ideological context regarding user fees had shifted. Whereas in
+the late 1990s, user fees coupled with pre-payment schemes were
+not questioned, the push for lifting them became en vogue in the
+mid-2000s, in the wake of the poverty-reduction strategies (Ridde,
+16
+Article 33, Law N° 62/2007 of 30 December 2007 Establishing and Determining
+the Organisation, Functioning and Management of the Mutual Health Insurance
+Scheme. In practice, individuals that already subscribed to a health insurance often
+did not have to join the CBHI.
+17
+Interview with international consultant by phone, 28 July 2015.
+18
+Interview with Jean Damascène Ntawukuriryayo 23 January 2015.
+19
+Interview, Kigali, 14 January 2014, translated from French by the author.
+20
+Interview, Kigali, 14 January 2014, translated from French by the author.
+
+Robert, & Meessen, 2010). The Rwandan government has always
+categorically refused to consider lifting user fees, a measure considered unsustainable and that would foster dependency on foreign aid
+in the long run.21 As explained by Jean Damascène Ntawukuriryayo:
+My approach was to say that I don’t want anything for free [. . .],
+if there is always somebody to give me things for free, at any
+time this person can decide to stop. If she stops, what happens
+to me? [. . .] To me and my government, it is about taking our
+responsibilities: not always await that you give me something
+and I take it. [. . .] That is why we chose the mutuelles.22
+The refusal to lift user fees and the decision to make enrolment
+mandatory has clear roots in the RPF ideology, already visible in
+the discussion surrounding the 1999 pilots. First, mandatory enrolment has been anchored in the ideological importance for the RPF
+of kwigira, relying only on oneself. Undoubtedly, the CBHI is dependent on donor funding, but the idea was to create a system that in
+the long run could decrease this dependency. This is because
+dependency was seen as dangerous for the country. Second,
+mandatory financial participation has been justified ideologically
+because, according to the RPF, no one should get anything for free,
+i.e., with no visible act of payment. As explained by former minister
+Joseph Karemera, the RPF ‘doesn’t believe in people being only
+recipients’ because ‘free things destroy the mentality of the people’.23 Overall, as summarised by another former Minister of Health,
+Vincent Biruta, compulsory CBHI was also ‘a manner to work on
+mentalities. What matters is the contribution’.24
+3.3.2. Ongoing issues and professionalisation of the scheme
+The rapid expansion of CBHI in Rwanda created many difficulties. Managerial capacities of the staff, although improving, were
+limited. The auditing capacity of the MoH had been low, which created important opportunities for overbilling by health facilities
+(OAG, 2011). Furthermore, high enrolment has been difficult to
+maintain, as demonstrated by the recent decrease of CBHI subscription (Fig. 1). Several factors have been raised to explain it. Enrolment numbers have been inflated by some local officials, as
+uncovered by a governmental audit, and were corrected.25 Effort
+of mobilisation might also have been lower than before, partly
+because of the priority given to local economic development as part
+of Second Economic Development and Poverty Reduction Strategy
+(EDPRS 2) adopted in 2013. Without continuous efforts from the local
+officials to ensure yearly renewal of mutuelle subscription, the enduringly high level of CBHI premiums and the improving, yet limited,
+quality of healthcare hindered spontaneous voluntary enrolment.
+Efforts by the government to tackle these issues have led to the
+decline of the mutuelles’ community-based character and the
+increased professionalization of its management. The 2007 CBHI
+Law, for instance, did not retain the management model proposed
+in the 2004 policy, which largely involved the community in the
+national institutions managing CBHI. At district level, members of
+the board of directors of the mutual health insurance fund were
+all appointed by ministerial order. As a consequence, the WHO
+noted that ‘this limited representation of mutuelles members is
+unlikely to promote the feeling of community ownership of the
+schemes’ (WHO, 2009: 61). Similarly, the national audit committee
+included no member from civil society.
+21
+
+Interview with former MoH official, Kigali, 9 January/2014.
+Interview, Kigali, 14 January 2014.
+Interview with Joseph Karemera, Kigali, 28 January 2015; similar point in
+interview with former MoH top officials, Kigali, 19 February 2015, with former
+minister of health, 29 January 2015.
+24
+Interview in Kigali, 19 February 2015.
+25
+‘How probe uncovered the rot in ‘‘Mutuelle de Sante”’, The New Times, 3 February
+2015.
+22
+23
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+The community character of the CBHI has further faded away in
+the 2015 CBHI Law. In 2014, the government leadership retreat
+decided that the Rwandan Social Security Board (RSSB) would
+manage the CBHI. The rational was that, as the management body
+for pensions and civil servants’ health insurance, RSSB had a better
+experience in fund management than the MoH. The arrangement
+also created economies of scale, eased auditing and increased
+risk-pooling by centralising the funds in RSSB, instead of money
+being partly managed in each CBHI branch. Consequently, as a
+result of constant efforts of the government to streamline the CBHI
+functioning and prevent mismanagement, the scheme gradually
+lost its ethos of popular ownership.
+3.3.3. Attempt to increase equity and financial sustainability
+Another issue for CBHI since its creation lies in its financial sustainability and equity. In 2007, when the mutuelles law was passed,
+the CBHI was financially balanced at district level, but ran alarming
+deficits at hospital level (WHO, 2009: 71). Moreover, the scheme’s
+fairness was questionable. The flat rate premium of 1000 RwF per
+individual benefited the wealthiest (WHO, 2009: 67).
+As a consequence, the MoH adopted two measures. First, it created in 2009 a National Guarantee Fund to financially support
+CBHI. The fund was financed by the MoH, contributing to 13 percent of its ordinary budget, and by grants equivalent to 1 percent
+of the income from all health insurance companies in the country.
+Second, the MoH adopted the principle of stratification of premiums according to beneficiaries’ wealth in its 2010 CBHI policy.
+The goal was to make CBHI subscription progressive while maximising resources mobilisation. Premium stratification according
+to wealth is difficult, since the population enrolled in the CBHI
+mainly works in the informal sector. The MoH decided to rely on
+a wealth classification exercise regularly carried out since 2001
+for the ubudehe programme. Ubudehe is a social protection programme under the responsibility of the Ministry of Local Government that involves the classification by community of
+households according to their wealth, in order to differentiate
+social interventions. The MoH harnessed this initiative to modulate
+the premium of the mutuelles. As a result, 24.8 percent of the population was classified as indigent (category 1) for whom mutuelles
+fees of 2000 RwF were paid by the state and donors. People in category 2 (65.9 percent) paid 3000 RwF/person, and the richer in category 3 (0.64 percent) 7000 RwF/person.
+The accuracy of this classification process has been questioned.
+Evidence indicates its lack of participatory and transparent character (Gaynor, 2014: S53–54; Sabates-Wheeler, Yates, Wylde, &
+Gatsinzi, 2015). Especially worrying was the absence of correspondence between households’ categorisation in ubudehe and the
+results of the Integrated Household Living Conditions Survey 3
+(EICV 3), which measures household consumption (SabatesWheeler et al., 2015). This may indicate that local authorities
+decide arbitrarily who gets mutuelles subscription for free, along
+with plenty of other benefits associated with the lowest ubudehe
+category. Yet, while elite capture might occur at the local level,
+there is no evidence that it is the result of a systematic, centrally
+devised strategy of patronage. On the contrary, the central government displayed commitment to solving the issue. It publicly recognised the problem during the 2014 leadership retreat, which
+resulted in pressure on MINALOC to devise a new classification
+for ubudehe. In addition, the community classification exercise
+was complemented by a household questionnaire to provide more
+objective measures of poverty (Lavers, 2016a).
+3.3.4. Day-to-day implementation
+Exploring the policy design of the CBHI is not enough to explain
+the dramatic enrolment in the scheme. For example, although
+enrolment in health insurance is also mandatory in Ghana, as in
+
+93
+
+Rwanda, it is a mere declaration of intent (e.g., Jehu-Appiah
+et al., 2011: 158; Kusi, Enemark, Hansen, & Asante 2015, Table 1
+above). Analysis of the CBHI expansion in Rwanda consequently
+requires understanding the role of the local bureaucracy in maintaining high enrolment rates.
+Enrolment has been first facilitated by the numerous sensitisation channels at the disposition of the national and local
+governments. This includes official speeches following the stateorganised, monthly community work umuganda, community radio,
+churches, markets, cooperatives or women associations. In
+addition, the tight networks of 45,000 community health workers
+operating in each of the 14,744 villages (umudugudu) of Rwanda,
+are crucial for sensitisation and detection of individuals who did
+not pay the mutuelles. In other words, the high degree of the state’s
+‘‘infrastructural power” (Mann, 1984) through dense, decentralised
+administrative structure, numerous channels of information, and a
+tight network of community health workers, was significant in
+ensuring high enrolment.
+Yet, what pushes local officials to use the powerful tool that the
+Rwandan local state machinery constitutes? The answer lies
+mainly in the strong pressure applied on local governments. As
+mentioned above, as early as 2002, mutuelles enrolment was part
+of local government evaluation. Currently, the most conspicuous
+pressure comes from the imihigo system, or performance contracts,
+solemnly signed annually since 2006 between district mayors and
+the President (Chemouni, 2014). CBHI enrolment always features
+as an objective in those contracts. The target is invariably of 100
+percent membership across all districts, whereas other targets in
+imihigo are usually adapted according to the districts’ situation,
+which reveals the government’s commitment to quickly reach universal health coverage. Officials can also rely on a conducive legal
+framework to boost enrolment. The 2007 and 2015 CBHI Law
+allowed the fining of non-enrolees (between 5000 and 10,000
+RwF, i.e., $6–12). They provided for strong deterrence for ‘any person who incites others to refrain from enrolling into communitybased health insurance scheme’ (i.e., a fine of between 50,000
+and 100,000 Rwf).26 Furthermore, the laws stipulated that an individual can benefit from health coverage only if all members of his/
+her household are enrolled.
+This pressure on local officials to maintain high mutuelle membership has led to the use of swift, and at times harsh, methods,
+including, arrest, confiscating livestock, banning entrance to local
+markets, or denying administrative documents to the nonbearers of mutuelle cards.27 In one instance, local officials did not
+hesitate to steal money from a community health workers’ cooperative in order to pay for the population’s CBHI and keep the enrolment
+rate high.28 Such behaviours are officially forbidden, yet some officials considered them as inevitable, given the strong pressure they
+faced from the centre. As explained by a district vice-mayor, ‘it is
+their role in Kigali to get concerned by human rights and stuff like
+this. But it is not them on the ground [doing the work]. They don’t
+understand that for the peasants, the mutuelle is viewed as a
+tax’.29 The pressure is such that some local officials have not hesitated to simply tamper with CBHI enrolment data. A glaring example
+of the phenomenon was revealed by the resignation and arrest in
+late 2014 and early 2015 of three district mayors and several other
+local officials over inflating the CBHI enrolment numbers.30
+26
+
+Respectively, articles 63 and 25 of the 2007 and 2015 CBHI Laws.
+Interview with district vice-mayor, 12 June 2013. See also ‘Locked out of market
+over mutuelle cards’, The New Times, 28 February 2007; ‘Rwanda: No one should be
+forced to pay mutuelle – premier’. Rwanda Focus, 15 February 2013.
+28
+Interview with MoH official, Kigali, 16 January 2014.
+29
+Interview with district high official, 12 June 2013, translated from French by the
+author.
+30
+‘How probe uncovered the rot in ‘‘Mutuelle de Sante”’, The New Times, 3 February
+2015.
+27
+
+94
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+Yet, the pressure on local officials regarding CBHI enrolment
+also creates less expeditious and more creative strategies. Some
+local governments have encouraged the creation of savings associations (ibimina) to pay their CBHI fees, or pushed agricultural cooperatives to pay the CBHI of, or at least lend the required money to,
+their members.31
+
+4. Explaining political commitment to CBHI
+4.1. Politics and health coverage expansion
+Political settlement analysis is useful to probe into the government’s ability to roll-out the scheme. First, the concentration of
+horizontal power (i.e., power between elite factions) in the settlement has facilitated centralised decision-making. The MoH led the
+reform and was fully supported by the presidency and the Ministry
+of Local Government that pushed its agents to maintain high enrolment rates. The legislative branch was also unfaltering in its support of the CBHI, although harsh implementation could have
+been exploited by some politicians to challenge the government.
+This is because parties in Rwanda, sometimes described as satellites of the RPF (e.g., Longman, 2011: 40), all belong to the ruling
+coalition and never challenge the leadership’s political choices or
+ideological preferences. Two ministers of health pivotal in the CBHI
+rollout, Vincent Biruta and Jean-Damascène Ntawukuriryayo,
+although both members of the PSD party, never sought to distance
+themselves from the overarching RPF vision. Acting like technocrats, they worked in the same line as their RPF predecessors.
+Overall, the horizontal concentration of power allowed the government to quickly seize on a policy initiative and implement it without engaging in lengthy bargaining in order to secure support. The
+alternative discourses regarding CBHI policy choices have come
+from donors, not from the political opposition.
+Second, the vertical distribution of power in the political settlement, concentrated in the hand of the RPF, has given the party
+great autonomy vis-à-vis social demands. It made it easy to maintain user fees and to enforce compulsory enrolment. It also enabled
+the RPF-led coalition to set CBHI as a redistribution mechanism
+between the formal, wealthier and mainly urban sector and the
+rural areas. In 2015, the contribution of civil servants’ and militaries’ insurances, along with private health insurances, to the
+CBHI has been increased from one to five percent of their revenue.
+In this context, the large policy space provided by the nature of
+the settlement could be fully used by the RPF regime to deter any
+future challenge to its rule. Such deterrence has taken the form of a
+legitimation project based on quick socio-economic development.
+Securing legitimacy has been a prime concern, given the extraordinary vulnerability of the RPF when it took power in 1994, as mentioned above. Providing affordable healthcare can be understood as
+part of this strategy. This is especially true as the CBHI is primarily
+a tool of development for the informal and mainly rural sector,
+where the RPF legitimacy is arguably at its slimmest. While the
+rural population is mostly Hutu, the RPF is historically composed
+of urban ‘old caseload’ Tutsi returnees who fled the country following violence in the 1950s and 1960s. They consequently have few
+links with the rural world (Ansoms, 2009: 295). The CBHI can be
+interpreted as the broad-base tool to bring development and foster
+regime legitimacy in the rural areas. Such tool is especially needed,
+given the nature of the settlement. The horizontal concentration of
+power means that potential threats to the ruling elite are not in the
+form of well identified opposition groups. Given the history of
+31
+Interview with MINALOC high official, Kigali, 4 February 2013; with district vicemayor, 12 June 2013. See also ‘Rwanda: How Ibimina spurred health cover remittal’,
+The New Times, 3 January 2014.
+
+ethnic antagonism, threats are potential, diffuse and posed by the
+Hutu rural majority with no recognisable leaders. In such context,
+implementing a functioning, broad-based programme of redistribution through subsidised health insurance becomes rational.
+The universalism and coverage of the Rwandan CBHI can be interpreted as an attempt to creates a de facto triple solidarity able to
+build regime legitimacy and contribute to the post-ethnic society
+the RPF has been calling for. It creates, first, a solidarity between
+people of the same community around the health centre; second,
+a solidarity, likely to increase as the economy expands, between
+the informal and formal as well as urban and rural sectors; and,
+thirdly, and as a result, a national solidarity. In this respect, the
+Rwandan case echoes historical attempts of many postindependence African regimes to decrease ethnic division and foster national identity through ambitious social policies (Kpessa,
+Béland, & Lecours, 2011).
+However, such interpretation does not explain the government’s condonation of CBHI sometimes harsh implementation,
+which created resentment and potentially delegitimised the
+scheme. If the goal was the mere satisfaction of the rural mass
+for the RPF to maintain its power, why not implement the scheme
+with fewer rigours, lower the premium price, or lift user fees? One
+part of the answer lies again in the dominant nature of the political
+settlement. It gives the government a long-term horizon, which
+allows it to embrace ‘‘social protection policies that may take time
+to design and implement, and that deliver benefits in the medium
+to long term” as indeed hypothesised by Lavers and Hickey (2015:
+10). CBHI, then, is not just about immediate redistribution or contenting people. It is part of a broader legitimation project, requiring
+deep transformation and sustained performance, not short-term
+unsustainable redistribution exposed to potential reversal. The
+RPF, comforted by its hegemony, is consequently ready to adopt
+policies requiring unpopular choices such as compulsory enrolment or limited popular management of the scheme. They are, in
+its mind, the conditions of a well-functioning and sustainable
+health insurance in the long term.
+The other, and main, reason why the government has made
+some policy choices potentially unpopular is ideological. Other,
+potentially more popular, policy options to improve access to
+healthcare could have been compatible with the nature of the
+Rwandan political settlement. Yet they would not have been compatible with the ideas underpinning it.
+4.2. Taking ideas seriously
+As hypothesised by the second pillar of the theoretical framework, while power dynamics may provide some insights into the
+government’s commitment and capacity to promote financial
+access to healthcare, a focus on interests alone would underexplain the CBHI design and expansion. Drawing on the distinction
+presented at the beginning, the role of ideas is visible at the level of
+paradigms, problem definitions and policy ideas.
+CBHI in Rwanda was in part the product of specific paradigms,
+i.e., ‘mental roadmap’, of the RPF-led coalition. Three main overarching paradigmatic ideas can be identified. First of all, national
+self-reliance was pivotal in the RPF ideology. Such a paradigm transpires in the unfaltering refusal of lifting user fees even partially, as
+this was equated, in the minds of officials, to long-run dependency
+on the outside world. It features also in the determination to make
+the whole population participate financially in the CBHI, either
+through compulsory enrolment or through the subsidising of the
+scheme by the formal sector. Concerns for self-reliance were also
+perceptible in the significant agency of the government in the relationship with donor, despite their technical expertise and financial
+power. The government did not hesitate to oppose them or stop
+their activities if they were deemed contrary to its vision.
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+Second, the CBHI design is rooted in the paternalistic RPF vision
+of what a ‘good Rwandan’ should be. People should not ‘get anything for free’ in post-1994 Rwanda. Self-reliance applies consequently not only to the nation, but also to the individual. ‘Free
+things’ are especially dangerous at the individual level because
+they foster a culture of assistance. As summarised by Protais
+Musoni, RPF historical figure and former minister of local government: ‘free [health]care has never been an option because it makes
+people subservient’.32 The importance of this idea was especially
+conspicuous when some donors attempted to pay for the CBHI subscription for a large part of the population regardless of their wealth
+status and were asked to stop. For the RPF, if they want to get out of
+poverty, Rwandans have to play an active role. They especially have
+to change their ‘mindset’ and ‘mentality’, an important rhetorical
+element in officials’ discourse (e.g. Ansoms, 2009: 298; Gaynor,
+2014: S56). The government-aligned New Times identified, for example, as an obstacle to CBHI enrolment, ‘poor mentality among former
+indigents who graduated from poverty [i.e., moved up in ubudehe categories] and now have to pay subscription by themselves’.33 The
+quote is revealing on how paying CBHI subscription and individual
+dependence are opposed in public narratives, and how getting out
+of poverty is a ‘graduation’ in life, i.e., the result of an active process.
+What matters is not only getting out of poverty, it is also the effort
+put into the process itself. Part of the effort is to find the money to
+pay for the CBHI premium. Poverty, including poor access to healthcare, is not only envisioned as a trap in which people are caught. It is
+also a disease of dependency that compulsory CBHI enrolment can
+help fighting.
+Third, the adoption of CBHI was, at the beginning, the product of
+the RPF’s belief that grassroots democratic participation promotes
+reconciliation, ownership and fights ‘the sub culture of passive
+obedience which left people open to political and sectarian manipulation’ (MINALOC, 2004: 11). The idea of fostering popular ownership was visible in the MoH’s determination to depart from the
+Zambian model of insurance management by health facility staff
+and in the introduction of co-management between the population
+and civil servants.
+The case of CBHI is however hardly the result of policy diffusion.
+The Rwandan CBHI model has been largely endogenously designed,
+drawing to a limited extent on the Zambian experience of health
+prepayment schemes. This is not to say that transnational ideas
+did not matter. They did but negatively. The disappointing results
+of CBHI schemes in West Africa and of the Burundian Assistance
+Health Card were perceived as counter-examples not to follow.
+This assessment reinforces the paper’s argument that power and
+ideological imperatives are crucial to understand the shape and
+implementation of the CBHI. They pushed the government not to
+adopt blindly existing models unable to match its ideological
+preferences and concerns for the sustainability of the policy.
+How ideas influenced the CBHI design and implementation can
+be aptly summarised using the framework presented in the introduction. Ideas at the paradigmatic level then shaped ideas at the
+level of problem and policy definition, which in turn gave its form
+to the CBHI. These ideas were both normative, stating what is good
+or bad and how the world should be, and cognitive, acting like a
+prism through which issues were understood and addressed
+(Table 2).
+Overall, CBHI was the policy solution to lower financial barriers
+to healthcare that was best suited for a certain distribution of
+power in the polity and fitted the regime ideas. Taking ideas seriously explains why the policy could not take alternative forms,
+such as tax-based financing, CBHI-cum-lifting user fees or, at least
+
+32
+33
+
+Interview with Protais Musoni, Kigali, 20 February 2015.
+‘Mutuelle subscription rate at 79%’, The New Times, 12 January 2016.
+
+95
+
+at the beginning, social health insurance (SHI). While the political
+settlement might have been compatible with such alternative policy choices, ideas were not.
+Tax-based financing would not have fit with the ideological
+emphasis on national and individual self-reliance. It did not
+demand the visible contributions of all citizens to healthcare as
+money would have been channelled through general taxation
+and leaving largely out contributions of individuals working in
+the informal economy. Similarly, a model based on CBHI with no
+user fee was not appealing because it was perceived as less likely
+to contribute financially to national self-reliance and psychologically to individual self-reliance.
+At the beginning, SHI also did not fit rulers’ ideas. It was originally incompatible with the ideological emphasis on popular management of health insurance to promote reconciliation and
+community ownership. Yet, overtime, CBHI progressively morphed
+into a SHI through compulsory enrolment and the professionalization of CBHI management. This is because not all paradigmatic
+ideas have retained their power over time. Tension has arisen
+between the original idea of popular ownership, and the ideological project of national and individual self-reliance that made
+mandatory enrolment a necessity in the eyes of the regime. Furthermore, the idea of popular ownership could not resist the pressure to quickly expand and streamline the scheme for legitimation
+purposes, which required compulsory enrolment, professional
+staffing, cross-subsidy, and increasing the national pooling of
+resources. These measures helped to avoid poor management,
+adverse selection, fragmented, small risk pooling, which are the
+most common cause of failure of CBHI schemes (Carrin,
+Waelkens, & Criel, 2005; De Allegri et al., 2009). As a result, from
+a collection of a ‘pure’ form of voluntary CBHI schemes, the government has effectively built what now looks like a SHI. Yet, the trace
+of the paradigmatic idea of popular ownership is still visible in the
+reluctance of government officials to acknowledge this evolution to
+researchers and in the very maintenance of the name ‘CBHI.’
+
+4.3. Competing explanations
+The demonstration needs finally to be confronted with some
+competing explanations for the success of CBHI expansion. The
+first is related to geography. Rwanda’s small size and high population density, one of the highest on the continent, could be the main
+factor behind the CBHI successful scale-up. It undoubtedly eased
+the process by facilitating the sensitization of individuals and the
+control of their enrolment. However, this was only a contributory
+factor, but not a necessary condition. Burundi is a country of similar size and population density but has not reached the same level
+of enrolment into its health insurance scheme (Table 1 above).
+Conversely, enrolment in the new health insurance programme
+in Ethiopia is extremely fast although the country is not densely
+populated (Lavers, 2016). The analysis instead demonstrates that
+the first main necessary condition for the rapid scale-up of CBHI
+in Rwanda was the top-down pressure put on the local authorities,
+underpinned by the nature of the political settlement.
+A second competing explanation of the CBHI rapid expansion
+may lie in the homogeneity of its population in terms of language
+and ethnic composition, traits normally associated with better
+public good provision (Alesina, Baqir, & Easterly, 1999; Miguel &
+Gugerty, 2005). This is however questionable. Studies have showed
+that, more than the ethnic diversity per se, it is the lack of trust and
+cooperation between ethnic groups that may hinder provision of
+public goods (Habyarimana, Humphreys, Posner, & Weinstein,
+2007), something arguably significant in post genocide Rwanda.
+Furthermore, recent research reveals that the relationship between
+ethnic homogeneity and increased public goods provision may not
+
+96
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+Table 2
+Community-based health insurance and ideas.
+Level of idea
+
+Type of idea
+
+Paradigmatic ideas
+
+Normative
+Cognitive
+
+Problem definition
+
+Normative
+Cognitive
+
+Policy ideas
+
+Normative
+Cognitive
+
+Ideas relevant to CBHI
+
+
+
+
+
+Rapid socioeconomic development is good for regime legitimation
+Rwanda should be self-reliant
+The role of the state is to mobilise all resources and individuals in the pursuit of socio-economic progress
+It is the role of the state to decrease the dependency on the external world
+
+
+
+
+
+
+
+Access to healthcare should be affordable in order not to obstruct socio-economic development
+Health financing should not be dependent on donors’ money in the long run.
+A popular mentality of passivity and dependency holds Rwanda back
+Financial resources from the state and the population are not fully harnessed to lower financial barriers to healthcare
+Extracting financial resources from the population is a good tool to inculcate a sense of individual self-reliance
+
+
+
+
+
+
+
+
+Healthcare should be accessible for all
+The state, the private sector and any able individual should contribute money
+Out-of-pocket expenditure is limited by pre-payment and risk pooling
+CBHI cost is shared between the state and the beneficiaries, and subsidised by the formal sector
+CBHI is compulsory
+CBHI is managed by professionals, not by the population
+
+Source: Based on the typology in Lavers and Hickey (2015).
+
+be as strong as previously thought (Gibson and Hoffman, 2013,
+Gisselquist, Leiderer, & Niño-Zarazúa, 2016).
+A third alternative explanation to Rwanda’s success may be that
+it is historically recognised as an orderly country with a tradition of
+state effectiveness (Prunier, 1998). While this may ease CBHI rollout, such argument cannot explain the difficult political decision to
+adopt the policy in the first place and the significant pressure put
+on local officials to implement it.
+A last competing explanation lies in the status of donor darling
+of Rwanda. While donors’ funds played a key role in the expansion
+of CBHI, the analysis shows that this has been primarily thanks to
+the demand side (the Rwandan government) rather than the supply side (the donor) of aid. The initial pilot originated in the MoH
+decision to approach USAID for technical and financial support,
+not the other way around. The scale-up of the scheme was made
+possible because Rwanda was able to convincingly argue to the
+GFTAM to fund the CBHI through a ‘‘Health System Strengthening”
+grant. Money was poured into the scheme because it was recognised as well managed by the government, notably because the
+dominant character of the political settlement made clientelism
+unnecessary. Consequently, in the case of CBHI, the status of aid
+darling was largely created by the Rwandan government. It was
+not an exogenous factor to the demonstration.
+5. Conclusion
+The contribution of this article is twofold. The main one is
+empirical. It explains from a political standpoint the exceptional
+case of Rwanda, which achieved the highest health insurance
+enrolment in sub-Saharan Africa. To do so, it used a theoretical
+framework focusing on power and ideas to shed light on why the
+CBHI took the shape it did, and why it was successfully scaledup. The nature of the Rwandan political settlement made
+approaches to healthcare financing focused on immediate political
+gain unnecessary for regime maintenance. The space provided by
+the settlement meant that the government could roll out a
+broad-based programme, adapt it quickly to emerging problems,
+and take difficult political choices to ensure sustainability. However, the nature of the political settlement is not enough to understand why the government chose compulsory CBHI to expand
+access to healthcare. Other solutions, sometimes advocated by
+donors, such as general tax-financing or CBHI coupled with lifting
+of user fees, were also compatible with the political settlement. Yet
+these alternative policies did not fit with the RPF ideas as well as
+the CBHI solution did. The same political settlement, but with different ideas, would have probably resulted in another form of
+
+social protection in the health sector. Ideas also had an effect on
+how the scheme was implemented. The idea that high enrolment
+was the condition for national and individual self-reliance explains
+the increasingly state-led, top down implementation of the CBHI
+policy. Besides power, ideas mattered. This article consequently
+echoes the ‘‘ideational turn” (Blyth, 1997) in political science that
+has reaffirmed the role of ideas in political processes, criticising
+explanations solely based on ‘‘objective” interests (Béland & Cox,
+2011). Ideas are also mental models through which interests are
+identified and constructed (Hay, 2011).
+The second contribution of the article is to inform the debate on
+how to reach universal health coverage in poor countries. Obviously, the Rwandan CBHI model may not be fully reproducible. It
+is the result of a particular political and ideological landscape.
+Yet, the Rwandan case highlights the importance of two key variables in the pursuit of universal health coverage in a context of
+poverty and limited state capacity: distribution of power in the
+polity and ideas.34 The implication for donors is that, when deciding
+to allocate funds to social protection, political economy analysis is
+key to assess pattern of decision-making, potential spoilers, clientelist pressure, and ultimately the regime’s commitment to provide
+sustainable solutions. The article also highlights the centrality of
+ideas in the pursuit of universal health coverage. Practically, this
+means that donors’ careful analysis of ideas underpinning ruling
+coalition is essential. Programme design incompatible with ideas of
+the regime may undermine countries’ commitment to the programme or simply create political push-back, as showed spectacularly in Rwanda when the government directly opposed donors.
+The Rwandan case also informs the debate on the relevance of ‘‘pure”
+CBHI models, based on voluntary enrolment and community management, for poor countries in the pursuit of universal health coverage. Although fashionable, their incapacity to ensure high enrolment,
+a large pool of risk and professional management while limiting
+adverse selection questions their capacity to bring about universal
+health coverage (Carrin et al., 2005; De Allegri et al., 2009). The
+Rwandan experience shows that large and sustainable health insurance coverage is hardly possible without a significant tax and/or
+donor support, especially to subsidise the poorest populations (see
+also Kutzin, 2012; Lagomarsino, Garabrant, Adyas, Muga, & Otoo,
+2012). Consequently, donors need to accept that advocating for universal health coverage in poor countries might be futile unless they
+
+34
+The case of Ethiopia seems for example to support the hypothesis that dominant
+political settlements are conducive to the pursuit of UHC. While Ethiopia recently
+embarked on this journey, it has made extremely rapid progress in terms of
+enrolment. See Lavers (2016).
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+are ready, as the GFTAM in Rwanda, to pour significant funds
+through country systems over an extended period. This is never easy,
+as showed by the tension that the GFTAM money created between
+the donors and the Rwandan government about its management.
+Unfortunately, this will be increasingly difficult given the recent evolution of the aid landscape. The decreasing donors’ commitment to
+the 2005 Paris Declaration, and its principles of aligning funding
+with recipient countries’ priorities, makes budget support and
+respect for countries’ paradigmatic ideas, less likely. The Rwandan
+case also questions the viability of a CBHI model based on community management. Any large pool of money requires strong management and monitoring skills that community-centred initiatives may
+not provide. In Rwanda, this was solved at the expense of popular
+participation.
+Furthermore, the Rwandan experience spotlights the difficulties
+of increasing enrolment. The rise of welfare state in Europe has
+been facilitated by the formalisation of the economy that eased
+taxation or compulsory enrolment in SHI through payroll deduction. Such an evolution is more difficult in Sub-Saharan Africa
+given the size of the informal sector. Nonetheless, historical evidence suggests that ‘‘no country has attained universal population
+coverage by relying mainly on voluntary contributions to insurance schemes.” (Kutzin, 2012: 867; Savedoff, de Ferranti, Smith,
+& Fan, 2012). Voluntary enrolment in fragmented insurance
+schemes might only be an initial first step, but it is not sustainable
+in the long run. Yet, for poor countries, while tax-financed health
+care is difficult with a limited tax base, enforcing mandatory enrolment is not only practically complicated with a large informal sector, it is also politically difficult. The Rwandan authoritarian
+approach, made possible by the nature of its political settlement,
+might be hardly transferable and perhaps desirable. Future analysis of the recent National Insurance Act passed in September 2017
+in Nepal, a country with political settlements and elite’s ideas
+markedly different from Rwanda, will be useful as it bears strong
+resemblances with the Rwandan policy: enrolment to the national
+health insurance is compulsory and coupled with out-of-pocket
+premiums, which are subsidised for the poor. In any case, the
+Rwandan experience is a powerful call for thinking harder on ways
+to improve enrolment, for example through innovative financing
+mechanisms such as saving associations to pay premiums or large
+donor funding, or through improving the quality of care. It also further highlights that myriad of independent, low enrolment, CBHI
+schemes, will probably not be enough to pursue universal health
+coverage.
+Conflict of interest
+None.
+Acknowledgments
+This research was funded by the Effective States and Inclusive
+Development (ESID) Research Centre at the University of
+Manchester through a DFID grant. I thank Tom Lavers for his
+comments and guidance, Hinda Ruton for his research assistance,
+Pia Schneider, Philipa Mladovsky and the anonymous reviewers
+for their useful comments.
+References
+Abt Associates/USAID (2014). Final report: Health systems 20/20 Namibia project.
+Bethesda: Abt Associates.
+Alesina, A., Baqir, R., & Easterly, W. (1999). Public goods and ethnic divisions. The
+Quarterly Journal of Economics, 114(4), 1243–1284.
+Ansoms, A. (2009). Re-engineering rural society: The visions and ambitions of the
+Rwandan elite. African Affairs, 108(431), 289–309.
+
+97
+
+Appiah, B. (2012). Universal health coverage still rare in Africa. Canadian Medical
+Association Journal, 184(2), E125–E126.
+Atim, C. (1998). The contribution of mutual Health organizations to financing, delivery,
+and access to health care: Synthesis of research in nine West and Central African
+Countries Technical Report No. 18. Bethesda, MD: Partnerships for Health
+Reform Project, Abt Associates.
+Barrientos, A., & Pellissery, S. (2012). Delivering effective social assistance: Does
+politics matter? ESID Working Paper. No. 9.
+Béland, D. (2005). Ideas and social policy: An institutionalist perspective. Social
+Policy & Administration, 39(1), 1–18.
+Béland, D., & Cox, R. H. (Eds.). (2011). Ideas and politics in social science research.
+Oxford: Oxford University Press.
+Beswick, D. (2010). Managing dissent in a post-genocide environment: The
+challenge of political space in Rwanda. Development and Change, 41(2), 225–251.
+Blyth, M. (1997). ‘Any more bright ideas?’ The ideational turn in comparative
+political economy”. Comparative Politics, 29(1), 229–250.
+Carrin, G., Waelkens, M. P., & Criel, B. (2005). Community-based health insurance in
+developing countries: A study of its contribution to the performance of health
+financing systems. Tropical Medicine & International Health, 10(8), 799–811.
+CCM Rwanda (2005). Assuring access to quality care: The missing link to combat AIDS,
+tuberculosis and malaria. Kigali: Country Coordinating Mechanism (CCM)
+Rwanda.
+Chemouni, B. (2014). Explaining the design of the Rwandan decentralization: Elite
+vulnerability and the territorial repartition of power. Journal of Eastern African
+Studies, 8(2), 246–262.
+De Allegri, M., Sauerborn, R., Kouyaté, B., & Flessa, S. (2009). Community health
+insurance in sub-Saharan Africa: What operational difficulties hamper its
+successful development? Tropical Medicine & International Health, 14(5),
+586–596.
+Di John, J., & Putzel, J. (2009). Political settlements Issues Papers. Birmingham, UK:
+Governance and Social Development Resource Centre.
+Dror, D. M., & Jacquier, C. (1999). Micro-insurance: Extending health insurance to
+the excluded. International Social Security Review, 52(1), 71–97.
+Dutta, A., & Hongoro, C. (2013). Scaling up national health insurance in Nigeria:
+Learning from case studies of India, Colombia, and Thailand. Washington, DC:
+Futures Group, Health Policy Project.
+Gaynor, N. (2014). ‘‘A nation in a hurry”: The costs of local governance reforms in
+Rwanda. Review of African Political Economy, 41(Suppl. 1), S49–S63.
+George, A., & Bennett, A. (2004). Case studies and theory development in the social
+sciences. Cambridge, MA; London: MIT.
+George, A., & McKeown, T. (1985). Case studies and theories of organizational
+decision making. In R. Coulam & R. Smith (Eds.), Advances in information
+processing in organizations (pp. 43–68). Greenwich, CT: JAI Press.
+Gibson, C. C., & Hoffman, B. D. (2013). Coalitions not conflicts: Ethnicity, political
+institutions, and expenditure in Africa. Comparative Politics, 45(3), 273–290.
+Gisselquist, R. M., Leiderer, S., & Niño-Zarazúa, M. (2016). Ethnic heterogeneity and
+public goods provision in Zambia: Evidence of a subnational ‘‘diversity
+dividend”. World Development, 78, 308–323.
+Gökgür, N. (2012). Rwanda’s ruling party-owned enterprises: Do they enhance or
+impede development? IOB Discussion Paper. 2012.03.
+Golooba-Mutebi, F. (2013). Politics, political settlements and social change in postcolonial Rwanda ESID Working Paper 24. Manchester: The University of
+Manchester.
+Graham, C. (1995). The politics of safety nets. Journal of Democracy, 6(2), 142–156.
+Habyarimana, J., Humphreys, M., Posner, D. N., & Weinstein, J. M. (2007). Why does
+ethnic diversity undermine public goods provision? American Political Science
+Review, 101(4), 709–725.
+Hay, C. (2011). Ideas and the construction of interests. In D. Béland & R. H. Cox
+(Eds.), Ideas and politics in social science research (pp. 65–82). Oxford: Oxford
+University Press.
+Hsiao, W. C. (2001). Unmet health needs of two billion: Is community financing a
+solution? World Bank, HNP Discussion Paper.
+Huber, E., & Stephens, J. D. (2001). Development and crisis of the welfare state: Parties
+and policies in global markets. Chicago: University Of Chicago Press.
+Jehu-Appiah, C., Aryeetey, G., Spaan, E., De Hoop, T., Agyepong, I., & Baltussen, R.
+(2011). Equity aspects of the National Health Insurance Scheme in Ghana: Who
+is enrolling, who is not and why. Social Science & Medicine, 72(2), 157–165.
+Kalavakonda, V., Groos, N., & Karasi, J.-C. (2007). Mid-term evaluation of the Global
+Fund to Fight HIV/AIDS, Tuberculosis and Malaria (GFATM) 5th round project on
+health systems strengthening: Assuring access to quality care: The missing link to
+combat AIDS, tuberculosis and malaria in Rwanda. Geneva: The Global Fund.
+Kalk, A., Groos, N., Karasi, J. C., & Girrbach, E. (2010). Health systems strengthening
+through insurance subsidies: The GFATM experience in Rwanda. Tropical
+Medicine & International Health, 15(1), 94–97.
+Khan, M. (2010). Political settlements and the governance of growth-enhancing
+institutions (Unpublished manuscript).
+Korpi, W. (1978). The working class in welfare capitalism: Work, unions and politics in
+Sweden. London: Routledge & Kegan Paul.
+Kpessa, M., Béland, D., & Lecours, A. (2011). Nationalism, development, and social
+policy: The politics of nation-building in sub-Saharan Africa. Ethnic and Racial
+Studies, 34(12), 2115–2133.
+Kusi, A., Enemark, U., Hansen, K. S., & Asante, F. A. (2015). Refusal to enrol in Ghana’s
+National Health Insurance Scheme: is affordability the problem? International
+Journal for Equity in Health, 14(2).
+Kutzin, J. (2012). Anything goes on the path to universal health coverage? No.
+Bulletin of the World Health Organization, 90(11), 867–868.
+
+98
+
+B. Chemouni / World Development 106 (2018) 87–98
+
+Lagomarsino, G., Garabrant, A., Adyas, A., Muga, R., & Otoo, N. (2012). Moving
+towards universal health coverage: Health insurance reforms in nine
+developing countries in Africa and Asia. The Lancet, 380(9845), 933–943.
+Lavers, T. (2016). Social protection in an aspiring ‘developmental state’: The political
+drivers of Community-Based Health Insurance in Ethiopia ESID Working Paper No.
+71. Manchester, UK: The University of Manchester.
+Lavers, T., & Hickey, S. (2015). Investigating the political economy of social protection
+expansion in Africa: At the intersection of transnational ideas and domestic politics
+ESID Working Paper 47. Manchester: The University of Manchester.
+Longman, T. (2011). Limitations to political reform. In S. Straus & L. Waldorf (Eds.),
+Remaking Rwanda: State building and human rights after mass violence
+(pp. 25–47). Madison, WI: University of Wiscons. in press.
+Lu, C., Chin, B., Lewandowski, J. L., Basinga, P., Hirschhorn, L. R., Hill, K., ...
+Binagwaho, A. (2012). Towards universal health coverage: An evaluation of
+Rwanda Mutuelles in its first eight years. PLoS One, 7(6), e39282.
+Mann, M. (1984). The autonomous power of the state: Its origins, mechanisms and
+results. European Journal of Sociology, 25(02), 185–213.
+Miguel, E., & Gugerty, M. K. (2005). Ethnic diversity, social sanctions, and public
+goods in Kenya. Journal of Public Economics, 89(11), 2325–2368.
+Mills, A., Ally, M., Goudge, J., Gyapong, J., & Mtei, G. (2012). Progress towards
+universal coverage: The health systems of Ghana, South Africa and Tanzania.
+Health Policy and Planning, 27(Suppl. 1), i4–i12.
+MINALOC (2004). Rwanda five-year decentralization implementation program. Kigali:
+Ministry of Local Government, Republic of Rwanda.
+Ministère de la Santé (2015). Manuel de procédures pour la mise en œuvre de la carte
+d’assistance médicale au Burundi – CAM 2015. Bujumbura: République du
+Burundi.
+Ministère de la Santé et de l’Action social (n.d.). Aide memoire sur la couverture
+maladie universelle. Dakar: République du Sénégal.
+MoH (2004). Politique de Développement des Mutuelles de Santé au Rwanda. Kigali:
+Ministry of Health.
+MoH of Kenya (2014). 2013 Kenya Household Health Expenditure and Utilisation
+Survey. Nairobi: Government of Kenya.
+Musango, L. (2005). Organisation et mise en place de mutuelles. Défi au développement
+de l’assurance maladie au Rwanda (Ph.D. thesis). Brussels: Université Libre de
+Belgique.
+Musango, L., Doetinchem, O., & Carrin, G. (2009). De la mutualisation du risque
+maladie à l’assurance universelle: expérience du Rwanda Discussion paper 1/2009.
+Geneva: World Health Organisation.
+Ndiaye, P., Soors, W., & Criel, B. (2007). Editorial: A view from beneath: Community
+health insurance in Africa. Tropical Medicine & International Health, 12(2),
+157–161.
+NHIA (2014). National health insurance authority 2013 annual report. Accra: NHIA.
+NISR MoH & ICF International (2015). Rwanda demographic and health survey 2014–
+15. Rockville, MD: National Institute of Statistics of Rwanda (NISR), Ministry of
+Health, and ICF International.
+Nzisabira, J. (1992). Les organisations populaires du Rwanda: Leur émergence, leur
+nature et leur évolution. Bulletin de l’APAD, 4.
+OAG (2011). Value for money audit report of mutual health insurance scheme
+(Mutuelles de Santé) for the period 2009–2010. Kigali: Office of the Auditor
+General.
+Odeyemi, I. A. (2014). Community-based health insurance programmes and the
+national health insurance scheme of Nigeria: Challenges to uptake and
+integration. International Journal for Equity in Health, 13(20).
+
+Preker, A., & Carrin, G. (2004). Health financing for poor people: Resource mobilization
+and Rsk sharing. Washington DC: World Bank.
+Preker, A., Carrin, G., Dror, D., Jakab, M., Hsiao, W., & Arhin-Tenkorang, D. (2004).
+Rich-poor differences in health care financing. In A. Preker & G. Carrin (Eds.),
+Health financing for poor people: Resource mobilization and risk sharing
+(pp. 3–52). Washington, DC: World Bank.
+Prunier, G. (1998). The Rwanda crisis: History of a genocide. London: Hurst Publishers.
+Republic of South Africa (2014). Twenty-year review: South Africa 1994–2014.
+Pretoria: The Presidency.
+Reyntjens, F. (2013). Political governance in post-genocide Rwanda. Cambridge:
+Cambridge University Press.
+Ridde, V., Robert, E., & Meessen, B. (2010). Les pressions exercées l’abolition du
+paiement des soins sur les systèmes de santé World Health Report: Background
+paper 43. Geneva: World Health Organization.
+Sabates-Wheeler, R., Yates, S., Wylde, E., & Gatsinzi, J. (2015). Challenges of
+measuring graduation in Rwanda. IDS Bulletin, 46(2), 103–114.
+Saksena, P., Antunes, A. F., Xu, K., Musango, L., & Carrin, G. (2011). Mutual health
+insurance in Rwanda: Evidence on access to care and financial risk protection.
+Health Policy, 99(3), 203–209.
+Saleh, K., Barroy, H., & Couttolenc, B. (2014). Health financing in the Republic of
+Gabon. A World Bank study. Washington, DC: World Bank Group.
+Savedoff, W. D., de Ferranti, D., Smith, A. L., & Fan, V. (2012). Political and economic
+aspects of the transition to universal health coverage. The Lancet, 380(9845),
+924–932.
+Schmidt, V. A. (2002). Does discourse matter in the politics of welfare state
+adjustment? Comparative Political Studies, 35(2), 168–193.
+Schmidt, V. (2008). Discursive institutionalism: The explanatory power of ideas and
+discourse. Annual Review of Political Science, 11(1), 303–326.
+Schneider, P., & Diop, F. (2001). Synopsis of results on the impact of community-based
+health insurance on financial accessibility to health care in Rwanda HNP
+Discussion Paper. Washington, DC: World Bank.
+Schneider, P., Diop, F., & Bucyana, S. (2000a). Development and Implementation of
+Prepayment Schemes in Rwanda Technical Report 45. Bethesda, MD:
+Partnerships for Health Reform Project, Abt Associates.
+Schneider, P., Nandakumar, A. K., Porignon, D., Bhawalkar, M., Butera, D., & Barnett,
+C. (2000b). Rwanda National Health Accounts 1998. Technical Report 53.
+Bethesda, MD: Partnerships for Health Reform Project, Abt Associates.
+SHOPS Project (2014). Botswana Private Health Sector Assessment. Brief. Bethesda,
+MD: Strengthening Health Outcomes through the Private Sector Project, Abt
+Associates.
+Soors, W., Devadasan, N., Durairaj, V., & Criel, B. (2010). Community health insurance
+and universal coverage: Multiple paths, many rivers to cross World Health Report:
+Background paper 48. Geneva: World Health Organization.
+Wang, W., Temsah, G., & Mallick, L. (2017). The impact of health insurance on
+maternal health care utilization: Evidence from Ghana, Indonesia and Rwanda.
+Health Policy and Planning, 32(3), 366–375.
+Weyland, K. (2009). Bounded rationality and policy diffusion: Social sector reform in
+Latin America. Princeton, NJ: Princeton University Press.
+WHO (2009). Republic of Rwanda health financing systems review 2008: Options for
+universal coverage. Geneva: World Health Organization.
+WHO (2010). The World Health Report 2010: Health systems financing. The path to
+universal coverage. Geneva: World Health Organization.
+
+

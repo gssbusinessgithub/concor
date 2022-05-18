@@ -1,0 +1,155 @@
+STUDY SUMMARY
+
+The Impact of Unconditional Cash
+Transfers on General Welfare in Kenya
+Providing cash grants to low-income households without any strings attached has
+been proven to have various benefits on the lives of those who receive the transfers,
+but less is known about how this sudden influx of income affects the local economy
+and people living nearby. In western Kenya, researchers evaluated the impact of
+unconditional cash transfers, provided by the organization GiveDirectly, on household
+well-being and local economic activity. The transfers led to large increases in
+consumption and assets for recipients, as well as large positive impacts on
+consumption for non-recipient households and revenue for firms. These results
+counter concerns that large cash transfers may harm those who do not receive them.
+
+Policy Issue
+Previous research has found that providing unconditional cash
+transfers, or cash grants without any strings attached, to low-income
+households can led to positive welfare benefits for recipients,
+including increased income, improved psychological wellbeing, and
+greater empowerment for women.1 There is great interest in these
+
+RESEARCHERS
+
+implemented unconditional cash transfers as a tool for poverty
+
+Dennis Egger, Johannes Haushofer,
+Edward Miguel, Paul Niehaus, Michael
+Walker
+
+alleviation. Yet little is known about how the sudden influx of income
+
+COUNTRY
+
+from the transfers affects the local economy, including for those who
+
+Kenya
+
+do not receive the transfer. Does the injection of funds stimulate
+
+PARTNER
+
+types of programs, as many low- and middle-income countries have
+
+wider economic activity or change the price of goods? Do the positive
+impacts experienced by transfer recipients spill over to nonrecipients? Or alternatively, are there economic or psychological
+consequences for non-recipients?
+
+Evaluation Context
+The NGO GiveDirectly, the implementing partner in this study,
+provides large, unconditional cash transfers to poor households in
+rural Kenya. While GiveDirectly has worked in Kenya since 2011, this
+study occurred in areas where the NGO has not worked before: three
+rural subcounties of Siaya County in western Kenya that border Lake
+Victoria. Though rural, the area is relatively densely populated with
+396 people per square kilometer compared to a national average of
+91 people per square kilometer. The main national road runs through
+this area, likely helping to integrate it into the national, regional, and
+global economies.
+
+GiveDirectly
+PROGRAM AREA
+Social Protection
+TOPICS
+Cash Transfers, Ultra Poor
+TIMELINE
+2014-2016
+
+On average, villages in the study consisted of 100 households, and households composed of 4
+members, including 2 children. Nearly all (97 percent) households were engaged in agriculture, with
+some also engaging in wage work and self-employment (60 and 45 percent respectively).
+In addition, Kenya offers a unique context to study the effects of cash transfers on local public finance.
+It has a long history of local fundraising for public goods through meetings called harambees, which
+may help facilitate the redistribution of income in villages.
+
+Details of the Intervention
+Researchers partnered with GiveDirectly to evaluate the impact of unconditional cash transfers on
+household welfare, as well as on the local economy. GiveDirectly provided eligible households with a
+series of three transfers totaling KES 87,000, or US$1,000 delivered through the mobile money
+platform M-Pesa. To be eligible for the transfers, households had to live in a house with a grassthatched roof. The transfer amount was large, equivalent to 75 percent of recipient household’s
+annual spending. This was also a large influx of cash to the local economy; the total amount
+GiveDireclty distributed was roughly equivalent to 17 percent of annual Gross Domestic Products
+(GDP) for areas receiving the transfers. This was a one-time program, as GiveDirectly did not provide
+additional financial assistance to households after the final transfer.
+In order to understand the transfer’s effects both within villages and on nearby villages, researchers
+randomized on two levels. First, researchers randomly assigned groups of villages to either high or low
+saturation status, which varied how many villages within the group received the treatment.
+Researchers then randomly assigned villages to the treatment; two-thirds of villages in the highsaturation group compared to one-third of villages in the low-saturation group were assigned to the
+treatment. All eligible households in treatment villages received the cash transfer. The remaining
+villages formed the comparison group and no households in these villages received a transfer.
+From mid-2014 to early 2017, the research team conducted four types of surveys on: household
+financial, physical, and mental well-being, business performance, changes in market prices, and the
+provision of local public goods. Household surveys occurred one to two months before the distribution
+of any transfers and around eleven months after the last transfer. Similarly, researchers surveyed
+business and enterprise owners at baseline and endline. Researchers also collected monthly data on
+the prices of goods in local markets to assess if prices changed as an effect of the transfers.
+
+Results and Policy Lessons
+Overall, cash transfer recipients received and spent most of the transfer, leading to higher revenues
+for local businesses. This rise in demand, in turn, also increased income for households who did not
+receive the transfer, leading them to also spend more. These findings do not substantiate concerns
+that large cash transfer may lead to adverse consequences on non-recipient households; rather there
+were large positive effects for households both receiving and not receiving the transfer, as well on the
+local economy.
+Impacts on transfer recipients: Eighteen months after starting to receive transfers, households reported
+
+higher expenditure and more durable assets than comparison households. The transfers likely
+facilitated increased spending. Recipient households reported US$293 in purchasing power parity
+(PPP) more in household spending than households eligible for the transfer (but did not receive) in
+comparison villages, a 12 percent increase over US$2,537 PPP for comparison villages in the lowsaturation group. Likewise, assets increased by US$ 174 PPP from an average of US$724 PPP for
+eligible households in the comparison group (a 24 percent increase). These results were consistent
+with previous findings.
+Impacts on the local economy: Businesses in both treatment and comparison villages experienced large
+increases in revenue. From an average of US$758 PPP for comparison villages in the low saturation
+group, revenues increased by US$348 PPP per household in treatment villages and by US$231 PPP in
+comparison villages (a 46 and 30 percent increase, respectively) Gains in revenue were concentrated in
+the retail and manufacturing sectors. Enterprises in areas that received more cash transfers
+experienced meaningful gains in total revenues, in line with the increase in household expenditures.
+Revenues increased without noticeable changes in firm’s investment behavior (beyond a modest
+increase in inventories). These results suggest that increased demand induced by the transfers drove
+expansion of enterprise activity rather than by increased investment.
+Researchers found that the transfers led to a small increase in local prices for consumer goods.
+Average price inflation was below 0.25 percent, and even during periods with the largest transfer
+amount, estimated price effects were less than 1 percent. There is also some evidence that the
+transfers led to higher wages: both households who received the transfer and those who did not
+reported a higher hourly wage earned.
+Impacts for non-recipients: Despite not receiving transfers, annual spending by non-recipient
+households was 13 percent higher than the comparison group, an increase by US$ 334 PPP from
+US$2,537 PPP. This gain was roughly the same as that experienced by households receiving the
+transfer over the same 18-month period. Increased spending in non-recipient households was likely
+due to more local firms’ owners and workers earning more income. Wage earnings increased by
+US$182 PPP from an average of US$495 PPP for comparison households (a 37 percent increase).
+Impacts on social well-being: Households receiving the transfer had higher levels of psychological wellbeing, food security, education, and security, as measured by an index of survey questions.
+Furthermore, there were no negative effects for non-recipient households. Though there are concerns
+about cash transfer programs doing harm to non-recipients, this was not the case in this setting. One
+possible exception, however, is inequality: researchers estimated that the positive gains for nonrecipient households, especially wealthier ones, were so large that inequality within a village may have
+slightly increased.
+In sum, while there are concerns about the possibility of large-scale cash transfer programs leading to
+adverse consequences for non-recipients, these findings counter those concerns. Non-recipient
+households increased their spending and businesses in areas receiving the transfer experienced
+higher revenue. Additionally, there was little to no price inflation and no negative effects in terms of
+domestic violence, health, education, and the provision of local public goods.
+
+Sources
+1. Haushofer, Johannes, and Jeremy Shapiro. 2016. “The Short-Term Impact of Unconditional Cash
+Transfers to the Poor: Experimental Evidence from Kenya.” The Quarterly Journal of Economics. 131 (4):
+1973–2042.
+
+Innovations for Poverty Action
+655 15th St. NW, Suite 800
+Washington, DC 20005
++1 (202) 386-6200 | contact@poverty-action.org
+
+poverty-action.org
+
+

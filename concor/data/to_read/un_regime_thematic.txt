@@ -1,0 +1,2966 @@
+4 2
+
+Thematic Paper
+
+N o .
+
+Poverty Reduction and Policy Regimes
+
+Social Protection and Poverty
+
+S o c i a l
+
+P o l i c y
+a n d D e v e l o p m e n t
+
+—
+
+P a p e r
+
+Armando Barrientos
+
+This Programme Paper is published as an e-paper.
+
+Social Protection and Poverty
+Armando Barrientos
+
+Social Policy and Development
+Programme Paper Number 42
+January 2010
+
+United Nations
+Research Institute
+for Social Development
+
+This United Nations Research Institute for Social Development (UNRISD) Programme Paper has been produced with the
+support of UNRISD core funds, which, in 2007–2009, were generously provided by the governments of Denmark,
+Finland, Mexico, Norway, South Africa, Sweden, Switzerland and the United Kingdom.
+Copyright © UNRISD. Short extracts from this publication may be reproduced unaltered without authorization on
+condition that the source is indicated. For rights of reproduction or translation, application should be made to UNRISD,
+Palais des Nations, 1211 Geneva 10, Switzerland. UNRISD welcomes such applications.
+The designations employed in UNRISD publications, which are in conformity with United Nations practice, and the
+presentation of material therein do not imply the expression of any opinion whatsoever on the part of UNRISD concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its
+frontiers or boundaries.
+The responsibility for opinions expressed rests solely with the author(s), and publication does not constitute endorsement by UNRISD.
+ISSN 1020-8208
+iii
+
+Contents
+
+Abbreviations and Acronyms
+
+iii
+
+Acknowledgements
+
+iii
+
+Summary/Résumé/Resumen
+
+iv
+
+Summary
+Résumé
+Resumen
+
+iv
+v
+vi
+
+Introduction
+
+1
+
+1. The Emergence of Social Protection in Developing Countries
+
+1
+
+What is social protection?
+Trends in poverty and vulnerability
+An emergent policy framework for developing countries
+
+2. Poverty and Vulnerability: Concepts, Measures and Dimensions
+Review of poverty concepts
+Multidimensionality
+Vulnerability
+
+3. Approaches to Social Protection: Rights, Risk, Needs
+Perspectives on social protection
+Conceptual and ethical bases for social protection
+
+4. Trends and Key Issues in Social Protection in Developing Countries
+Why focus on social assistance?
+Regional pathways in social protection and assistance
+Social assistance: Programme design and objectives
+Financing and capacity constraints
+Social protection expenditure and poverty
+
+Conclusion
+Extending social protection in low-income countries
+Social protection and welfare regimes
+
+1
+2
+4
+
+4
+5
+6
+6
+
+8
+8
+9
+
+10
+10
+11
+14
+16
+17
+
+21
+21
+21
+
+Annex 1. Poverty Measures
+
+23
+
+Annex 2: Sources of Poverty Data for Comparative Research
+
+24
+
+Annex 3: A Note on Government Social Protection Expenditure Data
+
+25
+
+Bibliography
+
+27
+
+UNRISD Programme Papers on Social Policy and Development
+
+33
+
+Figures
+Figure 1: Poverty and indigency rates for Latin America and the Caribbean, 1980–2005
+Figure 2: Share of dependent workers not contributing to social protection insurance in Latin America
+Figure 3: Long-term social protection expenditure and poverty, regional panels
+
+3
+4
+20
+
+Tables
+Table 1: Responses to financial crises among poorest and richest households in Zambia
+Table 2: Social assistance in developing countries: Programmes and objectives
+Table 3: Long-term social protection expenditure and current poverty
+Table 4: Government expenditure on social protection, social insurance and social assistance
+as per cent of GDP in selected countries
+
+ii
+
+8
+15
+19
+20
+
+Abbreviations and Acronyms
+AIDS
+
+acquired immune deficiency syndrome
+
+DFID
+
+UK Department for International Development
+
+GDP
+
+gross domestic product
+
+GTZ
+
+Deutsche Gesellschaft für Technische Zusammenarbeit (German Society for Technical Cooperation)
+
+HDI
+
+Human Development Index
+
+HIV
+
+human immunodeficiency virus
+
+ILO
+
+International Labour Organization
+
+IMF
+
+International Monetary Fund
+
+MDG
+
+Millennium Development Goal
+
+NGO
+
+non-governmental organization
+
+NREGS
+
+National Rural Employment Guarantee Scheme
+
+OECD
+
+Organisation for Economic Co-operation and Development
+
+SSW
+
+social security and welfare
+
+UK
+
+United Kingdom
+
+UN
+
+United Nations
+
+UNDP
+
+United Nations Development Programme
+
+USWSS
+
+Unorganised Sector Workers Social Security Scheme
+
+Acknowledgements
+Some sections of the report draw on work done jointly with David Hulme, Social Protection or
+the Poorest. Concepts, Policies and Politics (Palgrave Macmillan 2008). The author gratefully
+acknowledges detailed comments and suggestions on an earlier version of the report from Katja
+Hujo, other colleagues from the United Nations Research Institute for Social Development
+(UNRISD) and two anonymous reviewers, which greatly improved it. The remaining errors are
+all mine.
+
+iii
+
+Summary/Résumé/Resumen
+Summary
+In the last decade, social protection has emerged as a policy framework employed to address
+poverty and vulnerability in developing countries. This report has two main aims: to provide an
+overview of social protection, and to provide an assessment of its potential contribution to
+addressing poverty and vulnerability in developing countries.
+Section 1 provides some preliminary definitions and tracks the emergence of social protection
+as a policy framework against a context of poverty and vulnerability trends in the 1980s and
+1990s. Rising poverty and vulnerability following the 1980s in Latin America—known as the
+“lost decade”—the financial crises in 1997 in Asia and the rapid economic transformation in
+transition economies demonstrated the need to establish strong and stable institutions directly
+concerned with reducing and preventing poverty and vulnerability. Social protection provides
+a policy map, linking policy interventions to an understanding of poverty and vulnerability as
+multidimensional and persistent.
+Section 2 reviews poverty and vulnerability concepts and measures. It pays particular attention
+to the growing influence of multidimensionality in poverty analysis. Duration and dynamics
+are important dimensions of poverty and contribute to an understanding of vulnerability,
+which is the likelihood that individuals or households would be in poverty in the future.
+Research into multidimensional aspects of poverty and vulnerability has made a very important
+contribution to the development and formulation of social protection.
+Section 3 examines different approaches to social protection and traces them to underlying
+development perspectives. There are different versions of social protection, emphasizing either
+risk, rights or needs as the organizing concept. However, they all share common ground, an
+important feature of which is the broader developmental role of social protection in developing
+countries and its focus on (extreme) poverty reduction. This discussion opens a window on the
+conceptual and ethical bases of social protection.
+Section 4 examines trends and key issues in the development of social protection programmes
+and policies in developing countries. The focus of this section is on social assistance, as the
+component of social protection which addresses poverty most directly, but reference is made
+where relevant to the other components of social protection, social insurance and labour market
+regulation. The extension of social protection in developing countries has focused on social
+assistance, as opposed to social insurance or labour market regulation. The section then traces
+the main features of regional pathways in the development of social protection and assistance,
+contextualizing the analysis of the resulting social protection programmes.
+In the last decade and a half, there has been a great deal of innovation in social assistance
+programmes, and a marked increase in their reach. Regular and reliable social assistance
+programmes based around income transfers, but increasingly combining access to basic services
+and investment in human development, now reach a significant proportion of those in poverty
+in the South. Social assistance programmes are classified into four categories: (i) pure income
+transfers; (ii) income transfers conditional on work; (iii) income transfers conditional on
+investment in human capital; and (iv) integrated poverty reduction programmes. The section
+discusses key features and objectives of these categories of programmes. Where impact
+evaluation results are available, they show that new forms of social assistance have reduced
+poverty and raised human development.
+The extension of social protection in developing countries will require overcoming a number of
+constraints, which are more acute for low-income countries. Among these constraints is
+finance—a key barrier to the extension of social protection. The issue is long-term sustainability,
+as developing countries are not in a position to finance the extension of social protection
+
+iv
+
+through payroll taxes that was crucial to the emergence of the welfare state in developed
+countries. Alternative forms of resource mobilization will be needed. Capacity constraints are a
+problem in low-income countries, but this is a more tractable issue than finance.
+The final section summarizes the main points and discusses possible linkages to wider
+institutional models. Examining the implications of following different social protection
+pathways to reduce poverty and vulnerability and to establish long-term social protection
+institutions remains an urgent question to be tackled by researchers. The likely impact on
+poverty and vulnerability of the extension of social protection under way in developing
+countries is not in doubt. Investment in social protection and social assistance can be extremely
+effective in reducing current poverty and vulnerability, as well as poverty persistence across
+time and generations. Countries with stronger social protection and assistance institutions show
+lower rates of poverty and vulnerability, and are more resilient in the face of economic and
+social transformation.
+Armando Barrientos is Professor and Research Director at the Brooks World Poverty Institute,
+School of Environment and Development, University of Manchester, United Kingdom.
+
+Résumé
+Au cours de la dernière décennie, la protection sociale est apparue comme un dispositif
+politique employé pour agir sur la pauvreté et la vulnérabilité dans les pays en développement.
+Ce rapport a deux objectifs principaux: donner une vue d’ensemble de la protection sociale et
+une évaluation de ce qu’elle peut apporter à la lutte contre la pauvreté et la vulnérabilité dans
+les pays en développement.
+Après quelques définitions préliminaires, la section 1 retrace l’apparition de la protection
+sociale comme dispositif politique de lutte contre la pauvreté et la vulnérabilité dans les années
+80 et 90. La montée de la pauvreté et de la vulnérabilité après les années 80 en Amérique
+latine—connues sous le nom de “décennie perdue”—les crises financières de 1997 en Asie et la
+transformation rapide des économies de transition ont démontré la nécessité de mettre en place
+des institutions solides et stables, directement chargées de réduire et de prévenir la pauvreté et
+la vulnérabilité. La protection sociale permet d’établir une carte, qui relie les interventions
+politiques à une pauvreté et une vulnérabilité conçues comme multidimensionnelles et
+persistantes.
+Dans la section 2, l’auteur examine les concepts et mesures de la pauvreté et de la vulnérabilité.
+Il accorde une attention particulière à l’influence croissante de la multidimensionnalité dans
+l’analyse de la pauvreté. La durée et la dynamique sont d’importantes dimensions de la
+pauvreté et contribuent à faire comprendre la vulnérabilité, qui n’est autre que la probabilité
+pour les individus et les ménages de tomber dans la pauvreté à l’avenir. Les recherches sur les
+aspects multidimensionnels de la pauvreté et de la vulnérabilité ont beaucoup contribué à
+l’articulation et au développement de la protection sociale.
+La section 3 est consacrée aux diverses approches de la protection sociale et aux conceptions du
+développement dont elles s’inspirent et auxquelles elles se rattachent. Il existe différentes
+versions de la protection sociale, organisées autour de la notion de risque, de droits ou de
+besoins. Mais elles ont des points communs, ne serait-ce que le rôle que joue la protection
+sociale dans le développement, plus important dans les pays en développement, et le fait
+qu’elles tendent d’abord à faire reculer l’extrême pauvreté. Ce débat ouvre une fenêtre sur les
+bases conceptuelles et éthiques de la protection sociale.
+Dans la section 4, l’auteur examine les tendances et les grands enjeux des programmes et
+politiques de protection sociale dans les pays en développement. Cette section porte surtout
+sur l’assistance sociale, qui est de toutes les composantes de la protection sociale celle qui agit le
+plus directement sur la pauvreté, mais renvoie aussi, s’il y a lieu, aux autres: l’assurance sociale
+
+v
+
+et la réglementation du marché du travail. Lorsque la protection sociale a été étendue dans les
+pays en développement, elle l’a été principalement par le biais de l’assistance sociale, par
+opposition à l’assurance sociale et à la réglementation du marché du travail. L’auteur décrit les
+voies qu’ont suivies les régions pour développer la protection et l’assistance sociales, en en
+relevant les principales caractéristiques, et analyse dans ce contexte les programmes de
+protection sociale qui en ont résulté.
+Depuis quinze ans, les programmes d’assistance sociale ont connu de nombreuses innovations,
+et le nombre de leurs bénéficiaires a nettement augmenté. Réguliers et stables, ils reposent sur
+des transferts de revenu mais combinent de plus en plus l’accès aux services de base et
+l’investissement dans le développement humain et atteignent maintenant une proportion
+importante des pauvres du Sud. Ils se rangent en quatre catégories: (i) les transferts de revenu
+purs; (ii) les transferts de revenu subordonnés au travail; (iii) les transferts de revenu
+subordonnés à des investissements dans le capital humain; et (iv) les programmes intégrés de
+lutte contre la pauvreté. La section traite des principaux éléments et objectifs de ces catégories
+de programmes. Là où leur impact a été évalué, les résultats de l’évaluation montrent que de
+nouvelles formes d’assistance sociale ont fait reculer la pauvreté et progresser le développement
+humain.
+Pour étendre la protection sociale dans les pays en développement, il faudra surmonter diverses
+contraintes, qui sont plus sensibles dans les pays à faible revenu. L’une d’elles est le
+financement, qui est un obstacle de taille à l’extension de la protection sociale. L’enjeu est la
+solidité financière à long terme, car les pays en développement ne sont pas en mesure de
+financer cette extension par les impôts sur les salaires, qui ont joué un rôle vital dans
+l’édification des Etats providence dans les pays développés. Il faudra user d’autres moyens
+pour mobiliser des ressources. Les contraintes de capacité posent aussi problème dans les pays
+à faible revenu, mais il est moins insoluble que celui du financement.
+La dernière section résume les principaux points et traite des liens qui peuvent exister avec des
+modèles institutionnels généraux. Les conséquences du choix de telle ou telle voie de protection
+sociale pour le recul de la pauvreté et de la vulnérabilité et pour la solidité des institutions de
+protection sociale restent un champ qu’il serait urgent que les chercheurs étudient. L’impact
+probable sur la pauvreté et la vulnérabilité de l’extension de la protection sociale en cours dans
+les pays en développement ne fait aucun doute. Investir dans la protection et l’assistance
+sociales peut être un moyen extrêmement efficace de réduire la pauvreté actuelle et la
+vulnérabilité, de même que la pauvreté qui a résisté au temps et s’est maintenue au fil des
+générations. Les pays dotés de solides institutions de protection et d’assistance sociales ont des
+taux de pauvreté et de vulnérabilité plus faibles et sont plus résilients face au changement
+économique et social.
+Armando Barrientos est professeur et directeur de recherches au Brooks World Poverty
+Institute, School of Environment and Development, Université de Manchester, Royaume-Uni.
+
+Resumen
+En los diez últimos años, la protección social se ha convertido en el marco de política utilizado
+para abordar la pobreza y la vulnerabilidad en los países en desarrollo. Este informe tiene dos
+propósitos: ofrecer un panorama general de la protección social y evaluar su potencial
+contribución para abordar la pobreza y la vulnerabilidad en los países en desarrollo.
+La sección 1 contiene algunas definiciones preliminares y traza la historia del surgimiento de la
+protección social como marco de política en un contexto de tendencias de pobreza y
+vulnerabilidad en los años ochenta y noventa. La creciente pobreza y vulnerabilidad durante los
+años ochenta en América Latina (conocida como la “década perdida”), las crisis financieras de
+Asia en 1977 y la rápida transformación económica en las economías en transición demostraron
+la necesidad de establecer instituciones sólidas y estables que se ocuparan directamente de
+
+vi
+
+reducir y prevenir la pobreza y la vulnerabilidad. La protección social ofrece un mapa de
+políticas al vincular las intervenciones de política con el entendimiento de la pobreza y la
+vulnerabilidad como conceptos multidimensionales y persistentes.
+En la sección 2 se examinan los conceptos y las medidas de pobreza y vulnerabilidad. En esta
+parte se presta particular atención a la creciente influencia de la multidimensionalidad en el
+análisis de la pobreza. La duración y la dinámica son dimensiones importantes de la pobreza y
+contribuyen a comprender la vulnerabilidad, que es la posibilidad de que las personas u
+hogares caigan en situación de pobreza en el futuro. La investigación sobre los aspectos
+multidimensionales de la pobreza y la vulnerabilidad ha hecho una importante contribución al
+desarrollo y la formulación de la protección social.
+La sección 3 se ocupa de los diferentes enfoques sobre la protección social y los vincula a las
+perspectivas de desarrollo subyacentes. Existen diferentes versiones de la protección social, en
+las cuales se enfatiza el riesgo, los derechos o las necesidades como el concepto organizador. Sin
+embargo, todos estos enfoques comparten un terreno común, una de cuyas características
+importantes es el papel más amplio de la protección social en el desarrollo de los países en
+desarrollo y su énfasis sobre la reducción de la pobreza (extrema). Este debate abre una ventana
+hacia la comprensión de las bases conceptuales y éticas de la protección social.
+La sección 4 trata de las tendencias y problemas clave en el desarrollo de programas y políticas
+de protección social en países en desarrollo. El énfasis de esta sección recae en la asistencia
+social como el componente de la protección social que aborda la pobreza de forma más directa,
+pero también se hace referencia, de juzgarse pertinente, a los otros componentes de la
+protección social, la seguridad social y la regulación del mercado laboral. La extensión de la
+protección social en los países en desarrollo se ha centrado en la asistencia social, más que en la
+seguridad social o la regulación del mercado laboral. Esta sección describe las principales
+características de las vías que han seguido las regiones en el desarrollo de la protección y la
+asistencia sociales, contextualizando el análisis de los programas de protección social
+resultantes.
+En los 15 últimos años, los programas de asistencia social han sido innovados en gran medida y
+su alcance ha aumentado de manera significativa. Los programas regulares y fiables de asistencia
+social basados en las transferencias de ingresos, pero que en un grado creciente combinan el
+acceso a servicios básicos y la inversión en el desarrollo humano, alcanzan ahora a una proporción
+considerable de la población pobre del Sur. Los programas de asistencia social se clasifican en
+cuatro categorías: (i) transferencias de ingresos propiamente dichas; (ii) transferencias de ingresos
+condicionadas al trabajo; (iii) transferencias de ingresos condicionadas a la inversión en capital
+humano; y (iv) programas integrados de reducción de la pobreza. En esta sección se examinan las
+características y los objetivos clave de estas categorías de programas. En los casos donde se cuenta
+con los resultados de la evaluación del impacto, estos muestran que las nuevas formas de
+asistencia social han reducido la pobreza y aumentado el desarrollo humano.
+La extensión de la protección social en los países en desarrollo pasa por superar una serie de
+limitaciones, que son más agudas para los países de bajos ingresos. Entre estas limitaciones
+destaca el financiamiento, un obstáculo clave a la extensión de la protección social. El problema
+reside en la sostenibilidad a largo plazo, ya que los países en desarrollo no están en capacidad
+de financiar la extensión de la protección social por medio de cotizaciones salariales, elemento
+crucial para el surgimiento del Estado benefactor en los países desarrollados. Se necesitarán
+formas alternativas de movilización de recursos. Las limitaciones de capacidad son un
+problema en los países de bajos ingresos, pero es un problema más manejable que las finanzas.
+La sección final es un resumen de los puntos principales y un análisis de los posibles vínculos
+con modelos institucionales más amplios. El examen de las implicaciones de seguir senderos de
+protección social diferentes para reducir la pobreza y la vulnerabilidad y establecer
+instituciones de protección social a largo plazo sigue siendo un tema urgente que los
+
+vii
+
+investigadores deben abordar. No se pone en duda la posible repercusión de la extensión de la
+protección social actualmente en curso en los países en desarrollo sobre la pobreza y la
+vulnerabilidad. La inversión en protección social y asistencia social puede ser extremadamente
+eficaz para reducir el nivel actual de pobreza y vulnerabilidad, así como la persistencia de la
+pobreza a lo largo del tiempo y de generaciones. Los países con instituciones más fuertes de
+protección social y asistencia oficial muestran tasas inferiores de pobreza y vulnerabilidad, y
+son más resistentes ante la transformación económica y social.
+Armando Barrientos es Profesor y Director de Investigación del Brooks World Poverty Institute,
+School of Environment and Development, University of Manchester Reino Unido.
+
+viii
+
+Introduction
+In the last decade, social protection has emerged as a policy framework employed to address
+poverty and vulnerability in developing countries. A range of factors signal the rise to
+prominence of social protection. International development organizations, especially agencies
+within the United Nations family, have adopted and adapted social protection strategies and
+policies.1 A growing number of national governments in the developing world are developing
+and adopting national social protection strategies within their poverty reduction planning.
+There is a rapid escalation in the number and coverage of social protection policies and
+programmes being implemented in developing countries.2 There is also rising interest in social
+protection among development researchers, development research institutes, and higher
+education.3
+This report has two main aims: first, to provide an overview of social protection, and second, to
+provide an assessment of its potential contribution to addressing poverty and vulnerability in
+developing countries.
+The report consists of four main sections. Section 1 provides some preliminary definitions and
+tracks the emergence of social protection as a policy framework against a context of poverty and
+vulnerability trends in the 1980s and 1990s. Section 2 reviews poverty and vulnerability
+concepts and measures, noting the growing influence of multidimensionality in poverty
+analysis. Section 3 examines different approaches to social protection and traces them to
+development perspectives emphasizing risk, needs and rights. This discussion opens a window
+to the conceptual and ethical bases for social protection. Section 4 assesses existing social
+protection programmes and policies in developing countries against poverty reduction
+objectives. The focus of this section is on social assistance, as the component of social protection
+which addresses poverty most directly, but reference is made where relevant to the other
+components of social protection, social insurance and labour market regulation. The section
+distinguishes regional pathways in the development of social assistance, contextualizing the
+analysis of social protection programmes which follows. A discussion of social protection
+expenditure and financing closes this section. Finally, a conclusion gathers together the main
+points of the paper and speculates on possible approaches linking social protection to broader
+institutional models.
+
+1. The Emergence of Social Protection in Developing Countries
+Social protection is rapidly becoming a key component of development policy. This section
+provides a description and definition of social protection, identifies the key policy drivers and
+describes the scope of social protection as a policy framework.
+
+What is social protection?
+In the work of the International Labour Organization (ILO), social protection is associated with
+a range of public institutions, norms and programmes aimed at protecting workers and their
+households from contingencies threatening basic living standards. Broadly, these can be
+grouped under three main headings: social insurance, social assistance and labour market
+regulation. Social insurance consists of programmes providing protection against life-course
+contingencies such as maternity and old age, or work-related contingencies such as
+unemployment or sickness. Social assistance provides support for those in poverty. Normally,
+social insurance is financed from contributions by workers and their employers, whereas social
+1 A number of multilateral and bilateral organizations, and non-governmental organizations (NGOs) have adopted social protection
+
+(IADB 2000; United Nations 2000; ADB 2001; ILO 2001; World Bank 2001a; HAI 2003; DFID 2005).
+2 For a database of social protection programmes in developing countries, see Barrientos and Holmes (2007).
+3 The University of Maastricht has established a postgraduate course in Social Protection, and the Government of South Africa has
+
+established a Chair in Social Protection.
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+assistance is tax-financed. Finally, labour and employment standards ensure basic standards at
+work, and extend rights to organization and voice. These institutions have been fully
+established in developed countries, but in developing countries their development has been
+uneven.
+In the 1990s, social protection underwent an important transformation, especially in the context
+of developing countries. Against a background of economic crises, structural adjustment and
+globalization, social protection in developing countries has increasingly come to describe a
+policy framework for addressing poverty and vulnerability. It can be defined as “public actions
+taken in response to levels of vulnerability, risk, and deprivation which are deemed socially
+unacceptable within a given polity or society” (Conway et al. 2000:2).
+There are several features distinguishing the emerging paradigm in developing countries.4
+There, social protection has a strong focus on poverty reduction and on providing support to
+the poorest (de Haan 2000; Barrientos and Hulme 2005), whereas in developed countries the
+emphasis of social protection is on income maintenance and on protecting living standards for
+all (but especially workers). In developing countries, the main emphasis of social protection is
+on addressing the causes of poverty, and not simply its symptoms (World Bank 2001a). The
+focus of social protection is not restricted to compensating those in poverty for their income
+shortfall, but aspires to have a broader developmental role.5 The emerging social protection
+paradigm in developing countries is also distinguished by a focus on risk and vulnerability.
+This is based on the understanding that a primary cause of persistent poverty is to be found in
+the constraints faced by the poor in taking advantage of economic opportunity, which can be
+explained, to a great extent, by their vulnerability to the impact of economic, social and natural
+hazards. In the absence of social protection, hazards impact directly on living standards. In
+addition, they motivate risk-averse behaviour among those in poverty, which is detrimental to
+their long-term welfare, for example, responding to financial crises by taking children out of
+school or economizing on primary health care. A concern with protecting households against
+the direct effects of hazards is common to social protection in developed and developing
+countries, but a concern with minimizing rational but detrimental responses to vulnerability by
+those in poverty is central to the extension of social protection in developing countries.
+As a policy framework addressing poverty and vulnerability in developing countries, social
+protection is a key component of development policy. The broader developmental role of social
+protection in developing countries involves three main functions: (i) to help protect basic levels
+of consumption among those in poverty or in danger of falling into poverty; (ii) to facilitate
+investment in human and other productive assets which alone can provide escape routes from
+persistent and intergenerational poverty; and (iii) to strengthen the agency of those in poverty
+so that they can overcome their predicament (Barrientos forthcoming).6
+
+Trends in poverty and vulnerability
+An important factor in the spread of social protection in developing countries was the rise in
+poverty and vulnerability which followed crises and structural adjustment in the 1980s and
+1990s, which then persisted in the recovery phase. Global estimates of poverty incidence based
+on $17 a day show a slight increase in headcount poverty in 1990 compared to 1987 (from 28.3
+per cent to 29 per cent) and a subsequent decline in 1996 (to 27 per cent) (Bigsten and Levin
+2005). Regional estimates of poverty incidence based on national poverty lines show a stronger
+rise in poverty incidence, and a more gradual decline. Figure 1 below shows estimates of
+4 The distinctions drawn reflect positive (what is) as opposed to normative (what should be) concerns. Some suggest that a focus on
+
+poverty and vulnerability reduction has the effect of narrowing down the options for the extension of social protection in developing
+countries. This is a separate issue, which will be tackled towards the end of the paper.
+5 This is a very important point which is developed in more detail below.
+6 These can also be described as the “four Ps”: protection, promotion, propulsion and empowerment.
+7 All $ figures refer to US dollars.
+
+2
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+poverty and indigence headcount rates for Latin America.8 By 2005, headcount poverty was just
+below the 1980 level estimate, but had remained above it throughout the intervening period.
+The trend reflected the acute impact of crises and adjustment in the “lost decade”, and the
+persistence of poverty in the 1990s and early 2000s.
+Comparable estimates of vulnerability and vulnerability trends are sadly lacking.9 Vulnerability
+refers to the chances of staying in, or falling into, poverty in the future.10 It reflects the absence
+of protection. Estimates of the proportion of the labour force in Latin America not contributing
+to social insurance schemes could help track trends in vulnerability. Workers failing to
+contribute to social insurance schemes are primarily informal workers who are highly
+vulnerable. As can be seen from figure 2 below, the share of dependent workers not covered by
+social insurance shows a rising trend in the 1990s and 2000s, consistent with a rise in
+vulnerability in the region.
+Figure 1: Poverty and indigency rates for Latin America and the Caribbean,
+1980–2005
+
+50.0
+45.0
+40.0
+35.0
+30.0
+Poverty headcount
+25.0
+
+Indigence headcount
+
+20.0
+15.0
+10.0
+5.0
+0.0
+
+1980
+
+1990
+
+2000
+
+2002
+
+2005
+
+Poverty headcount
+
+40.5
+
+48.3
+
+42.4
+
+44.0
+
+39.8
+
+Indigence headcount
+
+18.6
+
+22.5
+
+18.1
+
+19.4
+
+15.4
+
+Source: ECLAC 2007.
+
+The 1997 financial crisis in East Asia had a profound impact on poverty and vulnerability in the
+region. In Indonesia, for example, poverty headcount rates almost doubled as a consequence of
+the financial crisis (Suryahadi and Sumarto 2003). In South Asia and Africa, estimates of
+poverty headcount appear to have stagnated, poverty estimates based on the $1 a day were
+stuck at the mid-40 per cent level during the 1990s (Bigsten and Levin 2005). The rapid rise in
+poverty and vulnerability in the transition countries of Central Europe and Asia during
+structural adjustment is well documented (Lanjouw et al. 1998).11
+8 In Latin America households are classified as indigents if their income is below that required to purchase a basic food basket.
+
+Households are classified as poor if their incomes fall below what is required to purchase a basic basket of food and non-food items.
+Roughly, the poverty line is twice the indigence line.
+9 This section is highly focused on Latin America as data on poverty and vulnerability in this region has been estimated on a consistent
+
+basis and across time. Consistent estimates for poverty and vulnerability using national poverty lines are lacking for other regions; this
+applies especially to informality which is used here as a proxy for vulnerability.
+10 See the discussion on vulnerability in Section 2.
+11 Section 4 discusses regional trends in the spread of social protection and assistance.
+
+3
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+Figure 2: Share of dependent workers not contributing to social protection
+insurance in Latin America (weighted average of 12 countries)
+
+38
+37
+
+Percentage
+
+36
+35
+34
+1990
+
+33
+
+2000
+2002
+
+32
+31
+30
+29
+28
+Uncovered measure
+
+Male uncovered measure
+
+Female uncovered measure
+
+Sources: ILO 2000, 2003, 2006.
+
+An emergent policy framework for developing countries
+Public assistance programmes and other forms of safety nets, scarcely available in developing
+countries at any rate, proved inadequate to deal with the rapid rise in poverty and
+vulnerability. Short-term safety nets worked with varying degrees of success,12 but were never
+intended to establish the institutional structures to ensure anything more than short-term
+palliatives.13 The impact of the crisis and adjustment on public agencies opened the way for a
+growing involvement of non-governmental organizations (NGOs) in the delivery of poverty
+reduction programmes. Social funds provided the institutional basis for the engagement of a
+wider range of stakeholders in demand-led developmental projects. However, few social funds
+reached the scale needed to have a significant impact on poverty, and their autonomy from
+public agencies—which was a key advantage in the initial stages of their development—made it
+difficult to support the strengthening in their capacity later on.
+Assessments of the responses to the crises and adjustment concluded that addressing poverty
+and vulnerability required stronger, coordinated and permanent institutional structures, which
+could develop a capacity to respond to crises when these occurred.14 This is the context in which
+social protection emerges as a policy framework.
+
+2. Poverty and Vulnerability: Concepts, Measures and Dimensions
+This section provides a brief review of poverty concepts, and then outlines recent development
+on multidimensionality and vulnerability which have contributed to the emergence of social
+protection.
+12 See Graham (2002) for a discussion of safety nets in Latin America, and Sumarto et al. (2008) for a discussion of Indonesia’s
+
+experience with safety nets.
+13 This is especially true of Latin America (Székely and Fuentes 2002).
+14 Safety nets established during a crisis are less effective and sustainable than those which predate a crisis (Ferreira et al. 1999).
+
+4
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+Review of poverty concepts
+Poverty describes a state in which individuals or households show significant deficits in wellbeing.15 Different perspectives on well-being and development emphasize different spaces in
+which poverty can be observed and measured. “Resourcist” perspectives define poverty as “the
+inability of an individual or family to command sufficient resources to satisfy basic needs”
+(Fields 2001:73). These perspectives dominate discussions of poverty and its measurement in
+developing countries. Social participation and inclusion perspectives define poverty as
+exclusion from cooperative activity; those in poverty are not “able to participate in the social life
+of a community at a minimally acceptable level” (Kanbur 1987:64).16 This perspective dominates
+discussions of poverty in developed countries. There is no doubt that these two perspectives
+can be easily linked. We could define a level of resources required for social inclusion and
+participation, satisfying both resources and participatory requirements. Access to resources is
+dependent on forms of participation and inclusion. Sen has demonstrated the limitations of
+resourcist approaches to poverty by underlining the distance existing between resources and
+well-being (Sen 1985, 1999). He argues that the appropriate space to assess well-being, and
+therefore poverty as significant deficits of well-being, is that of capabilities and functioning
+broadly understood as the capacity to achieve rational life plans. This paper often falls back on
+the resourcist approach for simplicity, but it is crucial to keep in mind the need to broaden this
+approach further.
+There is much debate on the causes of poverty, at different levels of enquiry.17 Micro-studies
+focus on identifying the factors leading individuals and households to fall into poverty, and to
+stay there. Macro-studies focus on aggregate factors which generate poverty within societies,
+such as the type of economic growth, macroeconomic and fiscal policy, and inequality
+(especially discrimination and exclusion). Globalization highlights the role of external factors in
+generating poverty within a country. These could operate through microeconomic or
+macroeconomic linkages (for example, and respectively, through migration and remittances or
+through changes in product demand and trade). There is much less debate on the consequences
+of poverty, but considerable evidence to support the view that poverty causes harm, and that
+extreme or persistence poverty intensifies the harm and could lead to preventable deaths. There
+are also important consequences of poverty on society and the economy. Poverty can have
+associated costs in terms of social cohesion, morbidity and premature mortality. Poverty
+reduction can help realize potential gains from the incorporation of those in poverty more fully
+into productive activity.
+The review of poverty and vulnerability trends in the previous section already introduced the
+poverty headcount rate as one of the most often-used measures of the incidence of poverty in a
+population. The poverty headcount rate denotes the share of a population who are in poverty. It
+is usually based on estimates of the number of households and individuals whose income or
+consumption are below the poverty line, a socially defined minimum standard. This estimate of
+the number of households and individuals is then standardized as a proportion of the total
+population (annex 1 provides a more detailed description and discussion of poverty measures).
+It is also important to know how poor those in poverty are. Adding up the shortfalls
+experienced by those in poverty—the gap between their observed income or consumption and
+the poverty line—yields the aggregate poverty gap. Distributing this gap across the population,
+and dividing by the poverty line, provides a measure of the average depth of poverty. The
+poverty headcount rate and the poverty gap rate are the most often used aggregate poverty
+measures, capturing respectively the incidence and depth of poverty in a population (annex 2
+discusses sources of poverty data for comparative research).
+
+15 Poverty is a state rather than a condition: people are not poor, they are in poverty.
+16 The distinction between the “resourcist” and the “social participation” perspectives on poverty has a bearing on the related distinction
+
+between “absolute” and “relative” poverty approaches dominating poverty discussions in developing and developed countries
+respectively.
+17 See the review in Alcock (2006) for developed countries, and Lipton and Ravallion (1993) for developing countries.
+
+5
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+There are two areas of poverty research that have been prioritized by poverty researchers: the
+multidimensionality of poverty and its dynamics.18 Developments in these two areas have been
+fundamental to the emergence of social protection as a policy framework. Increasingly, social
+protection interventions are based on a multidimensional perspective on poverty, which is
+reflected in the widening scope of social assistance programmes with an emphasis on
+combining and integrating interventions. One particular dimension of poverty is its duration
+and persistence. Again, new forms of social assistance pay special attention to this issue and
+aim to break the persistence of poverty across generations and to prevent vulnerable household
+falling into poverty. Vulnerability provides a more dynamic perspective on poverty. These two
+areas will be briefly examined below.
+
+Multidimensionality
+There is a broad consensus among poverty researchers around the view that poverty is
+multidimensional.19 Households in poverty show consumption deficits often linked to restricted
+access to basic services, limited networks and access to economic opportunity. Typically
+households in poverty show deficits along many dimensions of well-being at the same time.
+There are several difficulties involved in operationalizing this perspective, and so far no agreed
+methodological approach to the identification and measurement of multidimensional poverty
+has emerged. Identification is a problem. There is no agreement on the main dimensions of
+well-being and poverty that analysis should focus on. It is disputed, by Sen (1993) and others,
+that a definitive listing of dimensions is feasible or desirable. It is easier to identify a set of basic
+dimensions for the purposes of poverty analysis (income, employment, nutrition, health,
+education, shelter and information, for example) around which consensus could be easily
+reached, but it is more difficult to arrive at consensual measures for security, inclusion and
+negative freedoms (Thorbecke 2005). Setting poverty lines for each of these dimensions is a
+complex task. Assuming identification issues could be resolved and basic thresholds agreed, a
+central conceptual issue is how these different dimensions relate to each other, especially
+whether deficits in one dimension could be compensated for with sufficiency in others or
+whether they compound deficits in other dimensions.
+
+Vulnerability
+A key dimension of poverty is duration, but its analysis has lagged in developing countries,
+despite its importance in the context of establishing patterns and causes of mobility into and out
+of poverty (Hulme and Shepherd 2003). One of the reasons for this has been the scarcity of
+longitudinal datasets in developing countries. Baulch and Hoddinott (2000) reviewed the
+conceptual and empirical knowledge on poverty duration in developing countries, and the
+Chronic Poverty Research Centre has worked to stimulate research on this important issue
+(CPRC 2005). The headline finding from this body of work is that around 40 per cent of those in
+poverty in the developing world are in persistent or chronic poverty, confirming that poverty
+duration is a significant issue.
+More recently, the focus of this work has moved on to the notion of vulnerability as a
+prospective approach to poverty duration.20 Vulnerability can be defined as the probability that
+18 See Thorbecke’s view that “[m]ost of the remaining issues in poverty analysis are related directly or indirectly to the multidimensional
+
+nature and dynamics of poverty” (Thorbecke 2005:2). See also the review in Jenkins and Micklewright (2007). Multilateral
+organizations such as the United Nations Development Programme (UNDP) and the World Bank have championed a multidimensional
+perspective on poverty (UNDP 2000; World Bank 2001b).
+19 See, for example, the description of poverty in the 1995 Copenhagen Programme of Action of the World Summit for Social
+
+Development. “Poverty has various manifestations, including lack of income and productive resources sufficient to ensure sustainable
+livelihoods; hunger and malnutrition; ill health; limited or lack of access to education and other basic services; increased morbidity and
+mortality from illness; homelessness and inadequate housing; unsafe environments; and social discrimination and exclusion. It is also
+characterized by a lack of participation in decision-making and in civil, social and cultural life”(United Nations 1995:para. 19).
+20 Research on poverty duration in developing countries can shed light on the characteristics of those in persistent poverty compared to
+
+those in transient poverty (Jalan and Ravallion 2001); and on the factors associated with chronic poverty (Moore 2001; Suryahadi and
+Sumarto 2001; McKay and Lawson 2003; Carter and Barrett 2005).
+
+6
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+individuals, households or communities will be in poverty in the future.21 As with
+multidimensionality, there are significant difficulties involved in identifying and measuring
+vulnerability. The core difficulty is establishing, on the basis of present and/or past
+information, the likelihood that people will be in poverty in the future. This is intrinsically a
+predictive exercise, with all the methodological problems involved.22 However, the gains from
+this approach could be large. The significance of vulnerability has been apparent to researchers
+working on poverty traps.23 Vulnerability is not only a dimension of poverty, but can also be a
+cause of poverty and its persistence. The view that “poverty begets poverty” has been a
+commonplace in analysis on the subject.
+Vulnerability sheds light on how this applies in developing countries. The likelihood of future
+poverty may force some households currently in poverty to adopt protection strategies that are
+dysfunctional in the sense that they could end up reinforcing poverty, and could even trap the
+households into long-term poverty. The list of micro-strategies that fit into this category is a
+long one in developing countries and includes: reducing the number and quality of meals
+(Schubert 2005); postponing health-related expenditure (Cutler et al. 2000); withdrawing
+children from school and/or engaging in child labour (Emerson and Portela Souza 2003;
+Guarceli et al. 2003); engaging in informal employment (Lund and Srinivas 2000); adopting less
+productive, but safer, crops (Morduch 1995; Dercon 2005a, 2005b); and resorting to adverse
+incorporation as a means of protection, for example, by trading autonomy and the potential for
+economic improvement in exchange for security from elites or patrons (Wood 2001).
+Vulnerability can itself contribute to chronic poverty. Rational but detrimental responses to
+vulnerability are difficult to identify and measure empirically, but an emerging body of
+research is making this link with growing confidence. More importantly, the findings from this
+research suggest that theses feedback effects may be quantitatively dominant in explaining the
+impact of vulnerability on persistent poverty (Elbersg et al. 2003).
+Table 1 shows the incidence of household responses to financial crisis among Zambian
+households in the bottom and top quintiles. It is worth keeping in mind that the official poverty
+headcount rate in Zambia estimated with the same household survey data was 76 per cent, with
+a further 10 per cent of the population just above the poverty line. Household responses are
+separated into broad categories: dysfunctional strategies include those with adverse long-term
+implications for well-being; other strategies are distinguished by the type of social protection
+instrument used to ameliorate the impact of the financial crisis, assets, entitlements and
+networks. The figures in the table reflect the proportion of households that mentioned a specific
+response.
+As can be seen from the table, the incidence of dysfunctional strategies is high for all
+households but significantly higher among the poorest households. The use of buffers
+associated with work is more common among the poorest households than among the richest,
+but the reverse is true for public entitlements. Family and community networks appear to be an
+important source of protection for both the richest and poorest households, but especially so for
+the latter.
+
+21
+
+Those currently in poverty have a significantly higher probability of being poor in the future. Groups in chronic or persistent poverty
+are highly vulnerable. “Poverty traps” describe acute vulnerability.
+
+22 For a review of the literature, approaches and methodology, see Heitzman et al. (2002) and Hoddinott and Quisumbing (2003).
+23 For a review, see Barrientos (2007a).
+
+7
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+Table 1: Responses to financial crises among poorest and richest households in
+Zambia (per cent of households selecting the relevant response)
+Poorest quintile
+
+Richest quintile
+
+Dysfunctional strategies
+Reducing number of meals
+
+82
+
+53
+
+Eating substandard meals
+
+73
+
+41
+
+Eating wild food only
+
+17
+
+3
+
+Sale of assets
+
+17
+
+13
+
+Pulling children out of school
+
+18
+
+4
+
+Reducing other purchases
+
+77
+
+58
+
+Buffers I: Labour market (assets)
+Farm piecework
+
+29
+
+5
+
+Other piecework
+
+44
+
+16
+
+Petty trading
+
+27
+
+10
+
+Food for work
+
+11
+
+1
+
+Formal borrowing
+
+7
+
+18
+
+Food relief
+
+7
+
+1
+
+Buffers II: Formal-public (entitlements)
+
+Buffers III: Informal (networks)
+Informal borrowing
+
+45
+
+38
+
+Family and friends
+
+71
+
+56
+
+Church charity
+
+7
+
+3
+
+NGO charity
+
+5
+
+1
+
+Source: World Bank (2005a), estimated from LCMS III 2002–2003 data.
+
+This section has outlined and explained recent developments in poverty analysis on
+multidimensionality and vulnerability which have influenced the development of social
+protection.
+
+3. Approaches to Social Protection: Rights, Risk, Needs
+This section outlines key approaches to social protection, attempting to ground these in existing
+perspectives on development. It also makes brief reference to the ethical grounding of social
+protection. For the purposes of this paper, the objectives of this section are to emphasize that
+these issues are important and to indicate where they could be productively discussed. A full
+coverage of the conceptual and ethical basis of social protection is beyond the scope of the
+paper.
+
+Perspectives on social protection
+Beyond its role as a policy framework addressing poverty and vulnerability, social protection
+embodies and extends alternative approaches to economic and social development. This can be
+illustrated by considering the different perspectives on social protection proposed by
+multilateral organizations.
+• The ILO understands social protection as arising from rights. It is defined by
+“entitlement to benefits that society provides to individuals and households—
+through public and collective measures—to protect against low or declining living
+standards arising out of a number of basic risks and needs” (Bertranou et al. 2006).
+The international community acknowledged that social protection is a basic
+human right to be enshrined in the Universal Declaration of Human Rights agreed
+by the United Nations General Assembly in 1948. In the words of the Declaration,
+
+8
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+“everyone has the right to a standard of living adequate for the health and wellbeing of himself and of his family”. The ILO’s recent reformulation of its mission
+statement as involving work to “secure decent work for women and men
+everywhere” is an affirmation of their rights perspective and reflects the
+Declaration’s commitment to extend social protection to all.24
+• The Social Protection Strategy Paper from the World Bank, moves beyond
+“traditional” social protection in defining a “social risk management” framework,
+adding macroeconomic stability and financial market development to typical
+social protection programmes. Social risk management consists of public
+interventions “to assist individuals, households and communities in better
+managing income risks” (Holzmann and Jorgensen 1999:4). The emphasis on risk
+assumes that vulnerability to hazards is a significant constraint on economic and
+human development, and that efforts to reduce the likelihood of hazards, or to
+ameliorate their effects on living standards, are essential to growth and
+development.
+• The United Nations defines social protection as “a set of public and private
+policies and programmes undertaken by societies in response to various
+contingencies to offset the absence or substantial reduction of income from work;
+to provide assistance to families with children as well as provide people with
+basic health care and housing” (United Nations 2000:4). It is underpinned by
+shared “fundamental values concerning acceptable levels and security of access to
+income, livelihood, employment, health and education services, nutrition and
+shelter” (United Nations 2000:4). This approach extends the role of social
+protection to securing basic needs as a precondition for human and economic
+development.
+
+The different definitions of social protection adopted by these organizations in fact reflect the
+different perspectives on development in which they are grounded. Munro (2008) explores the
+basis of social protection in needs, rights and risk approaches to human security.
+
+Conceptual and ethical bases for social protection
+To date, discussion on social protection has been dominated by concerns over the effectiveness
+of alternative instruments and their design. However, an emerging body of literature is
+beginning to investigate the conceptual frameworks which underpin social protection.25 It is
+important to explore the conceptual underpinnings of the different policy frameworks
+proposed by agencies or individuals as these determine what practical actions are (or are not)
+emphasized in the framework.
+This literature looks into the linkages between social protection and social theory, and between
+social protection and ethics. Social protection as a policy framework is unlikely to be effective if
+it is insufficiently grounded in knowledge about the factors and processes that produce and
+reproduce poverty and vulnerability, and the factors and processes that facilitate or hinder
+social transformation. It is therefore important to link policy back to theory. This is a two-way
+process as social protection practice and experimentation can make an important contribution
+to the body of knowledge.
+There is also increasing awareness and discussion of the linkages existing between social
+protection and ethics. Sometimes, these concern design issues such as the selection of
+beneficiaries or the setting of programme conditionalities. At other times, these are more
+abstract, and discussions about social protection reflect, to an important extent, the shared or
+competing views held about what is a fair society (Pogge 1989). Potentially, there are large gains
+Social Security: A New Consensus, it is noted that one “of the essential features of the decent work approach is that everybody is
+entitled to basic social protection” (ILO 2001:39). This is taken to be an extension of article 22 of the Universal Declaration of Human
+Rights, via article 9 of the 1966 International Covenant on Economic, Social and Cultural Rights, stating “the right of everyone to social
+security, including social insurance” (ILO 2001:56).
+
+24 In
+
+25 See the contributions in Barrientos and Hulme (2008), and Mkandawire (2004) for social policy.
+
+9
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+from connecting social protection to social theory and ethics as this can help us appreciate that
+social protection is not only about poverty and vulnerability reduction but also about
+developing stable and productive societies with a capacity to adapt to the changes induced by
+globalization, climate change and other external factors.26
+
+4. Trends and Key Issues in Social Protection in Developing Countries
+The section will begin by identifying regional pathways in the development of social protection
+and assistance, in order to contextualize the discussion on programmes design, financing, and
+expenditure, which follows.
+
+Why focus on social assistance?
+This section will focus on social assistance. It is the component of social protection with the
+strongest focus on poverty reduction, the topic of this paper; and it is also where change,
+innovation and expansion have concentrated in the last 15 years.
+It is important to note from the outset some key differences in the function, scope, and scale of
+social assistance programmes in developing countries, compared to developed countries. In
+developed countries, social assistance is largely a residual safety net charged with protecting a
+small minority of individuals and households from the effects of poverty, after all the other
+components of social protection (social insurance, basic services, labour market regulation) have
+proved unsuccessful (Gough et al. 1997). In developing countries, where social insurance covers
+at best a minority of the labour force, basic services are highly stratified, labour market
+regulations are thin and poorly enforced, and the incidence of poverty and vulnerability are
+high, social assistance is the primary—and sometimes the only—social protection instrument
+addressing poverty and vulnerability.27 The primary role of social assistance in developing
+countries calls for fresh approaches and models. As noted above, in developing countries, social
+assistance is called to play a broader role than in developed countries, as a key component of
+development policy. As in developed countries, social assistance aims to ensure minimum
+levels of consumption which protect poor households from the worst effects of deprivation. In
+addition, social assistance in developing countries is expected to strengthen productive
+capacity, whether through investment in human or physical assets. It is also expected to bridge
+access to basic services and therefore weaken social exclusion, advancing the participation of
+the poorest in their communities and societies. By comparison with its essentially residual and
+compensatory role in developed countries, social assistance in developing countries has a very
+different role. In developing countries, social assistance has a primary role within social
+protection and is developmental in scope.
+Trends in social insurance in developing countries have been mainly negative over the last two
+decades, showing a decline in those areas of the developing world where it had previously been
+significant (Latin America and transition countries, especially China); and stagnation in
+countries where it had reached only a very small share of workers (South Asia and sub-Saharan
+Africa). The only significant recent extension of social insurance worth noting is the 30 baht
+basic health insurance in Thailand. A key factor explaining the stagnation or decline of social
+insurance coverage in developing countries is labour market liberalization, in many cases
+associated with globalization. This is also the main factor restricting the spread and
+strengthening of labour market regulation. In this context, preparatory studies and discussion
+of the Unorganised Sector Workers Social Security Scheme (USWSS) Bill in India is a potentially
+significant development. The USWSS Bill aims to incorporate the majority of urban workers,
+who work informally, into a basic social insurance scheme.28
+26 Both the conceptual and ethical bases of social protection come up again below in the context of programme design issues.
+27 In some African countries, a key challenge is to ensure social assistance reaches a majority of the population in poverty.
+28 In India, 90 per cent of the urban labour force is outside formal employment.
+
+10
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+By contrast, there has been a very a rapid extension of social assistance programmes in
+developing countries over the last 15 years. This has come in many forms: the introduction and
+extension of pure income transfers, such as non-contributory pensions or child based transfers;
+income transfers conditional on work, for example, public works or employment guarantee
+schemes; income transfers combined with services, such as conditional cash transfers or
+integrated social assistance schemes, and more recently, the development of integrated poverty
+reduction programmes.29 There has been a large measure of innovation in the design of social
+assistance programmes in developing countries. 30
+Scale is also important. In a very short time, social assistance programmes have been introduced
+and expanded. The Minimum Living Standards Scheme in China, for example expanded from
+2.4 million beneficiaries in 1999 to over 22 million in 2002, as the economic restructuring led to a
+rapid increase in unemployment among workers in state-owned enterprises. The Child Support
+Grant in South Africa was introduced in 2001 and rapidly scaled up to over 7 million
+beneficiaries in 2005. The Bolsa Escola, a programme providing income transfers to poor
+families with children of school age, in Brazil was extended on a national basis in 2001, and the
+Bolsa Familia, which integrates Bolsa Escola and other transfers to poor households, now
+reaches 12 million households. The Employment Guarantee Scheme in India is expected to
+reach 24 million households when fully operational. As the transfers support entire households,
+the number of those in poverty reached by these transfers is considerably larger. In South Africa
+it is estimated that one in four households is supported with income transfers (one in five in
+rural Mexico). The rapid extension in the reach of social assistance programmes in developing
+countries explains the focus of this section.31
+
+Regional pathways in social protection and assistance
+Latin America’s recent experience with innovative poverty and vulnerability reduction
+programmes—for example, Bolsa Escola/Familia, Progresa/Oportunidades, and Chile
+Solidario—has mobilized international interest in social protection policies. The acute economic
+crisis in the early 1980s, followed by structural adjustment and economic liberalization, marked
+a dramatic policy shift from the import substitution industrialization developmental model
+which had dominated in the region from the 1950s to export-led growth (Edwards 1995). The
+immediate outcomes of the crisis and adjustment were rising vulnerability, poverty, and
+inequality.32 Reform of social insurance institutions that protected workers in formal
+employment was seen as essential to controlling fiscal deficits, but in the context of labour
+market liberalization it helped fuel the growth of informality. Workers in informal employment
+and their dependants, a majority in the region, remained excluded from formal social protection
+institutions. Liberalization also weakened the capacity of public agencies to address rising
+poverty, opening the way for fragmented, often externally financed, safety net and social fund
+programmes run by parallel agencies. By the mid-1990s, it was clear that more comprehensive
+and permanent public responses were needed. The move away from military and emergency
+governments ensured democratic governments engaged with the strong demand for social
+protection.33
+The origins of Bolsa Escola are to be found in the innovative approach to multidimensional and
+persistent poverty adopted by the Municipality of Campinas in Brazil, in the mid 1990s, later
+extended to the rest of the country (Pochmann 2006). Similarly, Mexico’s Progresa reflected both
+29 These are reviewed in more detail below.
+30 There is also more room for innovating in social assistance compared to social insurance. The basic design of social insurance models
+
+can be adapted to the conditions present in developing countries, but it is unlikely to depart in significant ways from social insurance
+institutions in place elsewhere. The situation is very different when considering social assistance.
+31 It is important to keep in mind that while social assistance has made huge advances in reaching those in poverty, the fact that social
+
+assistance budgets are relatively small, compared to social insurance budgets, for example (see table 4), limits their impact on poverty
+reduction.
+32 Altimir 1997; ECLAC 1997; Lustig and Deutsch 1998; Barrientos 2004.
+33 De Ferrant et al. 2000; Székely and Fuentes 2002; Barrientos 2004; ECLAC 2006.
+
+11
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+systematic learning from the politicized and ineffective anti-poverty programmes which
+preceded its introduction in 1997, and the need to address the human development deficits that
+ensured the intergenerational persistence of poverty in rural communities. The new human
+development programmes aimed to meet short-term needs, improved consumption and
+nutrition, and longer-term aspirations, improved schooling and health and a more productive
+population (Morley and Coady 2003).
+While international development agencies have played a role in financing, providing technical
+assistance, and supporting policy transfers of such programmes, the Latin American dynamic
+for social protection is strongly national and regional. The capacity of Latin American countries
+to finance social protection is high, although recent extensions of social assistance have relied on
+external financing to an important extent, and the capacity to design and monitor experimental
+programmes was in place.
+South Asia shows considerable diversity in the extension of social assistance programmes. For
+historical reasons, social protection consists of a handful of poorly funded and weakly
+implemented, overlapping programmes. As regards social assistance, the focus in the region
+was initially on colonial programmes of food for work and public assistance for destitutes,
+especially the elderly. More recently the extension of social assistance has combined, on the one
+hand, efforts by national governments to consolidate social assistance programmes (the
+National Social Assistance Programme in India, or the Food Support Programme in Pakistan,
+for example), and the introduction of old age non-contributory pension schemes (Bangladesh,
+India and Nepal); and on the other, the introduction of poverty reduction programmes focused
+on microfinance and asset transfers supported by international aid organizations and NGOs. In
+the late 1990s and early 2000s there was much donor-financed activity, ranging from the World
+Bank’s Janasaviya Trust Fund to BRAC’s Targeting the Ultra Poor programme in Bangladesh.
+Since 2004, India has taken a regional leadership through its National Rural Employment
+Guarantee Scheme (NREGS) (Kannan 2006). The NREGS is a social assistance programme, with
+the objective of ensuring basic income security for vulnerable households in rural areas with
+economic capacity. It extends, on a national scale, the approach to social protection tested in the
+Maharashtra Employment Guarantee Scheme. Potentially this scheme could substantially
+reduce the insecurity of India’s vast rural population. In practice the early reports on the
+NREGS suggest that in relatively well-governed states, such as Kerala (Jacob and Varghese
+2006), the policy is being effectively implemented while in poorly governed states, such as
+Bihar, it has stalled (Louis 2006).
+The support of international aid agencies varies geographically. Donors have substantial
+influence in smaller and more aid-dependent countries (Nepal), less traction in larger countries
+experiencing economic growth (Bangladesh) and minimal influence in India. In Bangladesh in
+particular, donor support has greatly strengthened microfinance and related programmes,
+which have replaced emergency food support programmes introduced after the 1975 famine.
+Lesson learned from microfinance and asset-building programmes have led to the design and
+implementation of integrated anti-poverty programmes, such as BRAC’s Targeting the Ultra
+Poor programme.
+Southeast and East Asia show a common reliance on family-based social protection, but with
+different policy pathways reflecting different responses to rapid social transformation. Among
+the more economically advanced countries in Northeast Asia, such as Malaysia, the Republic of
+Korea, Singapore, Taiwan Province of China and Thailand, social insurance is the core of social
+protection institutions. Interestingly, the 1997 financial crisis served to strengthen the countries’
+social insurance pathway (Cook and Kwon 2006). In the Republic of Korea, for example, it led to
+the Minimum Living Standards Guarantee Scheme, and in Thailand it led to the introduction of
+a universal health insurance scheme. By contrast, among lower-income countries in Southeast
+Asia, the Philippines and Indonesia in particular, the routes to extending social insurance were
+severely undermined by the 1997 crisis. The immediate response to the financial crisis was the
+
+12
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+expansion of temporary safety nets, which in countries such as Indonesia have become
+permanent forms of social assistance (Sumarto et al. 2008). Transition countries in the region
+had a different starting point and evolution, especially China and Viet Nam, and the recent
+changes in social protection are primarily directed to addressing rapid economic transformation
+and liberalization. In urban China, economic liberalization has led to a rapid decline in the
+strength and coverage of social insurance based around productive units, and an equally rapid
+rise in social assistance through the Minimum Living Standards Scheme (Chen and Barrientos
+2006). In rural China, the main social protection innovation has been the introduction of mixed
+provision health insurance schemes, but there are rising concerns about the increasing
+vulnerability of rural dwellers. In very low-income countries in the region, such as Laos and
+Cambodia, social protection is incipient and restricted to fragmented programmes usually
+externally funded (Cook and Kwon 2006).
+Sub-Saharan Africa has a legacy of deeply embedded, informal systems of social protection,
+especially in rural areas. This is overlaid by underfunded, fragmented and partially
+implemented social insurance institutions for civil servants; and by a patchwork of social
+assistance programmes focused on emergency support and mostly externally funded.34
+Emergency food aid, famine relief and humanitarian assistance have been central to social
+protection and social assistance for many African countries since the 1970s. More recently, a
+concern to shift from an emergency aid focus into more permanent social protection
+programmes has led to the spread of pilot cash transfers schemes, financed by international
+institutions. Such initiatives are underway in Ghana, Kenya, Malawi, Nigeria, Uganda and
+Zambia (Barrientos and Holmes 2007). These countries are piloting cash transfer programmes
+targeted on the poorest and most vulnerable, and the majority of schemes include human
+development objectives. The Protective Safety Nets Programme in Ethiopia provides an
+example of a food security programme incorporating cash-based public assistance components.
+The wealthier countries of the Southern Cone, Botswana, Namibia and South Africa, are the
+exception, with a stronger social assistance focus relying on grants for vulnerable groups,
+especially the elderly and children. More recently, social pensions have been introduced in
+Swaziland and Lesotho, perhaps signalling the emergence of a distinct approach to social
+assistance in the subregion. Social pensions in South Africa and Namibia reflect the successful
+adaptation of colonial forms of social protection, once focused on providing a minimum income
+floor for whites and coloureds, but later extended to the population as a whole, and providing
+vital income redistribution to poorer black households against the background of the end of
+apartheid.35 The impact of HIV/AIDS on household structures, the rise in the incidence of
+households with “the missing middle”, suggest yet a further adaptation of the social pension to
+address a new problem. The introduction of the Child Support Grant in South Africa constitutes
+an extension of social assistance with human development objectives (Barrientos and DeJong
+2006). While the evolution of social protection in South Africa is closely related to its political
+history, the country’s experience shows the way in which a deeply embedded programme—the
+social pension—has been adapted over time to address changing vulnerability, including most
+recently, the rise in the incidence of households with the missing middle as a result of AIDS or
+migration.
+This outline of trends in social protection in developing regions suggests the extension of social
+protection and social assistance will follow a range of pathways in different regions, depending
+on the nature of their existing institutions (determining path dependence), level of economic
+development (determining their fiscal space), and features of their economic transformation
+(especially the interactions between longer-term transformations such as ageing and short-term
+fractures such as transition or change in the development model).
+
+34 The Public Welfare Assistance Scheme in Zambia is a good example (Schubert 2008).
+35 Devereux 2001; Schleberger 2002; Barrientos 2005.
+
+13
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+Social assistance: Programme design and objectives
+This subsection focuses on discussing social assistance programmes, their characteristics and
+key design issues.
+In the extension of social protection and social assistance in developing countries in the last
+decade and a half, income transfers dominate, but they are increasingly combined with other
+interventions targeting human development. The focus below is on regular and reliable social
+assistance programmes,36 excluding one-off, or short-term, humanitarian or emergency
+assistance.37 It will be useful to classify social assistance programmes into: 38
+• pure income transfer programmes which include transfers targeted to poor
+households, and categorical transfers such as children and family allowances, and
+social pensions (categorical transfers target specific groups thought to be
+especially vulnerable);
+• income transfer programmes conditional on the supply of labour which require that
+beneficiaries supply labour for specific periods of time, and are tied to the
+improvement of infrastructure or community services;
+• income transfer programmes conditional on human capital investment which include
+human development–targeted transfers schemes, also referred to as conditional
+cash transfers. These focus largely on education, health and nutrition, and aim to
+break the persistence of poverty across generations;
+• integrated poverty reduction programmes which constitute an important new
+innovation in social assistance, combining a range of interventions focused on the
+poorest.
+
+Table 2 provides summary information on these types of programmes in developing countries.
+Key design features and impact are then discussed.
+Much discussion within social protection in developing countries has focused on the
+advantages and disadvantages of specific instruments. Most social assistance programmes
+include an income transfer as a primary or secondary instrument. Income transfers have a
+number of advantages relative to alternative design options. They can be implemented and
+scaled up relatively quickly, have an immediate impact on consumption, and are capable of
+reaching the very poorest. Having noted this, it is highly unlikely that a single social protection
+instrument could achieve the manifold objectives of protecting household consumption,
+promoting asset accumulation, strengthening productive capacity and inclusion, and reducing
+poverty, vulnerability and inequality. It is therefore vitally important that discussions around
+design options shift from the current focus on single instruments to a broader focus on
+integrated programmes or a mix of programmes, capable of progressing the different objectives
+of social protection among the poor and poorest. The experience in Latin America with
+programmes combining transfers and services shows that they can be effective both in
+improving consumption and facilitating human development objectives. It also demonstrates
+that the programmes’ effectiveness increased where complementary interventions are included,
+such as skills, employment, saving and participation. Moving progressively toward integrated
+social protection programmes for the poor and poorest is the main challenge for the future.
+Integrated poverty reduction or eradication programmes place much greater demand on
+36 Emergency and humanitarian transfers are examined by Paul Harvey (2005).
+37 The list below does not include in-kind transfers which support households in poverty with food or other necessities (food-based
+
+transfers are important in parts of Africa and South Asia), or input grants for small-scale farmers, involving tools or seeds for example,
+that are in place in some countries in Africa (Malawi) and South Asia (Bangladesh). These are mostly one-off or irregular transfers.
+38 There is an important distinction to make in social assistance interventions based on their timeframe. We could identify permanent
+
+programmes (perhaps policies could be a better term) such as the Child Support Grant in South Africa; fixed-term programmes with
+the potential for extension such as Mexico’s Oportunidades which has a five-year finance window; and short-term programmes (or
+projects) which have limited potential for extension (some pilots fit into this category, for example Zambia’s Kalomo District Social
+Transfer Scheme which was funded by the Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ/German Society for Technical
+Cooperation) for a four-year period). This will be covered below.
+
+14
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+resources and capacity, especially as they involve the coordination of different agencies, or the
+consolidation of pre-existing programmes.
+Table 2: Social assistance in developing countries: Programmes and objectives
+Instruments
+
+Programmes (start)
+
+Objectives
+
+Pure income transfers
+Income transfers targeted to poorest
+
+Kalomo pilot social transfer scheme,
+Zambia (2004); Mchinji pilot social
+transfer, Malawi (2006)
+
+Reduce poverty and vulnerability
+among poorest households without
+economic capacity and with children
+
+Categorical income transfers:
+social pensions and child transfers
+
+Social pensions in Bangladesh,
+Bolivia, Botswana, Brazil, India,
+Lesotho, Mauritius, Namibia, Nepal,
+South Africa
+Child Support Grant, South Africa
+(2001)
+
+Reduce poverty and vulnerability
+among older people and their
+households
+
+Employment Guarantee Scheme,
+India (2006)
+Productive Safety Net Programme,
+Ethiopia (2006)
+
+In rural areas, to smooth seasonal
+income fluctuations. In urban areas,
+to reduce poverty caused by
+unemployment and
+underemployment
+
+Human development–targeted
+conditional transfers
+
+Bolsa Familia (2001/2005), Brazil;
+Oportunidades (1997/2004), Mexico
+
+Supplement income for poorest
+households to ensure improvements
+in consumption; facilitate investment
+in nutrition, health care and
+schooling; and ensure availability and
+utilization of basic services aiming to
+reduce intergenerational persistence
+of poverty
+
+Integrated poverty
+reduction/eradication programmes
+targeting the extreme poor
+
+Challenging the Frontiers of Poverty
+Reduction, Targeting the Ultra Poor,
+Bangladesh (2002)
+
+Stabilize consumption of poorest
+households and improve their human
+and productive asset base to the
+point where conventional
+microfinance programmes could help
+asset accumulation
+Eradicate extreme poverty caused by
+social exclusion by supporting poorest
+households in achieving minimum
+thresholds across seven main
+dimensions of well-being: income,
+employment, housing, health,
+education, registration and household
+dynamics
+
+Reduce household poverty and
+facilitate investment in schooling,
+helping break poverty persistence
+across generations
+
+Income transfer conditional on work
+Public works, cash-for-work,
+employment guarantees
+
+Income transfers conditional on
+human capital investment
+
+Chile Solidario, Chile (2004)
+
+Source: Barrientos and Holmes 2007.
+
+The extent to which social protection interventions should select beneficiaries based on their
+poverty status has attracted some attention in the literature. A great deal of discussion on this is
+pitched around the effectiveness of selection, with those arguing against selection emphasizing
+the costs associated with selecting beneficiaries, in terms of administration and stigma. On the
+other hand, the high incidence of poverty in developing countries makes the selection of
+beneficiaries a necessity where resources for poverty reduction are insufficient to reach
+everyone. Selection is also discussed in the context of the dynamics of poverty reduction in a
+political economy context. In Latin America in particular, the selection of beneficiaries through
+a process of ranking households according to the extent of their poverty has constituted a
+response to widely held concerns that anti-poverty programmes in the past proved ineffective
+because of political clientelism and corruption. The selection of beneficiaries through agreed
+and transparent methods can build credibility and political support for social protection
+
+15
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+interventions. Combining attention to the costs of selection, to the influence of programme
+design on the dynamics of social protection expansion, and to strengthening solidarity and
+supporting shared values of social justice, are crucial challenges for social protection in
+developing countries.
+
+Financing and capacity constraints
+There are concerns over the financing of an extension of social protection in developing
+countries. These concerns are stronger in the case of low-income countries (Smith and Subbarao
+2003). The concern is less about affordability than about long-term sustainability. Affordability
+is less of an issue when the costs of not having social protection are factored in. The current
+gaps in effective social protection have significant costs to society in terms of poverty and
+vulnerability (ILO 2005). These gaps place restrictions on the development of human capital
+which themselves become a constraint on growth and development (Bourguignon 2004). The
+costs to individuals and households associated with their vulnerability can be high. In this
+context, it is helpful to see the extension of social protection not as “new” expenditure, but as a
+shift in the financing mix. Extending social protection involves moving away from an exclusive
+reliance of households’ out-of-pocket expenditures and informal provision to a more diversified
+mix (Barrientos 2008a). This is clear in the context of the introduction of health insurance
+institutions. In their absence, out-of-pocket household expenditure on health care is often
+inefficient as well as insufficient because, first, responses to health shocks can crowd out
+investment in preventive care and second, they are rationed by available resources. Health
+insurance instruments can improve the efficiency of households’ health expenditures and make
+resources go further. The costs of social assistance programmes focused on the poor and poorest
+are small in absolute terms. Income transfers in Latin America are below 1 per cent of gross
+domestic product (GDP) (this is considered in greater detail in the next subsection).
+Affordability is not an insurmountable problem in establishing or extending social assistance in
+developing countries.
+This is not so say that financing the extension of social assistance will be easy. The constraints to
+financing social protection and assistance in poorer countries are significant (Smith and
+Subbarao 2003; Barrientos 2007b, forthcoming). In low-income countries in sub-Saharan Africa,
+poor revenue mobilization is an important barrier to the extension of social assistance. In
+countries where 15 per cent of GDP, or less, is mobilized for public spending, the fiscal space for
+an extension of social assistance is very limited, even if programmes for the poorest are kept
+below 1 per cent of GDP. International aid can ease the costs associated with the initial
+introduction or scaling up of social assistance programmes, but longer-term sustainability
+remains an issue. In the medium and longer run, domestic financing is essential. The route to
+the expansion of social protection followed by today’s developed countries was through payroll
+taxes to finance social insurance, but this is an unlikely route for countries in which the majority
+of the labour force works informally. Finding new sources of revenue mobilization, while
+strengthening existing sources, poses a significant challenge to the future of social protection.
+New aid modalities such as general budget support could extend the time frame for external
+support for social protection in low-income countries.
+Capacity limitations are a further barrier to the extension of social protection in developing
+countries. These apply at several points in the policy cycle, beginning with the capacity to
+study, measure and analyse poverty and vulnerability, the capacity to design and implement
+appropriate policies, and the capacity to deliver and evaluate social protection programmes. On
+the ground, a successful extension of social protection will involve the vertical integration of
+poverty researchers, policy analysts, political scientists, financial experts, programme managers,
+information systems analysts and developers, accountants and field officers. Developing these
+capacities in low-income countries has not been an explicit objective of policy makers, research
+institutes or international organizations. In many low-income countries, government
+restrictions on recruitment and salaries, as well as “departmentalism”, make it unlikely that
+government agencies could develop these networks and ensure their integration. Engaging
+
+16
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+international NGOs to fill in this gap provides a short-term palliative, but not a longer-term
+solution. This is an area in which technical fixes may be feasible—for example, through donor
+support for the development of the appropriate skills—and there is also the potentially
+significant role of intergovernmental transfers of information, knowledge, and know how
+across the developed and developing world, and within the latter.
+
+Social protection expenditure and poverty
+National governments have a central role in the extension of social protection and assistance.
+Analysis of their resource allocation to social protection and assistance would in principle
+provide a window into existing priorities and achievements in these areas. However, the
+measurement and analysis of government social protection expenditures is in practice beset by
+difficulties and gaps in data. There is no consensus on the scope of public social protection and,
+until recently, no agreed guidelines for measuring government social protection expenditures
+(See annex 3 for a note on government social protection expenditure data). This explains the
+absence of accurate and reliable data on government social protection expenditures. Research in
+this area has developed ways of extracting information from very limited data.
+In the context of examining social protection and poverty, three key questions emerge:
+1. Is government social protection expenditure associated with improved poverty
+indicators?
+2. What is the appropriate level of government social protection expenditure among
+developing countries? Are developing countries spending too little on social
+protection?
+3. What types of government social protection expenditures have greater impact on
+poverty reduction?
+
+Before reviewing existing work in this area, there are two important preliminary points which
+need to be made.
+First, it is crucial to keep in mind that government social protection expenditure is a subset of
+all social protection expenditures. These include corporate and not-for-profit social protection
+expenditures and, importantly, private or household social protection expenditures. In
+developing countries, off-budget international aid expenditures on social protection can be
+significant. As a consequence, increases in government social protection expenditures might not
+add up to an increase in total social protection expenditure, for example, where rising public
+expenditure crowds out private expenditure on social protection. However, this rebalancing of
+the social expenditure mix can be welfare enhancing, as in the case of health insurance schemes
+replacing out-of-pocket payments by households.
+Second, the link between government social protection expenditure and poverty reduction is
+also likely to be mediated by other factors in important ways, for example by the pattern and
+size of vulnerability in a country, the incidence of both vulnerability and government social
+protection expenditure, and the effectiveness of social protection schemes. Basically a simple
+model of government social protection expenditure (SPEx) influencing poverty (P) as P =
+f(SPEx), hides the influence of other factors, such as vulnerability (V), policy environment
+influencing effectiveness (PE), incidence of social protection expenditure (I), and resource
+mobilization capacity (R), as in P = f(SPEx, V, PE, I, R).
+Besley et al. (2003) focus on comparing long-term government social protection expenditures
+across countries and regions, with the objective of benchmarking government expenditure on
+safety nets. They ask the following question: what is government expenditure on social
+protection for particular countries compared to countries in similar circumstances? They use
+two measures of social protection expenditure: government expenditure on social security and
+welfare as a proportion of GDP, and transfers to organizations and households also as a
+
+17
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+proportion of GDP. The data are taken from the International Monetary Fund (IMF)
+Government Finance Statistics, averaged over five years and then through the period 1972–
+1997. They rank countries along these two measures. Then they undertake two adjustments, one
+taking account of structural factors affecting the economies of the countries (GDP, population,
+shocks, regions); and another taking account of institutional capacity and quality. Countries are
+re-ranked after each adjustment. The approach has the advantage that it incorporates structural
+and capacity factors in assessing the social protection effort by a country. Their approach
+suggests that focusing solely on expenditure data provides a very limited understanding of this
+effort.
+Baulch et al. (2005) developed a social protection index for six countries in Asia to be used as a
+policy instrument by the Asian Development Bank’s work on social protection. A key
+innovation in this work is the attempt to connect overall social protection expenditure to
+poverty reduction. The index combines measures of expenditure, coverage, poverty targeting,
+and impact on the poverty gap. A comparison of the index with the Human Development Index
+(HDI) rankings for the six countries shows a high correlation, as the authors conclude, this “is
+not unexpected as, by and large as GDP per capita (one of the HDI components) increases, the
+amount of spent on social protection will increase” (Baulch et al. 2005:15).
+Analysis of the poverty reduction impact of the components of government social protection
+expenditure is severely constrained by the lack of reliable data. Comparative research on this
+issue is stronger for Latin America, both due to better data and a growing interest in the
+poverty reduction potential of social insurance and social assistance. Castañeda’s is one of a
+number of studies examining the impact of the crises and structural adjustment in Latin
+America in the 1980s and 1990s, which motivated concerns with the resilience or otherwise of
+different components of social expenditure (Castañeda 2002). He finds that social expenditures
+stagnated in the 1970s and 1980s, but grew in the 1990s, with social security expenditures
+growing faster than health or education. The impact on poverty of this increase in social
+security expenditure was limited by the fact that social insurance expenditure is skewed toward
+the middle- and high-income groups. Lindert et al. developed a detailed analysis of the
+components of social protection expenditures for a range of countries in Latin America (Lindert
+et al. 2005). They found that government social insurance expenditure (net of contributions) is
+highly regressive. In their estimation, “those in the top quintile of the population receive about
+60% of net social insurance transfers” (Lindert et al. 2005:43). Some social assistance expenditure
+is regressive too, but the bulk of expenditure reaches those in poverty. The fact that overall
+spending on social assistance programmes is low limits the impact of this expenditure on
+poverty. Some governments in the region, Mexico and Brazil in particular, are committed to a
+very gradual re-balancing of expenditure, away from social insurance and toward social
+assistance.
+What can be inferred about the relationship between government social protection expenditure
+and poverty from the available data? We could check whether long-term higher levels of social
+protection expenditure are consistent with lower current poverty by regressing the estimates of
+social protection expenditure from Besley et al. (2003) and current poverty estimates. This is an
+empirical test of the simple model above. Table 3 summarizes the results. Not surprisingly,
+there is a strong correlation existing between long-term levels of social protection expenditure
+and current poverty, but the computed adjusted R2s suggest that long-term social protection
+expenditure measures account for only a fraction of the variation in current poverty (the
+remainder is perhaps explained, inter alia, by the other factors influencing poverty policy
+mentioned above). The results indicate correlation, not causation. Replacing social expenditure
+measures with total government expenditure as a proportion of GDP produce similar results, at
+least for the poverty headcount rate, suggesting that social protection expenditure might be
+simply a proxy for total government expenditure (that is, it could be possible that it is the size of
+government rather than social protection expenditure which is captured by the correlation
+between expenditure and poverty headcount rates).
+
+18
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+Table 3: Long-term social protection expenditure and current poverty
+Dependent
+variable
+
+Poverty headcount rate using national
+poverty lines
+
+Poverty gap at US$2 as per cent
+of poverty line
+
+Social
+security and
+welfare
+(SSW)a
+
+Transfersb
+
+Governmentc
+
+SSWa
+
+Transfersb
+
+Governmentc
+
+Coefficient
+(standard
+error)
+
+–1.76
+(0.54)
+
+–1.59
+(0.52)
+
+–0.80
+(0.22)
+
+–1.94
+(0.43)
+
+–1.62
+(0.43)
+
+–0.56d
+(0.22)
+
+Adjusted R2
+
+0.165
+
+0.180
+
+0.190
+
+0.259
+
+0.250
+
+0.089
+
+49
+
+37
+
+51
+
+54
+
+43
+
+56
+
+Independent
+variable
+
+Number of
+countries
+
+Notes: a Social security and welfare expenditure as a percentage of GDP, 1972–1997. b Transfers to organizations and households as a
+percentage of GDP, 1970–1997. c Total government expenditure as a percentage of GDP, 1970–1997. d Significant at 5 per cent, all
+other coefficients significant at 1 per cent.
+Sources: SSW, Transfers and Government are taken from Besley et al. (2003); poverty headcount and gap measures are taken from
+World Development Indicators 2005 (World Bank 2005b). The estimated coefficients have not been tested for potential
+heteroscedasticity.
+
+Figure 3 below looks at the relationship between long-term social protection expenditure (social
+security and welfare/SSW) and current poverty headcount rates, by region. This is helpful in
+revealing the make-up of the sample used in the regressions above. It also demonstrates that the
+negative relation between the two variables can be observed at the regional level.
+Table 4 shows the main components of social protection expenditure, social insurance and
+social assistance for selected countries in Latin America and Asia. The large variation across
+countries in the share of GDP devoted to social protection suggests that the level of expenditure
+is to an important extent a policy variable, rather than simply the outcome of deterministic
+factors (such as the level of development, economic structure, and so on). Social protection
+expenditures are therefore mediated by policy processes to a very significant extent. The
+balance of expenditure between social insurance and social assistance is noteworthy. Social
+assistance expenditure is a fraction of social insurance, even in the case of Latin American
+countries where the latter was measured net of contributions (that is, as the fiscal support for
+social insurance schemes). Finally, the range of public expenditure on social assistance is
+considerably narrower than the same range for social protection. Among Latin American
+countries the range is from 0.5 to 1.5 per cent of GDP, whereas in Asia it is lower at 0.1 to 1.1per
+cent of GDP.
+To recap, there are significant gaps and considerable difficulties involved in measuring social
+protection in developing countries, with available data being limited and patchy. Higher levels
+of long-term government social protection expenditures are correlated with lower poverty
+indicators, whether the poverty headcount or the poverty gap were used. It is likely that the
+level of public expenditure on social protection is one among a number of factors influencing
+poverty. There is considerable variation in public expenditure on social protection as a
+proportion of GDP, suggesting that there is no unique level of public expenditure on social
+protection to target. The distribution of expenditure among the different components of social
+protection is perhaps of greater significance in the context of poverty reduction. For a small
+sample of countries with available data, it appears that social insurance accounts for the largest
+share of expenditure. Social assistance, the component of social protection with the strongest
+focus on current poverty reduction, accounts for a small fraction of expenditure, ranging
+between 0.1 and 1.7 per cent of GDP.
+
+19
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+Figure 3: Long-term social protection expenditure and poverty, regional panels
+South
+Asia
+
+40.00
+
+40.00
+0.00
+
+North
+Africa
+
+World Bank regional classification
+
+East Asia
+and
+Pacific
+
+40.00
+0.00
+
+Caribbean
+
+40.00
+0.00
+
+East and
+Southern
+Africa
+
+40.00
+0.00
+
+West
+Africa
+
+Poverty headcount local poverty line
+
+0.00
+
+40.00
+0.00
+
+South
+and
+Central
+America
+
+40.00
+0.00
+
+Eastern
+Europe/
+Central
+Asia
+
+40.00
+0.00
+0.000
+
+5.000
+
+10.000
+
+15.000
+
+20.000
+
+25.000
+
+Social security and welfare expenditure as per cent of GDP, 1972–1997
+
+Source: Besley et al. 2003; World Bank 2005b.
+
+Table 4: Government expenditure on social protection, social insurance and social
+assistance as per cent of GDP in selected countries
+Country (year)
+Argentina (2004)
+
+Social protection
+
+Social insurance
+
+Social assistance
+1.5
+
+9.2
+
+7.7
+
+Brazil (2004)
+
+13.2
+
+11.7
+
+1.4
+
+Chile (2003)
+
+7.6
+
+6.9
+
+0.7
+
+Colombia (2004)
+
+6.5
+
+5.9
+
+0.6
+
+Dominican Republic (2004)
+
+2.4
+
+0.7
+
+1.7
+
+Guatemala (2000)
+
+1.8
+
+0.7
+
+1.1
+
+Mexico (2002)
+
+3.5
+
+2.6
+
+1.0
+
+Peru (2004)
+
+3.6
+
+3.1
+
+0.5
+
+Bangladesh
+
+3.8
+
+0.3
+
+0.1
+
+Indonesia
+
+1.9
+
+1.3
+
+0.3
+
+Mongolia
+
+10.5
+
+7.8
+
+1.1
+
+2.2
+
+1.0
+
+0.1
+
+Nepal
+Pakistan
+
+2.0
+
+1.7
+
+0.1
+
+Viet Nam
+
+3.5
+
+1.9
+
+0.5
+
+Notes: Social protection expenditure includes expenditure on social insurance, social assistance and other programmes, such as
+housing, municipal and community services.
+Sources: Data for Latin American countries were taken from Lindert et al. (2005); data for Asian countries come from Baulch et al.
+(2005). Data points are from the early 2000s for Asian countries.
+
+20
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+Conclusion
+This concluding section brings together some of the main points of the paper and speculates on
+the linkages between social protection and broader approaches to poverty reduction and
+development.
+
+Extending social protection in low-income countries
+This report aimed to provide an overview of social protection, as well as an assessment of its
+potential contribution to addressing poverty and vulnerability in developing countries.
+In developing countries, social protection has emerged as a policy framework addressing
+poverty and vulnerability, in the context of economic and financial crises in the 1980s and 1990s,
+structural adjustment, and globalization. Rising poverty and vulnerability following the 1980s
+‘lost decade’ in Latin America, the financial crises in 1997 in Asia, and rapid economic
+transformation in transition economies, demonstrated the need to establish strong and stable
+institutions directly concerned with reducing and preventing poverty and vulnerability. Social
+protection provides a policy map, linking an understanding of poverty and vulnerability as
+multidimensional and persistent to policy interventions. There are different versions of this
+policy map, with some emphasizing risk, rights or needs—but these share much common
+ground. An important feature of this common ground is the broader developmental role of
+social protection in developing countries and its focus on (extreme) poverty reduction.
+The extension of social protection in developing countries has focused on social assistance, as
+opposed to social insurance or labour market regulation.39 In the last 15 years, there has been a
+great deal of innovation in social assistance programmes, and a step increase in their reach.
+Regular and reliable social assistance programmes based around income transfers, but
+increasingly combining access to basic services and investment in human development, now
+reach a significant proportion of those in poverty in the South. Where impact evaluation results
+are available, they show that new forms of social assistance have reduced poverty and raised
+human development. However, only a fraction of social assistance programmes are able to
+produce robust evidence on impact.
+The extension of social protection in developing countries faces several constraints which will
+need to be overcome. These constraints are more acute for low-income countries. Among these
+constraints, finance is a key barrier to the extension of social protection. The issue is long-term
+sustainability, as developing countries are not in a position to finance the extension of social
+protection through payroll taxes, central to the emergence of the welfare state in developed
+countries. Alternative sources of resource mobilization will be needed. Capacity constraints are
+a problem in low-income countries, but this is a more tractable issue than finance. Successfully
+combining poverty reduction, insurance, and redistribution objectives will also require
+continued innovation in programme design. Transforming time-limited interventions into wellsupported and resourced institutions will also be a challenge. The future of social protection in
+developing countries is bright and promising, but not yet secure.
+
+Social protection and welfare regimes
+The report identified distinct pathways in the extension of social protection and assistance at the
+regional and subregional levels. As the discussion there suggested, these pathways are very
+likely to evolve in line with the nature of their existing institutions (determining path
+dependence), level of economic development (determining their fiscal space), and the defining
+features of their economic transformation (determining the relative autonomy of social policy).
+A key question to consider is whether following one pathway, as opposed to another, has
+implications for poverty. This is a hard question to answer, empirically at least. The new forms
+39 The financial and economic crisis that has affected global markets since 2008 may create new opportunities—but also constraints—on
+
+the extension of social protection in developing countries. However, a discussion about these issues goes beyond the scope of this
+paper which was commissioned and finalized before the current global crisis came to prominence.
+
+21
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+of social assistance discussed in the paper have emerged only in the last decade and a half, and
+some of the programmes discussed are still in the process of implementation. Their fit with
+wider institutional structures and with other economic and social policies has not been
+investigated, and perhaps it is premature to do so at this stage.
+The welfare regime literature has attempted this type of comparative analysis for developed
+countries. Esping-Andersen (1990, 1999) has identified enduring configurations in welfare
+production among developed countries, through examining the mix of institutions addressing
+social risks: state, family and markets for short. He finds that liberal countries, mainly AngloSaxon ones, rely on markets as the main institutions for addressing social risks; while
+conservative countries, mainly European countries with strong Catholic parties, rely on the
+family; and Scandinavian countries rely on the state. These are enduring regimes that are selfreinforcing through the stratification effects they generate. Path dependence is strong. His
+outcome indicator is, however, not poverty but de-commodification and de-familialism,
+respectively the extent to which individuals’ welfare status is independent of what they can sell
+in the market, and independent of their position within the family. The Scandinavian welfare
+regime tops the scores on both these outcome indicators.
+An emerging literature is attempting to adapt the welfare regimes approach to developing
+countries (Gough and Wood 2004). Welfare production in some regions and subregions
+suggests the presence of similar configurations, welfare production shown by a number of
+countries in East Asian and Latin America appear to cluster into distinct regimes.40 Yet, these
+are hard to pin down because, compared to the strong path dependence shown by welfare
+regimes in developed countries, welfare production in these clusters has undergone more or
+less structural shifts. The emergence of social assistance programmes in Latin America
+discussed above is an important feature of the shift in welfare production in that region.
+Configurations in welfare production in developing countries do not appear to have the
+permanence and resilience shown by developed countries’ welfare regimes (Barrientos 2004).
+Mapping and analysing welfare institutions in developing countries is therefore a work in
+progress, although analysis of outcomes is feasible. Gough has attempted to cluster developing
+countries on the basis of welfare indicators (Gough 2004). His findings suggest this is a
+promising area of research.
+Determining the implications of different social protection pathways for poverty and
+vulnerability reduction remains an urgent question for researchers to tackle. The likely impact
+on poverty and vulnerability of the extension of social protection underway in developing
+countries is not in doubt. For a given level of economic development, countries that put more
+investment in human development will show lower levels of poverty and deprivation (Ahmad
+et al. 1991). Investment in social protection and social assistance can be extremely effective in
+reducing current poverty and vulnerability, as well as poverty persistence across time and
+generations. Countries with stronger social protection and assistance institutions show lower
+rates of poverty and vulnerability, and are more resilient in the face of economic and social
+transformation.
+
+40 Kwon 1997; Holliday 2000; Barrientos 2004; Gough and Wood 2004; Cook and Kwon 2006.
+
+22
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+Annex 1: Poverty Measures
+It will be useful to review briefly key poverty concepts that will be used extensively in what
+follows. A poverty function can be defined as p(yi , z), where the extent of poverty p is taken to
+be dependent on a well-being indicator “y” (say, income) for individual “i” and a poverty line
+“z”. The poverty function reads as “the extent of poverty faced by individual i associated with a
+well being indicator y when the poverty line is z”. The poverty line z is the minimum socially
+acceptable level for this particular well being indicator. Setting a food poverty line for the
+average individual in a specific community can involve defining a minimum level of nutrition,
+selecting a basket of foodstuff consumed locally capable of delivering that basic level of
+nutrition, and estimating the value of this basket at local prices. The same process can be
+followed for basic non-food items, education, health care, and so on.
+Several individual poverty functions are commonly used in the literature:
+• a poverty incidence indicator is: p1(yi , z) = 1
+• a poverty gap measure is:
+
+p2(yi , z) = z - yi
+
+if yi < z , 0 otherwise;
+if yi < z , 0 otherwise;
+
+The poverty incidence indicator gives a number 1 if an individual/household is in poverty and
+zero if not. The poverty gap measure yields the individual/household shortfall with respect to
+the poverty line. The individual poverty functions can be aggregated for a population N as
+follows:
+• aggregate poverty incidence indicator is: P1 = ΣNi=1 p1(yi , z) = 1 if yi < z , 0
+otherwise;
+• aggregate poverty gap measure is: P2 = ΣNi=1 p2(yi , z) = z - yi if yi < z , 0 otherwise;
+
+To facilitate comparison across time and across countries aggregate poverty measures are
+usually standardized as follows:
+• Headcount poverty rate is: PH = 1/N ΣNi=1 p1(yi , z) = 1 if yi < z , 0 otherwise;
+• Average poverty gap is:
+
+PG = 1/N ΣNi=1 p2(yi , z) = z - yi if yi < z , 0 otherwise;
+
+The headcount poverty rate measures the fraction of the population who are in poverty, while
+the average poverty gap takes the poverty gap and averages it across the population. Foster et
+al. (1984) have provided an elegant formulation of this class of poverty measures into the
+following poverty function Pα :
+α
+
+1 q  (z − yi 
+Pα ( y, z) = ∑
+
+N i=1  z 
+
+, forα ≥ 0
+
+where α can be interpreted as a measure of aversion to poverty, q is number of
+individuals/households in poverty. Note that if α=0, the Pα function measures the headcount
+poverty rate (by definition x0 = 1, so that for α=0, P0 = q/N). Also note that if α=1, the Pα
+function measures the poverty gap normalized as a fraction of the poverty line. For α>1, the
+weight attached to those in greater poverty rises, α=2 for example gives the square of the
+poverty gap.
+
+23
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+Annex 2: Sources of Poverty Data for Comparative Research
+Comparative research on poverty has generally focused on poverty incidence as the primary
+measure. The first Millennium Development Goal (MDG), on poverty reduction, has as a first
+target to reduce “by half the proportion of people living of less than 1 US$ a day” by 2015.
+There are important technical and data issues in measuring global poverty in this way which
+have been examined in detail in the relevant literature.41 Country data on “cosmopolitan”
+poverty (using two poverty lines, $1 and $2, defining thresholds for extreme and moderate
+poverty respectively) is available from World Development Indicators in two series: poverty
+incidence and poverty gap.
+The focus of this report on social protection and poverty suggests that “non-cosmopolitan”
+poverty data is likely to be more appropriate in this context.42 Poverty measures estimated from
+household survey data, using appropriate adjustments for household composition, and national
+poverty lines are more likely to capture the linkages between poverty and policy, of which
+social protection is a component. National poverty lines are more likely to capture poverty
+understood as deficits from a socially agreed minimum living standard. It is also the latter
+which influences policy debates, say on social protection. The World Development Indicators
+provides consistent poverty incidence measures, based on household data and using national
+poverty lines, but no series on poverty gap measures is available.
+Poverty measures estimated on a consistent basis across countries in a particular region, or
+subregion, would be particularly useful in tracking clusters of countries with similar policy
+environments, as in the welfare regime literature, for example. The Economic Commission for
+Latin America and the Caribbean (ECLAC) provides consistent estimates of poverty for selected
+countries in the region, published in its Social Panorama of Latin America. Estimates for both
+poverty incidence and gap are available, as well as separate estimates for rural and urban
+populations. In several papers published by the United Nations Development Programme’s
+(UNDP) International Policy Centre for Inclusive Growth (IPC), Kakwani and collaborators
+estimate consistent poverty lines for several countries in sub-Saharan Africa and model
+alternative social protection options (Kakwani and Subbarao 2005; Kakwani et al. 2005). It
+should be possible to use these regionally consistent poverty estimates, which have the
+advantage of providing estimates for poverty incidence and poverty gap measures. To my
+knowledge there are no comparable data series for Asia and transition countries.
+Country-level poverty estimates are available, but show large variation in quality, and often
+have idiosyncratic methodologies which would need to be documented in some detail before
+making cross-country comparisons.
+Aside from the UNDP’s Human Development Index, there are no consistent sources of data on
+multidimensional poverty. There are no consistent sources of data on vulnerability.
+
+41 Deaton 2000; Chen and Ravallion 2004; Reddy and Pogge 2005.
+42 The point, as I see it, is to compare poverty across countries, where countries are taken as a policy-making unit, as opposed to
+
+comparing individuals or households in poverty in different countries.
+
+24
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+Annex 3: A Note on Government Social Protection Expenditure Data
+Until very recently, statistics on public expenditure on social protection were not explicitly
+collected by international organizations. The emergence of social protection as an important
+component of development policy has encouraged efforts to systemize data counterparts.43 The
+ILO, European Union (EU) and the IMF have considered ways to measure government social
+protection expenditure.44 At the same time, the need to assess the size and effectiveness of social
+protection–related multilateral and bilateral aid has made it necessary for them to attempt to
+distinguish social protection aid flows (Milazzo and Grosh 2007).45 At this point in time, it
+would be fair to say this is a work in progress.
+It would be useful to describe the approach which is taken to measuring government social
+protection expenditure.
+• Starting with a definition, social protection schemes are defined by the IMF
+Government Finance Statistics Manual (IMF 2001:18) as: “systematic interventions
+intended to relieve households and individuals of the burden of a defined set of
+risks”.
+• The Manual identifies three types of such schemes: social assistance schemes,
+social security schemes, and employer social insurance schemes.
+• Classifications of social protection schemes by risk or function are also available.
+Hagemejer reports a classification according to social risks covered: sickness,
+health, disability, survivors, employment injury, old age, family and children,
+unemployment and labour market policies, labour market programmes, housing,
+social assistance, basic education, food and nutrition (Hagemejer n.d.). Within
+these categories, distinguishing social protection functions is in practice a
+complicated task. For example, not all education expenditures have a social
+protection function (as described in the definition above), but education subsidies
+for low-income households conditional on school attendance do. Child-based
+education subsidies can be assumed to be a social protection intervention in
+primary education, but perhaps this is less clear cut in the context of secondary
+education and tertiary education. Distinguishing government expenditures on
+health related social protection is a much harder task.
+• Measurement of the size of expenditures focuses on aggregate measures of cash or
+in kind transfers to beneficiary households.
+
+In sum, current efforts in systematizing the collection of government social protection
+expenditure data will produce improvements in the future, but at present the available data are
+limited in coverage and highly imperfect. Reliable expenditure data on social protection is
+available for European and countries of the Organisation for Economic Co-operation and
+Development (OECD),46 but it is highly uneven for developing countries. ECLAC’s Panorama
+Social provides a time series on Social Security and Assistance Expenditure (ECLAC 2007). To
+my knowledge, none of the other regional Banks provide comparable statistics.
+The most comprehensive source of government social protection expenditure will remain the
+IMF’s Government Finance Statistics Series. Besley et al (2003) compile a long-term average
+(1970–1997) of two variables from this series:
+• Social Security and Welfare Expenditure: which includes transfer payments
+(including in kind) to compensate for the reduction or loss of income or
+43 See
+
+the links to social protection statistics collected by international organizations
+mirror.cornell.edu/public/english/protection/socfas/research/intros.htm, accessed in June 2008.
+
+available
+
+at
+
+www-ilo-
+
+44 IMF 2001; European Union 2002; Hagemejer n.d.
+45 The UK Department for International Development (DFID) is developing a set of guidelines for measuring social protection aid within
+
+the context of the UK Government reporting duty to Parliament.
+46 The Social Expenditure Database, SOCX 2007, provides data for 1980–2003 (OECD 2007).
+
+25
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+inadequate earnings capacity; sickness, maternity, and temporary disablement
+benefits; government employees pension schemes; old age, disability, or
+survivor’s benefits; unemployment compensation benefits; family and child
+allowances; and other social assistance to persons and to residential institutions
+for children or the elderly.
+• Transfers to organizations and households: which includes current transfer payments
+to private institutions such as hospitals and schools, learned societies,
+associations, and sports clubs that are not operated as enterprises; current
+payments in cash (not in kind) to households, adding to their disposable income
+without any simultaneous, equivalent counterpart provided in exchange by the
+beneficiary, and neither generating nor extinguishing a financial claim; usually
+intended to cover charges incurred by households because of the appearance, or
+existence, of certain needs and risks.
+
+These are perhaps the best data available to explore social protection expenditure over time for
+comparative purposes. These two variables are used in the analysis in the text above to explore
+the link between poverty and government social protection expenditure.
+
+26
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+Bibliography
+Asian Development Bank (ADB). 2001. Social Protection Strategy. ADB, Manila.
+Ahmad, E., J. Dreze, J. Hills and A. Sen. 1991. Social Security in Developing Countries. Clarendon Press,
+Oxford.
+Alcock, P. 2006. Understanding Poverty. Palgrave Macmillan, Basingstoke.
+Altimir, O. 1997. “Desigualdad, empleo y pobreza en America Latina: Efectos del ajuste y del cambio en
+el estilo de desarrollo.” Desarrollo Económico, Vol. 37, No. 145, pp. 3–29.
+Barrientos, A. Forthcoming. “Introducing basic social protection in low income countries: Lessons from
+existing programmes.” In P. Townsend (ed.), Challenging the Development Paradigm:
+Rethinking the Role of Social Security in State Building. ILO, Geneva.
+———. 2008. “Financing social protection.” In A. Barrientos and D. Hulme (eds.), Social Protection for
+the Poor and Poorest: Concepts, Policies and Politics. Palgrave Macmillan, Basingstoke.
+———. 2007a. Does Vulnerability Create Poverty Traps? CPRC Working Paper 76. IDPM/Chronic Poverty
+Research Centre, Manchester.
+———. 2007b. “Tax-financed social security.” International Social Security Review, Vol. 60, No. 2–3,
+pp. 99–117.
+———. 2005. Cash Transfers for Older People Reduce Poverty and Inequality. Background paper for the
+World Development Report 2006: Equity and Development. Institute for Development Policy
+and Management (IDPM), University of Manchester, Manchester.
+———. 2004. “Latin America: Towards a liberal-informal welfare regime.” In I. Gough, G. Wood, A.
+Barrientos, P. Bevan, P. David and G. Room (eds.), Insecurity and Welfare Regimes in Asia,
+Africa and Latin America. Cambridge University Press, Cambridge.
+Barrientos, A. and J. DeJong. 2006. “Reducing child poverty with cash transfers: A sure thing?”
+Development Policy Review, Vol. 24, No. 5, pp. 537–552.
+Barrientos, A. and R. Holmes. 2007. Social Assistance in Developing Countries. Database version 3.0.
+Chronic Poverty Research Centre, Manchester.
+Barrientos, A. and D. Hulme (eds.). 2008. Social Protection for the Poor and Poorest: Concepts, Policies
+and Politics. Palgrave Macmillan, Basingstoke.
+Barrientos, A. and D. Hulme. 2005. “Chronic poverty and social protection: Introduction.” European
+Journal of Development Research, Vol. 17, No. 1, March, pp. 1–7.
+Baulch, B. and J. Hoddinott. 2000. “Economic mobility and poverty dynamics in developing countries.”
+Journal of Development Studies, Vol. 36, No. 6, pp. 3–40.
+Baulch, B., J. Wood and A. Weber 2005. Developing a Social Protection Index for Committed Poverty
+Reduction in Asia. Mimeo. Institute of Development Studies (IDS), Brighton.
+Bertranou, F., W. van Ginneken and C. Solorio. 2006. “The impact of tax-financed pensions on poverty
+reduction in Latin America: Evidence from Argentina, Brazil, Chile, Costa Rica and Uruguay.”
+International Social Security Review, Vol. 57, No. 4, pp. 3–18.
+Besley, T., R. Burgess and I. Rasul. 2003. Benchmarking Government Provision of Social Safety Nets.
+Social Protection Discussion Paper 0315. The World Bank, Washington, DC.
+Bigsten, A. and J. Levin. 2005. “Growth, income distribution and poverty: A review.” In A. Shorrocks
+and R. van der Hoeven (eds.), Growth, Inequality, and Poverty. Oxford University Press,
+Oxford.
+Bourguignon, F. 2004. The Poverty-Growth-Inequality Triangle. Mimeo. The World Bank,
+Washington, DC.
+Carter, M. R. and C. R. Barrett 2005. The Economics of Poverty Traps and Persistent Poverty: An AssetBased Approach. Mimeo. University of Wisconsin-Madison, Madison, WI.
+Castañeda, T. 2002. Tendencias de largo plazo en tamaño, eficiencia y focalización del gasto social en
+America Latina y el Caribe. Mimeo. Inter-American Development Bank, Washington, DC.
+Chen, J. and A. Barrientos. 2006. Extending Social Assistance in China: Lessons from the Minimum
+Standards Scheme. CPRC Working Paper 67. Chronic Poverty Research Centre, Manchester.
+Chen, S. and M. Ravallion. 2004. “How have the world’s poorest fared since the early 1980s?” World
+Bank Research Observer, Vol. 19, pp. 141–169.
+Conway, T., A. de Haan and A. Norton (eds.). 2000. Social Protection: New Directions of Donor
+Agencies. Department for International Development, London.
+
+27
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+Cook, S. and H.-j. Kwon. 2006. Economic Development and Social Protection in East Asia. Mimeo.
+IDS, Brighton.
+CPRC (Chronic Poverty Research Centre). 2005. The Chronic Poverty Report 2004–05. CPRC,
+Manchester.
+Cutler, D.M., F. Knaul, R. Lozano, O. Méndez and B. Zurita. 2000. Financial Crisis, Health Outcomes
+and Aging: Mexico in the 1980s and 1990s. Working Paper 7746. National Bureau of Economic
+Research. Cambridge, MA.
+de Ferranti, D., G.E. Perry, I.S. Gill and L. Servén. 2000. Securing Our Future in a Global Economy.
+Viewpoints. The World Bank, Washington, DC.
+de Haan, A. 2000. “Introduction: The role of social protection in poverty reduction.” In T. Conway;
+A. de Haan and A. Norton (eds.), Social Protection: New Directions of Donor Agencies.
+Department for International Development, London.
+Deaton, A. 2000. Counting the World’s Poor: Problems and Possible Solutions. Princeton University,
+Princeton, NJ.
+Dercon, S. (ed.). 2005a. Insurance against Poverty. Oxford University Press, Oxford.
+Dercon, S. 2005b. Vulnerability: A Micro Perspective. Paper presented at the Annual Bank Conference
+on Development Economics, Amsterdam, 23–24 May 2005. The World Bank, Washington, DC.
+Devereux, S. 2001. Social Pensions in Namibia and South Africa. IDS Discussion Paper 379, IDS,
+Brighton.
+DFID (Department for International Development). 2005. Social Transfers and Chronic Poverty:
+Emerging Evidence and the Challenge Ahead. DFID Practice paper. DFID, London.
+Economic Commission for Latin America and the Caribbean (ECLAC). 2007. Panorama Social 2006.
+ECLAC, Santiago.
+———. 2006. La protección social de cara al futuro: Acceso, financiamiento y solidaridad. ECLAC,
+Santiago.
+———. 1997. The Brecha de la Equidad. América Latina, el Caribe y la Cumbre Social. ECLAC, Santiago.
+Edwards, S. 1995. Crisis and Reform in Latin America: From Despair to Hope. Oxford University Press,
+New York.
+Elbers, C., J.W. Gunning and B. Kinsey. 2003. Growth and Risk. Discussion Paper TI 2003-068/2.
+Tinbergen Institute, Tinbergen.
+Emerson, P. and A. Portela Souza. 2003. “Is there a child labor trap? Intergenerational persistence of
+child labor in Brazil.” Economic Development and Cultural Change, Vol. 51, No. 2, pp. 375–398.
+Esping-Andersen, G. 1999. Social Foundations of Postindustrial Economies. Oxford University Press,
+Oxford.
+———. 1990. The Three Worlds of Welfare Capitalism. Polity Press, Cambridge.
+European Union. 2002. Social Protection in Europe 2001. Employment and Social Affairs, European
+Union, Brussels.
+Ferreira, F., G. Prennushi and M. Ravallion. 1999. Protecting the Poor from Macroeconomic Shocks:
+An Agenda for Action in a Crisis and Beyond. Mimeo, The World Bank, Washington, DC.
+Fields, G.S. 2001. Distribution and Development: A New Look at the Developing World. MIT Press,
+Cambridge, MA.
+Foster, J.E., J. Greer and E. Thorbecke. 1984. “A class of decomposable poverty measures.”
+Econometrica, Vol. 52, No. 3, pp. 761–765.
+Gough, I. 2004. “Welfare regimes in development contexts: A global and regional analysis.” In I. Gough
+and G. Wood (eds.), Insecurity and Welfare Regimes in Asia, Africa and Latin America.
+Cambridge University Press, London.
+Gough, I., J. Bradshaw, J. Ditch, T. Eardley and P. Whiteford. 1997. “Social assistance in OECD
+countries.” Journal of European Social Policy, Vol. 7, No. 1, pp. 17–43.
+Gough, I. and G. Wood (eds.). 2004. Insecurity and Welfare Regimes in Asia, Africa and Latin America.
+Cambridge University Press, Cambridge.
+Graham, C. 2002. Public Attitudes Matter: A Conceptual Framework for Accounting for Political Economy
+in Safety Nets and Social Assistance Policies. Social Protection Discussion Paper 0233.
+The World Bank, Washington, DC.
+Guarceli, L., F. Mealli and F.C. Rosati. 2003. Household Vulnerability and Child Labour: The Effects of
+Shocks, Credit Rationing and Insurance. Working Paper. Understanding Children’s Work,
+Florence.
+
+28
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+Hagemejer, K. N.d. Social Protection Expenditure and Performance Reviews. Mimeo. ILO, Financial,
+Actuarial and Statistical Services, Geneva.
+HelpAge International (HAI). 2003. Population Ageing and Development: New Strategies for Social
+Protection. HAI, London.
+Harvey, P. 2005. Cash and Vouchers in Emergencies. ODI, London.
+Heitzman, K., S. Canagarajah and P.B. Siegel. 2002. Guidelines for Assessing the Sources of Risk and
+Vulnerability. Social Protection Working Paper 218. The World Bank, Washington, DC.
+Hoddinott, J. and A. Quisumbing. 2003. Methods for Microeconometric Risk and Vulnerability
+Assessments. Social Protection Discussion Paper 0324. The World Bank, Washington, DC.
+Holliday, I. 2000. “Productivist welfare capitalism: Social policy in East Asia.” Political Studies, Vol. 48,
+pp. 706–723.
+Holzmann, R. and S. Jorgensen. 1999. “Social protection as social risk management: Conceptual
+underpinnings for the social protection strategy paper.” Journal of International Development,
+Vol. 11, pp. 1005–1027.
+Hulme, D. and A. Shepherd. 2003. “Conceptualizing chronic poverty.” World Development, Vol. 31,
+No. 3, pp. 403–424.
+Inter-American Development Bank (IADB). 2000. Social Protection for Equity and Growth. IADB,
+Washington, DC,
+International Labour Organization (ILO). 2006. Panorama Laboral 2006. ILO, Lima.
+———. 2005. Social Protection as a Productive Factor. GB.294/ESP/4. ILO, Geneva.
+———. 2003. Panorama Laboral 2003. ILO, Lima.
+———. 2001. Social Security. A New Consensus. ILO, Geneva.
+———. 2000. Panorama Laboral 2000. Informa 7. ILO, Lima.
+International Monetary Fund (IMF). 2001. Government Finance Statistics Manual. IMF, Washington, DC.
+Jacob, A. and R. Varghese. 2006. “NREGA Implementation I—Reasonable beginning in Palakkad,
+Kerala.” Economic and Political Weekly, Vol., pp. 4943–4945.
+Jalan, J. and M. Ravallion. 2001. ”Is transient poverty different? Evidence for rural China.” Journal of
+Development Studies, Vol. 36, No. 6, pp. 82–99.
+Jenkins, S.P. and J. Micklewright. 2007. New Directions in the Analysis of Inequality and Poverty.
+IZA DP 2814 Institute for the Study of Labor (IZA), Bonn.
+Kakwani, N. and K. Subbarao. 2005. Ageing and Poverty in Africa and the Role of Social Pensions.
+Working Paper 8. UNDP, International Poverty Centre, Brasilia.
+Kakwani, N., F. Veras Soares and H.H. Son. 2005. Conditional Cash Transfers in African Countries.
+Working Paper 9. UNDP, International Poverty Centre, Brasilia
+Kanbur, R. 1987. Measurement and Alleviation of Poverty. IMF Staff Papers, Vol. 34, No. 1, pp. 60–85.
+Kannan, K.P. 2006. Employment and Social Security for the Working Poor. Two Major Initiatives in
+India. National Commission for Enterprises in the Unorganised Sector, Government of India,
+New Delhi.
+Kwon, H.-j. 1997. “Beyond European welfare regimes: Comparative perspectives on East Asian welfare
+systems.” Journal of Social Policy, Vol. 26, No. 4, pp. 467–484.
+Lanjouw, P., B. Milanovic and S. Paternostro. 1998. Poverty and Economic Transition: How Do Changes
+in Economies of Scale Affect Poverty Rates of Different Households? Working Paper. The World
+Bank, Washington, DC.
+Lindert, K., E. Skoufias and J. Shapiro. 2005. Redistributing Income to the Poor and the Rich. Public
+Transfers in LAC. Discussion Paper. The World Bank, Washington, DC.
+Lipton, M. and M. Ravallion. 1993. Poverty and Policy. Policy Research Working Paper WPS 1130.
+The World Bank, Washington, DC.
+Louis, P. 2006. “NREGA Implementation–II: Birth pangs in Bihar.” Economic and Political Weekly,
+41(48), pp. 4946–4947.
+Lund, F. and S. Srinivas. 2000. Learning from Experience: A Gendered Approach to Social Protection for
+Workers in the Informal Economy. ILO, Geneva.
+Lustig, N. and R. Deutsch. 1998. The Inter-American Development Bank and Poverty Reduction:
+An Overview. Mimeo, POV-101-R. IADB, Washington, DC.
+
+29
+
+UNRISD P ROGRAMME
+P APER N UMBER 42
+
+ON
+
+S OCIAL P OLICY
+
+AND
+
+D EVELOPMENT
+
+McKay, A. and D. Lawson. 2003. “Assessing the extent and nature of chronic poverty in low income
+countries: Issues and Evidence.” World Development, Vol. 31, No. 3, pp. 425–440.
+Milazzo, A. and M. Grosh. 2007. Social Safety Nets in World Bank Lending and Analytical Work:
+FY2002–2006. Social Protection Discussion Paper 0705. The World Bank, Washington, DC.
+Mkandawire, T. 2004. “Social policy in a development context: Introduction.” In T. Mkandawire (ed.),
+Social Policy in a Development Context. UNRISD and Palgrave Macmillan, Basingstoke.
+Moore, K. 2001. Frameworks for Understanding the Inter-Generational Transmission of Poverty and
+Well-Being in Developing Countries. CPRC Working Paper 8. Chronic Poverty Research Centre,
+Institute for Development Policy and Management, Manchester.
+Morduch, J. 1995. “Income smoothing and consumption smoothing.” Journal of Economic Perspectives,
+Vol. 9, No. 3, pp. 103–114.
+Morley, S. and D. Coady. 2003. From Social Assistance to Social Development: Targeted Education
+Subsidies in Developing Countries. Center for Global Development and International Food Policy
+Research Institute, Washington, DC.
+Munro, L.T. 2008. “Risks, rights and needs: Compatible or contradictory bases for social protection.”
+In A. Barrientos and D. Hulme (eds.), Social Protection for the Poor and Poorest: Concepts,
+Policies and Politics. Palgrave Macmillan, Basingstoke.
+Organisation for Economic Co-operation and Development (OECD). 2007. The Social Expenditure
+Database: An Interpretative Guide SOCX 1980–2003. OECD, Paris. www.oecd.org/dataoecd/
+54/43/39091497.pdf.
+Pochmann, M. 2006. Protecção do rendimento e Inclusão social: Uma abordagem integrada, em São
+Paulo (2001–2004). Universidade de São Paulo, São Paulo.
+Pogge, T.W. 1989. Realizing Rawls. Cornell University Press, Ithaca, NY.
+Reddy, S.G. and T.W. Pogge. 2005. How Not to Count the Poor. Mimeo version 6.2. Department of
+Economics, Columbia University, New York.
+Schleberger, E. 2002. Namibia’s Universal Pension Scheme: Trends and Challenges. ESS Paper 6.
+ILO, Geneva.
+Schubert, B. 2005. The Pilot Social Cash Transfer Scheme, Kalomo District, Zambia. Working Paper 52.
+Chronic Poverty Research Centre, Manchester.
+Schubert, B. 2008. “Protecting the poorest with cash transfers in low income countries.” In A. Barrientos
+and D. Hulme (eds.), Social Protection for the Poor and Poorest: Concepts, Policies and Politics.
+Palgrave Macmillan, Basingstoke.
+Sen, A. 1999. Development as Freedom. Oxford University Press, Oxford.
+———. 1993. “Capability and well-being.” In M. Nussbaum and A. Sen (eds.), The Quality of Life.
+Oxford University Press, Oxford.
+———. 1985. Commodities and Capabilities. North-Holland, Amsterdam.
+Smith, W.J. and K. Subbarao. 2003. What Role for Safety Net Transfers in Very Low Income Countries?
+Social Protection Discussion Paper 0301. The World Bank, Washington, DC.
+Sumarto, S., A. Suryahadi and S. Bazzi. 2008. “Indonesia’s social protection during and after the crisis.”
+In A. Barrientos and D. Hulme (eds.), Social Protection for the Poor and Poorest: Concepts,
+Policies and Politics. Palgrave Macmillan, Basingstoke.
+Suryahadi, A. and S. Sumarto. 2003. “Poverty and vulnerability in Indonesia before and after the
+economic crisis.” Asian Economic Journal, Vol. 17, No. 1, pp. 45–64.
+———. 2001. The Chronic Poor, the Transient Poor, and the Vulnerable in Indonesia before and after
+the Crisis. Working Paper. SMERU Research Institute, Jakarta.
+Székely, M. and R. Fuentes. 2002. “Is there a future for social policy in Latin America.” In E.B. Kapstein
+and B. Milanovic (eds.), When Markets Fail: Social Policy and Economic Reform. Russell Sage
+Foundation, New York.
+Thorbecke, E. 2005. Multi-Dimensional Poverty: Conceptual and Measurement Issues. Mimeo. Cornell
+University, Ithaca, NY.
+United Nations. 2000. Enhancing Social Protection and Reducing Vulnerability in a Globalizing World.
+Report of the Secretary General to the Thirty-ninth Session of the United Nations Commission
+for Social Development. UN Document No. E/CN.5/2001/2, 8 December 2000. United Nations
+Economic and Social Council, New York. www.lex.unict.it/eurolabor/documentazione/nu/csd/
+enhacing2001.pdf, accessed in December 2009.
+
+30
+
+S OCIAL P ROTECTION AND P OVERTY
+A RMANDO B ARRIE NTOS
+
+———. 1995. Report of the World Summit for Social Development (Copenhagen, 6–12 March 1995). UN
+Document No. A/CONF.166/9, 19 April 1995. United Nations, New York. www.un.org/
+documents/ ga/conf166/aconf166-9.htm, accessed in December 2009.
+United Nations Development Programme (UNDP). 2000. Human Development Report 2000. UNDP, New
+York.
+Wood, G. 2001. “Staying secure, staying poor: The ‘Faustian bargain’.” World Development, Vol. 31,
+No. 3, pp. 455–471.
+World Bank. 2005a. Zambia—Poverty and Vulnerability Assessment. The World Bank, Lusaka.
+———. 2005b. 05 World Development Indicators. The World Bank, Washington, DC.
+———. 2001a. Social Protection Sector Strategy: From Safety Net to Springboard. Sector Strategy
+Paper. The World Bank, Washington, DC.
+———. 2001b. World Development Report 2000/1. Attacking Poverty. The World Bank,
+Washington, DC.
+
+31
+
+UNRISD Programme Papers on Social Policy and Development
+PP SPD 42
+
+Social Protection and Poverty
+Armando Barrientos, January 2010
+
+PP SPD 41
+
+The Implications of Migration for Gender and Care Regimes
+in the South
+Eleonore Kofman and Parvati Raghuram, July 2009
+
+PP SPD 40
+
+Migration and Poverty: Linkages, Knowledge Gaps and Policy
+Implications
+Arjan de Haan and Shahin Yaqub, June 2009
+
+PP SPD 39
+
+Migration and Social Development: Organizational and Political
+Dimensions
+Nicola Piper, May 2009
+
+PP SPD 38
+
+The Private Affairs of Public Pensions in South Africa: Debt,
+Development and Corporatization
+Fred Hendricks, December 2008
+
+PP SPD 37
+
+Explaining Ireland’s Development: Economic Growth
+with Weakening Welfare
+Peadar Kirby, September 2008
+
+PP SPD 36
+
+Social Insurance (Pensions and Health), Labour Markets and
+Coverage in Latin America
+Carmelo Mesa-Lago, August 2008
+
+PP SPD 35
+
+Successful Targeting? Reporting Efficiency and Costs in Targeted
+Poverty Alleviation Programmes
+Alexander Peyre Dutrey, November 2007
+
+PP SPD 34
+
+Remittances, Migration and Social Development: A Conceptual
+Review of the Literature
+Hein de Haas, October 2007
+
+PP SPD 33
+
+Social Policy and the Quest for Inclusive Development:
+Research Findings from Sub-Sahara Africa
+’Jìmí O. Adésínà, May 2007
+
+PP SPD 32
+
+How Far Does It Go? The Buenos Aires Water Concession
+a Decade after the Reform
+José A. Delfino, Ariel A. Casarin and María Eugenia Delfino, May 2007
+
+PP SPD 31
+
+Public Pensions in a Development Context: The Case of Canada
+Ken Battle and Edward Tamagno, February 2007
+
+PP SPD 30
+
+Implicações do Financiamento do Banco Mundial para as respostas
+das ONGs e OBCs ao HIV/Aids no Sul e Sudeste do Brasil
+Elisabete Inglesi, com Ana Lucia Weinstein, Celi Denise Cavallari, Octavio
+Valente Junior e Glaury Coelho, dezembro 2006
+
+PP SPD 29
+
+Historia del sector sanitario chileno: De la gestión estatal hasta el
+proceso de privatización
+María Angélica Alegría Calvo y Eugenio Celedón Cariola, diciembre 2006
+
+PP SPD 28
+
+The Politics of HIV/AIDS in Uganda
+Joseph Tumushabe, August 2006
+
+PP SPD 27
+
+Neither Public Nor Private: Unpacking the Johannesburg
+Water Corporatization Model
+Laila Smith, May 2006
+
+PP SPD 26
+
+Liberalization and HIV in Kerala
+Sandhya Srinivasan and Mini Sukumar, April 2006
+Continued
+
+33
+
+PP SPD 25
+
+Pensions and Pension Funds in the Making of a Nation-State and a
+National Economy: The Case of Finland
+Olli E. Kangas, March 2006
+
+PP SPD 24
+
+Mozambique’s HIV/AIDS Pandemic: Grappling with
+Apartheid’s Legacy
+Carole J.L. Collins, February 2006
+
+PP SPD 23
+
+Targeting and Universalism in Poverty Reduction
+Thandika Mkandawire, December 2005
+
+PP SPD 22
+
+Transforming the Developmental Welfare State in East Asia
+Huck-ju Kwon, September 2005
+
+PP SPD 21
+
+The Politics of Welfare Developmentalism in Hong Kong
+Eliza W.Y. Lee, August 2005
+
+PP SPD 20
+
+Política social y reforma social “a la tica”: Un caso paradigmático
+de heterodoxia en el contexto de una economía periférica
+Manuel Barahona, Ludwig Güendel y Carlos Castro, agosto 2005
+
+PP SPD 19
+
+The Adult Worker Model, Gender Equality and Care:
+The Search for New Policy Principles, and the Possibilities
+and Problems of a Capabilities Approach
+Susy Giullari and Jane Lewis, April 2005
+
+PP SPD 18
+
+“Globalization” and Social Policy in a Development
+Context: Regional Responses
+Nicola Yeates, April 2005
+
+PP SPD 17
+
+The Developmental Welfare State in Scandinavia:
+Lessons for the Developing World
+Stein Kuhnle and Sven E.O. Hort, September 2004
+
+PP SPD 16
+
+Late Industrializers and the Development of the Welfare State
+Christopher Pierson, September 2004
+
+PP SPD 15
+
+Global Capitalism, Deflation and Agrarian Crisis in Developing Countries
+Utsa Patnaik, July 2003
+
+PP SPD 14
+
+Agrarian Change, Gender and Land Rights: A Brazilian Case Study
+Julia S. Guivant, June 2003
+
+PP SPD 13
+
+Reworking Apartheid Legacies: Global Competition, Gender
+and Social Wages in South Africa, 1980–2000
+Gillian Hart, December 2002
+
+PP SPD 12
+
+Women’s Employment and Welfare Regimes: Globalization, Export
+Orientation and Social Policy in Europe and North America
+Ann Shola Orloff, June 2002
+
+PP SPD 11
+
+Agrarian Reform, Gender and Land Rights in Uzbekistan
+Deniz Kandiyoti, June 2002
+
+PP SPD 10
+
+Agrarian Change, Gender and Land Reform: A South African Case Study
+Cherryl Walker, April 2002
+
+PP SPD 9
+
+Gender and Education: A Review of Issues for Social Policy
+Ramya Subrahmanian, April 2002
+
+PP SPD 8
+
+Dynamique de la politique sociale en Côte d’Ivoire
+Francis Akindès, juillet 2001
+
+PP SPD 7
+
+Social Policy in a Development Context
+Thandika Mkandawire, June 2001
+Continued
+
+34
+
+PP SPD 6
+
+Breaking the Mould: An Institutionalist Political Economy
+Alternative to the Neoliberal Theory of the Market and the State
+Ha-Joon Chang, May 2001
+
+PP SPD 5
+
+Les politiques sociales en Afrique de l’Ouest: Quels changements
+depuis le Sommet de Copenhague? Synthèse des études de cas
+(Bénin, Burkina Faso, Côte d’Ivoire, Mali, Sénégal)
+Momar-Coumba Diop, avril 2001
+
+PP SPD 4
+
+AIDS in the Context of Development
+Joseph Collins and Bill Rau, December 2000
+
+PP SPD 3
+
+Empirical Inquiries and the Assessment of Social Progress
+in Western Europe: A Historical Perspective
+Jean-Michel Collette, June 2000
+
+PP SPD 2
+
+Social Indicators and Welfare Monitoring
+Gøsta Esping-Andersen, May 2000
+
+PP SPD 1
+
+External Dependency and Internal Transformation:
+Argentina Confronts the Long Debt Crisis
+Jorge Schvarzer, May 2000
+
+35
+
+January 2010
+UNRISD/PPSPD42/10
+
+United Nations Research Institute for Social Development
+UNRISD is an autonomous agency engaging in multidisciplinary research on the social dimensions of contemporary
+problems affecting development. Its work is guided by the conviction that, for effective development policies to be
+formulated, an understanding of the social and political context is crucial. The Institute attempts to provide
+governments, development agencies, grassroots organizations and scholars with a better understanding of how
+development policies and processes of economic, social and environmental change affect different social groups.
+Working through an extensive network of national research centres, UNRISD aims to promote original research and
+strengthen research capacity in developing countries.
+Current research programmes include: Civil Society and Social Movements; Democracy, Governance and Well-Being;
+Gender and Development; Identities, Conflict and Cohesion; Markets, Business and Regulation; and Social Policy and
+Development.
+
+A list of UNRISD’s free and priced publications may be obtained by contacting the Reference Centre:
+UNRISD • Palais des Nations • 1211 Geneva 10 • Switzerland
+Phone 41 (0)22 9173020 • Fax 41 (0)22 9170650
+info@unrisd.org • www.unrisd.org
+
+37
+
+

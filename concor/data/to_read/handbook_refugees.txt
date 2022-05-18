@@ -1,0 +1,835 @@
+23. Refugees and social protection
+Tamara A. Kool and Zina Nimeh
+
+23.1
+
+INTRODUCTION
+
+Social protection is a right enshrined in international human rights law; yet, in practice,
+its provision is often state-led and citizenship-based. This means that refugees and other
+‘non-citizens’ are mostly excluded from access to benefits that the host population receives.
+This fact posits a national and international policy challenge. In 2018, 65.6 million people
+were displaced of which 29.4 million persons worldwide were forcibly displaced outside their
+home country and classified as refugees1 or asylum seekers. Of these, 15.9 million refugees
+found themselves in a protracted refugee situation2 having been displaced for at least five years
+(UNHCR 2019) and an average duration of 10 years (DeVictor 2019). As a result, those refugees have lived in exile for a prolonged time, often in camps or basic housing in urban centres
+and are often dependent on others to find solutions to their predicament (Merheb and Loughna
+2006).3 Social protection can help refugees to improve their living situation. Therefore, the
+social protection needs of refugees must be considered as a critical component of the global
+and national policy agendas from a durable perspective.
+While many countries in Europe have put in place measures to provide some degree of
+social protection to refugees, countries in low- and middle-income countries (LICs and MICs)
+often face constraints in their ability to do the same. This problem concerns about 80 per cent
+of all refugees because most refugees end up in neighbouring countries to their country of
+origin rather than other parts of the world (UNHCR 2019; Puerto Gomez and Christensen
+2010).
+Although a pledge was made under Sustainable Development Goal (SDG) 1 to expand
+social protection for all until 2030, this target is still far from being realised. Refugees commonly find themselves in a legally compromised status, which is often combined with asset
+and income scarcity. As displacement becomes protracted, their resources are further depleted.
+This places them in increasingly vulnerable positions within the host community. While this
+situation is often mitigated with short-term humanitarian aid schemes by international actors
+that are aimed at coping with risk, most of the time refugees become stuck in this coping limbo
+of aid, with limited possibility to transition from humanitarian assistance to development
+programmes (Christensen and Harild 2009; Lakhani 2013; Newland 2015). As a result, many
+refugees are placed in very disadvantaged positions, which not only impacts their ability to
+
+Of which 4.4 million fall under the responsibility of the UNRWA (UNHCR 2019).
+In other words if a group of at least 25,000 individuals of the same nationality has resided in
+a particular host country for five years or longer (ExCom 2004).
+3
+While addressing protracted refugee situations per se is beyond the scope of this chapter, it is
+important to acknowledge that refugees trapped in these protracted situations often suffer severe restrictions of their human rights.
+1
+2
+
+410
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+Refugees and social protection 411
+achieve adequate levels of well-being, but also results in disenfranchised groups living often
+a life of poverty, marginalisation, discrimination and denial of human rights.
+In 2016, following the World Humanitarian Summit, the Social Protection Inter-Agency
+Cooperation Board released a joint statement in which they called for the inclusion of social
+protection within any strategy on forced displacement (Social Protection Inter-Agency
+Coordination Board 2016). A ‘scale-up of social protection in contexts of fragility and forced
+displacement [is thus needed] to ensure no one is left behind’ (Brück et al. 2019, 2). And while
+impact evaluations on social protection among refugees in LICs and MICs are limited (Brück
+et al. 2019; Doocy and Tappis 2016), there has been increased attention by the international
+community to social protection in contexts of fragility and displacement, including discussions
+on the connection between humanitarian assistance and social protection being provided to
+displaced populations (e.g. Gentilini et al. 2018; Long and Sabates-Wheeler 2017; Ulrichs and
+Sabates-Wheeler 2018; see Chapter 16). Yet to date, a comprehensive perspective on the role
+of social protection for refugees has been lacking.
+In line with this, the chapter focuses on social protection in the context of forced displacement. Section 23.2 sets out to first distinguish between the legal definitions of a refugee and an
+asylum seeker. Section 23.3 outlines the differing social protection rights for both classifications. This is done with an underlying supposition that inclusivity depends on a state’s capacity
+and national legal implementation, along with the support provided by international actors
+for refugees to access some form of social protection. Section 23.4 specifically delineates
+between the contexts of LICs and MICs versus Europe. It illustrates that access for refugees
+to social protection varies and depends on a multiplicity of factors, including the host country’s legal framework, the maturity of the social protection system in place and the ability to
+incorporate shock-responsive social protection (SRSP) mechanisms within social protection
+programming. Finally, Section 23.5 reflects on success factors and mechanisms for integrating
+refugees in social protection systems, and further explores possible linkages between social
+protection and humanitarian aid in different contexts.
+
+23.2
+
+A RIGHTS-BASED APPROACH TO SOCIAL PROTECTION
+FOR REFUGEES
+
+The right to social protection is dependent on the legal status of the individual being a refugee
+or an asylum seeker.
+23.2.1
+
+Classification of Refugee and Asylum Seeker
+
+An asylum seeker is a person who is in the process of being recognised as a refugee by
+national authorities, with, if necessary, support by the United Nations High Commissioner
+for Refugees (UNHCR). During the procedure of status recognition, a person may be granted
+temporary residence and protection while awaiting the decision.
+The legal definition underlying the concept of a refugee is mainly shaped by the 1951
+United Nations (UN) Convention Relating to the Status of Refugees and its 1967 Protocol
+Relating to the Status of Refugees. Under Article 1(A)(1), a refugee is a person who ‘owing to
+a well-founded fear of being persecuted for reasons of race, religion, nationality, membership
+of a particular social group or political opinion, is outside the country of his nationality and is
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+412
+
+Handbook on social protection systems
+
+unable, or owing to such fear, is unwilling to avail himself of the protection of that country’.
+Under the Refugee Convention, a refugee has access to the rights stipulated in the convention
+as well as those indicated in the national law of the host country. While the status of refugee is
+based on an individual’s claim to asylum, sometimes, due to the nature of conflict, displaced
+persons from the same country may receive prima facie refugee status.4
+By 2015, only 148 out of 196 countries had ratified the 1951 Convention and/or the 1967
+Protocol (UNHCR 2015a). However, the UNHCR may have put in place a Memorandum of
+Understanding with the respective host governments that are not signatory to the convention to
+at least protect the right of non-refoulement, i.e. forcible return to the country of origin. In such
+a case, refugees are primarily dependent on the national law of the host country.
+The above definition is widely adhered to. However, in certain regional contexts, an even
+broader definition has been adopted. In 1969, the Organisation of African Unity expanded
+its understanding of a refugee in the Convention Governing the Specific Aspects of Refugee
+Problems in Africa to include any ‘person who, owing to external aggression, occupation,
+foreign domination or events seriously disturbing public order … is compelled to leave his
+place of habitual residence in order to seek refuge in another place outside his country of origin
+or nationality’ under Article 1(2).
+Further, the 1984 Cartagena Declaration in Latin America expanded the definition of refugees to those ‘who have fled their country because their lives, safety or freedom have been
+threatened by generalised violence, foreign aggression, internal conflicts, massive violation of
+human rights or other circumstances which have seriously disturbed public order’.
+An exception pertains to Palestinian refugees residing in the Levant. As per Article 1(d) of
+the 1951 Convention, they are not eligible to receive support from the UNHCR and fall under
+the responsibility of the UN agency for Palestinian Refugees in the Near East (UNRWA).5
+This led to some additional challenges in recent crises, for example for the Syrian Palestinians
+who fled to Jordan or Lebanon fall under UNRWA responsibility rather than UNHCR.
+23.2.2
+
+The Right to Social Protection
+
+From a rights-based approach to social protection, social protection rights were initially
+granted to all individuals, citizens and non-citizens under Articles 22 and 23 of the Universal
+Declaration of Human Rights (see Chapter 9). While the International Covenant on Economic,
+Social and Cultural Rights in particular holds for state-led interventions, refugees who have
+fled borders are still to be granted the right to social security, including social insurance, as
+per Article 9.
+
+In other words, a person who has fled no longer has the individual burden to provide a case for
+refugee status but rather ‘on the basis of readily apparent, objective circumstances in the country of
+origin’, displaced persons are recognised to fall within the criteria of refugee status (UNHCR 2015b).
+5
+For reference of the precise definition of Palestinian refugee, please refer to the Consolidated
+Eligibility and Registration Instructions (UNRWA 2010).
+4
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+Refugees and social protection 413
+Table 23.1
+
+Rights to social protection under the 1951 Refugee Convention
+
+Article
+
+Right
+
+Condition
+
+20
+
+Rationing system
+
+Same treatment as nationals
+
+21
+
+Housing
+
+As favourable as possible and not less favourable than that of aliens
+
+22(1)
+
+Elementary education
+
+Same treatment as nationals
+
+22(2)
+
+Higher levels of education and the
+
+As favourable as possible and not less favourable than that of aliens
+
+recognition of certificates and degrees
+23
+
+Public relief and assistance
+
+Same treatment as nationals
+
+24(1)
+
+Working conditions and social security
+
+Same as nationals provided that appropriate arrangements are in
+place for the acquis of rights or national laws prescribe special
+arrangements for pension
+
+Source: Authors’ own based on the 1951 Refugee Convention.
+
+The Committee on Economic, Social and Cultural Rights stated in General Comment No. 19
+that this encompasses:
+the right to access and maintain benefits, whether in cash or in kind, from (a) lack of work-related
+income caused by sickness, disability, maternity, employment injury, unemployment, old age, or
+death of a family member; (b) unaffordable access to health care; (c) insufficient family support,
+particularly children and adult dependents. (2008, para. 2)
+
+Regardless of status, all individuals should have access to a minimum standard of
+non-contributory social assistance equally and without discrimination (Sepúlveda and Nyst
+2012; Committee on Economic, Social and Cultural Rights 2008, see also Chapter 9); thus,
+by default, this includes refugees and asylum seekers which under para. 31 of the General
+Comment are amongst those groups that should be granted special attention. While refugees
+and asylum seekers may not immediately be able to benefit from social insurance schemes as
+this would require prior payment of contributions (see Chapter 3), they should in fact enjoy
+equal treatment with regards to access to non-contributory schemes (para. 38 of General
+Comment 19). This is in line with Article 8(1)(c) of the 1985 Declaration on the Human
+Rights of Individuals who are not Nationals of the Country in which They Live (UN General
+Assembly 1985). This article states that refugees should be granted the right to health protection, social security and education provided no undue strain is placed on the resources of the
+state and the person meets the requirement as per the legislation in place (see Chapter 9).
+The 1951 Convention makes specific reference to the right to social protection in Articles 20
+to 24. The extent to which refugees are entitled to rights depends on the conditions mentioned
+within the article – see Table 23.1. Regardless, while the Convention has been signed by the
+majority of UN member states, several countries have put in place reservations with regards
+to certain rights, sometimes on the ground that these rights are only limited and available to
+citizens themselves.6 While the equitableness of this stance could be arguable from a human
+rights perspective, it is enduring from a legal standpoint, as countries are at liberty to ratify
+conventions with reservations.
+
+For an overview of the reservations per country, please refer to www​.unhcr​.org/​protection/​
+convention/​5d9ed32b4/​states​-parties​-including​-reservations​-declarations​-1951​-refugee​-convention​
+.html.
+6
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+414
+
+Handbook on social protection systems
+
+While the right to social security, including social assistance, is seemingly guaranteed in
+international law, the effective access of refugees and asylum seekers to social protection
+is dependent on national law and regional law instruments. In principle, the host state bears
+the primary responsibility to provide these rights. However, in practice, social protection
+provisions tend to be exclusive to citizens and residents of a particular state, and often exclude
+non-citizens (Weissbrodt 2008). This type of exclusion from national provisions is manifested
+in most LICs and MICs, whereas in high-income countries, despite the different ways refugees
+and asylum seekers are officially included in social protection provisions, exclusion could
+be a result of multiple considerations including discriminatory practices, political economy
+as well as limited resources. Hence, the international community and its influence becomes
+a major party in assisting host states and/or taking over part of their responsibility in providing
+for refugees.
+
+23.3
+
+POSITIONING REFUGEES IN THE DISCOURSE ON SOCIAL
+PROTECTION
+
+Before exploring how refugees can be integrated into social protection systems, it is useful to
+examine how they are included in the discourse on social protection in general. Alongside the
+humanitarian obligation of meeting the human rights and immediate basic needs of refugees,
+a key premise of the SDGs leaving no one behind is found in activating people’s agency as
+economic actors. This can arguably be achieved by adopting a transformative social protection
+approach, to move from a humanitarian aid position into the potential of human development,
+while incorporating protective, preventive and promotive elements of social protection (see
+Chapter 1).
+Tapping into the refugees’ agency as economic actors and supporting their capacity (see
+also the Global Compact on Refugees (UN General Assembly 2018)) requires further examination of the right to work. While recognising that the ability to engage in formal work is
+essential to be able to contribute to and benefit from national social insurance schemes, this
+right is often curtailed (Zetter and Ruaudel 2016). Article 2(3) of the International Covenant
+on Economic, Social and Cultural Rights allows LICs and MICs to curtail the right to work
+of non-nationals depending on the strength of the national economy. While in developed
+countries, refugees should enjoy the same opportunity to work as nationals under Article 17
+of the 1951 Convention, some limitations can still be put in place. According to the Reception
+Conditions Directive of the European Union (EU), asylum seekers should be granted equal
+access to the labour market no later than nine months after they have started the asylum procedure in the destination country unless they themselves are responsible for the delay (Poptcheva
+and Stuchlik 2015).
+In practice, refugees in LICs and MICs continue to face limited access to labour markets as
+well as encampment policies (Jacobsen 2002, 2014; Long and Sabates-Wheeler 2017), which
+in turns increases their vulnerability and results in the so-called dependency on aid. This,
+together with an increased competition on the (in)formal labour market and increased rent and
+food prices, contributes to increased tensions within host communities (e.g. Lakhani 2013;
+Turner 2015). By extending the coverage of national social protection programmes to refugees, part of the stigmatisation from the perspective of the host community can be addressed.
+Refugees would no longer sit aside as recipients of aid from various agencies as they are
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+Refugees and social protection 415
+incorporated under the national programme similar to the host community. Furthermore, if
+engaging in a transformative approach, issues pertaining to social exclusion and social equity
+can be addressed (Loewe et al. 2020 for the case of Jordan).
+
+23.4
+
+INTEGRATING REFUGEES INTO EXISTING SOCIAL
+PROTECTION SYSTEMS
+
+The international legal framework makes governments of host countries responsible for the
+provision of social protection to refugees but the extent to which they are able to include refugees depends on the social protection systems in place. The different social protection contexts
+in the host country tend to leverage the pathways forward (Long and Sabates-Wheeler 2017;
+Seyfert et al. 2019). From a transformative social protection perspective, the ideal social protection system for refugees would be highly shock-responsive and targeted at vulnerabilities
+during different stages of the life cycle. This type of system would comprise flexible social
+protection, active labour market policy, skills provision, social inclusion and integration.
+States with strong social protection systems may prefer including refugees over developing
+parallel programmes or shadow alignment (Long and Sabates-Wheeler 2017). Presently, the
+majority of refugees who find themselves in neighbouring host countries are located in LICs
+and MICs. These countries tend to have fragmented or nascent social protection systems,
+which are mainly aimed at helping households to cope with risks and providing shelter, cash
+transfers and food aid.
+As further explained below, the potential for building upon existing state-led social protection programmes for refugees stems from two aspects. First, the fact that many social protection programmes in the European context are under increasing strain and face the maturity of
+their schemes. Second, the different SRSP mechanisms that may be utilised to set up social
+protection systems for refugees if the host country’s social protection systems lack inclusivity,
+as for example in LICs and MICs. In such cases, the role of international actors should be
+considered from a pathway perspective.
+23.4.1
+
+The European Context
+
+Within the EU, the extent to which refugees and asylum seekers have access to social protection services is largely shaped by national and European law. The majority of European
+countries have ratified fully or at least partially the European Social Charter from 1996 – 33
+countries in total (see also European Union Agency for Fundamental Rights and European
+Court of Human Rights 2015). The extent to which the national law covers also non-citizens
+depends partly on the strength of the citizenship paradigm7 in place (Kidd 2017) as well as the
+comprehensiveness and type of the respective welfare regime.
+To understand which social protection tools are accessible within the various European
+countries, it is crucial to differentiate between asylum seekers and refugees. Refugees should
+be largely treated as equal to citizens. If there is any exclusion of refugees in accessing certain
+A citizenship paradigm is characterised by three components. First, it sees social protection as
+a redistribution of the public good. Second, it takes an inclusive, life-cycle approach to social protection.
+And third, it places citizens or those legally resident in the country as right holders (see also Kidd 2017).
+7
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+416
+
+Handbook on social protection systems
+
+rights, the justification for this therefore needs to be done vigilantly to avoid an issue of
+discrimination on grounds of nationality under EU law. An asylum seeker, on the other hand,
+is not necessarily eligible to social protection other than the material conditions defined by
+Article 17 of the Receptions Conditions Directive.8 This may be in the form of in-kind cash.
+If in the form of financial allowance, the concrete amount is determined by the respective
+member state. The comparative case study by Poptcheva and Stuchlik (2015) underlines this as
+in the various countries, asylum seekers may receive a monthly or daily amount that may differ
+between whether someone resides in a reception centre or not (cf. Bulgaria where someone
+outside a reception centre is no longer eligible for cash assistance versus Germany where
+asylum seekers both in and outside reception centres are eligible for subsistence allowance
+albeit different amounts). Refugees, on the other hand, are entitled by Article 29 of the revised
+Qualification Directive, as well as Article 11(1)(d) of the Long Term Residents Directive,
+to social assistance that is similar to the one given to nationals (European Union Agency for
+Fundamental Rights and European Court of Human Rights 2015; Poptcheva and Stuchlik
+2015).
+Overall, the responsibility for the provision of social protection within the EU largely falls
+to the state. The comparative case study on seven different EU member states9 highlights how
+the state’s welfare regime in place (including its corresponding laws) greatly influences access
+for refugees and asylum seekers with differing coverages depending on the country context
+(see Poptcheva and Stuchlik 2015). While most states within Europe have sought to include
+refugees and asylum seekers in social protection systems to some extent, exceptions prevail.
+One exception is Greece, where refugees and asylum seekers have only limited access to social
+assistance, although this is arguably not in line with the legal provisions of the EU and results
+from the limited capacity of the national social protection system (Sitaropoulos 2002).
+In the case of Greece, the role for non-state actors becomes important in realising a decent
+level of well-being for refugees and, thus, is more similar to the situation in LICs and MICs, as
+the next section seeks to set out. Cash assistance to refugees is provided through international
+agencies, such as the UNHCR. The Greece Cash Alliance, for example, aims at covering the
+costs of basic food, transport, communication, school materials and medicine, clothing and
+hygiene products. Its objective is to prevent asylum seekers from unsustainable coping strategies such as child labour. Moreover, it seeks to integrate refugees into local communities by
+providing them with cash instead of in-kind support that allows them to spend it on the local
+markets (UNHCR 2017) with positive effects on local economic development (Loewe et al.
+2020). Eligibility for the cash transfer is conditional upon having the necessary registration
+documents, being unemployed as well as living in designated areas (UNHCR 2017). However,
+this faces the challenge that if someone is settled outside the designated areas that person is not
+eligible. Thus, the way the programme is shaped risks excluding certain groups, which would
+be amongst the most vulnerable.
+
+8
+The Qualification Directive (2011), Asylum Procedure Directive (2013), Reception Conditions
+Directive (2013), Dublin III regulation (2013) and EURODAC Regulation (2013) are all part of the
+Common European Asylum System that sought to equalise the treatment of asylum seekers among EU
+member states (Poptcheva and Stuchlik 2015).
+9
+The study was conducted on Bulgaria, France, Germany, the Netherlands, Poland, Spain and
+Sweden.
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+Refugees and social protection 417
+23.4.2
+
+Low-Income and Middle-Income Countries and the Role of Shock-Responsive
+Social Protection
+
+The previous section highlighted the extent of the social protection coverage for refugees
+depending both on the legal framework and social protection system in place. In LICs and
+MICs, the extent to which refugees and asylum seekers are included in national social protection systems is even more complex. South Africa is one of the few cases where refugees are
+legally entitled to some social protection benefits generated by the programmes that are meant,
+first of all, to cover nationals. However, this right for refugees is largely on paper because, in
+practice, few government social workers know about it and, hence, often refuse the provision
+of due services to non-nationals (Makhema 2009; see Case Study G).
+This country example aside, in most countries limited efforts have been explicitly made
+to include refugees in national social protection programmes. In these cases, provision by or
+collaboration with other actors may be preferred as countries may be reluctant to either take on
+the financial burden of including non-nationals particularly with an eye on the open-endedness
+of a conflict, or to avoid pressure on already weak social contract structures (see also Jawad et
+al. 2018; Seyfert et al. 2019). UNHCR, other intergovernmental organisations, development
+agencies and non-governmental organisations (NGOs) may assist the government in providing
+assistance. As a result, there is a tendency to rely on short-term programming with limited
+funding (see also Makhema 2009; Long and Sabates-Wheeler 2017). Humanitarian aid has
+moved more and more towards cash-based interventions (Cash Learning Partnership 2018;
+UNHCR 2016). This not only allows for integration in the local markets and provides refugees
+with an element of choice, but moreover may indirectly affect psychological well-being and
+contribute to social cohesion, as other case studies indicate (Hagen-Zanker et al. 2017; Loewe
+et al. 2020; Valli et al. 2019). It additionally has the potential to allow for ease of integrating
+the cash transfer systems into regular social protection in the longer term.
+Taking a durable perspective, the current academic debate centres around bridging the
+humanitarian–development nexus. In case of social protection, this tends to focus on the alignment between humanitarian programming and national social protection systems (cf. Gentilini
+et al. 2018; Nimeh et al. 2020; Ulrichs and Sabates-Wheeler 2018). SRSP mechanisms such
+as piggy backing, horizontal expansion or shadow alignment10 are seen as a pathway forward
+(see Chapter 16; Oxford Policy Management 2015; O’Brien et al. 2018). Their advantage is
+that these mechanisms allow for more flexibility in response to the effects of crises on people’s
+well-being, and potentially avoid duplication of efforts (Long and Sabates-Wheeler 2017;
+O’Brien et al. 2018; Ulrichs and Sabates-Wheeler 2018). And while the social protection programme put in place for refugees may combine components from various SRSP mechanisms
+rather than preferring one model over another, as Ulrichs and Sabates-Wheeler phrased it:
+‘[the] question is … not necessarily how to move from short- to long-term support, but rather
+how to put in place sustainable structures and systems that can deliver both depending on the
+needs’ (2018, 16).
+
+Piggy backing is a programming response that uses parts of the existing system while providing
+a new programme. Horizontal expansion occurs when new beneficiaries are included in existing systems
+for a limited period of time. Shadow alignment is the development of a parallel system that is aligned to
+existing or future social protection systems. For a typology overview of the different shock-responsive
+mechanisms, we refer to table 4 in O’Brien et al. (2018, 40–1).
+10
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+418
+
+Handbook on social protection systems
+
+For example, Turkey’s Emergency Social Safety Net Programme (ESSN), which was
+launched in 2016, is a multi-purpose cash assistance scheme for 1.4 million refugees and
+asylum seekers that enables people from both groups to meet their basic needs. Also, the
+Conditional Cash Transfer for Education (CCTE) scheme directed towards Afghan and Syrian
+refugees was launched in 2017 enabling Afghan and Syrian children to have access to public
+schooling (International Labour Office and UNICEF 2019; Smith 2017). This scheme is an
+extension of the national CCTE for Turkish citizens by the Ministry of Family and Social
+Policies and is able to build on the existing national programme’s rules and implementation
+structures (Smith 2017; Capacity4DEV 2017). As such, the CCTE programme can be seen as
+both a horizontal expansion as well as piggy backing on the national system. The Emergency
+Social Safety Net Programme, however, would be part of a parallel system that is run by
+non-governmental actors – the International Federation of Red Cross and Red Crescent
+Societies, the Turkish Red Crescent Society – in collaboration with Turkish government
+institutions.
+23.4.3
+
+International Responsibility When the Provision by the State Is Lacking
+
+While ideally from an integration perspective state-led social protection may be preferred, this
+is not always the optimal approach. Delivering assistance through a state-led social protection programme may not only jeopardise the four main humanitarian principles – humanity,
+neutrality, impartiality and independence (Ulrichs and Sabates-Wheeler 2018) – but also may
+not fulfil the humanitarian basic needs requirements. Budget constraints and social tensions
+within the host community may result in governments refraining from including refugees in
+the national system. Further, refugees may feel unable to raise complaints and appeals with
+government authorities, thus excluding them more from society (Seyfert et al. 2019).
+Recognising that different actors may be involved in the process of delivering social protection services to refugees in countries where the state is not the main provider, a closer examination is required of their interaction. As can be observed in Table 23.2 (for definitions please
+refer to Chapter 16), within each mechanism under the SRSP different actors may be involved
+in each stage of implementation. The strength of the system determines to what extent a social
+protection programme can fully develop and to what extent changes in national regulations
+and legislation may be required (Seyfert et al. 2019). This may depend on the administrative
+capacity and enabling environment in place (see for example Ovadiya et al. 2015).
+While piggy backing would come closer to a state-led social protection programme as it
+utilises the national system, shadow alignment may be seen as a more beneficial mechanism to
+host government and NGOs in countries with a less mature social protection system. Shadow
+alignment like piggy backing is a standalone response; yet, it is aligned to existing or future
+programmes in place. It could be a stepping stone from humanitarian programming in the short
+term to more long-term sustainable integration into national-led programming (as also argued
+by Nimeh et al. 2020 and Seyfert et al. 2019). The better prepared development partners are
+prior to the outbreak of a crisis in terms of understanding the social protection systems in
+place, the more likely a government can utilise these mechanisms to adapt in times of crisis
+(Smith 2017; Nimeh et al. 2020).
+By utilising existing administrative systems and processes in place and by strengthening
+national systems, a longer-term perspective may be achieved. The challenge remains how
+to set up parallel systems in a way that is to the benefit of both refugees and host commu-
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+Refugees and social protection 419
+Table 23.2
+
+Main actors responsible for each paragraph
+
+Delivery approaches
+
+Shadow alignment
+
+Piggy backing
+
+Financing
+
+Donors
+
+Donors and in-kind contribution Government or donors
+
+National-led systems
+
+Legal and policy framework
+
+NGOs and donors
+
+Line ministries and UN
+
+Line ministries
+
+Setting eligibility criteria and
+
+NGOs, in coordination with
+
+Line ministries and
+
+Line ministries
+
+from government
+
+qualifying conditions
+
+donors
+
+implementers
+
+Setting transfer type, level,
+
+Implementing agencies
+
+Line ministries and
+
+frequency, duration
+
+Line ministries
+
+implementers
+
+Governance and coordination
+
+Steering committee (UN, NGOs Steering committee (UN, NGOs Line ministries, potentially
+
+Outreach
+
+NGOs
+
+and government line ministries) and government line ministries) senior cabinet
+Government or humanitarian
+
+Line ministries and regional
+
+actors
+
+social protection offices
+
+Registration
+
+NGOs or UNHCR
+
+National staff
+
+Regional social protection
+
+Enrolment
+
+NGOs, sometimes UN
+
+Government agencies
+
+Government agencies
+
+Payment
+
+Various third-party financial
+
+Payment provider of the
+
+Government financial provider
+
+providers or the payment
+
+government, with UN/NGO
+
+offices
+
+provider of the government
+
+support
+
+Case management
+
+NGOs or UN
+
+National mechanisms, with UN/ National mechanisms
+
+Complaints and appeals
+
+NGOS
+
+National mechanisms, with UN/ National mechanisms
+
+Protection
+
+NGOs, sometimes UN
+
+National social care services
+
+National social care services
+
+Vulnerability assessment
+
+NGOs, sometimes UN
+
+NGO hired by donors
+
+Government-led
+
+NGOs, sometimes UN
+
+Government data systems and
+
+Government data systems and
+
+capacity
+
+capacity
+
+NGO support
+NGO support
+
+measurement and
+monitoring and evaluation
+Information management
+
+Source: Authors’ own based on Seyfert et al. (2019).
+
+nities. Programmes directed at refugees may benefit from national-led structures, whereas
+programmes aimed at citizens of the host country may benefit from measures by international
+actors put in place for refugees.
+The case of Lebanon demonstrates nicely this interaction between programmes directed at
+refugees and social protection systems put in place for citizens. Multiple programmes were
+put in place to address the influx and impact of Syrian refugees. Simultaneously, UNICEF,
+the World Food Programme and the government of Lebanon initiated No Lost Generation, or
+Min Ila, in Lebanon. Cash assistance is conditional upon a Syrian child going to the afternoon
+shift at public primary schools. This led to an increase in attendance as families did not necessarily face foregone earnings as a result of a child attending school and not working. Thus,
+it limited negative coping strategies. Nonetheless, the success of the programme is dependent
+on supply-side capacity as constraints may limit the scope of impact on enrolment of Syrian
+refugees (de Hoop et al. 2019).
+At the same time, to address some of the tensions that arose between the host communities
+and refugees, the government of Lebanon, supported by the World Bank, temporarily scaled
+up the National Poverty Targeting Project in 2014. The scale up utilised the World Food
+Programme e-card food voucher system that had been put in place for the Syrians. The cash
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+420
+
+Handbook on social protection systems
+
+transfer was targeted at those households affected by the Syrian refugees (Gentilini et al.
+2018).
+Collaboration and partnership between various actors is thus key in developing the trajectory towards development-oriented programming that is aimed at contributing to a sustainable
+future for both refugees and host communities. The long-term perspective should be aimed at
+prevention and transformation.
+
+23.5
+
+CONCLUDING STATEMENT
+
+On an international level, two debates tend to prevail when it comes to the refugee as recipient
+of aid. First, the move towards self-reliance of refugees as the solution to aid dependency.
+Second, there is an increased debate on incorporating social protection mechanisms to derive
+a sustainable solution to overcome dependency on short-term humanitarian programming.
+These elements cannot be seen as separate from each other from a transformative social protection approach. Even though the right to work should be supported, this should be critically
+assessed alongside the right to social protection, including social insurance. The interlinkages
+between state-led social protection systems and those developed by international actors should
+therefore be explored in the move to include refugees in social protection.
+To conclude, the access for refugees to social protection varies dependent on the respective
+national legal framework, the existing social protection system, and subject to the national
+context and the ability to incorporate SRSP mechanisms within social protection programming. While under international law a large share of responsibility falls to host state actors,
+too often many international agencies such as the World Food Programme and UNHCR are
+needed to assist the host state in addressing the vulnerabilities that refugees face. The mechanism of shadow alignment may provide a tool that could benefit both refugees and national
+social protection programming. Only once this has been achieved can the goal to provide
+social protection for all by 2030 as set out under SDG 1 be accomplished.
+
+REFERENCES
+Brück, T., J. Cuesta, H. De Hoop, U. Gentilini and A. Peterman (2019). Social protection in contexts of
+fragility and forced displacement: Introduction to a special issue. Journal of Development Studies 55
+(1), 1–6.
+Capacity4DEV (2017). Expanding Turkey’s social protection systems to refugees. Europa Aid. https://​
+europa​.eu/​capacity4dev/​articles/​expanding​-turkeys​-social​-protection​-systems​-refugees
+Cash Learning Partnership (2018). The state of world’s cash report: Cash transfer programming in
+humanitarian aid. www​.cashlearning​.org/​downloads/​calp​-sowc​-report​-web​.pdf
+Christensen, A. and N. Harild (2009). Forced Displacement – The Development Challenge: Conflict,
+Crime and Violence Issue Note. Washington, DC: World Bank Group.
+Committee on Economic, Social and Cultural Rights (2008). General Comment No. 19: The right to
+social protection (art. 9).
+de Hoop, J., M. Morey and D. Seidenfeld (2019). No lost generation: Supporting the school participation
+of displaced Syrian children in Lebanon. Journal of Development Studies 55 (1), 107–27.
+DeVictor, X. (2019). 2019 update: How long do refugees stay in exile? To find out, beware of averages.
+World Bank Blogs. https://​blogs​.worldbank​.org/​dev4peace/​2019​-update​-how​-long​-do​-refugees​-stay​
+-exile​-find​-out​-beware​-averages
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+Refugees and social protection 421
+Doocy, S. and H. Tappis (2016). Cash-based approaches in humanitarian emergencies: A systematic
+review. 3ie Systematic Review Report 28.
+European Union Agency for Fundamental Rights and European Court of Human Rights (2015).
+Handbook on European Law Relating to Asylum, Borders and Immigration. Brussels, 1–278.
+ExCom (2004). Protracted refugee situations. UNHCR. www​.unhcr​.org/​40c982172​.pdf
+Gentilini, U., S. Laughton and C. O’Brien (2018). Human(itarian) capital? Lessons on better connecting
+humanitarian assistance and social protection. Social Protection and Jobs Discussion Paper 1802, 1–56.
+Hagen-Zanker, J., M. Ulrichs and R. Holmes (2017). Cash Transfers for Refugees: The Economic
+and Social Effects of a Programme in Jordan. London: Overseas Development Institute and Aya
+Consultancy.
+International Labour Office and UNICEF (2019). Towards Universal Social Protection for Children:
+Achieving SDG 1.3. New York and Geneva: UNICEF and ILO.
+Jacobsen, K. (2002). Livelihoods in conflict: The pursuit of livelihoods by refugees and the impact on the
+human security of host communities. International Migration 40 (5), 95–123.
+Jacobsen, K. (2014). Livelihoods and forced migration. In E. Fiddian-Qasmiyeh, G. Loescher, K. Long
+and N. Sigona (eds), The Oxford Handbook of Refugee and Forced Migration Studies. Oxford: Oxford
+University Press, 100–12.
+Jawad, R., N. Aboushady, H. Mansour, A. Coutts, N.B. Cheikh and S. Lupieri (2018). New directions
+in social policy in the MENA region: Country cluster study of Egypt, Jordan, Morocco, Oman and
+Tunisia. Geneva: UNRISD.
+Kidd, S. (2017). Citizenship or charity: The two paradigms of social protection. Pathways Perspectives
+on Social Policy in International Development 25, 1–11.
+Lakhani, S. (2013). Forced displacement: Moving from managing risk to facilitating opportunity.
+Background Note, World Bank. www​.openknowledge​.worldbank​.org/​handle/​10986/​16371
+Loewe, M., T. Zintl, J. Fritzenkötter, V. Gantner, R. Kaltenbach and L. Pohl (2020). Community Effects
+of Cash-for-Work Programmes in Jordan: Supporting Social Cohesion, More Equitable Gender Roles
+and Local Economic Development in Contexts of Flight and Migration. Bonn: German Development
+Institute.
+Long, K. and R. Sabates-Wheeler (2017). Migration, forced displacement and social protection. GSDRC
+Rapid Literature Review. Birmingham: University of Birmingham.
+Makhema, M. (2009). Social protection for refugees and asylum seekers in the Southern Africa
+Development Community (SADC). Social Protection Discussion Papers 906, 1–50.
+Merheb, N. and S. Loughna (eds) (2006). The State of the World's Refugees, 2006: Human Displacement
+in the New Millennium. Oxford: Oxford University Press.
+Newland, K. (2015). Rethinking Global Protection. Washington DC: Migration Policy Institute.
+Nimeh, Z.S., T. Kool, F. Iacoella and A. Huns (2020). Rethinking humanitarian aid: Making the case for
+humanitarian social protection. UNU-MERIT Working Paper No. 2020-053.
+O’Brien, C., Z. Scott, G. Smith et al. (2018). Shock-responsive social protection systems research.
+Synthesis Report. Oxford: Oxford Policy Management.
+Ovadiya, M., A. Kryeziu, S. Masood and E. Zapatero (2015). Social protection in fragile and conflict-affected
+countries: Trends and challenges. Social Protection Labour Discussion Paper 1502, 1–58.
+Oxford Policy Management (2015). Shock-responsive social protection systems research. Oxford. www​
+.opml​.co​.uk/​files/​Publications/​a0408​-shock​-responsive​-social​-protection​-systems/​wp1​-srsp​-concept​
+-note​.pdf​?noredirect​=​1
+Poptcheva, E.-M. and A. Stuchlik (2015). Work and Social Welfare for Asylum-Seekers and Refugees.
+Brussels: Members’ Research Office.
+Puerto Gomez, M. and A. Christensen (2010). The impacts of refugees on neighboring countries: A development challenge. World Development Report: Conflict, Security and Development. Washington, DC:
+World Bank.
+Sepúlveda, M. and C. Nyst (2012). The Human Rights Approach to Social Protection. Helsinki: Ministry
+for Foreign Affairs of Finland.
+Seyfert, K., V. Barca, U. Gentilini, M. Luthria and S. Abbady (2019). Unbundled: A framework for
+connecting safety nets and humanitarian assistance in refugee settings. Social Protection and Jobs
+Discussion Papers, 1935. Washington, DC: World Bank.
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+422
+
+Handbook on social protection systems
+
+Sitaropoulos, N. (2002). Refugee welfare in Greece: Towards a remodelling of the responsibility-shifting
+paradigm? Critical Social Policy 22 (3), 436–55.
+Smith, G. (2017). Linking cash transfer programming with national social protection systems in humanitarian settings. Social Protection after the Arab Spring, Special Issue of Policy in Focus, 14 (3), 48–50.
+Social Protection Inter-Agency Coordination Board (2016). Leaving no one behind: How linking social
+protection and humanitarian action can bridge the development–humanitarian divide. http://​pubdocs​
+.worldbank​.org/​en/​436341463577765630/​SPIACBstatementWHS​.pdf
+Turner, L. (2015). Explaining the (non-)encampment of Syrian refugees: Security, class and the labour
+market in Lebanon and Jordan. Mediterranean Politics 20 (3), 386–404.
+Ulrichs, M. and R. Sabates-Wheeler (2018). Social protection and humanitarian response: What is the
+scope for integration? IDS Working Paper 516, 1–24.
+UN General Assembly (1985). Declaration on the human rights of individuals who are not nationals of
+the country in which they live. UNGA Resolution 40/144 of 13 December 1985. www​.ohchr​.org/​EN/​
+P​rofessiona​lInterest/​Pages/​Huma​nRightsOfI​ndividuals​.aspx
+UN General Assembly (2018). Report of the United Nations High Commissioner for Refugees, Part II:
+Global compact on refugees. New York: United Nations.
+UNHCR (1951). The refugee convention, 1951.
+UNHCR (1967). Protocol relating to the status of refugees.
+UNHCR (1969). OAU convention governing the specific aspects of refugee problems in Africa.
+UNHCR (1984). Cartagena declaration on refugees.
+UNHCR (2015a). States parties to the 1951 convention relating to the status of refugees and the 1967
+protocol. http://​pubdocs​.worldbank​.org/​en/​4363414635777656
+UNHCR (2015b). Guidelines to international protection No. 11: Prima facie recognition of refugee
+status. www​.unhcr​.org/​publications/​legal/​558a62299/​guidelines​-international​-protection​-11​-prima​
+-facie​-recognition​-refugee​.html
+UNHCR (2016). UNHCR strategy for the institutionalisation of cash-based interventions 2016–2020.
+www​.unhcr​.org/​protection/​operations/​584131cd7/​unhcr​-strategy​-​institutio​nalisation​-cash​-based​
+-interventions​-2016​-2020​.html
+UNHCR (2017). The Greece Cash Alliance: Meeting basic needs through a harmonized partnership
+system for cash assistance. Geneva: UNHCR. www​.unhcr​.org/​5a14306a7​.pdf
+UNHCR (2019). Global Trends at a Glance. Forced Displacement in 2018. Geneva: UNHCR.
+UNRWA (2010). UNRWA consolidated eligibility and registration instructions. Department of Relief
+and Social Services, June 2006 (excerpts). Refugee Survey Quarterly 28 (2–3), 650–5.
+Valli, E., A. Peterman and M. Hidrobo (2019). Economic transfers and social cohesion in a refugee-hosting
+setting. Journal of Development Studies 55 (1), 128–46.
+Weissbrodt, D. (2008). The Human Rights of Non-Citizens. Oxford: Oxford University Press.
+Zetter, R. and H. Ruaudel (2016). Refugees’ right to work and access to labor markets: An assessment.
+KNOMAD Working Paper and Study Series.
+
+Tamara A. Kool and Zina Nimeh - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:34:08AM
+via William and Mary School of Law
+
+

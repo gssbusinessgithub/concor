@@ -1,0 +1,268 @@
+Night scene at Malioboro Street
+in Yogyakarta, Indonesia.
+
+Targeting
+THE POOR
+Developing economies face special challenges in delivering social protection
+Rema Hanna, Adnan Khan, and Benjamin Olken
+28
+
+FINANCE & DEVELOPMENT | December 2018
+
+AGE OF INSECURITY
+
+support is often important during initial program
+design and launch, but social protection can be
+funded primarily through domestic sources in
+the long run.
+As many of these countries increasingly initiate
+redistribution within their own borders, they are
+facing challenges different from those in high-income
+countries. Understanding these differences is critical
+to grasping how social protection has evolved over
+time, and how it may change in the future.
+
+December 2018 | FINANCE & DEVELOPMENT
+
+PHOTO: GETTY IMAGES/SIMONLONG
+
+M
+
+any people believe that social
+protection generally involves rich
+countries aiding those that are poor.
+Aid is important, particularly for
+extremely poor countries. Bad shocks can quickly
+devolve into humanitarian disasters and promote
+conflict in fragile states, as seen with the current
+famine in South Sudan, the incipient famine and
+cholera in Yemen, and the recent Ebola outbreak
+in Guinea, Liberia, and Sierra Leone.
+But for the 108 countries the World Bank classifies as “upper-middle” or “lower-middle” income—
+for example, India, Morocco, and Peru—overall
+tax revenue now dwarfs development assistance.
+Given that growth has been accompanied by
+increases in global inequality, it is not surprising
+that redistribution is increasingly taking place
+within countries. In these environments external
+
+In-kind subsidies
+The traditional way of providing transfers in many
+countries, and one that is still common today, is
+to subsidize particular products. Staple foods are
+one classic example. Energy is another.
+The rationale for this policy tool is simple. In
+developed economies, the government can use
+income information from tax documents and other
+sources to identify who needs assistance. In less
+developed settings, however, substantial activity
+occurs in the informal sector, particularly among
+the poor. There is no paper trail of who is employed
+and how much they earn—at least none that can
+be easily verified. Instead, governments aim to
+subsidize products the poor use disproportionately
+so that they get a larger portion of the subsidy.
+Subsidies tend to be politically popular for several reasons. The first is transparency; for example, with an energy subsidy, consumers see the
+subsidized price at the pump. A second is that
+since everyone benefits from subsidies, they may
+enjoy broader political support than programs that
+benefit only the poor. Finally, governments can
+claim that they influence what people consume;
+for example, subsidizing eggs or milk to ensure
+that kids get enough protein, rather than a cash
+subsidy the poor might waste on so-called temptation goods such as alcohol or tobacco.
+These arguments have not always been borne
+out in practice. For the poor to receive more of the
+subsidy calls for subsidization of what economists
+call “inferior goods,” goods whose demand decreases
+as people get richer—cassava when everyone prefers
+rice, low-quality food, and so forth. Subsidizing
+inferior goods is often unpopular; instead, most
+subsidies end up being for everyday goods—things
+people buy more of as they have more income. This
+29
+
+undermines redistribution, as these programs end up
+benefiting mostly the middle class, or even the rich.
+Picking up the tab for more popular goods also
+makes subsidies expensive. Energy subsidies are
+a classic example. Since everyone can access the
+subsidy, it must be quite large in order to ensure
+that the poor get a reasonable share, and in most
+cases many of the benefits accrue to the middle
+class, not the poor. In fact, spending is already so
+high for these subsidies that the amount governments would save by eliminating energy subsidies
+in emerging market and developing economies
+exceeds what many of them spend on public health.
+Subsidies also have distortionary consequences.
+Energy subsidies, for example, have serious environmental ramifications. Subsidizing particular foods,
+such as rice, can backfire in terms of achieving balanced nutrition. And the idea that the poor waste
+cash by spending it largely on so-called temptation
+goods has been debunked many times, undermining
+much of the rationale for trying to influence what
+people spend the money on in the first place.
+Given the cost and distortionary consequences of
+blanket subsidies, many countries fix the quantity
+of subsidized goods each household can receive, and
+potentially restrict them to poor households. This,
+however, introduces a host of other challenges, such
+as building a bureaucracy to distribute the goods
+and monitor who receives them and how much.
+These systems are generally subject to significant
+corruption and leakage, given the challenges in
+managing them.
+
+Reaching the right households
+For these reasons, developing economies are
+moving away from universal (or limited) in-kind
+subsidies and transfers to the poor and toward
+targeted cash transfers of various types. Cash is
+neutral and thus does not distort what people
+purchase. Moreover, evidence suggests that the
+labor-supply consequences of cash transfers are
+small—that is, these programs do not seem to
+discourage work, often a concern when it comes
+to transfer programs. Finally, as an additional benefit, cash transfers can be used as a fiscal stimulus
+to smooth negative macroeconomic shocks by
+distributing money directly to poor households
+that have a high marginal propensity to consume.
+30
+
+FINANCE & DEVELOPMENT | December 2018
+
+Targeted cash transfer programs are already widespread in developed economies. For example, the
+United States provides poor working families with
+cash through the Earned Income Tax Credit. The US
+government can do this because the tax system makes
+it possible to verify which households are poor, and
+the formal banking system has effective mechanisms
+to ensure that the poor receive the transfers.
+In contrast, many developing economies face
+challenges in both targeting and distribution.
+The informality of the workforce means that
+few people are captured by the tax system, so it
+is hard to verify income. And many households
+remain unbanked, so transferring funds to them
+is logistically difficult.
+These challenges are daunting, but developing
+economies are finding ways to overcome them.
+First, there are alternate methods to target transfers to the poor. A common approach is the “proxy
+means test.” Governments predict income using
+data from periodic, large-scale quasi censuses of the
+population that collect information on easy-to-verify
+assets (such as the material of a household’s roof
+and floor) and demographics. Households with a
+predicted income below a given threshold receive
+benefits for a set period of time (for example, until
+the next census is conducted).
+These methods can be quite effective at achieving redistribution. For example, in recent work,
+we compared what would happen if transfers
+went to those deemed eligible based on the proxy
+means test compared with what would happen
+if the same budget were simply divided equally
+among everyone (via a universal cash transfer,
+also known as universal basic income) for two
+programs in Indonesia and Peru.
+Even though targeting through proxy means testing has its flaws, we find that it yields higher overall
+welfare than the universal transfer, because means
+testing concentrates benefits among the poor. Put
+another way, per-beneficiary transfers would have
+to be much smaller for universal programs than for
+targeted transfers, usually because of overall budget
+constraints and competing priorities for government
+spending (for example, infrastructure development,
+education, and so forth). In fact, only in the case
+of significant targeting error would the universal
+transfer come out ahead.
+
+AGE OF INSECURITY
+
+And although the administrative costs of proxy
+means testing may seem high given all the data
+collection, the survey costs are minuscule compared
+with the amount they save by reducing the number
+of rich people who receive transfers.
+Of course, there are always exceptions. When
+income inequality is extremely high—there is a large
+pool of very poor people and a small number of very
+rich people—a universal transfer may look more
+attractive. Likewise, if poverty is temporary, proxy
+means testing, which targets the long-term average
+of past income, may allow the poor to fall through
+the cracks. Moreover, errors in targeting that do
+occur with proxy means tests also generate inequality
+among equally poor people, and limits on subsidies
+to the middle class can generate political strife.
+But additional methods—from including communities in the process to on-demand application—
+have been shown to improve targeting along various
+dimensions, including program satisfaction and more
+flexibility in the timing of identification. For example,
+if communities verify the final list of beneficiaries,
+excluded households can be added. Instead of visiting
+all households for the proxy means survey, households
+that believe themselves eligible could enroll at an
+office; only those close to the eligibility threshold
+would need home verification. Supplementing a proxy
+means test with these additional approaches could
+help resolve some of the challenges of targeting.
+How can the cash be distributed? Banking systems
+and technology are changing rapidly in many developing economies, reducing leakage in cash distribution.
+Recent studies show that modern banking technology—
+biometric smart cards—can help dramatically reduce
+corruption in cash transfer programs. As mobile
+money continues to gain prominence, it will likely
+play an increasing role in delivering transfers.
+
+Increasing capacity
+How can developing economies further improve
+their capacity to deliver social protection?
+• Strengthen the tax system: Compared with developed economies, lower-income countries collect
+a smaller fraction of GDP and subsequently face
+greater budget constraints. But, without sufficient
+government funds, redistribution is impossible.
+As more people are covered by the relevant tax
+authority, taxation can become more progressive.
+
+• Develop clear identification systems: In an example we studied, one of the biggest challenges to
+enrollment within a government health insurance
+program was a lack of a functioning identification
+system to track people. A clear and well-functioning
+identification system is an essential foundation for
+social protection systems.
+• Invest in effective targeting: Identifying beneficiaries for targeted transfer programs calls for
+up-front investment to develop targeting that
+minimizes both rent seeking and the degree to
+which poor households are excluded. The sticker
+price for these systems may seem high, but it
+pales in comparison with the transfers being
+paid. Spending 1 or 2 percent of the cost of the
+transfers on better targeting can make a huge
+
+The amount governments would
+save by eliminating subsidies
+exceeds what many of them
+spend on public health.
+difference in the degree to which the programs
+improve welfare for the poor.
+• Improve access to banking: With new banking technology, especially mobile banking, there is an opportunity to improve the distribution of cash transfers.
+But it will take careful planning—from the types of
+technology that are feasible to ways to help the poor
+access and understand this technology.
+• Recognize that a variety of approaches may be
+needed: Although the focus of this article is mostly
+anti-poverty programs, insurance programs—for
+example, pensions and unemployment benefits—
+are also an important component of redistributive
+systems, helping households minimize risk that
+could distort their behavior.
+REMA HANNA is the Jeffrey Cheah Professor of South East Asia
+Studies at Harvard University’s Kennedy School of Government,
+ADNAN KHAN is research and policy director of the
+International Growth Centre at the London School of Economics
+and Political Science, and BENJAMIN OLKEN is professor of
+economics at the Massachusetts Institute of Technology.
+December 2018 | FINANCE & DEVELOPMENT
+
+31
+
+

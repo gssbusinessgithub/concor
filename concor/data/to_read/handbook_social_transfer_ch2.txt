@@ -1,0 +1,816 @@
+2.
+
+Social transfers
+Esther Schüring
+
+2.1
+
+INTRODUCTION
+
+Social transfers are on the rise in the Global South but they have also been in the centre of
+discussion in the Global North as an attractive instrument to buffer new risks and uncertainties
+in a changing world. They have experienced a dramatic change since the beginning of the
+new century, starting off as a revolutionary programmatic intervention in countries such as
+Mexico and Brazil or as a fledgling pilot programme in countries such as Zambia, Kenya and
+Malawi. They have now become a standard intervention across the globe, a truly global social
+policy as Hickey and Seekings (2019, 249) coined it. This global trend has been facilitated by
+donors’ strive to move away from ever recurring humanitarian actions, by increased pressure
+on donors to show aid effectiveness with the money finally reaching the most vulnerable as
+well as by international concerted actions such as the United Nations initiative of a global
+social protection floor. The policy refocus through the Millennium Development Goals
+and Sustainable Development Goals initiatives to fight the multiple dimensions of poverty,
+a growing realization that extreme poverty was not simply being eradicated through economic
+growth and the occurrence of pandemics such as HIV/AIDS, economic crises and increasing
+disaster shocks, equally propelled change.
+Whereas social transfers are often the first institutionalized layer of protection for the majority of the population in many low- and middle-income countries, social transfers in terms of
+family support and rights-based social assistance were only integrated into the Western welfare
+state after World War II (Leisering 2019, 68), once statutory coverage of health, old age and
+accidents for the workforce had been guaranteed. Social transfers in the form of social assistance were initially seen as a transitory component in many Western welfare states, one that
+would vanish with a more stable economy and people being in employment. Up to this point,
+even the more mature welfare states have come to notice that social assistance has not obviated
+itself, even though it has been subject to different reforms over time, in particular in reaction
+to shocks such as the financial crisis in 2008 (ILO 2017). The COVID-19 crisis will also leave
+important footprints in this regard. Social transfer schemes in the West have generally become
+more selective and punitive over time, turning universal programmes into means-tested
+support and tying minimum income benefits to stricter conditions. Another reform option that
+countries worldwide have discussed though more recently is a universal basic income grant,
+a transfer without any strings attached (see Case Study B). Different reform scenarios have
+been tested but political commitment towards a national roll-out has been scant.
+While social transfers have been (re)discovered and increasingly proven by evidence as
+a suitable social protection instrument in contexts marked by informality and/or non-standard
+labour market relations, there is a need for greater clarity when it comes to the core functions
+of social transfers, their place in the overall social protection systems, the critical design
+parameters and ways to sustain social transfers over time. This chapter therefore starts off by
+presenting a conceptual framework for social transfers that highlights the various functions
+40
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+Social transfers
+
+41
+
+and forms that social transfers can assume. It continues by placing social transfers into the
+overall social protection system and reviewing whether social transfers are an integral or subsidiary instrument. This is followed by a discussion of the different design parameters as well
+as the evidence base on social transfers, which is meant to guide policy decisions. The chapter
+concludes by reflecting critically on what it takes to sustain social transfers in the future.
+
+2.2
+
+CONCEPT
+
+Social transfers encompass a wide array of transfers with different functions and features,
+almost too wide to do justice to in a single chapter (see Chapter 1, Figure 1.4). A common
+definition is that social transfers are regular, reliable, state-provided, non-contributory transfers whose main function is to prevent poverty and help mitigate vulnerable phases in life. It
+is widely accepted that social transfers are paid irrespective of someone’s employment and
+contribution history and that they are not provided as a charitable hand-out but as a binding
+and reliable transfer by the state. Controversies arise, however, when it comes to the main
+function, the duration of benefits and the scope of interventions covered. Those features are
+now discussed in greater detail and a categorization of tax-financed transfers is attempted.
+2.2.1
+
+Main Function
+
+Social transfers are often synonymously used for social assistance and social safety nets,
+which in other handbooks on social policy represent the other main component of a social protection system next to social insurance. It is therefore not surprising to find in most definitions
+(Frazer and Marlier 2016, 5–6; Midgley 2019, 352; UNDP 2019, 53) a clear focus on poverty
+and on providing means-tested assistance. Social transfers in this definition are deliberately
+selective and not universal in nature. Other definitions (UNDP 2019, 26; World Bank 2018)
+allow for a broader definition of social transfers aiming to help people in vulnerable phases
+of their life, irrespective of their capacity to handle this risk, such as social pensions or child
+grants that are not means tested.
+Social transfers differ in those definitions with respect to their main function and, with it, in
+their normative basis for providing the transfer and in the principles for targeting and paying
+benefits. It is therefore important to clearly distinguish between different types of social transfers (Table 2.1).
+Tax-financed transfers can be broadly categorized into three different models:
+1. ‘Universal’ programmes are available to all citizens such as a universal health service,
+a universal basic income grant or ‘quasi-universal’ programmes which are available to
+all members of a group regardless of their financial means. Transfers are provided on the
+basis of citizenship and the transfer, which is uniform, mainly serves an insurance function.
+Citizens know that when confronted with the typical life-cycle risks such as having a child
+or being elderly, they have better means of managing.
+2. Social assistance is available to those in society who lack the necessary means to cope.
+Transfers are provided on the basis of need with the aim to reduce poverty and ensure that
+every citizen in society receives a socially defined minimum. What this minimum entails
+differs across societies. Some mainly consider the necessary means to survive whereas
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+42
+
+Handbook on social protection systems
+
+others pursue a more multi-dimensional concept of poverty that also factors in access to
+education, health and critical social services. Even more ambitious are those who expect
+that the transfer should be economically empowering and transformative so that the
+minimum is not undercut in the future (see Chapter 14).
+3. Allowances offer compensation for victims of war for instance or additional benefits to the
+public sector. This is not usually a category which is prioritized in low- and middle-income
+countries but it has played a role in the reintegration of ex-combatants in Congo or, more
+recently, when it comes to compensating civil servants for COVID-19-related duties in the
+Philippines (Gentilini et al. 2020). It is paid on the basis of merit to reward efforts for the
+general public. Either a pre-fixed minimum or a benefit equivalent to previous income is
+paid out.
+Table 2.1
+
+Categorization of tax-financed social transfers
+
+Models of tax-financed
+
+‘Universal’ programmes
+
+Social assistance
+
+Allowances
+
+transfers
+Child benefit, social pension,
+
+Examples
+
+Means-tested benefits
+
+national health service
+
+Function
+
+Insurance
+
+Poverty
+
+Compensation for war victims,
+benefits for the public sector
+Public reward
+
+Targeting principle
+
+Categorical/universal
+
+Selective
+
+Categorical
+
+Normative basis
+
+Citizenship
+
+Need
+
+Merit
+
+Benefit rate
+
+Uniform
+
+Individualized, minimum
+
+Equivalence or minimum
+
+Benefit type
+
+Income supplements
+
+Measures to lower the price for goods
+and services
+
+Cash transfers
+
+In-kind
+
+Near cash:
+
+Price
+
+transfers
+
+vouchers/
+
+subsidies
+
+Public works
+Conditionality of
+support
+Benefit scope
+
+Unconditional
+
+Conditional
+
+General subsistence
+
+coupons
+
+Indirectly conditioned
+
+Tied benefits
+
+General allowance for living
+expenses
+Cash plus
+
+Fee waivers Free access
+
+Housing allowance, health insurance, legal aid, educational support
+
+Combined benefits, tailored to the needs of the benefit recipient
+
+Source: Author’s own.
+
+2.2.2
+
+Duration of Benefits
+
+While the definition spells out that transfers should be regular, there is little agreement as
+to how regular they ought to be, at least for social assistance programmes. It is therefore
+contested as to whether social transfers should be paid out for a ‘pre-specified period of time’
+(Barrientos 2019b, 385) or for an unspecified period and whether only long(er)-term assistance
+or equally short-term assistance qualifies. Practices vary around the world, depending again
+on the underlying logic of the social transfer scheme. Most Latin American programmes
+started off with a specific timeframe as they were set up as a response to crisis management
+and not for structural poverty (Barrientos and Villa 2016, 424). Other schemes like Temporary
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+Social transfers
+
+43
+
+Assistance for Needy Families in the United States are limited in order to send out a clear
+message that people need to resume responsibility for their life at the earliest point possible.
+A needs-centred approach of social assistance ties the duration of support to the actual need.
+This can be short or long term and could be a response to a regular life-cycle risk but also to
+an emergency that arises. Regular implies that there is an in-built response mechanism that
+lasts as long as support is required. Any predetermined end could therefore be seen in a critical
+light.
+2.2.3
+
+Scope of Interventions Covered
+
+There is disagreement as to which benefit types are covered. Typically social transfers comprise income supplements as well as measures to lower the price for goods and services (see
+Table 2.1). Income can be supplemented through cash transfers, in-kind transfers such as
+school feeding and asset transfers as well as through near-cash transfers such as vouchers and
+coupons which can be exchanged for certain goods. The price for goods and services can be
+reduced through price subsidies for selected goods, through fee waivers or even through free
+access for certain groups in society. Databases on social transfers use different combinations
+of interventions and it is important to be aware of which interventions are included before the
+data is analysed. The recent database on social assistance for Africa excludes food emergency
+aid and school-feeding programmes, the social assistance database by Manchester University
+excludes any type of emergency response and the World Bank status report on safety nets in
+Africa (2018, 4) excludes consumer price, energy and food subsidies. The World Bank Atlas
+of Social Protection Indicators of Resilience and Equity (ASPIRE; World Bank n.d.) database
+on social assistance includes all of these interventions, next to further subsidies, tax exemptions and social services.
+Despite these differences in categorization, some common trends are discernible: we can
+see a move away from indirect transfers such as universal in-kind subsidies (Jorgensen and
+Bennett 2019, 12–13), even if the spending on subsidies still largely exceeds any other social
+transfer programme in many countries, in particular in the oil-exporting ones (World Bank
+2015, 26). Cash transfers have been on the increase and have over time replaced many in-kind
+responses, even in emergency situations (see for instance UNDP 2019, 21). The responses to
+the COVID-19 crisis show that cash transfers are the most commonly used instrument to help
+people cope with close to 60 per cent of programmes captured delivering cash (Gentilini et al.
+2020). In-kind support such as school feeding, however, still forms an important component
+of the social transfer portfolio of most countries (see also Chapter 35). Close to 80 per cent of
+countries captured in the ASPIRE database had a school-feeding programme running (World
+Bank 2018).
+
+2.3
+
+ROLE IN THE OVERALL SOCIAL PROTECTION SYSTEM
+
+In line with the different functions that social transfers can potentially fulfil, social transfers
+do not have a pre-fixed position in the social protection system. While allowances do not play
+a big role in most low- and middle-income countries, the place of ‘universal’ programmes
+and social assistance varies and their overall role in a rights-based universal system can be
+controversially debated.
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+44
+2.3.1
+
+Handbook on social protection systems
+Are Social Transfers First or Second in Line?
+
+In order to do justice to the complexity of this question, we need to distinguish between social
+assistance and ‘universal’ programmes. Countries across the world accord different roles
+depending on the underlying logic of the social protection system in place (Leisering 2019).
+Broadly, four different models can be distinguished.
+Social transfers being subsidiary
+For some states, social assistance is a mechanism of last resort, with other systems such as
+social insurance kicking in first as the dominant social protection mechanism (Germany or
+France). Social assistance is however institutionalized and not seen as a placeholder for more
+universal transfers, which exist but are not regarded as the first level of social protection.
+Universal programmes come first, social assistance second
+States focusing on the provision of universal services and transfers and the assumption of
+full employment (Scandinavian countries) deprioritize social assistance even if access to it is
+guaranteed. Health and care services are universal in nature and not predominantly organized
+through social insurance.
+Social assistance as the main instrument
+Some states rely on social assistance as their main instrument for risk management and poverty
+reduction (Australia). Transfers are however not tightly targeted and kept to a minimum,
+which is an important difference to the last category.
+Social assistance as the only instrument
+The last category of states limits the role of government in social protection and restricts
+provision of social protection to the poor with social assistance having a residual character
+(United States).
+Viewing social assistance in isolation and not as part of a broader system when comparing
+expenditure, coverage and effects across countries is therefore bound to lead to mistakes.
+Unsurprisingly, donors also allocate a different role to social transfers in the Global South,
+which is aligned with their own institutional and historical logic (see Chapters 1 and 29).
+2.3.2
+
+Is Social Assistance a Legitimate Component of a Rights-Based Social
+Protection System?
+
+Some authors have contested that social assistance can translate into an entitlement or
+a social right (see for instance Kidd 2017). They critically allude to the discretion that the
+welfare administration has over claimants, to the means-test which is often erroneous and to
+beneficiaries who are sometimes stigmatized to an extent that they refrain from taking up the
+transfer. Leisering and Barrientos (2013, S53–4) argue that a right to social assistance does not
+depend on the instrument as such but mainly on how social assistance is designed, institutionalized and contextualized. A society can ensure by law, practice and norms that every citizen
+who falls into a situation of need will be supported. Even administrative mistakes that deny
+this right can be corrected if accountability mechanisms are in place.
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+Social transfers
+
+45
+
+Many low- and middle-income countries are still far away from granting this right of
+citizenship due to inadequate finances, limited legal grounding and weak law enforcement or
+complaint resolution mechanisms. But one should not overlook that social transfers are also
+a fairly recent policy in many low- and middle-income countries and that progress is being
+made with greater efforts towards institutionalization (UNDP 2019, 33).
+A rights-based approach mandates the state to provide social transfers that meet the individual needs of a particular person (see Chapter 11). Social transfers and in particular cash plus
+programmes which provide multiple benefits and services (see Table 2.1) are without doubt
+a much more personalized approach than the social action funds which were propagated by
+the World Bank prior to the arrival of social transfers (Jorgensen and Bennett 2019). While
+even individual social transfers generate important spill-over effects for the household, more
+caution is advised at policy-making level not to brand an individual social transfer such as
+a social pension as a poverty reduction transfer for the entire household. This distorts the
+objective, the benchmark against which success is measured and might also be a disadvantage
+for the individual originally targeted (see Chapter 19).
+2.3.3
+
+How Can a Selective Scheme Still Contribute towards Universality?
+
+A selective social assistance scheme might at first sight run counter to efforts towards universal social protection. If granted as a social right that is guaranteed to everyone in poverty,
+however, social assistance also offers universal protection to anyone who is poor. Social
+assistance is equally an integral measure in every social protection system to guarantee universal protection. While ‘universal’ transfers reach out to every citizen, they don’t necessarily
+guarantee that everyone’s needs are met (see Chapter 8). Poverty can be partly prevented
+through ‘universal’ programmes but in particular people in poverty require approaches that
+are individualized and respond to multiple problems at a time (see Chapter 5). This is difficult
+to achieve through uniform transfers and services alone. It is therefore the interplay of programmes that ensures universality.
+
+2.4
+
+DESIGN PARAMETERS
+
+When designing social transfer schemes, the main decisions to be taken are on the target
+group, the transfer size and the extent to which the programme is supposed to be conditioned
+(for an illustration, see Case Study A). Further important considerations are to design the
+transfer programme in an inclusive way and to think through exit strategies.
+2.4.1
+
+Target Group
+
+The target groups differ according to the function of the social transfer scheme. As social assistance is means tested, the main target group is people whose income or well-being is below
+a defined minimum. This group is often not easily defined or identified. Numbers of social
+assistance recipients cannot be as easily projected as with a pension scheme as they depend
+on changes in the labour market, in the family constellation as well as in the inclusiveness of
+other social protection programmes (Bahle et al. 2010, 449). Another complication of poverty
+targeting is of course where to set the minimum and how to measure poverty in a context
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+46
+
+Handbook on social protection systems
+
+where poverty is not only fluid but difficult to capture in precise and comparable numbers (see
+Chapter 8 for more details on targeting).
+‘Universal’ programmes are either open for all citizens or for all citizens of a particular
+group such as the elderly, children, single parents, people with a disability, etc. Even if the
+target group for ‘universal’ programmes is more easily defined, the decisions on the detailed
+eligibility criteria are not trivial. The choice of cut-off points such as the entry year of pension
+receipt or the last year of eligibility for a child grant, the verification procedure for a disability
+as well as the type of product and service for which prices are reduced all have implications
+on the poverty and inequality effects of the transfer. The better off usually live longer, they
+have means to even manoeuvre complicated assessment procedures and they consume
+higher-quality products, fuel and tertiary education. Hence, a ‘universal’ scheme with a high
+age cut-off, a complicated medical procedure for disability assessment as well as a fuel
+subsidy or a fee exemption for tertiary education can have regressive effects (see Chapter 19).
+2.4.2
+
+Transfer Size
+
+When defining the optimal transfer size, different considerations matter for policy-makers.
+Ideally, the primary objective of the transfer scheme should be the guiding principle. A child
+grant should reflect the costs of raising a child, a school-feeding scheme should offer a nutritious meal for every child and a general subsistence grant should cover living costs. The costs
+for a subsistence grant could be determined through a basket of goods approach which lists
+and quantifies items and services that everybody should have access to. Identified by expert(s),
+this choice remains normative. An alternative represents the statistical method of basing
+consumption needs on actual expenditure of the bottom income group which is currently not
+benefiting. This estimation is less subjective but runs the risk of being the real rather than the
+ideal expenditure.
+The reality in many countries, even in the European Union, is that the main objective is not
+the sole driver behind the calculation of the benefit size (Frazer and Marlier 2016, 17). This
+is for instance shown by the fact that social assistance transfers rarely bring recipients up to
+the poverty line, which should be the main objective of a poverty-centred intervention. Policy
+decisions around the transfer size are also driven by concerns around affordability, disincentives and policy coherence with other social policies, which might motivate policy-makers to
+keep the transfer size lower than what the fulfilment of the objective requires.
+Affordability is of course not only defined by the transfer amount but jointly determined
+by target group and transfer amount. Countries with limited financial resources have pursued
+different ways to progressively realize social protection entitlements: countries like Nepal
+started with very modest amounts across different societal groups, South Africa and Lesotho
+initially limited the budgetary allocation through respective favourable age cut-offs, Zambia’s
+child grant started in the worst-off districts (see Case Study A) and countries like Ghana and
+Malawi first addressed the destitute. Disincentives play out in two ways: both those who are
+eligible as well as ineligible are not supposed to change their behaviour in order to benefit
+or continue benefiting from the scheme. Social assistance should for instance not discourage
+work, the accumulation of assets or savings.
+While amounts for ‘universal’ programmes are often standardized, amounts for social
+assistance are individualized, varying with the available resources as well as the specific
+needs of the household. A single-person household typically receives less than a family
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+Social transfers
+
+47
+
+whereas a household with multiple deprivations receives different transfers and services than
+a household who experiences a temporary income shortage. While the size of the household or
+the number of children is more often reflected in the transfer size in low- and middle-income
+countries, the individualization at the level of household resources is often not administrable
+for the same reasons that a means test proves challenging (Davis and Handa 2015; Ibarrarán
+et al. 2017).
+The transfer size is also not just determined once but needs to be updated over time. Transfer
+adjustments range from complex procedures such as the amount being tagged to the price as
+well as to the wage and salary index in Germany to transfers being adjusted according to the
+index of national pensions in Finland or the statutory minimum wage in Spain to transfers
+being politically renegotiated in Latvia (European Commission n.d.). Low- and middle-income
+countries often lack standards for transfer determination and adjustment, hence the amounts
+are not inflation-adjusted and risk to lose value over time (Leisering 2019).
+A particularly challenging update is how future income from work and assets is considered
+in the calculation of the transfer size as this directly concerns recipients’ incentive to take up
+work. The take-up of work and the build-up of assets can be incentivized through a flatter taper
+rate at which social transfers are withdrawn, the introduction of a disregard for the accumulation of certain assets, the payment of boni when work is resumed again or through factoring
+in activity supplements in the means test. However, care must also be taken to treat people
+of similarly low income in the same way and to not overly advantage the person on benefits.
+2.4.3
+
+Conditionality
+
+Transfers can be conditioned to various degrees, as illustrated by Table 2.1. Some transfers
+such as in-kind transfers, vouchers and price reductions are indirectly conditioned in the way
+they steer recipients’ consumption choices. Conditional cash transfers (CCTs) are not as
+restrictive but they also intend to guide recipients’ consumption, investment and work behaviour. CCTs commonly ask households for regular health check-ups of children, regular school
+attendance and participation in training courses in exchange for the transfer. These conditions
+are put in place in order to ensure that transfers not only lead to increased consumption but also
+investment in health and education though a substitution effect towards societally favourable
+goods. Public works programmes are cash or in-kind benefits that are paid out on the condition that the recipients work. Next to optimizing recipients’ behaviour, conditionality is also
+supposed to increase the political acceptability of social transfers.
+CCTs are more widespread in Latin America than in Asia or Africa, which is at least partly
+related to the additional administrative complexities that CCTs introduce. But conditionality is
+not only a phenomenon of the Global South. Even European countries have made social assistance conditional over time, requiring for instance job seekers to increase their employability
+and modify their job-seeking strategies.
+The evidence base shows that this type of nudging is not always necessary and that conditionality often only leads to marginal improvements (Schüring 2012). Better effects can often
+only be achieved under for instance stricter monitoring and enforcement (Baird et al. 2014;
+Paiva et al. 2016), which many low-income countries struggle with. Consideration should also
+be given to potential side effects such as reduced consumption (Heinrich and Knowles 2020),
+increased stress levels and a lower likelihood of reducing early marriages and childbearing
+activities (Baird et al. 2016) as well as higher administrative costs associated with condition-
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+48
+
+Handbook on social protection systems
+
+ality. Despite this unpersuasive evidence base, the political attractiveness of conditionality
+remains unbroken. With the new challenges ahead (see Part VIII), time will tell whether conditionality will be swept away with a new wave of basic income grants in response to automation
+and worldwide future crises or whether it actually increases in importance with the focus on
+climate-friendly behaviour adjustments.
+2.4.4
+
+Inclusive Design
+
+More recently, greater efforts have been made to ensure that differing needs and constraints
+of women or people with disability are mainstreamed into social transfer policy design (see
+Chapter 18 on gender and Chapter 19 on disability). There is still a long way to go but there
+is at least greater recognition that certain behavioural requirements place for instance a higher
+burden on women (Molyneux 2006), that women have to master caring obligations and need
+child-care facilities, more flexible work hours and less strenuous work during pregnancy and
+that the amount, the reliability and even the payment method can trigger different gender
+effects (Peterman et al. 2019). Interestingly, simply targeting transfers at women does not
+automatically translate into transformative impacts, neither for the women nor for the children.
+In a similar way, people with disability also need a more nuanced approach when it comes to
+social transfers. Countries might either opt to have a separate disability grant scheme, to deliberately include people with disabilities into existing programmes or have a combination of the
+two. In a population-wide scheme, attention should be paid that expenditure and consumption
+needs for people with disability are different and hence means tests and benefit amounts have
+to be adjusted accordingly. People with disability also have constraints in registering for
+transfer schemes, in accessing transfers and services and complying with certain conditions.
+2.4.5
+
+Exit Strategy
+
+Whereas universal programmes often have a natural end for support such as the end of childhood or the end of life, social assistance programmes need to define more carefully the end of
+poverty and which measures are suitable to empower recipients to eventually master life on
+their own (see Chapter 14). This can be done by combining a suitable range of transfers and
+services, by setting and adjusting the transfer rate in a conducive way over time, by attaching meaningful conditions and by creating mechanisms that flexibly respond to changes. It
+is, however, an extremely challenging task that even for European Union countries has not
+proven fully effective and where suboptimal labour market policies, high opportunity costs
+for recipients and limited information technology interconnectivity between programmes have
+thwarted graduation plans (Frazer and Marlier 2016).
+While in many countries graduation programmes are standardized and allow little room for
+individualization, support packages eventually have to be tailor-made to be effective: a chronically poor person needs a different type of support than someone who is transiently poor
+(Packard et al. 2019, 34–5). In countries where social transfers are still in an initial phase with
+transfers not being regular, timely and too far below the minimum, it remains questionable
+whether interlinking transfers further and concentrating resources on the lucky few should be
+the first priority. This might eventually have a negative effect on social relations (Ansell et
+al. 2019, 23) and challenge an already overtaxed administration. Exit strategies therefore still
+remain a work in progress (Barrientos 2019a, 378).
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+Social transfers
+
+2.5
+
+49
+
+PERFORMANCE
+
+As stated earlier, social transfers have experienced an unprecedented growth. It is however
+important to analyse whether it has been equal for all, in particular those who need support the
+greatest, whether the growth is also visible when it comes to adequate transfer amounts and
+whether it has been overall effective. This section will therefore focus on the coverage and
+adequacy of social transfers, drawing on data from the World Bank’s ASPIRE database, as
+well as on impact. The discussion on impact takes a narrower focus on cash transfers as cash
+has now turned into the preferred modality.
+2.5.1
+
+Coverage
+
+Despite the growth of social transfer schemes and the fact that by 2015 every country in the
+world had a social transfer programme in place (Beegle et al. 2018, 4), coverage in terms of
+people reached is still largely inadequate. According to the World Social Protection Report
+2017–19 (ILO 2017), close to half of the population worldwide doesn’t have recourse to any
+social protection scheme. Far more people are reached through social transfer programmes
+than through social insurance programmes in most low-income countries but large shares of
+the poorest still remain uncovered.
+In low-income countries only 16 per cent of people in the poorest quintile receive social
+transfers according to data from the ASPIRE database. Coverage increases with the income
+status of the country but 42 and 35 per cent of the poorest quintile are still left without assistance in lower- and upper middle-income countries, respectively. Social transfers are often
+uncoordinated, the spread is uneven across countries (UNDP 2019, 22) and the financial
+resources allocated fall short of the actual demand. Even with perfect targeting, not all poor
+households in Africa could for instance benefit (Beegle et al. 2018, 9).
+Coverage varies according to the type of social transfer scheme being administered. In
+South Asia, for instance, in-kind transfers are most successful with close to 82 per cent of the
+poorest 20 per cent being reached, in Latin America CCTs (44 per cent) and in Europe and
+Central Asia unconditional cash transfers (27 per cent). Even in Europe coverage greatly varies
+according to country context but also target group. Only 12 per cent of those at risk of poverty
+are reached by social assistance in Croatia and half of the poorest adults in France (at 40 per
+cent of median income) are without minimum income support (Frazer and Marlier 2016, 23).
+In Germany, the United Kingdom and Switzerland roughly a third of eligible individuals don’t
+take up the benefit due to shame, stigma, inadequate information, too much effort required or
+corruption (Frazer and Marlier 2016, 26).
+2.5.2
+
+Adequacy of Transfers
+
+Data from ASPIRE shows that transfer sizes are also inadequate and further dampen poverty
+reduction effects. South Asia’s successful coverage rate of 88 per cent of the poorest quintile
+is undone by the extremely low transfer size to recipients of 0.1 United States dollars daily
+per person. This is the average amount for people coming from low-income countries. Upper
+middle-income countries pay on average three times more to the poorest quintile, which still
+amounts to no more than 10 United States dollars per month. The richest quintile benefits from
+social transfers by far more, even 10 times the amount of the poorest quintile in low-income
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+50
+
+Handbook on social protection systems
+
+countries. None of these schemes help on average to bring recipients up to the poverty line. In
+Africa, for instance, the average cash transfer makes up 10 per cent of the national poverty line
+(Beegle et al. 2018, 9). The inadequacy of benefits is, however, not only a low-income country
+phenomenon. Even in most European Union countries, social transfer amounts fall short of the
+poverty line: in the weakest schemes, social transfer payments for a single person are only in
+the range of 24 and 29 per cent of the ‘at-risk-of-poverty’ line and benefits in the more generous schemes are between 71 and 91 per cent (Frazer and Marlier 2016, 23).
+2.5.3
+
+Impact
+
+The evidence based on the effects of cash transfers, impact chains and factors of success has
+experienced an unprecedented growth (Niño-Zarazúa 2019), which has not been mirrored by
+the Global North (Frazer and Marlier 2016). Next to the largely positive and significant effects
+of cash transfers on consumption, nutrition, access to health and education (Bastagli et al.
+2019; World Bank 2015), which are illustrated in greater detail in Part VII of the handbook,
+the following findings are noteworthy for policy-making:
+1. Main impact of social transfers is on the poverty gap rather than the poverty headcount
+(World Bank 2018). This even holds true for EU countries (Frazer and Marlier 2016, 26–7)
+and is related to the design of the transfer size (Chapter 34).
+2. Some of the common concerns around cash transfers fuelling dependency, inflation, fertility and greater expenditure on demerit goods can be refuted (Handa et al. 2018). Even
+in contexts with higher transfer amounts, dependency seems overstated (Immervoll et al.
+2015).
+3. Cash transfers don’t just benefit the individual or household but have significant spill-over
+effects. In Ghana every dollar spent on transfers generates 2.5 dollars of nominal income
+(World Bank 2015), while the average multiplier effects of the GiveDirectly project in
+Kenya is at 2.6 (Egger et al. 2019, 30). So even targeted interventions lead to more universal benefits (Chapter 37).
+4. Cash transfers can have productive effects such as an increase in labour supply in desired
+work (beyond wage labour) or an increase in livestock and agricultural assets but effects
+are heterogeneous, depending on the size, regularity and duration of the transfer, the demographic profile of the household and the constraints and opportunities households face in
+local communities (Daidone et al. 2019).
+5. The effects of cash transfers are far-reaching with even more subtle effects on dignity and
+self-worth (Fisher et al. 2017), reductions in intimate partner violence (Buller et al. 2018),
+improved mental health for youth (Angeles et al. 2019) and greater happiness (Natali et al.
+2018). Social transfers in isolation are, however, no silver bullet to increase agricultural production, resilience, better coping mechanisms and social transformation at the same time.
+Further research needs to shed more light on the factors of success (UNDP 2019), on how
+generational as well as political and economic power relations are impacted (Ansell et al.
+2019, 4), on cash plus effects as well as on long-term impact. Initial evidence on long-term
+impact exists (Molina-Millan et al. 2016; Niño-Zarazúa 2019) but it has not been sufficiently
+explored, partly because of methodological challenges or too short differences in exposure
+between treatment and control.
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+Social transfers
+
+2.6
+
+51
+
+CONCLUDING REMARKS
+
+Social transfers are an important and very versatile social protection tool which can have different functions for different groups in society. In order to avoid wrongful comparisons across
+social transfer schemes and misleading policy recommendations, it is crucial that each and
+every scheme is clear about the main objective and components and is also measured accordingly. A social pension is not a household poverty grant and categorical transfers don’t automatically cancel out the need for more targeted interventions to those in poverty. A single-issue
+transfer such as school feeding by nature generates different effects than a multi-purpose cash
+plus programme. If a cash transfer’s primary purpose is to assist a household in living a decent
+standard of life, then it should not be characterized as ineffective if it fails in other dimensions.
+For social transfers to do justice to growing expectations, they need to be politically, financially and institutionally sustained. Political support has definitely grown over time but its
+future hinges on the place and design of social transfers being in line with social norms and
+preferences and people’s understanding of poverty (see Chapter 30). Greater political support
+will trickle greater financial sustainability.
+It is not trivial, however, to identify the resources required for a social transfer scheme with
+decent coverage (see Chapter 7), in particular since this is not the only social policy demand
+placed on government. Foreign aid is only a temporary solution and might thwart ownership,
+legitimacy and a long-term government commitment to social transfers. A reform of the tax
+system and a reallocation of budgets for regressive programmes could be one option (UNDP
+2019, 43–6), the curtailment of illicit financial flows another (Beegle et al. 2018, 39), if politically feasible. Contingency funds for emergencies could be considered and the diaspora as
+well as companies could potentially also bear a greater responsibility (Beegle et al. 2018, 39).
+Financing mechanisms at a global level are also under discussion, which could ensure a more
+effective and fair risk pool (see Chapter 12).
+Long-term financing strategies would also help with better institutionalization. Looking at
+the lack of qualified staff at local level – with no more than three social workers in charge of
+100,000 inhabitants in Tanzania, Zambia, Senegal, Ghana and Kenya, for instance (UNDP
+2019, 96) – at high turnover in administrative staff as well as corruption, institutionalization
+of social transfers remains a big challenge. A social protection policy in place and a growing
+commitment of the national government to take over funding will not ensure institutionalization alone.
+
+REFERENCES
+Angeles, G., J. de Hoop, S. Handa, K. Kilburn, A. Milazzo and A. Peterman (2019). Government of
+Malawi’s unconditional cash transfer improves youth mental health. Social Science and Medicine
+225, 108–19.
+Ansell, N., L. van Blerk, E. Robson, F. Hajdu, E. Mwathunga, T. Hlabana and R. Hemsteede (2019).
+Social cash transfers, generational relations and youth poverty trajectories in rural Lesotho and
+Malawi. Brunel University London.
+Bahle, T., M. Pfeifer and C. Wendt (2010). Social assistance. In F.G. Castles, S. Leibfried, J. Lewis, H.
+Obinger and C. Pierson (eds), The Oxford Handbook of the Welfare State. Oxford: Oxford University
+Press, 448–61.
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+52
+
+Handbook on social protection systems
+
+Baird, S., F.H.G. Ferreira, B. Özler and M. Woolcock (2014). Conditional, unconditional and everything
+in between: A systematic review of the effects of cash transfer programmes on schooling outcomes.
+Journal of Development Effectiveness 6 (1), 1–43.
+Baird, S., E. Chirwa, J. de Hoop and B. Özler (2016). Girl power: Cash transfers and adolescent welfare:
+Evidence from a cluster-randomized experiment in Malawi. In S. Edwards, S. Johnson and D.N. Weil
+(eds), African Successes, Volume 2. University of Chicago Press, 139–64.
+Barrientos, A. (2019a). Conditional income transfers, social policy and development. In J. Midgley, R.
+Surender and L. Alfers (eds), Handbook of Social Policy and Development. Cheltenham, UK and
+Northampton, MA, USA: Edward Elgar Publishing, 373–92.
+Barrientos, A. (2019b). The role of social assistance in reducing poverty and inequality in Asia and the
+Pacific. Asian Development Bank.
+Barrientos, A. and J.M. Villa (2016). Economic and political inclusion in human development conditional income transfer programmes in Latin America. Social Policy and Society 15 (3), 421–33.
+Bastagli, F., J. Hagen-Zanker, L. Harman, V. Barca, G. Sturge and T. Schmidt (2019). The impact of
+cash transfers: A review of the evidence from low- and middle-income countries. Journal of Social
+Policy 48 (3), 569–94.
+Beegle, K., A. Coudouel and E. Monsalve (2018). Realizing the Full Potential of Social Safety Nets in
+Africa. Washington, DC: World Bank.
+Buller, A.M., A. Peterman, M. Ranganathan, A. Bleile, M. Hidrobo and L. Heise (2018). A mixed-method
+review of cash transfers and intimate partner violence in low- and middle-income countries. World
+Bank Research Observer 33 (2), 218–58.
+Daidone, S., B. Davis, S. Handa and P. Winters (2019). The household and individual‐level productive impacts of cash transfer programs in Sub‐Saharan Africa. American Journal of Agricultural
+Economics 101 (5), 1401–31.
+Davis, B. and S. Handa (2015). How much do programmes pay? Transfer size in selected national cash
+transfer programmes in sub-Saharan Africa. Innocenti Research Brief 2015-01. Florence: UNICEF
+Office of Research.
+Egger, D., J. Haushofer, E. Miguel, P. Niehaus and M. Walker (2019). General equilibrium effects of
+cash transfers: Experimental evidence from Kenya. Unpublished Working Paper.
+European Commission (n.d.). Comparative tables: Mutual information system on social protection. www​
+.missoc​.org​/​missoc​-​​database/​comparative​-​​tables/​​
+Fisher, E., R. Attah, V. Barca, C. O’Brien, S. Brook, J. Holland, A. Kardan, S. Pavanello and P. Pozarny
+(2017). The livelihood impacts of cash transfers in Sub-Saharan Africa: Beneficiary perspectives from
+six countries. World Development 99, 299–319.
+Frazer, H. and E. Marlier (2016). Minimum income schemes in Europe: A study of national policies
+2015. Brussels: European Commission.
+Gentilini, U., M. Almenfi and I. Orton (2020). Social Protection and Jobs Responses to COVID-19:
+A Real-Time Review of Country Measures. Washington, DC: World Bank.
+Handa, S., S. Daidone, A. Peterman, B. Davis, A. Pereira, T. Palermo and J. Yablonski (2018).
+Myth-busting? Confronting six common perceptions about unconditional cash transfers as a poverty
+reduction strategy in Africa. World Bank Research Observer 33 (2), 259–98.
+Heinrich, C.J. and M.T. Knowles (2020). A fine predicament: Conditioning, compliance and consequences in a labeled cash transfer program. World Development 129, 104876.
+Hickey, S. (2014). Relocating social protection within a radical project of social justice. European
+Journal of Development Research 26, 322–37. https://doi.org/10.1057/ejdr.2014.9
+Hickey, S. and J. Seekings (2019). Who should get what, how and why: DFID and the transnational
+politics of social cash transfers in sub-Saharan Africa. In S. Hickey, T. Lavers, J. Seekings and M.
+Niño-Zarazúa (eds), The Politics of Social Protection in Eastern and Southern Africa. Oxford: Oxford
+University Press, 249–75.
+Ibarrarán, P., N. Medellín, F. Regalia and M. Stampini (2017). How conditional cash transfers work:
+Good practices after 20 years of implementation. Inter-American Development Bank.
+ILO (2017). World social protection report 2017–19: Universal social protection to achieve the
+Sustainable Development Goals. Geneva.
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+Social transfers
+
+53
+
+Immervoll, H., S. Jenkings and S. Königs (2015). Are recipients of social assistance ‘benefit dependent’:
+Concepts, measurement and results for selected countries. OECD Social, Employment and Migration
+Working Papers No. 162. Paris: OECD.
+Jorgensen, S.L. and P. Bennett (2019). Social protection in an era of increasing uncertainty and disruption: Social risk management 2.0. Washington, DC: World Bank.
+Kidd, S. (2017). Citizenship or Charity: The Two Paradigms of Social Protection. Orpington:
+Development Pathways.
+Leisering, L. (2019). The Global Rise of Social Cash Transfers: How States and International
+Organizations Constructed a New Instrument for Combating Poverty. Oxford: Oxford University
+Press.
+Leisering, L. and A. Barrientos (2013). Social citizenship for the global poor? The worldwide spread of
+social assistance. International Journal of Social Welfare 22 (2–3), S50–S67.
+Midgley, J. (2019). Social assistance, poverty and development. In J. Midgley, R. Surender and L. Alfers
+(eds), Handbook of Social Policy and Development. Cheltenham, UK and Northampton, MA, USA:
+Edward Elgar Publishing, 352–72.
+Molina-Millan, T., T. Barham, K. Macours, J.A. Maluccio and M. Stampini (2016). Long-term impacts of
+conditional cash transfers in Latin America: Review of the evidence. Inter-American Development Bank.
+Molyneux, M. (2006). Mothers at the service of the new poverty agenda: Progresa/Oportunidades,
+Mexico’s conditional transfer programme. Social Policy and Administration 40 (4), 425–49.
+Natali, L., S. Handa, A. Peterman, D. Seidenfeld and G. Tembo (2018). Does money buy happiness?
+Evidence from an unconditional cash transfer in Zambia. SSM: Population Health 4, 225–35.
+Niño-Zarazúa, M. (2019). Welfare and redistributive effects of social assistance in the Global South.
+UNU-WIDER.
+Packard, T., U. Gentilini, M. Grosh, P. O’Keefe, R. Palacios, D. Robalino and I. Santos (2019). Protecting
+All: Risk Sharing for a Diverse and Diversifying World of Work. Washington, DC: World Bank.
+Paiva, L.H., F. Veras Soares, F. Cireno, I. Azevedo Vitelli Viana and A.C. Duran (2016). The effects
+of conditionality monitoring on educational outcomes: Evidence from Brazil’s Bolsa Familia
+Programme. Brasilia: International Policy Centre for Inclusive Growth.
+Peterman, A., N. Kumar, A. Pereira and D.O. Gilligan (2019). Toward gender equality: A critical
+assessment of evidence on social safety nets in Africa. In A.R. Quisumbing, R.S. Meinzen-Dick and
+J. Njuki (eds), Gender Equality in Rural Africa: From Commitments to Outcomes. Washington, DC:
+International Food Policy Research Institute, 140–8.
+Schüring, E. (2012). To condition or not – is that the question? An analysis of the effectiveness of ex-ante
+and ex-post conditionality in social cash transfer programs. Maastricht University.
+UNDP (2019). The state of social assistance in Africa. New York.
+World Bank (2015). The state of social safety nets 2015. Washington, DC.
+World Bank (2018). The state of social safety nets 2018. Washington, DC.
+World Bank (n.d.). The atlas of social protection indicators of resilience and equity. datatopics​.worldbank​
+.org​/​aspire/​indicator/​social​-​​assistance
+
+Esther Schüring - 9781839109119
+Downloaded from Elgar Online at 02/23/2022 07:54:24PM
+via William and Mary School of Law
+
+

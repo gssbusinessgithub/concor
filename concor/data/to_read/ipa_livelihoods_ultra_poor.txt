@@ -1,0 +1,1035 @@
+bulletin
+policy bulletin [ september 2015 ]
+
+building stable livelihoods for the ultra-poor
+A multifaceted livelihood program that provided ultra-poor households with a productive asset, training, regular
+coaching, access to savings, and consumption support led to large and lasting impacts on their standard of living
+across a diverse set of contexts and implementing partners.
+
+daniel janamah
+
+Key Results of the Graduation Approach:
+A holistic livelihood program targeted at the ultra-poor helped them shift into more stable self-employment that increased their
+standard of living both two years after the productive asset transfer, and three years after the asset transfer—a year or more after
+all program activities ended.
+
+The Graduation approach caused broad and lasting economic impacts. Pooled data from six sites show Graduation households’
+consumption increased 5.8 percent relative to the comparison group two years after the asset transfer. Graduation households’ consumption
+increased 7.3 percent in Bangladesh, 16.4 percent in Ethiopia, 6.9 percent in Ghana, 13.6 percent in India, and 10.2 percent in Pakistan
+relative to the comparison group, though there was no impact on consumption in Honduras or Peru. Households experienced similar
+improvements in food security, asset holdings, and savings. Most positive impacts on participating households were consistent three
+years after the asset transfer—one year after all program activities ended.
+
+The improvements in well-being were mostly the result of increases in self-employment income. Injecting a combination of
+productive assets and relevant skills training led to an increase in basic entrepreneurial activities, primarily concentrated on livestock
+and activities like petty trade.
+
+Graduation led to some improvements in psychosocial well-being. Happiness, stress, women’s empowerment, and some measures
+of physical health and political engagement improved for participants at some sites. The effects on women’s empowerment and physical
+health were no longer statistically significant one year after all program activities ended.
+
+These effects were consistent across multiple contexts and implementing partners. The program’s positive results on economic
+well-being, which range from very economically significant to moderately so, are not driven by any one country.
+
+abdul latif jameel poverty action lab • innovations for poverty action
+
+context
+More than one-fifth of the world’s population lives on less than US$1.25 per day. Many of these families depend on insecure and fragile
+livelihoods, including casual farm and domestic labor. Their income is often irregular or seasonal, putting laborers and their families at
+risk of hunger. There is an emerging international consensus to drive the share of the world’s population living in ultra-poverty to zero by
+2030.1 Achieving this goal will require the poorest of the poor to shift to more secure and sustainable livelihoods.
+Self-employment is often the only viable alternative to menial labor for the ultra-poor. Yet many lack the necessary cash or skills to start
+a business that could earn more than casual labor. To alleviate these constraints, several international and local nongovernmental
+organizations support programs that foster a transition to more secure livelihoods. Combining complementary approaches—the
+transfer of a productive asset, training, consumption support, and coaching—into one comprehensive program may help spur a
+sustainable transition to self-employment.
+This bulletin summarizes the results from seven randomized evaluations of the Graduation approach, a multifaceted livelihood program
+for the ultra-poor. This particular approach was designed by BRAC and has since been adapted in eight countries with support from
+the Consultative Group to Assist the Poor (CGAP) and the Ford Foundation. Researchers conducted randomized evaluations of the
+program in Bangladesh, Ethiopia, Ghana, Honduras, India, Pakistan, and Peru. By evaluating a similar approach across a diverse set
+of contexts and implementing partners, results shed new light on important policy questions. Can a “big push” intervention targeted
+at the ultra-poor help them transition to more secure livelihoods and increase their income even after the two-year program ends? Can
+the intervention also improve psychosocial well-being and empowerment? Is the Graduation approach effective when implemented
+across diverse geographical, institutional, and cultural contexts?
+
+The Graduation Approach
+The Graduation approach consists of six complementary
+components, each designed to address specific constraints
+facing ultra-poor households.
+1. Productive asset transfer: One-time transfer of productive
+assets, such as cows, goats, or supplies for petty trade.
+2. Technical skills training: Training to manage the
+productive asset.
+3. Consumption support: Regular cash or food support for a
+few months to a year.
+4. Savings: Access to a savings account, or encouragement
+to save.
+5. Home visits: Frequent home visits by implementing partner
+staff to provide accountability, coaching, and encouragement.
+6. Health: Health education, health care access, and/or
+life skills training.
+All evaluations in this bulletin include these six components; see
+Table 1 for country-by-country variation in program design.
+brac
+
+1
+
+For instance, eradicating extreme poverty by 2030 is the first goal in the Report of the High-Level Panel of Eminent Persons on the Post-2015 Development Agenda presented
+to the United Nations Secretary-General in May 2013.
+
+www.povertyactionlab.org • www.poverty-action.org
+
+evaluation
+BR AC began their Targeting the Ultra-Poor program in
+Bangladesh in 2002 and it has since been replicated in several
+countries. This bulletin reviews randomized evaluations of the
+original program and adaptations in Ethiopia, Ghana, Honduras,
+India, Pakistan, and Peru, which together reached more than
+seven thousand households. Together, these studies provide
+rigorous evidence on the impact of a holistic two-year program
+that provides ultra-poor households with a business asset,
+training, consumption support, and coaching on their economic
+and psychosocial well-being.
+Implementing organizations attended global learning events
+hosted by CGAP and the Ford Foundation and visited BRAC
+in Bangladesh to ensure consistency in core program elements
+across contexts. Table 1 summarizes the variations in program
+design by country. Implementers tailored program design to
+adapt to the local context, including government regulations
+or preexisting social assistance programs.2 Since these studies
+evaluate a package of interventions, researchers cannot isolate
+the contribution of the individual components to the program’s
+overall impact. This remains an important area for future study,
+which researchers are now examining in Ghana.3
+In all settings except Ethiopia, eligible households were identified
+through a community participatory wealth-ranking process. 4
+
+Implementing organizations then visited households to verify
+their poverty status. The program successfully targeted ultrapoor households (see Figure 1).
+Access to the Graduation program was randomly assigned at the
+household, village, or branch level, depending on the site. In
+Ethiopia, India, and Pakistan, the poorest households identified
+through the targeting process were randomly assigned to
+receive the program or serve in the comparison group. In Ghana,
+Honduras, and Peru, there were two stages of randomization.
+Villages were first randomly assigned to the program or
+comparison group. Eligible households within program villages
+were then randomly assigned to the program or comparison
+group. This design allowed researchers to measure if and how
+much the program affected nonparticipating households. In
+Bangladesh, randomization took place at the BRAC-branch
+level using a phase-in design with treatment communities
+receiving the program in 2007 and comparison communities
+receiving it in 2011.
+There were two waves of follow-up data collection. Endline 1
+occurred just after the end of the program, approximately two
+years after the productive asset transfer. In every country except
+Bangladesh, endline 2 occurred three years after the asset transfer
+and one year after all program activities ended. In Bangladesh,
+endline 2 occurred four years after the start of the program.
+
+figure 1 the graduation program successfully targeted ultra-poor households
+Proportion of households in the program living below PPP US$1.25 per day5
+Proportion of population in country below PPP US$1.25 per day6
+
+Ethiopia
+
+Bangladesh
+25%
+53%
+
+Honduras
+
+Ghana
+37%
+69%
+
+29%
+54%
+
+Pakistan
+
+India
+17%
+69%
+
+24%
+84%
+
+Peru
+13%
+18%
+
+3%
+14%
+
+The program successfully targeted ultra-poor households. The proportion of households living below US$1.25 per day that were identified as eligible for the
+program and included in the study sample exceeded—often by a substantial margin—the proportion of the population living below US$1.25 per day in every country.
+
+2
+
+For instance, the Ethiopian government prohibited unconditional transfers, so implementers introduced mandatory savings. Participating households made savings deposits
+as if paying off a loan in the amount of the productive asset, but then were able to keep their savings at the end of the program. In Ethiopia and Peru, preexisting consumption
+support programs already reached all (Ethiopia) or most (Peru) of the participants in the study. Thus in Ethiopia, the treatment group received no additional consumption
+support, and in Peru the program merely filled in the gaps, i.e. only provided consumption support to those in the treatment group not enrolled in the government program.
+
+3
+
+The Ghana site varies treatment to evaluate the impact of some individual Graduation components, including assets. Study ongoing and results forthcoming.
+
+4
+
+Two papers examine the accuracy of the participatory wealth rankings implemented in these programs. Banerjee et al. (2007) examines the targeting efficiency of the
+participatory rural appraisal method used by Bandhan in India, relative to the targeting of various assistance programs operated by the government of India. The method
+used by Bandhan more successfully targets the poorest of the poor. Karlan and Thuysbaert (2013) examines the accuracy of a two-step process that combines participatory
+wealth ranking and a household verification survey, relative to two proxy means tests, in Honduras and Peru. The targeting methods perform similarly to one another.
+
+abdul latif jameel poverty action lab • innovations for poverty action 3
+
+program details
+table 1
+Location
+
+Implementing partner
+
+Program take-up 7
+
+Value of asset transfer 8
+
+Assets most commonly chosen
+
+Bangladesh
+
+BRAC
+
+87%
+
+TK 9,500
+(US$158)
+
+Cows (50%)
+Cow-poultry or cow-goat
+combination (38%)
+
+Ethiopia
+
+Relief Society of Tigray
+
+100%
+
+ETB 4,724
+(US$360)
+
+Sheep and goats (62%)
+Oxen (24%)
+
+Ghana
+
+Presbyterian Agricultural
+Services and Innovations
+for Poverty Action
+
+100%
+
+GHS 300
+(US$206)
+
+Goats and hens (44%)
+Goats and maize inputs (27%)
+
+Honduras
+
+Organización de Desarollo Empresarial
+Feminino Social and Plan International
+
+100%
+
+HNL 4,750
+(US$283)
+
+Chickens (83%)
+Pigs (6%)
+
+India
+
+Bandhan
+
+52%
+
+INR 4,500
+(US$124)
+
+Goats (52%)
+Cows (30%)
+
+Pakistan
+
+Pakistan Poverty Alleviation Fund, Agha
+Khan Planning and Building Services, Badin
+Rural Development Society, Indus Earth
+Trust, Sindh Agricultural and Forestry
+Workers' Coordinating Organization
+
+100%
+
+PKR 15,000
+(US$235)
+
+Goats (56%)
+Shops (11%)
+
+Peru
+
+Asociación Arariwa and
+Plan International
+
+100%
+
+PEN 1,200
+(US$464)
+
+Guinea pigs (64%)
+Hens (24%)
+
+5
+
+For all countries except Bangladesh, this consumption measure excludes medical expenditures and durable good purchases, to be comparable to the World Bank data.
+All monetary values reported in 2014 USD, measured in Purchasing Power Parity (PPP) terms.
+
+6
+
+World Bank national poverty lines. Data for all countries from 2011, except Ghana (2006) and Peru (2012).
+
+4
+
+www.povertyactionlab.org • www.poverty-action.org
+
+Coaching visits
+
+Health component
+
+Weekly transfer of TK 70–105 (US$1–2) for
+forty weeks (amount adjusted to food price)
+
+BRAC formed microfinance
+groups with beneficiaries after
+six months, first offering savings
+services and later credit
+
+Weekly, over
+24 months
+
+Health education sessions led
+by community health volunteers,
+and financial provision during
+two-year intervention for
+specialized care if needed
+
+Treatment and comparison households
+eligible for support through food-for-work
+program for duration of the evaluation; five days
+of work earned food worth ETB 100 (US$8)
+
+Required to save at least ETB 4,724
+(US$360) over the two-year program,
+equal to value of asset transfer
+
+Weekly, over
+24 months
+
+None
+
+GHS 4–6 (US$2–4) given weekly
+depending on household size
+
+Half of treated households randomly
+selected to receive savings accounts
+
+Weekly, over
+24 months
+
+Enrolled in National Health
+Insurance, received health
+and nutrition education
+
+Treatment households received one-time
+food transfer worth HNL 1,920 (US$114)
+intended to cover six-month lean season
+
+Required to open savings account,
+savings incentive HNL 320 (US$19),
+assigned to savings matching or
+direct savings transfer treatments
+
+Weekly, over
+24 months
+
+Health, nutrition,
+hygiene trainings
+
+INR 90 (US$3) given weekly for 13–40 weeks
+depending on chosen asset; shorter duration
+for nonfarm enterprise, longer for livestock
+
+INR 10 (US$0.28) required per week
+
+Weekly, over
+18 months
+
+Discussed health during
+weekly coaching visits
+
+PKR 1,000 (US$16) given monthly
+for first year in the program
+
+Encouraged to save at home
+or with ROSCAs
+
+Weekly, over
+24 months
+
+Female health workers
+provided basic health services,
+education, and medicine
+
+All households in 51 communities with
+Juntos conditional cash transfer receive
+PEN 200 (US$78) monthly; treatment
+households in 35 communities without
+Juntos receive PEN 100 (US$39) monthly
+
+Encouraged to join community
+savings groups, open savings account
+at a bank, or deposit group savings
+with microfinance organization
+
+Every six weeks
+over 24 months
+
+Nutrition, healthy practices,
+prenatal health trainings
+
+Value and frequency of consumption support
+
+Savings
+
+7
+
+In India, 52% of those selected in the randomization participated in the program. According to Bandhan, the implementing organization, 35% of households declined
+the offer, for two unrelated reasons. First, in some villages, a section of villagers held the (erroneous) belief that Bandhan was a Christian organization trying to convert
+beneficiaries, and acceptance of the livestock constituted agreeing in some way to participating in Christian rituals. Second, some wives were worried that their husband
+would mishandle the asset and they would lose face in front of their village. A further 13% were deemed ineligible by Bandhan because they were participating in microcredit
+or self-help group activities. In Bangladesh the difference between women originally classified as eligible and women who were eventually treated is due to both BRAC
+program officers changing the originally classification when assets were transfered, and some women refusing the transfer.
+
+8
+
+All asset, consumption support, and savings values are listed in local currency and converted into USD 2014 exchange rate terms.
+
+abdul
+abdul latif
+latif jameel
+jameel poverty
+poverty action
+action lab
+lab •• innovations for poverty action 5
+
+results
+1. The Graduation program caused broad and lasting economic impacts.
+Every group of economic outcomes improved significantly relative to the comparison group immediately after the two-year
+program ended (endline 1), and all economic outcomes saw similar gains a year after program activities ended (endline 2).
+These results were not driven by any one country or by any one outcome variable within each index. Indeed, most individual
+variables showed significant impacts after the Graduation program ended.
+The Graduation approach increased ultra-poor households’ consumption, a common measure of well-being. Pooled estimates of
+participants’ per capita consumption from the six replication studies increased 0.12 standard deviations (5.8 percent) at endline 1
+relative to comparison households.9 At endline 2, the impact persisted with per capita consumption 0.12 standard deviations (4.9
+percent) higher than the comparison group. See Figure 2 for the change in consumption in each country. Direct consumption
+support alone does not account for these increases, as consumption support lasted for no more than one year in any program,
+and in Ethiopia the comparison group received the same consumption support as the treatment group. Instead, the authors
+suggest increased consumption is a result of increasing self-employment activity (see Result 2).
+
+figure 2 impact of graduation: percent change in per capita consumption by country
+
+Percent change in per capita consumption
+relative to comparison households
+
+***
+***
+18%
+16%
+
+Endline 2
+
+Endline 1
+
+***
+14%
+***
+11%
+
+***
+7%
+
+***
+11%
+
+**
+7%
+
+***
+8%
+
+***
+10%
+*
+7%
+*
+5%
+3%
+
+1%
+
+Bangladesh
+
+Ethiopia
+
+Ghana
+
+Honduras
+
+Note: Error bars represent 95% confidence intervals. Statistical significance relative to
+comparison households at each endline is noted at the 1% (***), 5% (**), or 10% (*) level.
+
+India
+
+Pakistan
+
+Peru10
+
+-1%
+
+Consistent with increasing food expenditure, household members were able to afford two meals per day more often. Across the
+six sites, a pooled index of food security increased 0.11 standard deviations at endline 1, and 0.11 standard deviations at endline 2,
+meaning that families experienced fewer days in which a member of the household skipped meals or went a whole day without
+food. Pooled indices mask some variation—for instance, there were no significant improvements in food security in Ghana or
+Peru at endline 1, and no improvements in Pakistan or Honduras at endline 2. Figure 3 shows the country-by-country impact of
+Graduation on food security.
+
+9
+
+Consumption is defined as food plus nonfood expenditures.
+
+10
+
+Since release of the Science publication, Peru data has been revised slightly. Peru results presented in this bulletin are therefore slightly different than those in Science.
+
+6
+
+www.povertyactionlab.org • www.poverty-action.org
+
+results
+figure 3 country-by-country impact of graduation on index of food security11 12
+
+Change in standard deviations
+
+***
+0.24
+
+Endline 1
+
+***
+0.28
+
+Endline 2
+
+**
+0.12
+
+***
+0.19
+**
+0.14
+
+***
+0.14
+
+0.07
+
+*
+0.08
+
+*
+0.09
+
+0.06
+0.06
+0.02
+
+Ethiopia
+
+Ghana
+
+Honduras
+
+India
+
+Pakistan
+
+Peru
+
+Note: Error bars represent 95% confidence intervals. Statistical significance relative to
+comparison households at each endline is noted at the 1% (***), 5% (**), or 10% (*) level.
+
+Transferring a productive asset increased household assets:
+despite being free to sell these assets after the program ended,
+treated households continued to own more livestock than
+households in the comparison group. Total assets increased
+significantly in all sites at endline 1—two years after the
+assets were transferred—with the exception of Honduras,
+and at endline 2, with the exception of Honduras and Peru.
+In Honduras, 83 percent of beneficiaries chose chickens,
+many of which died of illness, resulting in a significant
+decline in asset holdings by endline 2. In India, asset
+holdings increased 65 percent at endline 1, and by 71 percent
+at endline 2. That increased asset holdings should persist
+after program assistance was withdrawn in most countries
+shows that targeted poor households successfully operated
+their businesses independently. Further demonstrating
+the effects of the program, targeted women in Bangladesh
+increased land ownership by 38 percent, a key security asset
+in rural communities. See Figure 4 for the country-by-country
+impact of Graduation on the total value of household assets.
+
+Savings increased significantly and persistently, and gains
+were largest in countries with mandatory savings. One feature
+of the program was the encouragement, or in some cases a
+requirement, to save. In Bangladesh, where savings groups
+were formed but there was no formal savings requirement,
+households experienced a tenfold increase in savings relative
+to comparison households. This gain was sustained at endline
+2, two years after program activities ended. In pooled estimates
+from Ethiopia, Ghana, Honduras, and Peru, Graduation
+households saved 156 percent more than the comparison
+group. At endline 2, savings balances were 85 percent greater
+than comparison households. Ethiopia, where savings were
+mandatory, saw the greatest gains.
+
+11
+
+Figures 3 and 4 do not include results from Bangladesh, because that study did not use comparable indices for food security or assets.
+
+12
+
+Figures 3 and 4 show the impact of Graduation expressed as change in standard deviations. For instance, in Figure 3, an impact expressed in standard deviations shows
+how far the Graduation approach shifted the average food security of households in the treatment group within the distribution of food security in the comparison group.
+Standard deviations allow comparisons of outcomes across different contexts.
+
+abdul latif jameel poverty action lab • innovations for poverty action 7
+
+results
+figure 4 country-by-country impact of graduation on index of total value of household assets
+Endline 1
+
+Change in standard deviations
+
+***
+0.65
+
+Endline 2
+
+***
+0.71
+
+***
+0.60
+***
+0.50
+***
+0.34
+
+***
+0.33
+
+***
+0.25
+
+**
+0.17
+**
+0.10
+0.06
+
+0.01
+
+Ethiopia
+
+Ghana
+
+Honduras
+
+India
+
+Pakistan
+
+Peru
+
+-0.10
+**
+Note: Error bars represent 95% confidence intervals. Statistical significance relative to
+comparison households at each endline is noted at the 1% (***), 5% (**), or 10% (*) level.
+
+2. The Graduation program caused an increase in
+self-employment income.
+The program’s economic impacts were driven by an increase
+in basic entrepreneurial activities, which enabled the poor
+to spend more time working each day. Adults invited to
+participate in Graduation spent more time each day working
+on livestock and agricultural activities. The combination of
+more assets and more labor translated into 42 percent more
+revenue from livestock relative to the comparison group
+at endline 1, and 33 percent more revenue from livestock at
+endline 2, a year after Graduation activities ended. In India
+and Ethiopia, revenues from livestock increased nearly fourfold
+at endline 1. At endline 1 in Bangladesh, all eligible women
+in treated communities were in the labor force, and almost
+all engaged in some form of self-employment. At endline 2,
+these occupational changes persisted and the targeted poor
+had reduced their reliance on activities with seasonal
+earnings by 12 percent.13
+
+sana khan
+
+13
+
+8
+
+Evaluations of two programs that transferred productive assets and skills in Uganda found a similar shift up the occupational ladder from subsistence agriculture and into
+skilled trades. See Blattman et al. (2013; 2014).
+
+www.povertyactionlab.org • www.poverty-action.org
+
+results
+table 2 impact of graduation on noneconomic outcomes
+Pooled
+
+Ethiopia
+
+Ghana
+
+Honduras
+
+endline 1 endline 2 endline 1 endline 2 endline 1 endline 2 endline 1 endline 2
+
+India
+
+Pakistan
+
+Peru
+
+endline 1 endline 2 endline 1 endline 2 endline 1 endline 2
+
+Physical Health
+
+Mental Health
+
+no data
+
+Political
+Involvement
+Women's
+Empowerment
+
+no data
+
+Statistically significant positive difference in outcomes
+between the treatment and comparison groups at the
+90% confidence level or higher
+
+Statistically significant negative difference in outcomes
+between the treatment and comparison groups at the
+90% confidence level or higher
+
+3. Psychosocial well-being improved, but in some
+cases these noneconomic impacts did not persist
+after Graduation ended.
+Graduation improved psychosocial well-being, suggesting
+that eligible households perceived a change in their economic
+lives. In Bangladesh, life satisfaction improved significantly
+at endline 2, an increase of 15 percent on a scale of reported
+life satisfaction relative to the comparison group. In Ethiopia,
+Ghana, Honduras, India, and Peru, self-reported happiness,
+stress, and one measure of physical health improved at
+endline 1. At endline 2, the impact on the mental health index
+remained positive and significant, driven by self-reported
+happiness and lack of stress. By endline 2, the effects on
+physical health were not significantly different between
+participants and the comparison group. These results
+raise questions about whether the program’s impacts on
+subjective well-being persist as strongly as its economic impacts.
+Beneficiaries, who were at the outset often marginalized
+within their communities, became more likely to be involved
+in political activity. These results persisted at endline 2. While
+women reported greater input on some household financial
+decisions at endline 1, the impact of the Graduation approach
+on women’s empowerment was not significant a year later.
+
+No statistically significant difference
+
+4. Graduation was consistently effective across
+most contexts and implementing partners.
+The Graduation program was effective in diverse contexts,
+suggesting that ultra-poor households may face similar
+constraints in different countries. The program’s positive results
+were not driven by any one country. The magnitude of the
+program’s economic impacts ranged from large and positive
+to moderately positive across the seven countries, despite
+implementation by many different nonprofit organizations.
+The program had the largest impact on ultra-poor households
+in Bangladesh, Ethiopia, and India. Researchers suggest that
+income diversification may have been a factor that led to the
+strong and persistent effects on treated households in these
+three countries. In Honduras, the program had no significant
+impact on consumption and a negative impact on assets relative
+to comparison households. There, the death of a large fraction
+of chickens, the most commonly chosen asset, explains these
+results. Even in Peru, where results were smallest across all
+families of outcomes, the program led to positive and significant
+impacts on food expenditures, assets, livestock revenues,
+physical and mental health, and microenterprise income, an
+indication of diversification. See Figures 2–4 and Table 2 for
+country-by-country impact of graduation on key outcomes.
+In the three countries where spillovers were measured—Ghana,
+Honduras, and Peru—researchers did not find strong evidence
+that the program affected comparison households in communities
+where some households received the program. This finding
+suggests that the program did not measurably harm or benefit
+other ultra-poor households that did not participate.
+
+abdul latif jameel poverty action lab • innovations for poverty action 9
+
+results
+figure 5 graduation program cost and returns per participant by country14
+
+Pakistan
+program cost $1,160
+returns 179%
+
+India
+program cost $358
+returns 433%
+
+Honduras
+program cost $1,406
+returns –198%
+
+Ghana
+program cost $2,135
+returns 133%
+
+Ethiopia
+program cost $1,054
+returns 260%
+
+Bangladesh
+program cost $344
+returns 244%
+
+Peru
+program cost $2,697
+returns 190%
+
+Cost-benefit analysis: Graduation’s long-run benefits outweigh up-front costs
+Cost-benefit calculations confirm that long-run benefits for the ultra-poor outweigh the Graduation program’s up-front costs (see Figure 5).
+To calculate total program costs, authors add direct-transfer costs, supervision costs, start-up expenses, and overhead in year-three equivalent
+Purchasing Power Parity (PPP) dollars.15 They define benefits as the increase in total consumption.16 They define returns as total benefits as a
+percentage of total program cost. Graduation performs well by this standard in all countries except Honduras, with some sites producing
+gains far greater than the amount invested.
+
+Scaling up the Graduation Approach
+The Graduation approach has been adapted to support a transition to sustainable livelihoods for ultra-poor families in about twenty countries.
+The seven Graduation adaptations in this bulletin together reached more than seven thousand households, and scale-ups of the approach
+will reach many thousands more in the coming years. By 2016 the Bangladesh program will have reached 650,000 ultra-poor women, and a
+scale-up of the Graduation program is underway in Pakistan. In Ethiopia, the Graduation approach is being incorporated into the national
+Productive Safety Net Program, which will reach an estimated 675,000 households across the country with a livelihoods program based on
+the Graduation program tested as part of this research. Based on rigorous evidence of the impact of the Graduation approach, Development
+Innovation Ventures has committed funding to expand the program to several states in India through a foundation established by Bandhan,
+the implementing partner on the evaluation in India.
+
+14
+
+Figure 5 reports program costs per participant in USD 2014 exchange rate terms, calculated as if all costs were incurred immediately at the beginning of the program.
+
+15
+
+In India, where take-up was only 52 percent, program costs represent the cost per person who received the program. Take-up was 87 percent in Bangladesh and 100 percent
+in all other sites (see Table 1 and footnote 7 for more detail on take-up in India).
+
+16
+
+Benefits are the sum of observed consumption and estimated future consumption. The future consumption estimate assumes that total consumption gains observed at
+endline 2 exist in perpetuity. Researchers are doing a follow-up survey in India to see if consumption gains persist over the longer-term.
+
+10
+
+www.povertyactionlab.org • www.poverty-action.org
+
+open questions
+Open Questions for Future Research
+The seven studies featured in this bulletin find that the Graduation
+approach helped ultra-poor beneficiaries shift into more stable self
+employment that improved their standard of living both two and three
+years after the program began. There are still several important
+questions for researchers and policymakers to consider:
+• How does the Graduation approach affect specific populations?
+The Graduation approach likely has substantial positive impacts on
+some households and less impact on others. Understanding the effects
+of the Graduation approach on different types of eligible households
+can help to improve targeting of the program.
+
+michael rizzo
+
+• Which components of the Graduation approach drive results?
+Since these evaluations study a package of interventions, it is not possible to isolate which components of the intervention drive
+results. Future research can shed light on the most effective and cost-effective mix of program components.
+• How important are mental health, aspirations, and community support?
+More research is needed to understand the interaction between psychosocial well-being, community support, and other components
+of the Graduation approach. Would strengthening those components of the approach lead to even stronger impacts, or would
+removing these components lead to a more cost-effective program?
+• How does the Graduation approach affect others in the community and nearby communities?
+Although limited effects were found in the initial studies, several channels of indirect effects may exist and are worthy of further
+study, including effects on prices, labor supply, and risk sharing.
+• How do the impacts of the Graduation approach evolve over a longer time horizon?
+Evidence on longer-term impacts will help to inform comparative cost-benefit analyses of Graduation and alternative approaches
+that target the ultra-poor.
+
+Bibliography
+Bandiera, Oriana, Robin Burgess, Narayan Das, Selim Gulesci, Imran Rasul,
+and Munshi Sulaiman. “Can Basic Entrepreneurship Transform the Economic
+Lives of the Poor?” London School of Economics Economic Organisation and
+Public Policy Discussion Papers EOPP 043, April 2013.
+Banerjee, Abhijit, Esther Duflo, Nathanael Goldberg, Dean Karlan, Robert Osei,
+William Parienté, Jeremy Shapiro, Bram Thuysbaert, and Christopher Udry.
+2015. “A Multi-faceted Program Causes Lasting Progress for the Very Poor:
+Evidence from Six Countries.” Science 348 (6236): 1260799-1–1260799-16.
+doi:10.1126/science.1260799.
+Banerjee, Abhijit, Esther Duflo, Raghabendra Chattopadhyay, and Jeremy
+Shapiro. “Targeting the Hard-Core Poor: An Impact Assessment.” Center
+for Microfinance Working Paper, November 2011.
+
+Blattman, Christopher, Nathan Fiala, and Sebastian Martinez. 2014.
+“Generating Skilled Self-Employment in Developing Countries: Evidence
+from Uganda.” Quarterly Journal of Economics 129 (2): 697–752.
+Haushofer, Johannes, and Jeremy Shapiro. “Household Response to Income
+Changes: Evidence from an Unconditional Cash Transfer Program in Kenya.”
+Working Paper, 2013. http://www.princeton.edu/~joha/publications/
+Haushofer_Shapiro_UCT_2013.pdf.
+Karlan, Dean and Bram Thuysbaert. “Targeting Ultra-Poor Households in
+Honduras and Peru.” NBER Working Paper No. 19646, November 2013.
+doi:10.3386/w19646.
+
+Banerjee, Abhijit, Esther Duflo, Raghabendra Chattopadhyay, and Jeremy
+Shapiro. “Targeting Efficiency: How well can we identify the poor?” Center for
+Microfinance Working Paper Series No. 21, December 2007.
+
+United Nations High Level Panel of Eminent Persons on the Post-2015
+Development Agenda. 2013. A New Global Partnership: Eradicate Poverty and
+Transform Economies through Sustainable Development. New York: United
+Nations Publications. http://www.un.org/sg/management/pdf/HLP_P2015_
+Report.pdf.
+
+Banerjee, Abhijit V., and Esther Duflo. 2007. “The Economic Lives of the Poor.”
+Journal of Economic Perspectives 21 (1): 141–168.
+
+World Bank. 2013. The World Bank Annual Report 2013. Washington, DC: World
+Bank. doi:10.1596/978-0-8213-9937-8.
+
+Blattman, Christopher, Eric Green, Julian Jamison, Christian Lehmann, and
+Jeannie Annan. Forthcoming. “The returns to microenterprise support
+among the ultra-poor: A field experiment in post-war Uganda." American
+Economic Journal: Applied Economics.
+
+abdul latif jameel poverty action lab • innovations for poverty action 11
+
+policy lessons
+Efforts to foster increased income from self-employment among
+the world’s poorest households have generally had disappointing
+results. A randomized evaluation of the original Graduation
+program along with evaluations of six adaptations of the program
+provide important evidence that the multifaceted livelihood
+program is effective at spurring a transition into self-employment
+across diverse contexts and implementing agencies.
+
+Policymakers seeking a program to sustainably improve
+the lives of the ultra-poor should consider investing
+in the Graduation approach. Together, evaluations of
+Graduation suggest that a “big push” intervention caused
+broad improvements in key dimensions of economic and
+noneconomic well-being in most countries where it was tested.
+Many of these effects were sustained even after assistance was
+withdrawn—most outcomes persisted one to two years after
+the program ended. These findings are consistent with other
+similar studies. For instance, evaluations of two programs
+in Uganda that provided cash transfers, skills training, and
+support for entrepreneurship found similar economic impacts.
+The Graduation program can also foster social mobility: in
+Bangladesh, eligible households overtook the near-poor on
+many key outcomes, and the impact of the program went a
+long way towards closing the gap between the treated poor
+and the middle class.
+
+Long-run benefits of the Graduation approach outweigh
+up-front costs. Comparing the program’s economic benefits
+to its total costs, researchers find a positive rate of return three
+years after the asset transfer in all contexts except Honduras,
+ranging from 133 to 433 percent.
+
+While more expensive than cash transfers, there is evidence
+that the Graduation approach creates sustained change in
+the lives of the ultra-poor. Pooled estimates of the Graduation
+program find no decrease in impact on consumption per capita
+at the end of the program—two years after the asset transfer—
+or one year after all program activities ended. How do these
+impacts compare to the less costly approach of simply giving
+beneficiaries cash? A rigorous evaluation of an unconditional
+cash transfer program in Kenya found that an average transfer
+of PPP US$720 led to positive impacts on consumption, food
+security, assets, and psychological well-being. However, there
+is suggestive evidence that the effects on consumption fell
+by nearly half seven months after the program ended. The
+evolution of impacts over a longer time horizon thus needs to
+be further explored, both for cash transfer programs and for
+programs like Graduation.
+
+More research can help shed light on which components of
+the Graduation program drive results. Since these evaluations
+study a package of interventions, it is not possible to isolate
+which components of the intervention drive results. Countryby-country variation reveals some preliminary indications. For
+instance, in Ethiopia treatment and comparison households
+both had access to consumption support through a food-forwork program. Treatment households in Ethiopia had some
+of the largest effects of all countries relative to comparison
+households, suggesting that consumption support alone
+did not drive these results. Further evaluations that test the
+effectiveness of individual components of the program, as
+researchers are currently testing in the Ghana evaluation,
+will help to disentangle which aspects of the intervention
+are necessary to realize similar impacts.
+
+Author: Alison Fahey | Editors: Nathanael Goldberg, Claire Walsh | Design: Elizabeth Bond, Amanda Kohn
+Suggested Citation: J-PAL and IPA Policy Bulletin. 2015. “Building Stable Livelihoods for the Ultra-Poor.” Cambridge, MA: Abdul Latif Jameel Poverty
+Action Lab and Innovations for Poverty Action.
+Tell us what you think at publications@povertyactionlab.org.
+
+ipa & j-pal offices around the world
+Innovations for Poverty Action (IPA) is an international research organization
+that discovers and promotes effective solutions to global poverty problems.
+www.poverty-action.org
+The Abdul Latif Jameel Poverty Action Lab (J-PAL) is a network of affiliated
+professors around the world who are united by their use of randomized
+evaluations to answer questions critical to poverty alleviation. J-PAL’s mission
+is to reduce poverty by ensuring that policy is informed by scientific evidence.
+www.povertyactionlab.org
+IPA Country Programs
+
+J-PAL Regional Offices
+
+

@@ -1,0 +1,2396 @@
+Magdalena Sepúlveda and Carly Nyst
+
+The Human Rights
+Approach to
+Social Protection
+
+The Human Rights
+Approach to
+Social Protection
+Magdalena Sepúlveda and Carly Nyst
+
+MiNiSTRy FOR FOReiGN AFFAiRS
+
+The ideas, opinions and conclusions expressed in this report
+are those of the authors only, and do not necessarily represent
+the views of the Ministry for Foreign Affairs of Finland.
+Copyright by Ministry for Foreign Affairs of Finland
+Cover Photo: Timo Voipio
+Back cover photo: Magdalena Sepúlveda
+Erweko Oy, 2012
+ISBN 978-952-281-016-8
+
+The Human Rights
+Approach to
+Social Protection
+Magdalena Sepúlveda and Carly Nyst
+
+5
+
+The human RighTs appRoach To social pRoTecTion
+
+Table of contents
+Foreword
+
+..............................................................................................................................
+
+InTroducTIon
+
+...................................................................................................................
+
+The relaTIonshIp beTween poverTy,
+human rIghTs and socIal proTecTIon
+
+.................................
+
+6
+9
+
+17
+
+1. The value of the human rights approach to poverty reduction .................................................. 17
+2. The obligation of social protection under human rights treaties ............................................... 20
+
+The human rIghTs-based Framework
+For socIal proTecTIon ................................................................................. 26
+1. ensuring an adequate legal and institutional framework and adopting long-term strategies ...... 26
+2. Adopting comprehensive, coherent and coordinated policies .................................................. 30
+3. Respecting the principles of equality and non-discrimination .................................................. 32
+a) incorporating the gender perspective ............................................................................. 32
+b) ensuring equality and non-discrimination in the selection of beneficiaries ........................ 37
+c) Complying with the standards of accessibility, adaptability, acceptability and adequacy ..... 42
+4. ensuring that the implementation of conditionalities (“co-responsibilities”) does not
+undermine the human rights of beneficiaries ......................................................................... 48
+5. ensuring transparency and access to information .................................................................. 54
+6. ensuring meaningful and effective participation ..................................................................... 58
+7. ensuring access to complaint mechanisms and effective remedies ......................................... 60
+
+conclusIon – The FuTure oF socIal
+proTecTIon ...................................................................................................................... 63
+
+6
+
+The human RighTs appRoach To social pRoTecTion
+
+Foreword
+by Heidi Hautala
+Minister for International Development
+
+Extreme poverty is the world’s greatest human rights issue. Finland’s human rightsbased development policy, in line with the UN Universal Declaration of Human
+Rights, starts from the idea that all human beings are born free and equal in status
+and rights. The goal of our work is a situation in which the poorest people know
+their rights and are able to advocate for them. It is equally important that the authorities know their human rights obligations and are capable of implementing
+them.
+Against this background, it gives me a special pleasure to write the Foreword to
+this publication authored by the UN Human Right Council’s Special Rapporteur on
+Extreme Poverty, Dr. Magdalena Sepúlveda, together with her assistant, Ms. Carly
+Nyst. The excellent reports of the Special Rapporteur over the past four years have
+drawn the attention of the world community to the key role of social protection in
+the reduction of extreme poverty – and to the critically important role of human
+rights in the implementation of social protection. We are grateful for the valuable
+insights shared in the Special Rapporteur’s reports. The purpose of this publication
+is to make sure that the main messages of her reports are saved and shared with
+gradually expanding networks of partners in the North and South, so that they may
+enrich, influence and transform development policies all over the world.
+As the authors show in this publication, under international human rights law,
+States are legally obligated to establish social protection systems. This duty flows
+directly from the right to social security, which is articulated in Article 22 of the
+Universal Declaration of Human Rights and in Article 9 of the International
+Covenant on Economic, Social and Cultural Rights (ICESCR). Social protection
+systems should protect individual women, men and children against the risks of
+impoverishment in situations of sickness, disability, maternity, employment injury,
+unemployment, old age, death of a family member, high health care or child care
+costs, and general poverty and social exclusion. Social protection measures can
+include e.g. cash transfer schemes, public work programmes, school stipends and
+lunches, social care services, unemployment or disability benefits, social pensions,
+food vouchers and food transfers, user fee exemptions for health care or education,
+and subsidised services.
+
+The human RighTs appRoach To social pRoTecTion
+
+Global political support for the idea of government funded minimum social
+protection crystallised in 2009, when the heads of the United Nations (UN) agencies
+launched the One-UN Social Protection Floor Initiative. Finland has been one of the
+active sponsors of this UN-initiative from the very beginning. Finland also chaired
+the work in OECD-DAC through which joint DAC-Guidelines were developed for
+Social Protection as one of the key elements of Pro-Poor Growth.
+One clear omission in the global discussion about social protection this far
+has been the lack of a deeper analysis of the human rights-based foundations
+implications and outcomes of social protection. This is a significant analytical gap
+that must be filled. Accordingly, for the past four years the United Nations Special
+Rapporteur on Extreme Poverty and Human Rights, Magdalena Sepúlveda, has
+focussed her work on developing the human rights framework for social protection.
+The promotion of human rights has always been part of Finland’s development
+policies, but never before has Finland taken the Human Rights Based Approach
+(HRBA) as the cornerstone of development policy and cooperation in quite the
+same way as we do in our new Development Policy Programme (2012). We are still
+in the early stages of our learning curve in terms of putting into practice the human
+rights based approach to development. Therefore, the thoroughly researched empirical evidence, conceptual analysis and well-synthesised views that Dr. Sepúlveda
+and Ms. Nyst provide in this publication are going to be very practical, useful and
+important for us in Finland’s development cooperation administration in the years
+to come.
+Value-based development policy promotes the core human rights principles such
+as universality, self-determination, non-discrimination and equality. All people have
+an equal right to have an influence on and to participate in the definition and implementation of development. The human rights-based approach to development
+includes civil and political rights and freedoms as well as economic, social and cultural rights. Finland gives special emphasis to the rights of women, children, ethnic
+minorities and indigenous peoples, the rights of persons with disabilities, those
+living with HIV and AIDS, and the rights of sexual and gender minorities. Finland
+is committed to the fight against human trafficking and child labour. In conflict situations, Finland defends the rights of the weakest and most vulnerable.
+Gender equality and the reduction of all kinds of inequalities are cross-cutting
+objectives in Finland’s development policy and development cooperation. They,
+too, are based on human rights conventions and obligations. These human rights
+obligations must be promoted in all of Finland’s development policy and development cooperation through mainstreaming, targeted actions and political advocacy
+work in bilateral, multilateral and EU cooperation and in development communica-
+
+7
+
+8
+
+The human RighTs appRoach To social pRoTecTion
+
+tions. The mainstreaming of these cross-cutting objectives in all activities is a binding principle – deviation from which must always be specifically justified.
+We know that economic and social inequality and exclusion prevent development in all societies. Finland’s development cooperation therefore supports social
+policies that increase equal opportunities for meaningful social, economic, and
+political participation, as well as access to basic services and social protection.
+Particular attention will be paid to the rights and equal participation opportunities
+of people who are vulnerable, and those who tend to be socially excluded and
+discriminated.
+This is more easily said than done, but I am confident that this publication by Dr.
+Sepúlveda and Ms. Nyst will provide us with highly useful Elements for Discussion
+on how to do this.
+
+The human RighTs appRoach To social pRoTecTion
+
+IntroductIon
+The rapid manner in which social protection has gained predominance and political support in the context of the development and poverty reduction discourse
+over the past few years is almost without precedent.
+Although social security systems have played an integral role in many States for
+decades, the idea of a compulsory minimum level of non-contributory social protection has really gained momentum only in the last ten years. In 2001, the General
+Conference of the International Labour Organisation (ILO) referred for the first
+time to the original vision of the ILO Constitution, namely the “extension of social
+security measures to provide a basic income to all in need of such protection and
+comprehensive medical care” (emphasis added). It simultaneously affirmed social
+security as a “basic human right” and noted the importance of improving and
+extending social security coverage to all. The final resolution recommended that
+countries with limited resources prioritise pressing needs, and that they consider
+ways to address those living in the informal economy.1
+Widespread political support for the idea of non-contributory minimum social
+protection crystallised in 2009, when the heads of the United Nations (UN) agencies launched the Social Protection Floor Initiative as one of the nine UN joint initiatives to cope with the global economic and financial crises. The Social Protection
+Floor Initiative builds on the ILO’s concept of a ‘social minimum,’ which comprises
+social pensions, child benefits, access to health care, and unemployment provision.
+At the UN Millennium Summit in September 2010, States acknowledged the value
+of social protection in consolidating and achieving further progress towards the
+Millennium Development Goals (MDGs).2 In November 2011, an advisory group
+chaired by UN Women Director and former Chilean President Michelle Bachelet,
+and convened by the ILO and the World Health Organisation, launched a report
+entitled Social protection floor for a fair and inclusive globalisation (the Bachelet Report), which aimed to consolidate global advocacy activities around social
+protection and further enhance the conceptual policy aspects of the approach.
+An advance copy of the Bachelet Report served as an input for the deliberations
+of the G20 Ministers of Labour and Employment in Paris in September 2011. In a
+landmark move, the G20 States expressly declared their support for social protection in the 2011 Cannes Summit Final Declaration, emphasising the importance of
+1
+2
+
+Resolution and Conclusions concerning social security, International Labour Conference, 89th Session, 2001.
+United Nations General Assembly Resolution 65/1, “Keeping the Promise: United to achieve the Millennium Development Goals,” 19
+October 2010, para 51.
+
+9
+
+10
+
+The human RighTs appRoach To social pRoTecTion
+
+investing in nationally determined social protection floors which “will foster growth
+resilience, social justice and cohesion.”3
+The current political momentum around social protection provides a unique
+opportunity to reinvigorate the development agenda, which, despite the looming
+deadline for the achievement of the MDGs in 2015, has clearly stagnated. At the
+same time, there remains a pressing need to further evolve the concept of social
+protection to ensure that its full potential and impact on poverty reduction and
+development is both understood and realised. One pressing omission to date is
+the complete absence from the discussion of the human rights implications and
+outcomes of social protection programmes. This is a significant analytical gap that
+must be filled.
+Considering the extensive human rights obligations which States possess by
+virtue of the multitude of international human rights treaties, and given that all
+UN agencies have committed to mainstreaming human rights throughout the UN
+system,4 the lack of a systematic discussion of social protection from a human rights
+perspective is problematic. States are subject to legally-binding domestic and international obligations to ensure that human rights guide the design, implementation,
+monitoring and evaluation of all public policies, and these obligations must be applied to social protection programmes.
+Accordingly, for the past four years the United Nations Special Rapporteur on
+extreme poverty and human rights (the Special Rapporteur), Magdalena Sepúlveda,
+has focussed her work on developing the human rights framework for social protection.
+In its Resolution 8/11 (2008) the UN Human Rights Council appointed Ms
+Sepúlveda to the mandate on extreme poverty and human rights,5 requesting that
+she examine the relationship between extreme poverty and the enjoyment of human rights, paying particular attention to the situation of vulnerable groups and
+the impact of discrimination. The Resolution also called on her to submit recommendations on the realisation of the MDGs, in particular Goal 1 (the eradication of
+3
+
+4
+
+5
+
+G20, “Cannes Summit Final Declaration; Building our Common Future: Renewed Collective Action for the Benefit of All,” 4 November 2011,
+para 4.
+See e.g. the UN Statement of Common Understanding on Human Rights-Based Approaches to Development Cooperation and Programming,
+2003.
+The mandate on extreme poverty and human rights is one of the United Nations “special procedures,” the general name given to the mechanisms
+established by the United Nations Human Rights Council to address either specific country situations or thematic issues in all parts of the
+world. Various activities are undertaken by special procedures mandate holders, including responding to individual complaints, conducting
+studies, and providing advice on technical cooperation at the country level. The mandates of the special procedures are established and defined
+by the resolution creating them. Mandate-holders of the special procedures serve in their personal capacity, and are independent from any
+government or organisation.The independent status of the mandate-holders is crucial in order to be able to fulfill their functions in all impartiality.
+Ms Sepúlveda was initially appointed as the Independent Expert on the question of human rights and extreme poverty. On 17 June
+2011 the Human Rights Council decided to extend the mandate for a further three years. In recognising and welcoming the work of the
+mandate, the Council also decided to convert Ms Sepúlveda’s mandate to that of a Special Rapporteur on extreme poverty and human
+rights, in accordance with the policy of harmonising all special procedures mandates.
+
+The human RighTs appRoach To social pRoTecTion
+
+extreme poverty and hunger), and to report annually to the United Nations General
+Assembly and the Human Rights Council.6
+When she commenced work on the mandate in 2008, the Special Rapporteur
+engaged in informal consultations in order to elaborate her priorities and activities
+for the initial period of her mandate. In doing so, it became clear to the Special
+Rapporteur that there existed a pressing need for an analysis of the human rights
+implications of, and the approach to, social protection programmes.
+The Special Rapporteur set out to elaborate and promote a human rights framework for social protection, identifying best practices and disseminating lessons
+learned. Her approach involves the application of the central human rights principles of the human rights framework – equality and non-discrimination (including accessibility, adaptability, acceptability, adequacy and the incorporation of the
+gender perspective), participation, transparency and accountability – to the design,
+implementation, monitoring and evaluation of social protection systems.
+One of the key messages of the Special Rapporteur’s analysis is that human rights
+obligations relate not only to the final outcome of social protection programmes,
+but also to the process through which such programmes are designed and implemented. There is strong evidence that social protection systems can assist States in
+fulfilling their obligations under national, regional and international human rights
+law to ensure the enjoyment of at least minimum essential levels of economic, social and cultural rights. In particular, social protection systems have the potential to
+assist in the realisation of the right to an adequate standard of living, (including the
+right to adequate food and housing), the right to social security, the right to education and the right to the highest attainable standard of health. However, human
+rights standards require that States ensure compliance with human rights obligations both in the content of their social protection policies, as well as in the process by which they implement them. The binding legal obligations that States have
+voluntary assumed must guide the conduct and performance of all social policies.
+The human rights approach to social protection also has numerous practical advantages – human rights standards assist in building social consensus and mobilising durable commitments at the national and international level, facilitate a more
+efficient use of resources by promoting access to information and fighting corruption, and ensure participation of the beneficiaries in all stages of the programmes.
+6
+
+The Special Rapporteur has produced reports to the United Nations Human Rights Council and General Assembly on human rights and
+cash transfer programmes (A/HRC/11/9), the role of social protection in the face of the global financial crisis (A/64/279), a human rights
+framework for non-contributory pensions (A/HRC/13/31), the importance of social protection measures in achieving the MDGs, with
+a particular focus on gender-related concerns (A/65/259), and the human rights approach to recovery from the global economic and
+financial crises (A/HRC/17/34), which included an analysis of the important role played by social protection programmes during times
+of crisis and recovery. She also undertook an analysis of social protection programmes in her visits to ecuador (A/HRC/11/9/Add.1),
+Zambia (A/HRC/14/31/Add.1), Bangladesh (A/HRC/15/55), Vietnam (A/HRC/17/34/Add.1), ireland (A/HRC/17/34/Add.2) Timor-Leste (A/
+HRC/20/25/Add.1) and Paraguay (A/HRC/20/25/Add.2).
+
+11
+
+12
+
+The human RighTs appRoach To social pRoTecTion
+
+A focus on rights and obligations assists in improving accountability, as responsibilities are defined in terms of the specific legal obligations of “duty-bearers”
+and those who are entitled to make claims are identified as ‘rights holders”. Social
+programmes that are designed from a human rights perspective are more likely to
+be sustainable and to effectively contribute to the eradication of extreme poverty.
+Furthermore, a human rights approach empowers those living in poverty and adds
+legitimacy as it refers to a universally accepted set of norms and values.
+This publication constitutes a summary of the analyses and arguments presented
+by the Special Rapporteur in her reports to the Human Rights Council and General
+Assembly over the past three years in regard to the human rights approach to social
+protection. It is intended to be an articulation of the fundamental elements of the
+human rights framework applicable to the design, implementation, monitoring and
+evaluation of social protection systems, and to provide some concrete examples of
+obstacles that arise when implementing social protection.
+It is hoped this framework for a human rights approach to social protection will
+be useful to practitioners, agencies and organisations working on social protection,
+as well as to civil society, intergovernmental organisations and States. While the
+ultimate objective of advocating a human rights approach to social protection systems is to maximise the effectiveness of such systems in reducing poverty and facilitating the realisation of human rights by those living in poverty, it is also hoped
+that social protection can provide a useful strategy around which human rights and
+development practitioners can collaborate and pursue coordinated efforts.
+The current momentum enjoyed by social protection as a development strategy,
+coupled with the increasing need to forge a new development paradigm to replace
+the MDGs, which will expire in 2015, provides a unique opportunity for human
+rights to directly inform the development agenda through the human rights approach to social protection, and in doing so to overcome the long standing separation of the two disciplines. The aim of this publication is thus to encourage closer
+collaboration between human rights and development practitioners to ensure that
+development strategies, in particular social protection, are designed and implemented to maximise the enjoyment of human rights by people living in poverty.
+
+The human RighTs appRoach To social pRoTecTion
+
+Reccommendations
+1. States must ensure, at the very least, minimum essential levels of
+non-contributory social protection – not as a policy option, but
+rather as a legal obligation under international human rights law.
+2. The right to social security should be incorporated in domestic laws
+and, where possible, enshrined in the Constitution.
+3. Social protection systems must be established and defined by law,
+supported by a long-term strategy, and reinforced by an appropriate and adequately-funded long-term institutional framework.
+4. States must adopt legislation to ensure equity and access to services
+without discrimination of any kind. States must take positive actions
+to enable access by those who suffer from structural discrimination
+such as women, persons with disabilities, indigenous peoples, minorities and older persons.
+5. Social protection programmes should be viewed as one essential
+part of a broader development strategy which adopts a comprehensive and holistic approach to poverty reduction aimed at the
+realisation of all economic, social, cultural, civil and political rights.
+6. States must design an integrated and coordinated social protection
+strategy that reduces fragmentation and ensures capacity building
+of all stakeholders implementing social protection programmes.
+7. States must ensure that social protection programmes are sustainably and reliably financed in annual budgets and receive progressively greater resource allocation.
+8. States must acknowledge that the impacts of social protection programmes are not gender neutral, and accordingly should design
+and implement social protection strategies which recognise the
+multiple forms of discrimination that women experience, and ensure that programmes address women’s specific needs throughout
+their life cycle (childhood, adolescence, adulthood and old age).
+9. Social protection programmes must respect and acknowledge the
+role of women as providers of care without reinforcing patterns of
+discrimination and negative stereotyping. Measures must be taken
+to promote the value of care, and to combine society and State
+responsibility for care work, encouraging men to participate more
+actively in the support and care of family members.
+
+13
+
+14
+
+The human RighTs appRoach To social pRoTecTion
+
+10. Policy makers should invest in capacity-building to ensure that
+those designing and implementing social programmes at both the
+national and local levels are aware of gender issues, and should
+adopt measures to ensure greater participation of women in the
+administration of social protection programmes.
+11. Social protection mechanisms must be accompanied by culturally
+and gender-sensitive good quality social services which take into
+account the obstacles faced by women in accessing such services.
+12. States should ensure that all social protection programmes are subject to gender-sensitive eligibility criteria which take into account
+intra-household dynamics to ensure that women are reached by
+and able to benefit from social protection.
+13. Participatory and accountability mechanisms must be designed and
+implemented taking into account gendered power relations, in order to facilitate the meaningful participation of women in all stages
+of the programme.
+14. States must develop and collect disaggregated data in regard to
+gender, age, ethnicity and disability to monitor and evaluate social
+protection programmes
+15. Targeting methods should only be employed with the aim of progressively achieving universal coverage. Measures should be put in
+place to build the capacity of the State and to ensure sustainable
+resources for progressively increased coverage.
+16. Targeting methods must be reasonable, objective, transparent, and
+gender-sensitive, and must, to the maximum extent possible, avoid
+exclusion errors.
+17. Where poverty targeting methods are employed, policy makers must
+ensure that the poorest of the poor are not going to be excluded as
+a result of inaccurate targeting. In the case of proxy means testing,
+active measures must be taken to ensure a broad understanding of
+the methodology and the proxies used. In the case of community
+targeting, policy makers must provide adequate training to community members to ensure that eligibility criteria are applied equally,
+and without discrimination and/or stigmatisation. Where geographical targeting is employed, the criteria for selecting localities must be
+transparent and objective; the selection must be based on the local
+needs and not on the basis of political/electoral interests.
+
+The human RighTs appRoach To social pRoTecTion
+
+18. Targeting processes must be supported by appropriate outreach
+programmes and accessible mechanisms for redress in case of exclusion errors.
+19. The design and implementation of social protection programmes
+should take into account the economic, legal, administrative and
+physical obstacles that individuals face in accessing social protection, giving particular consideration to the needs of those groups
+which face added obstacles, including women, persons with disabilities, the elderly, indigenous peoples, minorities or people living with HIV/AIDS.
+20. All stages of social protection programmes, from the delivery of
+benefits to outreach efforts, must be specifically designed to overcome cultural barriers and to reach groups that are particularly vulnerable or excluded.
+21. Benefit levels must be adequate to improve the standard of living
+of the beneficiaries, and benefits must be complemented by free or
+affordable quality public services.
+22. To the greatest extent possible, States should refrain from imposing
+co-responsibilities or conditionalities on receipt of social protection, and instead should channel financial and human resources
+into improving the level of benefits provided and the quality and
+accessibility of social services available. Where conditionalities are
+imposed, they must be accompanied by measures to protect against
+abuses by those monitoring compliance with conditionalities, and
+by measures to ensure the capacity of the health and education
+services to meet increased demand.
+23. Failure to satisfy imposed conditions should never result in the automatic exclusion of an individual or household from social protection programmes, but rather should be used as a facilitative tool to
+assist the State in identifying the most vulnerable families, providing supportive social work and/or community development, and
+addressing failures in public services.
+24. Protections must be put in place to ensure that conditionalities
+do not create an unnecessary burden on women, expose them to
+abuse, or perpetuate traditional gender stereotypes within recipient
+households.
+
+15
+
+16
+
+The human RighTs appRoach To social pRoTecTion
+
+25. Laws should be put in place to ensure that individuals and organisations have the right to seek, receive and impart information
+about social protection programmes in a simple, accessible and
+rapid manner.
+26. When collecting and processing information belonging to beneficiaries, States must ensure that they observe internationally accepted standards of privacy and confidentiality, and do not disseminate
+such information to other authorities or use it for other purposes
+without the consent of the beneficiary.
+27. States must put in place adequate mechanisms for beneficiaries to
+participate in the design, implementation, monitoring and evaluation of social protection programmes.
+28. Participatory mechanisms must ensure that participation is authentic, takes into account the existing asymmetries of power within
+the community, and is tailored to ensure the broadest participation
+possible by vulnerable and disadvantage groups.
+29. Social protection programmes must incorporate accessible and effective complaints mechanisms which guarantee anonymity, allow
+for individual and collective complaints, and are sufficiently resourced and culturally appropriate. Complaints procedures should
+include an appeal process that is independent, accessible, simple,
+fair and effective.
+30. Social protection programmes must periodically review decisions
+taken on at least three key elements: (a) the procedures utilised to
+register beneficiaries (in particular to identify the possible wrongful exclusion of beneficiaries), (b) the implementation of the programme (to monitor all sorts of possible abuses occurring when
+assistance is provided at the local level, e.g. sexual harassment) and
+(c) the overall payment procedures (to monitor misappropriation of
+financial resources throughout the different stages of implementation).
+
+T h e R e l a T i o n s h i p b e T w e e n p o v e R T y,
+human RighTs and social pRoTecTion
+
+The relaTIonshIp beTween poverTy,
+human rIghTs and socIal proTecTIon
+1. The value of the human rights approach to
+poverty reduction
+Poverty is universally recognised as a multidimensional phenomenon, one which
+extends far beyond a lack of income to encompass the deprivation of the capabilities necessary to live in dignity. This multidimensionality is best encapsulated by the
+United Nations Committee on Economic, Social and Cultural Rights’7 (CESCR) definition of poverty as “a human condition characterised by the sustained or chronic
+deprivation of the resources, capabilities, choices, security and power necessary
+for the enjoyment of an adequate standard of living and other civil, cultural, economic, political and social rights”.8 The former Independent Expert on the question
+of human rights and extreme poverty, Arjun Sengupta, further elaborated on this
+definition, recognising that poverty encompasses “the combination of income poverty, human development poverty and social exclusion.”9 This definition recognises
+further that, although the lack of income is a key characteristic of extreme poverty,
+from a human rights perspective poverty is not limited to economic deprivation but
+also implies significant and overlapping social, cultural and political deprivations.
+While poverty may not per se be a violation of human rights,10 there is no doubt
+that it is both a significant cause and consequence of human rights violations. Poverty, thus, is a major human rights issue. There are clear and indisputable causal
+links between the violation of human rights, and the economic, social, cultural and
+political deprivations which characterise poverty. It follows, therefore, that the realisation of all human rights and efforts to eliminate extreme poverty are mutually
+reinforcing, and human rights norms and principles can guide efforts to reduce,
+and ultimately eradicate, poverty.11
+The added value of the human rights approach to poverty reduction can be
+conceptualised in at least three different ways. Of critical importance is that the human rights approach provides a normative framework for practical action to reduce
+The Committee on economic, Social and Cultural Rights (CeSCR) is the supervisory body of the international Covenant on economic, Social
+and Cultural Rights (iCeSCR), which is a binding treaty for its 160 States parties (as at 17 April 2012).
+8
+CeSCR, e/C.12/2001/10, para. 8
+9
+A/HRC/7/15 para. 13
+10
+The exact nature of the relationship between poverty and human rights has been the subject of much debate. While the authors see the
+value in such a discussion, and believe the human rights community could benefit greatly from the further elaboration of the complex
+relationship between human rights and poverty, such a debate falls outside of the parameters of this publication. For further reading on
+this debate, see Fernanda Doz Costa, “Poverty and Human Rights: From Rhetoric to Legal Obligations; A Critical Account of Conceptual
+Frameworks,” 5 SUR International Journal on Human Rights 9 (2008): 81.
+11
+See General Assembly Resolutions 60/209 of 22 December 2005 and 61/157 of 16 February 2007.
+7
+
+17
+
+T h e R e l a T i o n s h i p b e T w e e n p o v e R T y,
+human RighTs and social pRoTecTion
+
+18
+
+poverty. Human rights can provide practical guidance to the design, implementation, evaluation and monitoring of poverty reduction efforts. Because human rights
+strive to empower the poor, the focus of poverty alleviation efforts is fundamentally
+shifted from a charity or needs-based approach, towards a concentration on rights
+and entitlements, which in turn give rise to obligations on the part of the State.
+From a human rights perspective, individuals are rights-holders that can make legitimate claims, and States and other actors are duty-bearers that are responsible
+and can be held accountable for their acts or omissions. Therefore, a focus on
+rights and obligations helps to identify who is entitled to make claims and who
+has a duty to take action, empowering those who have legitimate claims to rights.
+This regulates the exercise of power and ensures that those who wield power
+are answerable to those who do not.12 In this regard, accountability, the essential
+principle of human rights, has the potential to empower people living in poverty
+and facilitate their visibility, ensuring that they are at the centre of public policies
+on poverty eradication not as passive beneficiaries, but as rights holders that can
+exercise their entitlements by holding responsible those behind such policies. As a
+result, the human rights approach has the potential to improve the effectiveness of
+poverty reduction efforts, and to ensure that progress is equitable and sustainable.
+Human rights also provide the legal imperative for poverty reduction policies.
+States have voluntarily assumed legally binding obligations which require them to
+reverse the deprivations of which extreme poverty is fundamentally constituted –
+lack of an adequate standard of living, food, housing, water and sanitation, access
+to health care and education, social security and work – in addition to the multitude of other cultural, political and civil deprivations that reinforce and entrench
+poverty. Human rights mandate that States must devote the maximum available
+resources to progressively realising these fundamental economic and social rights,
+even during times of severe resource constraints.13 Human rights does not allow
+the principle of progressive realisation to be used as an excuse to justify sustained
+levels of chronic or extreme poverty, but rather endows States with an immediate
+minimum core obligation to ensure the satisfaction of, at the very least, minimum
+essential levels of all economic, social and cultural rights.14 These minimum essential levels are those which are crucial to securing an adequate standard of living
+through basic subsistence, essential primary health care, basic shelter and housing,
+and basic forms of education – elements which together comprise a social protection floor – for all members of society.
+OHCHR Principles and Guidelines for a Human Rights Approach to Poverty Reduction Strategies, available at http://www.ohchr.org/
+Documents/Publications/PovertyStrategiesen.pdf.
+13
+CESCR, General Comments No. 4, para. 10; No. 5, para. 13 and No. 11, para. 11.
+14
+CESCR, General Comments No. 4, para. 10; No. 5, para. 13 and No. 11, para. 10.
+12
+
+T h e R e l a T i o n s h i p b e T w e e n p o v e R T y,
+human RighTs and social pRoTecTion
+
+Human rights also establish a clear legal duty upon States to ensure enjoyment
+of human rights equally and without discrimination of any kind.15 Poverty and
+discrimination are inherently linked, each being a cause and consequence of the
+other. People living in poverty experience discrimination not only on grounds
+such as birth, property, national or social origin, ethnic origin, colour, gender and
+religion, but also because they are poor. From a human rights perspective, States
+are under a clear obligation to ensure that all individuals are able to enjoy access
+to a minimum essential level of economic, social and cultural rights, including an
+adequate standard of living, equally and without discrimination.
+A human rights approach will not necessarily prescribe precise policy measures,
+as States have the discretion to formulate the poverty reduction policies which are
+most appropriate for their circumstances. However, a human rights approach does
+require that States take their international human rights obligations into account
+when formulating policies and other initiatives related to the reduction of poverty.
+These legally binding obligations refer to the final outcome, as well as to the process that is used; human rights law imposes upon States obligations of both conduct and result. Therefore, efforts to attain a policy objective, implementation of the
+policy, and the outcome of the policy must all be in line with human rights standards. Compliance of outcomes and processes with human rights norms is assessed
+both against 1) cross cutting human rights principles (such as non-discrimination,
+transparency, accountability and participation); and 2) certain procedural obligations, such as the duty to give priority to the most marginalised, disadvantaged and
+vulnerable groups over other segments of society, the duty to ensure effective and
+meaningful participation of those affected by the policies, and the duty to ensure
+transparency, access to information and mechanisms of accountability; as well as
+in the context of 3) substantive criteria which have been developed in relation to
+specific rights (such as those developed by the Committee on Economic, Social and
+Cultural Rights in relation to, for example, the rights to social security, education
+and health).
+Furthermore, human rights provide an analytical tool to examine the different
+levels of obligations for States with respect to the eradication of poverty. The three
+levels of obligations refer to the obligations to respect, protect and fulfil human
+rights.16 The obligation to respect requires States to immediately refrain from jeopardising the enjoyment of any rights domestically and extra-territorially, including
+See e,g, iCeSCR, Articles 2(2) and 3; international Covenant on Civil and Political Rights (iCCPR), Articles 2(1), 3 and 26; international
+Convention on the elimination of All Forms of Racial Discrimination (CeRD), Article 2(1); Convention on the elimination of All Forms of
+Discrimination against Women (CeDAW), Article 2; Convention on the Rights of the Child (CRC), Article 2(1) and Convention on the Rights
+of Persons with Disabilities (CRPD), Article 5.
+16
+While this analytical framework was first developed in regard to economic, social and cultural rights (see, e.g. Henry Shue, Basic rights:
+subsistence, affluence and US foreign policy (Princeton: Princeton University Press, 1996); e/CN.4/Sub.2/1987/23; CeSCR, General
+Comments 12, 13, 14, 15, 16, 17, 18, 19 and 21), it is widely accepted that it applies to all human rights.
+15
+
+19
+
+T h e R e l a T i o n s h i p b e T w e e n p o v e R T y,
+human RighTs and social pRoTecTion
+
+20
+
+acting in a way that generates or exacerbates extreme poverty. To this end, States
+should, for example, assess, identify and address the possible human rights impacts of their poverty reduction policies. The obligation to protect includes taking
+all necessary measures to protect persons living in extreme poverty from actions or
+omissions of third parties (such as corporations and business enterprises, as well
+as more powerful individuals) that might threaten or jeopardise their human rights.
+The obligation to fulfil requires States to take positive actions to facilitate the enjoyment of all human rights, including creating institutional mechanisms to prevent
+human rights violations.
+Finally, human rights provide political impetus and add legitimacy to efforts to
+eradicate poverty. Because human rights standards are legally binding obligations
+based on universally accepted norms, they possess legitimacy and enforceability,
+providing both a platform around which political commitments can be mobilised,
+and an impetus for policy-makers to meet such commitments. Human rights standards may also assist in building social consensus, and thus play an important role
+in securing the prioritisation of poverty reduction measures in budgetary and social
+policies.
+
+2. The obligation of social protection under
+human rights treaties
+Under human rights law, States are legally obligated to establish social protection
+systems. This duty flows directly from the right to social security, which is articulated most prominently in Article 9 of the International Covenant on Economic,
+Social and Cultural Rights (ICESCR).17
+In General Comment No. 19 on the right to social security, the CESCR spells out
+the key features of this right and the content of States’ obligations. According to
+the Committee, the right to social security implies two predominant categories of
+measures: social insurance schemes, where beneficiaries are requested to contribute financially; and social assistance schemes, non-contributory and typically taxation-funded measures which are designed to transfer resources to groups deemed
+eligible due to vulnerability or deprivation.18
+
+The right to social security is also enshrined in the Universal Declaration of Human Rights (UDHR), Articles 22 and 25; CeRD, Article 11;
+CRC, Article 26; and the Convention for the Protection of Migrant Workers and their Families (CMW), Article 27. it also appears in regional
+human rights instruments (Protocol of San Salvador, Article 9;, european Social Charter, Article 12), and in several Conventions of the
+international Labour Organisation (iLO), in particular Convention No. 102 on Minimum Standards of Social Security. The CRPD explicitly
+refers to the right to social protection (Article 28).
+18
+CeSCR, General Comment No. 19, para 4.
+17
+
+T h e R e l a T i o n s h i p b e T w e e n p o v e R T y,
+human RighTs and social pRoTecTion
+
+Social security = social protection
+The ILO and other United Nations bodies use the terms social security and social protection interchangeably to refer to the benefits in
+cash or in kind to secure protection in case of social risks and needs.
+Social protection measures secure protection against, inter alia:
+a) lack of work-related income (or insufficient income), caused
+by sickness, disability, maternity, employment injury, unemployment, old age, or death of a family member;
+b) lack of access or unaffordable access to health care;
+c) insufficient family support, particularly for children and adult
+dependants;
+d) general poverty and social exclusion.
+These social protection measures include e.g.:
+• cash transfer schemes,
+• public work programmes,
+• school stipends,
+• unemployment or disability benefits,
+• social pensions,
+• food vouchers and food transfers,
+• user fee exemptions for health care or education
+• subsidised services.
+Source: ILO, World Social Security Report 2010/2011: Providing coverage in time of crises and beyond, 2010, pp. 13-15
+
+The CESCR notes that States parties are obliged to progressively ensure the right
+to social security to all individuals within their territories, providing specific protection for disadvantaged and marginalised individuals and groups.19 The CESCR
+states that the realisation of the right to social security implies that States should
+take measures to establish social protection systems under domestic law, ensure
+their sustainability,20 ensure that benefits are adequate in amount and duration,
+and ensure that the level of benefits and the form in which they are provided are
+in compliance with the principles of human dignity and non-discrimination.21 In
+CESCR, General Comment No. 19, Ibid, para 31.
+Ibid, para. 11.
+21
+Ibid, para. 22.
+19
+20
+
+21
+
+T h e R e l a T i o n s h i p b e T w e e n p o v e R T y,
+human RighTs and social pRoTecTion
+
+22
+
+complying with the right to social security, States must ensure that social protection
+is equally available to all individuals, and in this respect direct their attention to
+ensuring universal coverage, reasonable, proportionate and transparent eligibility
+criteria; affordability and physical accessibility by beneficiaries; and participation
+in and information about the provision of benefits.22
+Under the ICESCR, States are prohibited from deliberately taking any retrogressive measures, including in regard to the right to social security, unless they can
+prove that they have only been introduced after the most careful consideration of
+all other alternatives, and that they are duly justified by reference to the totality of
+the rights stipulated in the Covenant.23 The significant financial implications of the
+right to social security do not justify allowing the State to dispense with its obligation to give appropriate priority in law and policy to social security.24 If necessary,
+developing countries should seek international cooperation and technical assistance to realise progressively the right to social security.25
+One of the major contributions of General Comment No. 19 is the understanding
+that all States have a minimum core obligation to provide some form of basic social
+security. As noted by the CESCR, States have the immediate duty
+“to ensure access to a social security scheme that provides a minimum
+essential level of benefits to all individuals and families that will enable
+them to acquire at least essential health care, basic shelter and housing,
+water and sanitation, foodstuffs, and the most basic forms of education. If a State party cannot provide this minimum level for all risks and
+contingencies within its maximum available resources, the Committee
+recommends that the State party, after a wide process of consultation,
+select a core group of social risks and contingencies.”26
+In other words, a State must immediately meet a minimum standard and then progressively realise an adequate level of benefits over time. In order for a State party
+to be able to attribute its failure to meet at least its minimum core obligations to a
+lack of available resources, it must demonstrate that every effort has been made to
+use all resources that are at its disposal in an effort to satisfy, as a matter of priority,
+these minimum obligations.27
+Thus, ensuring, at the very least, minimum essential levels of non-contributory
+Ibid, paras. 23 to 27.
+Ibid, para. 42.
+24
+Ibid, para. 41.
+25
+Ibid, para. 52.
+26
+CESCR, General Comment No. 19, Ibid, para 59.
+27
+CESCR, General Comment No. 19, Ibid, para 60.
+22
+23
+
+T h e R e l a T i o n s h i p b e T w e e n p o v e R T y,
+human RighTs and social pRoTecTion
+
+social protection is not a policy option, but rather a legal obligation under international human rights law.
+At the same time, social protection systems are one tool that can assist States in
+complying with their other human rights obligations towards people living in poverty. By transferring resources to those living in extreme poverty and allowing beneficiaries to generate income, protect their assets and accumulate human capital,
+social protection programmes have the potential to contribute to the realisation of
+a number of economic, social and cultural rights, such as the right to an adequate
+standard of living – including the right to adequate food, clothing, and housing28 –
+as well as the rights to education29 and health.30
+While the impact of social protection programmes varies according to their objectives, design and level of institutionalisation, as well as the level of development
+of the countries where they are implemented, there is strong evidence that social
+protection initiatives can significantly contribute to reducing the prevalence and
+severity of poverty,31 and in doing so ensure that those living in poverty enjoy at
+least minimum essential levels of some economic, social and cultural rights. In
+OECD countries, for example, it is estimated that levels of poverty and inequality
+are approximately half of those that might be expected in the absence of social
+protection.32
+Numerous studies demonstrate that specific cash transfer programmes, such as
+the Ethiopia’s Productive Safety Net Programme, India’s Mahatma Gandhi National
+Rural Employment Guarantee Scheme, Bangladesh’s Challenging the Frontiers of
+Poverty Reduction: Targeting the Ultra Poor Programme, and Zambia’s Kalomo District Pilot Social Cash Transfer Scheme have all improved nutrition levels,33 thus
+enabling greater numbers of individuals to enjoy the right to adequate food.34 In
+countries such as Brazil and Paraguay, school meal programmes and the distribution
+of food baskets have played an important role in ensuring significant gains toward
+reducing the prevalence of hunger. The integral role played by social protection in
+ensuring the realisation of the right to food has been explicitly acknowledged by
+the UN Committee on World Food Security, which in October 2010 requested its
+High Level Panel of Experts on Food Security and Nutrition to conduct a compreiCeSCR, Article 11; UDHR, Article 25.
+iCeSCR, Articles 13 and 14; UDHR, Article 26.
+30
+iCeSCR, Article 12; UDHR, Article 25.
+31
+For a comprehensive study on the impact of cash transfer programmes, see Armando Barrientos, and Miguel Niño-Zarazúa, The effects
+of non-contributory social transfers in developing countries: A Compendium, (Manchester: Brooks World Poverty institute, University of
+Manchester, 2010).
+32
+Social Protection Floor for a Fair and Inclusive Globalization: Report of the Advisory Group chaired by Michelle Bachelet (international
+Labour Organisation, 2011), xxiv.
+33
+Armando Barrientos and Miguel Niño-Zarazúa,The effects of non-contributory social transfers in developing countries: A Compendium,
+(Manchester: Brooks World Poverty institute, University of Manchester, 2010), 14.
+34
+iCeSCR, Article 11(1).
+28
+29
+
+23
+
+T h e R e l a T i o n s h i p b e T w e e n p o v e R T y,
+human RighTs and social pRoTecTion
+
+24
+
+hensive study on social protection as a tool to improve access to nutrition and food
+security.35 In the zero draft of the study, the High Level Panel notes that “social protection and food security are aims as well as contexts for realising the fundamental
+human right to food and to be free from hunger for all human beings…”.36
+Social protection programmes also contribute to the realisation of the right to education. Empirical evidence shows, for example, that cash transfers allow families
+to absorb the costs associated with schooling,37 and school feeding programmes
+or initiatives that provide fee waivers or subsidies for low-income families with
+children have a positive impact on higher school attendance levels.38 Programmes
+without an explicit focus on schooling can also positively impact children’s education level; research shows that social pensions (non-contributory pensions for older
+persons) in Brazil, South Africa and Namibia, for example, have been used to pay
+grandchildren’s school fees.39 In addition, in some cases, investment in infrastructure such as schools,40 as well as roads and bridges, through public works programmes improves access to educational facilities and their quality. Several studies
+demonstrate the contribution of such investments to higher school enrolment rates
+and total years of accumulated education in the communities affected.41 Social
+protection programmes even have beneficial impacts on education outcomes with
+regard to non-beneficiary households: experience from Mexico’s Oportunidades
+programme shows that school enrolment rates of non-beneficiary children rose in
+districts that took part in the programme, due to the so-called peer effect.42
+Social protection programmes may also serve to protect children’s rights by reducing child labour. Evidence from Latin America suggests that greater family access to risk management instruments, such as unemployment or disability benefits,
+directly reduces the prevalence of child labour.43
+Social protection also contributes to improving the capacity of people living in
+The study will be presented to the Committee on World Food Security’s plenary session in October 2012. For further information, see Social
+Protection for Food Security: A zero draft consultation paper (High Level Panel of experts on Food Security and Nutrition, 2012), accessed
+April 26, 2012, http://www.csm4cfs.org/files/SottoPagine/37/hlpe_sp.pdf.
+36
+ibid, 95.
+37
+The Contribution of Social Protection to the Millennium Development Goals (Washington, D.C: The World Bank, 2003), 4; A/HRC/11/9, p.
+19.
+38
+Armando Barrientos and Rebecca Holmes, Social Assistance in Developing Countries Database (Manchester: Brooks World Poverty
+institute, The University of Manchester, and the Overseas Development institute, 2006).
+39
+See, for example, Stephen Devereux, Social protections in Namibia and South Africa, (Sussex: institute of Development Studies, 2001);
+irineu evangelista de Carvalho Filho, Household Income as a Determinant of Child Labour and School Enrolment in Brazil: Evidence From
+a Social Security Reform (international Monetary Fund, 2008).
+40
+The Contribution of Social Protection to the Millennium Development Goals (Washington, D.C: The World Bank, 2003), 12-13.
+41
+L. Sherburne-Benz, L.B. Rawlings and J. Van Domelen, Evaluating Social Fund Performance: A Cross-Country Analysis of Community
+Investments (Washington, D.C: The World Bank, 2003).
+42
+Rafael Perez Ribas, Fabio Veras Soares, and Guilherme issamu Hirata, “The impact of CCTs – What We Know and What We Are Not Sure
+About,” in Poverty in Focus: Cash Transfers, Lessons from Africa and Latin America (Brazil: international Poverty Centre for inclusive
+Growth, 2008), 12.
+43
+F.C. Rosati, A. Cigno and Z. Tzannatos, Child Labor Handbook, Social Protection Discussion Paper No. 0206 (Washington, D.C.: The World
+Bank, 2002).
+35
+
+T h e R e l a T i o n s h i p b e T w e e n p o v e R T y,
+human RighTs and social pRoTecTion
+
+poverty to enjoy their right to the highest attainable standard of physical and mental health,44 by addressing fundamental economic obstacles which result in health
+challenges. For example, by eliminating financial disincentives, cash transfers directed at families with small children have demonstrably increased regular medical
+check-ups, reducing the risk of child mortality.45 These programmes have also been
+effective in improving immunisation and regular health visits amongst children,
+reducing the incidence of illness and, in extreme cases, of premature death.46 Similarly, food transfers have demonstrably reduced malnutrition in children.47
+Social protection programmes can also promote maternal health, improving the
+enjoyment by women of their right to health. Evaluations of Peru’s Juntos scheme,
+a conditional cash transfer programme, show an increase of approximately 65% in
+pre-natal and postnatal visits to health clinics, and a reduction in home births in
+areas where there were high levels of maternal mortality.48 Evidence also shows
+the positive impacts of social protection systems on the lives of people living with
+HIV/AIDS, and their families. In a number of African countries where HIV/AIDS is
+prevalent, universal old age pensions have significantly improved the lives of AIDS
+orphans raised by their grandparents.49
+These beneficial impacts of social protection systems on the enjoyment of a number of economic, social and cultural rights add further weight to the claim that there
+is a strong and symbiotic relationship between human rights and social protection.
+Human rights create legal obligations to implement social protection systems and
+establish standards for the design, implementation and evaluation of such systems.
+In turn, the implementation of social protection facilitates the fulfilment of a number
+of other human rights obligations, most importantly those related to the enjoyment
+of minimum essential levels of basic economic, social and cultural rights (social
+protection floor). However, the success or failure of social protection systems in
+realising human rights rests heavily on whether such systems are established and
+operated according to the standards that human rights require and the obligations
+they impose. The following section sets out the human rights-based framework for
+the design, implementation, monitoring and evaluation of social protection systems.
+UDHR, Article 25; iCeSCR, Article 12.
+Armando Barrientos and Rebecca Holmes, Social Assistance in Developing Countries Database (Manchester: Brooks World Poverty
+institute, The University of Manchester, and the Overseas Development institute, 2006). J.M. Aguero, M.R. Carter and i. Woolard, “The
+impact of Unconditional Cash Transfers on Nutrition: The South African Child Support Grant,” International Poverty Centre Working Paper
+29, (2007).
+46
+Armando Barrientos and Miguel Niño-Zarazúa, The effects of non-contributory social transfers in developing countries: A Compendium,
+(Manchester: Brooks World Poverty institute, University of Manchester, 2010), 15.
+47
+Armando Barrientos and Rebecca Holmes, Social Assistance in Developing Countries Database (Manchester: Brooks World Poverty
+institute, The University of Manchester, and the Overseas Development institute, 2006).
+48
+Armando Barrientos and Miguel Niño-Zarazúa The effects of non-contributory social transfers in developing countries: A Compendium,
+(Manchester: Brooks World Poverty institute, University of Manchester, 2010). 15.
+49
+Mark Gorman, Age and Security: How social pensions can deliver effective aid to poor older people and their families (London: HelpAge
+international,2004), 32.
+44
+45
+
+25
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+26
+
+The human rIghTs-based Framework
+For socIal proTecTIon
+While evidence suggests that, by establishing or strengthening social protection
+systems, States could comply with their obligations to provide at least minimum
+essential levels of basic economic, social, and cultural rights for those living in
+poverty, the human rights framework also requires States to design, implement,
+monitor and evaluate such programmes in accordance with human rights standards. Although human rights do not provide answers to all the challenges faced
+by policy makers when designing social protection programmes, they do impose
+legally binding obligations, related to the overall process of implementing social
+protection programmes, which govern the discretion of States in this regard.
+The adoption of a human rights approach to social protection not only responds
+to international obligations and commitments but also improves the effectiveness
+of poverty reduction efforts and aligns them with the holistic perspective required
+to tackle the various dimensions of poverty. Those most in need of assistance are
+more likely to be reached by a human rights-based social protection programme,
+and the assistance they receive is more likely to be appropriate and effective in
+addressing their deprivations. Poverty reduction is more effective and more sustainable, as participatory and accountability mechanisms ensure that the voices of social protection beneficiaries are taken into account and programmes are designed
+to respond to their needs accordingly.
+This chapter outlines the essential principles of the human rights framework as
+it applies to social protection programmes.
+
+1. Ensuring an adequate legal and institutional framework
+and adopting long-term strategies
+A core aspect of the human rights approach is that social protection programmes
+must be enshrined and defined in national legal frameworks, and supported by a
+national strategy and plan of action.50 The most successful experiences of social
+protection systems are those grounded in legal instruments that create an entitlement to social protection benefits, ensure the permanence of these initiatives, and
+give rights-holders the legal ability to invoke their rights.51 The success of systems
+in countries such as Brazil and South Africa is due in part to the existence of spe50
+51
+
+CeSCR, General Comment No. 19, para. 67.
+Degol Hailu, Marcelo Medeiros and Paula Nonaka, “Legal Protection for Cash Transfers: Why We Need it,” in Poverty in Focus: Cash
+Transfers, Lessons from Africa and Latin America, (Brazil: international Poverty Centre for inclusive Growth, 2008), 28.
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+cific legal provisions ensuring the individual’s right to social protection and defining the standards which regulate the involvement of all stakeholders.52
+In many cases, however, social protection programmes are implemented in the
+absence of an appropriate legal framework, based only on presidential decrees,
+policy statements or simply operational manuals and guidelines. Furthermore, pilot
+schemes and programmes funded mostly through external sources are often based
+upon operational guidelines with no legal authority.
+The lack of a strong legal and institutional framework and a complementary
+long-term strategy can seriously threaten the enjoyment of human rights by the
+programme’s beneficiaries. In the absence of a well established legal framework,
+programmes are more vulnerable to political manipulation, and the long-term involvement of State authorities in all stages of the programme cannot be guaranteed.
+Programmes are not viewed as an inherent social entitlement or as the right of the
+beneficiaries.
+In order to ensure a strong, effective, transparent and accountable social protection system, beneficiaries must be able to identify actors who bear responsibilities
+in allocating the entitlement that they receive. This ensures that political changes
+do not jeopardise the existence of the social protection system, which may not
+be as politically valuable to a new government as it was to the previous one. In
+the absence of a legal framework for social protection in Nicaragua, for example,
+the reasonably successful programme Red de Protección Social, was replaced after
+elections by the successor government, leaving those who had benefited from and
+who were heavily dependent on the programme in a more difficult situation after
+the programme abruptly closed.53
+Legal and institutional frameworks play an integral role in ensuring that beneficiaries can demand their entitlements and protest violations of their rights, guaranteeing that the social protection programme will outlast the political cycle and will
+not be manipulated for political purposes.
+The absence of a clear strategy and institutional arrangements undermines the
+necessary protection of the beneficiaries’ human rights by prioritising short-term
+gains in poverty reduction over development, human rights realisation and the
+accumulation of human capital. In the absence of a long-term strategy, and without administrative and delivery systems in place, small scale initiatives and pilot
+projects are often instituted in contexts where the adequate infrastructure does not
+yet exist, and programmes are rolled out in ways which pose risks to the benefiFor example, the 1988 Constitution of Brazil recognises the right to social protection, and Law 10.836/2004 stipulates the right to a basic
+income in order to obtain food, education and health care. in South Africa, the Social Assistance Act (Act 13 – 2004), charges the national
+government with responsibility for social security grants.
+53
+Simone Cecchini, “Do CCT Programmes Work in Low-income Countries?” International Policy Centre for Inclusive Growth One Pager 90
+(2009).
+52
+
+27
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+28
+
+ciaries. For example, Guatemala’s Mi Familia Progresa was launched without any
+information management system to register beneficiaries and payments were made
+in cash at mass events.54 Timor-Leste’s Bolsa da Mãe programme was originally
+implemented without adequate research and needs assessments, undermining the
+reasonableness of the eligibility criteria.55
+If social protection programmes and interventions are not established by law
+with a comprehensive approach that ensures fiscal sustainability and reliable and
+effective implementation, there are higher risks that the programme will not be sustainable and may terminate with a change of government, leaving beneficiaries in a
+more difficult situation than before the institution of programme due to the abrupt
+loss of income or other support.
+A legal and institutional framework and national strategy is an essential prerequisite to ensuring long-term institutionalised commitment to providing adequate financial and human resources to social protection programmes. For example, when
+small scale or pilot programmes are implemented in the absence of long-term
+funding commitments, particularly when such programmes are implemented by
+external donors, the objectives of the programmes invariably shift from the accumulation of human capital to the achievement of short-term gains in poverty reduction.56 Experiences in Honduras, for example, show that where loans received from
+external sources are subject to short terms, such programmes are generally unable
+to make long-term impacts on the beneficiaries.57
+At a minimum, a legal and institutional framework should: 1) include the precise eligibility requirements for social protection programmes, 2) provide for mechanisms
+to ensure transparency and access to information about available programmes, 3)
+define the various roles and responsibilities of all those involved in implementing
+the programmes (e.g. governments at the national and local levels and civil society
+organisations), 4) articulate the long-term financial requirements, ensure adequacy
+and predictability of benefits, 5) establish accessible complaints and appeal mechanisms, and 6) set the foundations for participation channels for beneficiaries.
+The effective impact of social protection systems also requires States to adopt
+supporting legislation to ensuring equity and non-discrimination. For example, in
+most countries women’s vulnerability to poverty would not change with social
+protection alone. Measures such as ensuring women’s access to land and productive resources, access to credit, fair inheritance rights, full legal capacity, access to
+justice and the removal of restrictions on women’s mobility are critical to effective
+ibid.
+A/HRC/20/25/Add.1.
+Charity Moore, “Why Sources of Funding for CCTs Matter in Honduras and Nicaragua,” in Poverty in Focus: Cash Transfers, Lessons from
+Africa and Latin America (Brazil; international Poverty Centre for inclusive Growth, 2008), 11.
+57
+ibid.
+54
+55
+56
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+development strategies. Moreover the prevention, protection and punishment of
+acts of violence against women and girls are essential for improving their standard of living. In this regard, international human rights standards, in particular the
+Convention on the Elimination of All Forms of Discrimination against Women (CEDAW) and the Convention on the Rights of the Child (CRC) place concrete obligations on States that, if they were to be complied with, would further strengthen the
+impact of social protection programmes.
+Therefore, in order for social protection systems to comply with international human rights obligations, States should ensure the following:
+Recommendation 1
+States must ensure, at the very least, minimum essential levels of non-contributory social protection – not as a policy option, but rather as a legal obligation under international human rights law.
+
+Recommendation 2
+The right to social security should be incorporated in domestic laws and,
+where possible, enshrined in the Constitution.
+
+Recommendation 3
+Social protection systems must be established and defined by law, supported
+by a long-term strategy, and reinforced by an appropriate and adequatelyfunded long-term institutional framework.
+
+Recommendation 4
+States must adopt legislation to ensure equity and access to services without
+discrimination of any kind. States must take positive actions to enable access
+by those who suffer from structural discrimination such as women, persons
+with disabilities, indigenous peoples, minorities and older persons.
+
+29
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+30
+
+2. Adopting comprehensive, coherent and coordinated
+policies
+The interdependence, indivisibility and mutually reinforcing nature of human rights
+necessitate a holistic approach to poverty reduction. This approach requires that
+States establish a network of policies and programmes that collectively support the
+realisation of all human rights and the highest level of development possible.
+Social protection programmes must be not considered a panacea for all economic and social issues, but rather as one element within a broad development
+strategy aimed at overcoming poverty and realising human rights. To this end,
+States must complement social protection initiatives with corresponding policies
+and programmes designed to maximise the effectiveness of the social protection
+programme in improving the lives of the beneficiaries.
+Fragmentation and lack of coordination across programmes, actors and levels
+of government responsible for implementing social protection within the wider
+context of national development strategies increases the likelihood that measures
+will be ineffective, and that the rights of people living in poverty will be infringed
+upon. Where multiple initiatives exist, each of them implemented by numerous
+ministries or civil society organisations, there is a risk that initiatives will overlap,
+undermining their efficacy and jeopardising the stability required by social protection programmes in order to ensure their success. Fragmentation of the social
+protection strategy in Bangladesh, for example, has resulted in the establishment
+of over forty “safety net” programmes, most of them insufficiently funded, each of
+them administered by several ministries, and each operating independently without
+sufficient coordination or cooperation with corresponding programmes. Such disjunction encourages both inclusion and exclusion errors, resulting in financial wastage and mismanagement, undermining the ability of such programmes to expand
+coverage and improve targeting. Estimates indicate that only 23 per cent of the
+poorest groups in Bangladesh receive the assistance they are entitled to from these
+programmes,58 jeopardising the enjoyment of equality and non-discrimination.
+As noted by the World Bank, the duplication or lack of coordination of programmes and initiatives, particularly those in low income countries, undermines
+their cost-effectiveness and responsiveness to risks. 59 The absence of effective coordination is also problematic from a human rights perspective, because it does
+not allow for the allocation of responsibility or identification of who is accountable
+58
+
+59
+
+“Poverty Assessment for Bangladesh: Creating opportunities and bridging the east-West divide,” The World Bank Bangladesh Development
+Series (2008): xxiii.
+Resilience, Equity and Opportunity: The World Bank’s Social Protection and Labour Strategy 2012–2022 (Washington,
+D.C: The World Bank, 2012), 38. Accessed on April 26, 2012, http://siteresources.worldbank.org/SOCiALPROTeCTiON/
+Resources/280558-1274453001167/7089867-1279223745454/7253917-1291314603217/SPL_Strategy_2012–22_FiNAL.pdf.
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+for which aspects of implementation. For example, analysis of the social protection
+programmes in Zambia shows that many beneficiaries are still frequently unaware
+of which agency, either governmental or non-governmental, is administering the
+programme from which they or their community are benefiting.60 This undermines
+the ability of beneficiaries to seek and receive information about their entitlements,
+participate in accountability mechanisms, and make claims when their entitlements
+are not duly provided. The absence of a clear framework for social protection
+obscures clarity over the exact role that existing programmes play in alleviating
+poverty, and what strategy they fit into.
+A final essential element of a comprehensive and coordinated social protection
+strategy is a long-term institutionalised commitment to resourcing the State’s national social protection strategy. Stakeholders cannot effectively plan and manage
+the implementation of their initiatives, and beneficiaries cannot reliably depend
+upon the assistance of such initiatives, without the assurance of long-term fiscal
+sustainability and logistical support, which requires building institutional capacity
+across all stakeholders responsible for implementing social protection. Even when
+social protection programmes are funded by international assistance or implemented by external actors, the State must ensure coordination of resources, undertake
+capacity building, and progressively assume responsibility for the implementation
+and financing of social protection systems.
+Therefore, in order for social protection systems to comply with international human rights obligations, States should ensure the following:
+Recommendation 5
+Social protection programmes should be viewed as one essential part of a
+broader development strategy which adopts a comprehensive and holistic
+approach to poverty reduction aimed at the realisation of all economic, social, cultural, civil and political rights.
+
+Recommendation 6
+States must design an integrated and coordinated social protection strategy
+that reduces fragmentation and ensures capacity building of all stakeholders
+implementing social protection programmes.
+60
+
+A/HRC/14/31/Add.1, para. 56.
+
+31
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+32
+
+Recommendation 7
+States must ensure that social protection programmes are sustainably and reliably financed in annual budgets and receive progressively greater resource
+allocation.
+
+3. Respecting the principles of equality and
+non-discrimination
+Non-discrimination and equality are core elements of the international human
+rights normative framework.61 These principles impose upon States several obligations that, when complied with, improve the effectiveness of social protection
+systems and strengthen the human rights protection of the beneficiaries. The principles of equality and non-discrimination require, for example, that States eliminate
+discrimination in law, policy and practice, and take special measures to protect the
+most vulnerable segments of society as a matter of priority. When applied to social
+protection programmes, these obligations require that social protection systems
+mainstream inclusion in their design, implementation and evaluation, ensuring that
+they are accessible by all those who suffered from structural discrimination such
+as women, children, older persons, persons with disabilities, ethnic minorities,
+indigenous peoples, and people living with HIV/AIDs, and do not stigmatise beneficiaries.
+The principle of equality and non-discrimination must be respected in all stages
+of a social protection programme, from the selection of the beneficiaries to the
+delivery systems chosen. The operationalisation of these principles implies the following obligations, among others:
+
+a) Incorporating a gender perspective
+Considering that gender inequality is a cause of and a factor that perpetuates poverty, effective social protection strategies must be designed to promote gender
+equality and the protection of women’s full range of rights. The impacts of social
+protection systems are not gender neutral; States must therefore ensure that programmes are designed, implemented and monitored taking into account the different experiences of men and women.
+61
+
+See, e.g. UDHR, Article 2; iCeSCR, Article 2; iCCPR, Articles 2 and 26; CeRD, Article 1, CeDAW, Article 2; CRC, Article 2; CRPD, Article 5.
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+Many social protection schemes specifically target women within households or
+female-headed households,62 as it is widely understood that targeting women as
+recipients of social protection benefits significantly improves the education, health
+and nutritional levels of children.63 However, channelling social protection to women does not ensure that the root causes of gender inequality will be adequately
+addressed, and may even have unintended impacts on gender relations.64
+To ensure that men and women benefit equally, social protection systems must
+address women’s life-cycle risks and the burden of care that they bear, as well as
+the differences in access to services, work and productive activities between women
+and men.
+From discriminatory legal frameworks to persistent discriminatory social norms,
+there are many underlying causes that prevent women from benefiting from social
+protection interventions or accessing social services in an equal manner to men. If
+the differences between men and women are not taken into account throughout
+the design, implementation and evaluation of a social protection intervention, there
+is a serious risk that the intervention will have the unintended effect of exacerbating inequalities.
+As a result of gender roles and cultural stereotypes, women take more responsibility than men for caring for children and the elderly. The role of women as
+caregivers must be explicitly addressed by a social protection intervention. For
+example, when women are made responsible for complying with conditions attached to participation in a social protection programme, or when they are required
+to travel (sometimes long distances) to collect social protection benefits or to participate in various stages of social protection programmes, their domestic unpaid
+workload increases. These measures may not only perpetuate gender stereotypes
+but increase the burden on women’s shoulders, further undermining their welfare.
+The additional demands on their time may hinder women and girls from accessing
+formal labour markets, limit the possibilities for women and girls to participate in
+capacity building opportunities including education and training, restrict women’s
+ability to seek health care (particularly if health centres are not easily accessible and
+childcare is unavailable), or further deprive them of leisure time. A programme that
+increases the time a mother spends away from home may also have a detrimental
+effect on girls’ schooling, if girls are then required to assume the mother’s activities
+such as cooking or collecting water.
+in Brazil’s Bolsa Família, for instance, 94 per cent of the recipients are women: Rebecca Holmes, Nicola Jones, Rosana Vargas and
+Fabio Veras Soares, “Cash Transfers and Gendered Risks and Vulnerabilities: Lessons from Latin America,” International Policy Centre for
+Inclusive Growth Research Brief 16(2010): 2.
+63
+Nicola Jones, Rebecca Holmes, and Jessica espey, Gender and the MDGs Briefing Paper No. 42 (London: Overseas Development institute,
+2008).
+64
+See Sarojini Ganju Thakur, Catherine Arnold and Tina Johnson, Gender and Social Protection, Paper No. 167 (Paris: Organisation for
+economic Co-Operation and Development, 2009) Accessed April 26, 2012, http://www.oecd.org/dataoecd/26/34/43280899.pdf. See
+also M. Davies, DFID Social transfers Evaluation Summary Report (Sussex: institute for Development Studies, 2009).
+62
+
+33
+
+34
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+In order to ensure the inclusion of women, public work programmes or employment guarantee schemes, for example, should offer alternatives which allow women to combine their care giver role with the programmes offered. For example, India’s Mahatma Gandhi National Rural Employment Guarantee Act and Ethiopia’s
+Productive Safety Net Programme both include provisions for child care facilities.
+Public work programmes should allow for flexible working hours to accommodate time for domestic responsibilities and should also avoid work that requires
+physical strength and may exclude some women (e.g. older or pregnant women).
+Policy makers should also assess in advance the feasibility of moving beyond
+employment-intensive social infrastructure projects to include some activities that
+might attract women while lessening their burden of unpaid work, such as child
+or elderly care.
+Making women the direct recipients of social protection benefits is not sufficient
+to ensure gender equity. Policy makers must address in advance all impacts of the
+programme on gender relations. Social protection programmes where women are
+expected to comply with conditionalities or “co-responsibilities” can create scope
+for gender-based abuse from the relevant authorities. Safeguards must be put in
+place to mitigate the vulnerability of women to potential abuses by teachers and
+health care providers in circumstances in which, for example, conditionalities require women to ensure children’s attendance at school or at compulsory medical
+examinations, or where school stipend programmes require girls to attend schools
+and attain a certain level of grades. Furthermore, such programmes must be accompanied by accessible, quality and gender-sensitive social services, including
+sexual and reproductive care. Women and girls may be prevented from complying
+with conditionalities imposed by a programme if social services are far way and
+transportation costs are too high, or if they fear being raped or abused. Women
+may not attend school when there are no separate sanitation facilities, or when they
+are harassed by teachers or other students. Mothers may not bring their children to
+hospital if health care providers adopt discriminatory attitudes (such as requesting
+the consent of the husband) or where there are communication difficulties (such
+as an expectation that the patient will have some form of literacy or will speak a
+mainstream language). Designing a social protection programme that mainstreams
+the inclusion of women requires that policy makers assess the underlying causes
+of exclusions and take specific measures to address the specific risks and vulnerabilities of women.
+Before designing and implementing social protection programmes, States must
+conduct a comprehensive and disaggregated gender analysis that assesses the vulnerabilities of both genders as potential beneficiaries. The collection of disaggregated data, both in terms of sex and age, is essential not only for designing effec-
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+tive social protection systems but also for unmasking the gender dynamics in the
+community.
+In all types of social protection programmes, it is crucial that gender-sensitive
+eligibility criteria are utilised and requirements that may disadvantage women are
+avoided. For example, qualifying conditions that take into account the household
+income without addressing how resources are distributed within the household,
+or that require the production of identity documents, can put women, particularly
+older women, in a disadvantaged position.
+Programmes must also be designed to mitigate gendered power relations and
+address unequal decision-making powers and roles both within the household, and
+in the community. States should ensure the effective participation of women in the
+administration of social protection programmes by, for example, establishing sex
+quotas in the governance structures of programmes and ensuring a gender balance
+at all levels of social protection programmes. In programmes such as Colombia’s
+Familias en Acción, for example, women are elected as community facilitators
+(madres líderes or presidentas) to serve as links between the programme and beneficiaries, giving women an opportunity to participate, and providing a gender-safe
+environment for women beneficiaries.65
+Participation and accountability channels in social protection programmes must
+be easily accessible by women, taking into account cultural and community structures which prevent women from participating in social protection programmes
+on equal terms. For example, women may be present at a community meeting but
+gender roles may prevent them from expressing their concerns, especially if male
+members of the community are present. Participatory channels must be designed
+to tackle these obstacles and to promote an effective and meaningful participation
+of women.
+Monitoring and evaluation mechanisms for social protection programmes must
+also incorporate gender-disaggregated indicators to assess and improve their ability
+to take into account women’s voices. Disaggregated data is also essential in regard
+to other dimensions of exclusion such as age, ethnicity and disability.
+Gender equity cannot be a secondary goal of social protection programmes.
+Programmes should take every opportunity to promote gender equality and facilitate the mobilisation of women. For example, programme administrators should
+explore how to maximise their regular interaction with communities to address
+prevailing gender inequalities and obstacles such as gender-based violence and
+early marriage. In Peru, for example, beneficiaries attend weekly training sessions
+at which women can learn empowering skills, improve their literacy, and feel a
+65
+
+Rebecca Holmes, Nicola Jones, Rosana Vargas and Fabio Veras Soares, “Cash Transfers and Gendered Risks and Vulnerabilities: Lessons
+from Latin America,” International Policy Centre for Inclusive Growth Research Brief 16 (2010): 3.
+
+35
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+36
+
+sense of inclusion.66 Where community meetings are integrated into social protection strategies, they should take into account women’s time constraints and facilitate the safe organisation of women’s groups. The mobilisation of women through
+women’s groups has been extremely successful in improving maternal and infant
+health in a number of South Asian countries; in India, a reduction by 45 per cent
+in newborn deaths and a reduction in maternal deaths is linked to the increased
+support given to women’s groups which can raise awareness, provide pregnant
+women with advice and support, and establish emergency funds to cover transport
+and medical fees.67
+Therefore, in order for social protection systems to comply with international human rights obligations, States should ensure the following:
+Recommendation 8
+States must acknowledge that the impacts of social protection programmes
+are not gender neutral, and accordingly should design and implement social
+protection strategies which recognise the multiple forms of discrimination
+that women experience, and ensure that programmes address women’s specific needs throughout the different phases of their life cycle (childhood,
+adolescence, adulthood and old age).
+
+Recommendation 9
+Social protection programmes must respect and acknowledge the role of
+women as providers of care without reinforcing patterns of discrimination
+and negative stereotyping. Measures must be taken to promote the value of
+care, and combine society and State responsibility for care work, encouraging
+men to participate more actively in the support and care of family members.
+
+Recommendation 10
+Policy makers should invest in capacity-building to ensure that those designing and implementing social programmes at both the national and local levels
+are aware of gender issues, and should adopt measures to ensure greater participation of women in the administration of social protection programmes.
+66
+67
+
+ibid, 2.
+Nicola Jones, Fiona Samuels, Laura Gisby and elizabeth Presler-Marshall, “Rethinking cash transfers to promote maternal health: good
+practice from developing countries,” ODI Background Note (2011): 9.
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+Recommendation 11
+Social protection mechanisms must be accompanied by culturally and gender-sensitive, good quality, social services which take into account the obstacles faced by women in accessing such services.
+
+Recommendation 12
+States should ensure that all social protection programmes are subject to
+gender-sensitive eligibility criteria which take into account intra-household
+dynamics to ensure that women are reached by and able to benefit from
+social protection.
+
+Recommendation 13
+Participatory and accountability mechanisms must be designed and implemented in social protection programmes, taking into account gendered power relations, in order to facilitate the meaningful participation of women in all
+stages of the programme.
+
+Recommendation 14
+States must develop and collect disaggregated data in regard to gender, age,
+ethnicity and disability to monitor and evaluate social protection programmes
+
+b) Ensuring equality and non-discrimination in the selection of
+the beneficiaries
+Social protection programmes must be available to all individuals without discrimination of any kind.68 Universal social protection schemes – those which provide
+benefits to all residents without conditions – are the best way for States to meet
+their human rights obligations to ensure that there is no discrimination in the selection of beneficiaries.69 However, in many States, social protection programmes
+68
+69
+
+CeSCR, General Comment No. 19, para. 11.
+CeSCR, General Comment No. 19, para. 4.
+
+37
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+38
+
+are not universal, and are instead targeted towards certain groups based on their
+demographic category or level of poverty. Simple targeting mechanisms such as
+categorical targeting, which selects beneficiaries by targeting everyone within a
+selected age group, (for example, benefits might go to all children under 18 or
+all persons above 65), are relatively effective and do not pose many human rights
+challenges as their criteria can be easily determined.
+Mechanisms intended to select beneficiaries on the basis of their income or
+poverty level, on the other hand, are more complex and problematic from a human rights point of view. While targeting mechanisms may be seen as one way
+of reaching those most in need (particularly when resources are limited), from a
+human rights perspective, caution is required. In principle, human rights standards
+are not compromised by the use of targeted schemes as a form of prioritisation
+of the most vulnerable and disadvantaged groups. However, in accordance with
+human rights standards, the methods of targeting must comply with the principle
+of non-discrimination, which requires not only that all eligibility criteria must be
+objective, reasonable, and transparent but also entails an obligation to give priority
+to the poorest of the poor and to avoid stigmatising beneficiaries. Targeted protection must be implemented with the intention of progressively providing universal
+coverage.
+The main perceived advantage of targeted programmes is their overall cost to the
+State when compared with universal programmes. In practice, however, the affordability of social systems is inevitably a question of political will and legitimacy. Numerous studies undertaken by the ILO and its partners70 show that social protection
+programmes are affordable even in the poorest countries. For example, it would
+be possible to extend social protection programmes – including a conditional cash
+transfer programme to families with children and pregnant women, a non-contributory old-age pension for the rural poor, a public basic health-care scheme, and a
+cash transfer to unemployed persons linked to training or community service – to
+all people living in extreme poverty in El Salvador for between 1.1 and 1.5 per cent
+of the country’s annual GDP.71 Moreover, experience shows that social protection
+ultimately pays for itself by enhancing the productivity of the labour force, increasing the health and resilience of society, and increasing aggregate demand.72
+Studies have been conducted by the iLO, many in collaboration with the international Monetary Fund, UN Department of economic and
+Social Affairs, United Nations Children’s Fund, the economic Commission for Latin America and the Caribbean, and HelpAge international.
+See, for example, S. Mizunoya, C. Behrendt, K. Pal, and F. Léger, “Costing of basic social protection benefits for selected Asian countries:
+First results of a modelling exercise,” Issues in Social Protection 17 (2006). Accessed April 26, 2012, http://www.socialsecurityextension.
+org/gimi/gess/RessShowRessource.do?ressourceid=810; K. Pal, C. Behrendt, F. Léger, M. Cichon, and K. Hagemejer, “Can low-income
+countries afford basic social protection? First results of a modelling exercise,” Issues in Social Protection 14 (2005). Accessed April 26,
+2012, http://www.ilo.org/public/english/protection/secsoc/downloads/policy/1023sp1.pdf.
+71
+Social Protection Floor for a Fair and Inclusive Globalization: Report of the Advisory Group chaired by Michelle Bachelet (Geneva:
+international Labour Organisation, 2011), 46.
+72
+ibid, 47.
+70
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+Universal programmes avoid stigmatisation, reduce opportunities for corruption
+and manipulation, and can be supported by a simpler structure with lower administrative costs. In many cases, universal programmes provide better coverage for
+lower costs, especially in countries where administrative capacities are limited. By
+implementing universal programmes, States are better able to satisfy their obligations under human rights law to ensure to the greatest extent possible the inclusion
+of all those in need, and to minimise any exclusion of those who must be reached
+and protected as a matter of priority (i.e. the poorest of the poor). Experience
+shows that often, technical problems in the design of targeted programmes may
+prevent them from actually reaching the most vulnerable people; studies have
+shown that programmes in Latin America, for example, carried levels of undercoverage varying between 26 to 84 per cent.73
+Some methods used to identify the poor, such as means testing, are often complex and opaque, making the eligibility criteria very difficult to grasp. This severely
+impedes the ability of intended beneficiaries to scrutinise the targeting process,
+claim their entitlements, and hold administrators of the programmes accountable
+for mistakes or errors. Especially worrying is the use of proxy means testing as a
+means of determining elibility. Proxy means-testing is not only administratively
+demanding, but also often fails to reach standards of appropriate objectivity or
+transparency, particularly in developing countries with large informal sectors, weak
+administrative capacity and low fiscal space.74
+While universal programmes have the potential to contribute to social solidarity,75
+methods that target income or poverty levels can impact negatively on community
+cohesion.76 Inevitable inclusion and exclusion errors, coupled with a community’s
+difficulty in understanding the complex methodology utilised in selecting beneficiaries, can create tensions and divisions in the community that could increase conflict and unrest and ultimately translate into violations of numerous rights, including
+the personal security of community members. The likelihood of intra-community
+tensions and divisions is especially high when targeting methods are used in communities where everyone lives in a situation of poverty, and almost imperceptible
+differences separate the poorest from those who are a little better off.
+The potential for intra-community conflict is heightened in programmes where
+the responsibility for selection of beneficiaries is delegated to a community assemThandika Mkandawire, “Targeting and Universalism in Poverty Reduction”, Social Policy and Development Programme Paper Number 23
+(United Nations Research institute for Social Development, 2005), 10.
+74
+For a comprehensive assessment of the proxy means test methodology, see Stephen Kidd and emily Wylde, Targeting the poorest: an
+assessment of the proxy means test methodology, (Canberra: Australian Aid, 2011), Accessed April 26, 2012, http://www.ausaid.gov.au/
+publications/pubout.cfm?iD=7044_2239_6308_4104_9028.
+75
+Integrated Social Protection Systems: Enhancing Equity for Children (New york: UNiCeF, 2012), 5.
+76
+Stephen Kidd and emily Wylde, Targeting the poorest: an assessment of the proxy means test methodology, (Canberra: Australian Aid,
+2011), Accessed April 26, 2012, http://www.ausaid.gov.au/publications/pubout.cfm?iD=7044_2239_6308_4104_9028.
+73
+
+39
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+40
+
+bly or community leaders, on the assumption that the community is better able to
+identify its poorest members. From a human rights perspective, there are a number
+of concerns about community targeting that must be addressed by policy makers
+when opting for this method. Not only does community targeting have the potential to reinforce power structures, patron-client relations and local gender norms,
+creating tensions and further stigmatising and alienating some groups in the community, but it can also have the perverse effect of completely excluding the poorest and most vulnerable if, for example, community leaders choose those who are
+most likely to benefit from social protection assistance, rather than those most in
+need of support. In some cases, community-targeted programmes have resulted in
+further excluding already socially marginalised women, for example.77 The role of
+community leaders in the targeting process also creates opportunities for bribery
+and the abuse of power, thus marginalising further those who cannot pay a bribe
+or who suffer from pre-existing discriminatory attitudes. This is particularly the case
+in communities where poverty is widespread, and identifying those most in need
+is difficult.
+Geographical targeting, another targeting mechanism often employed in low-income countries, should also be approached with caution, as it creates opportunities
+for strategic political manipulation by policy makers and politicians both, who have
+greater incentives to channel social protection benefits to politically important electoral divisions, rather than to the communities most in need. This, of course, raises
+further issues with respect to compliance with the principle of non-discrimination,
+which requires that the selection of beneficiaries must be made on the basis of
+objective and reasonable criteria.
+If targeting methods are employed in selecting beneficiaries, policy makers must
+carefully assess the impact of the methods in terms of minimising the exclusion of
+potential beneficiaries and ensuring that the methods chosen are objective, transparent, and do not lead to further segregation or stigmatisation. Methods that would
+be easier to implement should be preferred, as should those which would minimise
+intra-community tensions and divisions. From a human rights perspective, inclusion errors (providing the benefit to someone who is not in the target group) and
+exclusion errors (failure to provide the transfer to those targeted) do not have the
+same significance; exclusion errors are much more serious, constituting a violation
+of beneficiaries’ right to social security. Moreover, those excluded are often those
+who have suffered from structural discrimination and will thus find it most difficult
+to claim for their inclusion.
+From a human rights perspective it is crucial that policy makers actively ensure
+that vulnerable and disadvantaged groups such as persons with disabilities, older
+77
+
+See M. Davies, DFID Social transfers Evaluation Summary Report (Sussex: institute for Development Studies, 2009).
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+persons, indigenous peoples, minorities, or persons living with HIV/AIDS are reached
+as a matter of priority. In this regard preference should be giving to adopting
+categorical schemes (for example, by age or location), and within categories each
+provision should be universal (such as universal social pensions or child benefits).
+Targeted systems that, by design, result in the de facto exclusion of the poorest
+households and communities seriously undermine the principles of equality and
+non-discrimination, and must be avoided. For example, programmes providing
+maternal health benefits which can only be received by women with less than two
+children, such as Nepal’s Safe Delivery Incentive Programme, will have the effect of
+excluding poorer women, who generally have higher fertility rates.78
+Targeted systems must be accompanied by broad outreach and information
+campaigns that inform beneficiaries of their rights and entitlements, the eligibility
+criteria and participation requirements, and the available mechanisms for accountability and complaint. Research shows that the poorer, less educated, and more
+marginalised (by multiple forms of discrimination) the household, the less likely
+it is that its members will know about the availability of a social protection programme and be able to claim for their inclusion in it.79 Outreach must therefore use
+channels that are accessible by the most vulnerable and disadvantaged. Adequate
+appeal and monitoring processes must be put in place to ensure that there has
+been no discrimination in the selection of beneficiaries. These mechanisms should
+be impartial and have the competence to provide effective and efficient redress.
+Therefore, in order for social protection systems to comply with international human rights obligations, States should ensure the following:
+Recommendation 15
+Targeting methods should only be employed with the aim of progressively
+achieving universal coverage. Measures should be put in place to build the
+capacity of the State and ensure sustainable resources for progressively increased coverage.
+
+Recommendation 16
+Targeting methods must be reasonable, objective, transparent, and gendersensitive, and must, to the maximum extent possible, avoid exclusion errors.
+78
+
+79
+
+Nicola Jones, Fiona Samuels, Laura Gisby and elizabeth Presler-Marshall, “Rethinking cash transfers to promote maternal health: good
+practice from developing countries,” ODI Background Note, November 2011, p. 6.
+ibid.
+
+41
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+42
+
+Recommendation 17
+Where poverty targeting methods are employed, policy makers must ensure
+that the poorest of the poor are not going to be excluded as a result of inaccurate targeting. In the case of proxy means testing, active measures must
+be taken to ensure a broad understanding of the methodology and the proxies used. In the case of community targeting, policy makers must provide
+adequate training to community members to ensure that eligibility criteria
+are applied equally, and without discrimination and stigmatisation. Where
+geographical targeting is employed, the criteria for selecting localities must
+be transparent and objective; the selection must be based on the local needs
+and not on the basis of political/electoral interests.
+
+Recommendation 18
+Targeting processes must be supported by appropriate outreach programmes
+and accessible mechanisms for redress in case of exclusion errors.
+
+c) Complying with the standards of accessibility, adaptability,
+acceptability and adequacy
+The principle of equality and non-discrimination also requires States to ensure
+that social protection programmes meet the standards of accessibility, adaptability,
+acceptability and adequacy developed in regard to economic, social and cultural
+rights.80
+Human rights require that social protection programmes are accessible,81 implying that they overcome the administrative and physical obstacles which prevent the
+poorest and most marginalised people from benefitting. When those living in poverty also face additional and overlapping obstacles due to age, disability, ethnicity,
+geographical location or other factors, they often experience further disproportionate disadvantages in accessing social protection programmes. While administra80
+81
+
+See e.g. CeSCR, General Comments No. 13, 14 and 19.
+CeSCR, General Comment No. 19, para. 4.
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+tive requirements may appear to be a necessary and harmless formality to policy
+makers designing the programme, for those living in poverty administrative hurdles
+could represent the difference between inclusion in and exclusion from social protection programmes. For example, some programmes require beneficiaries to provide identification documents for registration. Often, such documents are costly,
+can only be obtained from urban centres, or do not even exist in countries where
+many people, particularly women, are not registered at birth. Some programmes
+require that individuals provide biometric information such as fingerprints; this can
+represent a considerable obstacle for beneficiaries in rural areas whose fingerprints,
+roughened by a lifetime of work, may not be cognisable by fingerprint scanners.82
+Oftentimes registration for a programme must be made in writing, or on application
+forms which utilise complex and formalistic language; such requirements may also
+prevent the poorest from accessing the programme.
+Social protection programmes must also be physically accessible, and those entitled to social protection must be able to access their benefits in a convenient place
+and timely manner without encountering disproportionate costs or danger in doing
+so. Because the populations most in need of social protection are usually those
+removed from urban centres, beneficiaries often face physical and practical obstacles such as long distances, difficult geographical terrain, and high transportation
+and opportunity costs when accessing the benefits to which they are entitled. For
+example, surveys of beneficiaries of Kenya’s Hunger Safety Net Programme showed
+that 8.3 per cent of households walked more than four hours to collect their benefit, and the average walking time to and from the benefit collection location was
+92 minutes, during which time almost half of all participants did not feel safe.83
+Many households benefiting from the Cash Transfer Programme for Orphans and
+Vulnerable Children, also in Kenya, reported encountering financial costs when
+collecting the payment with respect to training and accommodation, equivalent to
+50 per cent of the payment value.84 Limited physical strength and mobility, as well
+as inadequate infrastructure and transport, are also major obstacles to accessing
+social protection programmes, particularly for older persons or persons with illness
+or disability.
+Valentina Barca, Alex Hurrell, ian MacAuslan, Aly Vishram and Jack Willis, “Paying Attention to Detail: How to Transfer Cash in Cash
+Transfers,” Oxford Policy Management Working Paper 4 (2010): 9.
+83
+ibid, 9.
+84
+ibid, 12.
+82
+
+43
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+44
+
+Obstacles to accessibility
+A number of factors can prevent people living in poverty from accessing the social protection benefits to which they are entitled.
+These include:
+• Administrative requirements, such as the production of identification documents or biometric information;
+• Application processes that require literacy or involve complex
+or formalistic language;
+• Geographical remoteness necessitating long-distance travel or
+high opportunity or transport costs;
+• Limited physical mobility, safety concerns and inadequate
+transport and infrastructure facilities.
+
+Policy makers must ensure, therefore, that measures are put in place to overcome
+these obstacles. One increasingly popular means of alleviating physical obstacles
+to accessing social protection programmes is the employment of electronic methods
+of payment, such as debit card, smart card and cell phone, and the distribution of
+money through Point Of Sale devices situated in local agents in small communities.
+Technologies such as these have the potential to improve cost efficiency, provide
+flexibility of access, and eliminate transportation and opportunity costs. However,
+States should ensure that they are adequate to the needs of the community, and
+that their adoption does not exclude those members who might experience greater
+difficulty adapting to the use of such technologies, such as older persons, persons
+with disabilities, persons with lower levels of literacy or other competencies.
+In order for some social protection programmes to reach geographically remote
+areas, certain incentives may need to be put in place. For example, although Indonesia’s Midwife in the Village programme, aimed at reducing maternal deaths,
+succeeded in training and deploying 54,000 midwifes over a seven-year period, an
+evaluation found that only 29 per cent of villages had a resident midwife, because
+midwives preferred to live in urban areas. In such cases, incentives may need to be
+put in place to ensure that rural communities, often most in need of assistance, are
+able to benefit from the programme.85
+85
+
+Nicola Jones, Fiona Samuels, Laura Gisby and elizabeth Presler-Marshall, “Rethinking cash transfers to promote maternal health: good
+practice from developing countries,” ODi Background Note(2011): 9).
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+Social protection programmes must also be adaptable to the needs of the population and to the local contexts and deprivations. Too often successful conditional
+cash transfer programmes implemented in middle income Latin American countries
+are imported to low income countries in Sub Saharan African or South Asia without an adequate understanding of the specific vulnerabilities of people living in
+poverty and the specific local constraints and challenges. For example, the Bolsa
+da Mae scheme in Timor Leste has been developed from the experience of the
+Bolsa Familia programme in Brazil, notwithstanding that the very limited access
+to social services in rural areas in Timor Leste would make conditionalities (which
+have been successfully implemented in Brazil) impossible to comply with and too
+expensive to monitor.
+To ensure that the programmes are adapted to local context they must be evidence based and designed for the local contexts. Programmes must take into account the political culture surrounding social protection in different countries, in
+the context of a particular country’s history of social cohesion, conceptualisation of
+rights and equality, and attitude to rights and responsibilities.
+There is also a need to devote considerable attention to adapting the outreach
+and information elements of social protection programmes to individual regional
+contexts within a given country. Often, people living in poverty are not able to access social protection programmes because they live in isolated and remote areas
+and therefore are excluded from information campaigns about the existence and
+implementation of the programme. Outreach and information must adapt to these
+constraints. They must also overcome illiteracy and linguistic barriers by extending
+to, for example, radio announcements, talk shows, and community plays. Information must be available in languages used by minorities, indigenous peoples and
+immigrant populations.
+Delivery systems must adapt to the specific local circumstances. For example,
+the programme must take into account the opportunity cost of walking to collect
+the money, or the monetary cost in comparison to the value of the benefit. Specific
+geographical factors, such as the absence of roads or the lack of accessibility in
+rainy seasons should also be taken into account.
+A further requirement of the human rights approach is that social protection programmes are culturally acceptable in the context of the multiple forms of discrimination that might arise at the intersection of race, gender, class, disabilities, etc.
+The cultural values of indigenous groups and ethnic minorities, as well as specific
+gender risks and concerns, must be taken into account when designing and implementing social protection systems. Indigenous peoples may not go to schools or
+use heath centres where they cannot speak their mother tongue, or when cultural
+and traditional health practices are not integrated. To ensure cultural adaptability,
+
+45
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+46
+
+the design of social protection programmes must incorporate broad consultations
+with the respective communities to gather information as to the most effective and
+culturally sensitive ways of implementing any given social protection intervention.
+In all stages of the programmes, from outreach and information to the complaint
+mechanisms, policy makers should ensure that nobody is discriminated against
+when accessing the programme or receiving the benefits due to their age, gender,
+race, ethnicity, health status, disability, or any other grounds. The different impact
+that the programme may have on various beneficiaries must be taken into account in order to ensure that the implementation of the programme will not have
+a discriminatory impact, or preclude a desired impact, on specific groups. Special
+attention should be paid to groups that suffer from structural discrimination. For
+example, in Ecuador, some indigenous women did not collect their benefits from
+the cash transfer programme Bono de Desarrollo Humano because they were mistreated by the private guards of the financial institution while queuing, sometimes
+for hours, to receive the benefits.86
+A human rights approach requires focussing on power asymmetries at the community level and the removal of physical, economic, legal, cultural and political
+obstacles that prevent marginalised groups from accessing the programme. The
+programme should not only avoid perpetuating asymmetries of power in the communities but should actively seek to enable the most disadvantaged and excluded
+members of the community to benefit from the programme as a matter of priority.
+Finally, the level of benefits delivered through the social protection system must
+be of adequate amount and duration to enable beneficiaries to enjoy an adequate
+standard of living.87 While States should bear in mind the need to expand the coverage of existing social protection schemes, benefits must be high enough to enable
+people to afford the goods and services they require to realise at least minimum
+essential levels of their economic, social and cultural rights. Research shows, for example, that for conditional cash transfer programmes aimed at improving outcomes
+in maternal health to be successful, the amount of money received by women
+should be equal to about 30% of total household income to provide adequate positive incentives while minimising perverse incentives and dependency.88 The calculation of a benefit levels must therefore be made with reference to varying regional
+and country contexts to ensure that the adequate level of benefit is achieved.
+
+A/HRC/11/9/Add.1.
+CeSCR, General Comment No. 19, para. 22.
+88
+Nicola Jones, Fiona Samuels, Laura Gisby and elizabeth Presler-Marshall, “Rethinking cash transfers to promote maternal health: good
+practice from developing countries,” ODI Background Note (2011): 2).
+86
+87
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+This obligation implies a further responsibility to ensure that public services are
+sufficient in quality and quantity to meet the needs of the community in question.
+The positive impact of social protection benefits on standards of living might be
+nullified by other costs, such as those associated with health care and education.
+The direct and indirect cost of public services must be affordable for the poorest
+segments of society, and of good quality. Moreover, under human rights law, States
+are obliged to make primary education not only affordable but free of any charge
+including indirect costs, and accessible to all without discrimination of any kind.89
+Such considerations must remain central to States’ calculations with respect to the
+adequacy of the benefit.
+Therefore, in order for social protection systems to comply with international human rights obligations, States should ensure the following:
+Recommendation 19
+The design and implementation of social protection programmes should take
+into account the economic, legal, administrative and physical obstacles that
+individuals face in accessing social protection, giving particular consideration to women, persons with disabilities, the elderly, indigenous peoples,
+minorities and/or people living with HIV/AIDS, all of whom face additional
+obstacles.
+
+Recommendation 20
+All stages of social protection programmes, from the delivery of benefits to
+outreach efforts, must be specifically designed to overcome cultural barriers
+and to reach groups that are particularly vulnerable or excluded.
+
+Recommendation 21
+Benefit levels must be adequate to improve the standard of living of the beneficiaries, and benefits must be complemented by free or affordable quality
+public services.
+89
+
+See Articles 13 and 14 iCeSCR, Article 29 CRC, Articles 10 and 14 CeDAW, Article 5 CeRD and Article 20 CMW.
+
+47
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+48
+
+4. Ensuring that the implementation of conditionalities
+(co-responsibilities) does not undermine the human
+rights of beneficiaries
+In some social protection programmes, receipt of benefits is tied to the beneficiaries’ commitment to fulfill one or more conditions. For example, conditional cash
+transfer programmes (CCTs) often require mothers to enroll their children in school
+or regularly take their children for health check-ups. In CCTs, benefits are often
+channelled through the female head of household, who is in charge of ensuring
+compliance with a range of conditionalities.90 School stipends programmes, such as
+Bangladesh’s Primary Education Stipend Programme and Female Secondary School
+Assistance Project also often require compliance with certain conditions related to
+attendance rates and minimum level of performance.
+The imposition of conditionalities, particularly on the female head of household,
+has the potential to impede the enjoyment of human rights by the beneficiaries in a
+number of ways, and should therefore be the subject of careful consideration from
+a human rights perspective.
+Based on the successful experiences of some Latin American and South Asian
+countries in improving health and education outcomes while implementing CCTs,
+some international development agencies and financial institutions, including the
+World Bank, are encouraging more countries to establish conditionalities in social
+protection programmes. The World Bank describes such conditions as “pre-specified investments in child education and health” and as contributing to “the human
+capital of their children”.91
+Three predominant arguments are advanced in support of conditionalities. First,
+that they are necessary to influence the behaviour and attitudes of the beneficiaries
+in order to improve health and education outcomes, strengthen human capital, and
+in the long term contribute to breaking the inter-generational reproduction of poverty. This argument is based upon the assumption that in the absence of conditionalities beneficiaries would not make the same investment in human capital. Second,
+proponents of programmes with conditionalities argue that they are more likely to
+be perceived as benefiting the “deserving poor”, and thereby facilitating the political and social legitimacy of the programme. Finally, it is proposed that conditionalities contribute to the self-esteem and sense of autonomy of the beneficiaries, and
+strengthen the bargaining power and promote the status of women beneficiaries.
+The term “conditionality” is gradually being replaced with “co-responsibility” in CCTs. This change in terminology reflects the increasing
+emphasis that is being placed on the responsibility of the State to provide public services such as health and education. Regardless of
+whether the terms “conditionality” or “co-responsibility” are used, the mechanism is in essence the same.
+91
+Ariel Fiszbein and Norber Schady, Conditional Cash Transfers: reducing present and future poverty (overview) (Washington, D.C: The World
+Bank, 2009).
+90
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+From a human rights perspective, however, there are strong arguments against
+conditionalities. The imposition of conditionalities may unnecessarily undermine
+the individual’s autonomy and assume that people living in poverty cannot make
+rational choices that improve their livelihoods. Conditionalities deprive the poorest
+of the freedom to make decisions about their welfare and that of their family, and
+to determine their own lives.92 Conditionalities involve additional monitoring and
+administration costs, as well as private costs to the beneficiaries in complying with
+them. In Mexico, for example, the enforcement of conditionalities comprised 24
+per cent of the overall administrative costs of Oportunidades in 2000, and beneficiaries’ private costs are close to 50 per cent higher than private costs in an unconditional programme.93 Evidence shows that in low-income countries resources may
+be better spent in extending existing social services rather than on the administrative costs associated with monitoring conditionalities.94
+Critics indicate that there is no sound social and economic evidence that conditionalities in CCTs are necessary to achieve the desired investment in human
+capital, so it is possible that the same improvements in health and education could
+be achieved without imposing conditionalities.95 Experiences from low-income
+countries show that unconditional cash transfers may even be more successful
+in reducing poverty and improving education outcomes than CCTs, which often
+provide a much lower level of cash benefit and tend to reach non-poor beneficiaries. In Nepal, for example, the conditional cash transfer Scholarship programme
+is expected to have less of an impact on the education of poor children than the
+country’s unconditional Child Protection Grant.96 Thus, more empirical evidence
+and disaggregated data is needed before conclusive statements about the effectiveness of conditionalities in improving health and education outcomes can be made.
+Furthermore, there is already strong international evidence demonstrating that cash
+transfers alone, without conditionalities, can make a significant difference to human
+development, and in particular to improving the health and education of children.
+Under international human rights law, States have an obligation to immediately
+meet minimum essential levels of the rights of food, health, housing, education and
+social security. The enjoyment of these rights by all individuals is not conditional
+on the performance of certain actions or the meeting of requirements. Rather,
+these are inherent rights which are essential to the realisation of human dignity.
+Rolf Künnemann and Ralf Leonhard, A Human Rights View of Social Cash Transfers for Achieving the Millennium Development Goals
+(Stuttgart: Brot für die Welt and evangelischer entwicklungsdienst, 2008). Accessed April 26, 2012, http://www.fian.org/resources/
+documents/others/a-human-rights-view-of-social-cash-transfers-for-achieving-the-mdgs/pdf.
+93
+Stephen Kidd and Rebecca Calder, Conditional Cash Transfer Programmes: their relevance for Nepal, (London: DFiD, 2011), 15, 23.
+94
+Simone Cecchini, “Do CCT Programmes Work in Low-income Countries?” International Policy Centre for Inclusive Growth One Pager 90
+(2009).
+95
+Armando Barrientos, “Conditions in antipoverty programmes,” 19 Journal of Poverty and Social Justice 1(2011), 19.
+96
+Stephen Kidd and Rebecca Calder, Conditional Cash Transfer Programmes: their relevance for Nepal, (London: DFiD, 2011), 8.
+92
+
+49
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+50
+
+In this context, non-compliance with conditionalities attached to social protection
+programmes must not result in the exclusion of beneficiaries from programmes and
+services which are essential to their enjoyment of minimum essential levels of basic human rights. The imposition of conditionalities, therefore, should be analysed
+with respect to the overall set of obligations of the State and the need to meet
+minimum essential levels of economic, social and cultural rights.
+In some cases, imposing conditionalities may result in the deterioration of the
+circumstances in which the poorest and most vulnerable live. The imposition of
+conditionalities often increases both community power imbalances and the opportunity for abuses of power by those involved in the monitoring of compliance with
+conditionalities (such as teachers, health care personnel, and programme administrators). For example, conditionalities requiring children to attend school or attain
+certain grades are not related to the quality of the instruction that teachers provide
+and may have a negative influence on the school environment, providing teachers
+with additional means to exert authority over students and parents.97 Empowering
+teachers with the authority to directly influence the welfare of poor families may
+undermine the potential to develop more democratic and participatory forms of
+school management.
+School stipend programmes such as the Female Secondary School Assistance Programme in Bangladesh that require women to demonstrate certain attendance rates
+and a minimum level of performance have been generally recognised as successful
+in raising enrolment rates of girls. However, such programmes harbour considerable potential for sexual abuse and harassment in such schemes. Girls may be prevented from complying with conditionalities if they fear being sexually assaulted at
+or on their way to schools, or may not want to attend school if there are no separate sanitation facilities, or if they are harassed by teachers or other students. This
+not only impedes their ability to receive the benefit and undermines their personal
+security, but could also contribute to the deterioration of their physical and mental
+health: a World Bank study of a CCT in Malawi, for example, found teenage girls
+subject to conditionalities experienced psychological distress.98
+Conditionalities may also create incentives for children or teachers to cheat on
+attendance figures and exam performance so that households can continue receiving their benefit. In such cases, the conditionality may be exposing children to the
+wrong lesson: that it is possible, and acceptable, to cheat the local authorities to access public resources.99 Moreover, in school stipend programmes, conditionalities
+Fernando Reimers, Carol DeShano da Silva and ernesto Trevino, Where Is The “Education” In Conditional Cash Transfers In Education?
+(Paris: UNeSCO, 2006), 51.
+S. Baird, C. Mcintosh and B. Ozler, “impact evaluation Series No. 45 – Cash or conditions: evidence from a randomized cash transfer
+programme,” Policy Research Working Paper 5259 (2010): 26.
+99
+Chronic Poverty Research Center (CPRC), School exclusion as social exclusion: the practices and effects of a conditional cash transfer
+programme for the poor in Bangladesh, Working paper No. 148, 2009, 14.
+97
+
+98
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+on school performance and attendance may further exclude the poorest children;
+evidence in fact suggests that extremely poor children face greater challenges in
+meeting attainment and attendance criteria.
+Imposing conditions increases the demand on public services, which demand is
+often not met by an increase in supply. This impairs the quality of the provision of
+services and creates disincentives for beneficiaries to seek access to them. Often,
+due to inadequate financial and human resources, public service providers lack
+the relevant skills and capacity to effectively address the needs of people living in
+poverty, who often experience prejudice and stigmatisation in accessing such services. Of grave concern is the absence of gender sensitive social services, including
+sexual and reproductive health care.
+Women and girls may be prevented from complying with conditionalities imposed by a social protection programme if health clinics are too far away, if the
+quality of service is too low, or if they suffer from discriminatory attitudes or communication difficulties. Overcoming these problems requires investment in public
+services, and training for public service providers on culturally appropriate practices and the specific needs of women, in particular the needs of women suffering
+from multiple forms of discrimination (such as indigenous women or women with
+disabilities). To ensure that the service delivery is gender sensitive, measures must
+be taken to increase participation of women in the public sector workforce. If these
+measures are not taken, beneficiaries of social programmes may decide not to access the service, and will thus fail to comply with the conditionalities for reasons
+that are out of their control. Moreover, women will not enjoy the improvements
+in human development that the programmes are designed to achieve. For example, an evaluation of Peru’s Juntos programme, which includes attending prenatal
+and postnatal checks as part of its conditionalities, shows that because of the inadequate availability, quality and quantity of health services, there was minimal
+improvement in maternal nutrition and health.100
+When conditionalities or co-responsibilities are enforced, policy makers must ensure that sufficient investment is made in social services such as health and education, so that such services can respond to the increase in demand for services. The
+provision of social services must not only improve in term of extended coverage,
+but also in regard to the quality of the service provided, with particular attention
+given to the gender implications.
+It is critical that States undertake needs assessments prior to the implementation of a social protection programme, in order to generate an accurate picture of
+the state of access to social services and the institutional capacities to administer
+the programmes. Needs assessments can also help to identify existing commu100
+
+Nicola Jones, Fiona Samuels, Laura Gisby and elizabeth Presler-Marshall, “Rethinking cash transfers to promote maternal health: good
+practice from developing countries,” ODI Background Note (2011) 6.
+
+51
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+52
+
+nity attitudes towards social services, as well as local community structures and
+stereotypes, in order to ensure that they are addressed by the social protection
+programme.101 Furthermore, they can help to assess and monitor the externality
+effects of social protection programmes on non-beneficiaries, which can include
+changes in prices and expectations in the economy and changes in social dynamics.102 Undertaking needs assessments might also assist States in identifying whether
+conditionalities are really necessary to increase health and education outcomes, or
+whether other issues (such as user fees, the quality and availability of services, and
+the lack of a gender approach) need to be addressed in order to improve access to
+and use of social services.
+When a failure to comply with a conditionality exposes an individual or family to
+exclusion from a programme, there are serious human rights concerns. The exclusion of beneficiaries from a social protection programme for failure to comply with
+conditionalities is an extremely punitive measure that undermines beneficiaries’
+ability to enjoy their right to social security and may cause a serious deterioration
+in the standard of living that they are able to achieve. Under programmes such as
+Mexico’s Oportunidades for example, whole families can be punished by the withdrawal of the benefit if a child does not attend school.103
+If States impose conditionalities or co-responsibilities in their social protection
+programmes, they have the obligation to ensure that the final result will not violate the right of individuals to, at the least, minimum essential levels of economic,
+social and cultural rights. Where conditionalities are imposed, they should be designed as an incentive for beneficiaries to access services, not as a punitive measure.
+Conditionalities should be used as facilitative tools to identify the most vulnerable
+families. Brazil’s Bolsa Familia, for example, responds to non-compliance with a
+condition that children must attend school by directing more resources to the family
+and giving the family access to social workers. Furthermore, whether or not they
+comply with the conditionalities, families are guaranteed a minimum benefit.104
+Cases of non-compliance with conditionalities should assist programme officials
+in identifying and acting upon problems with the distribution of the benefit, and
+difficulties faced by the household. Non-punitive mechanisms should be put in
+place to help families that are not complying with the conditionalities, and to detect
+and remedy problems, e.g. in the design of the program or the delivery of social
+Karla Parra Correa and Rafael Perez Ribas, “Needs Assessments: Why They Are important for CCT Programmes,” in Poverty in Focus:
+Cash Transfers, Lessons from Africa and Latin America (Brazil: international Poverty Centre for inclusive Growth, 2008), 26
+Rafael Perez Ribas, Fabio Veras Soares, and Guilherme issamu Hirata, “The impact of CCTs – What We Know and What We Are Not Sure
+About,” Poverty in Focus: Cash Transfers, Lessons from Africa and Latin America (Brazil: international Poverty Centre for inclusive Growth,
+2008), 12.
+103
+Stephen Kidd and Rebecca Calder, Conditional Cash Transfer Programmes: their relevance for Nepal (London: DFiD, 2011), 11.
+104
+ibid.
+101
+
+102
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+services, that are precluding compliance. From a human rights perspective, these
+beneficiaries must not be excluded from their entitlements because the State has
+failed to improve the provision of public services or take an appropriate gender
+approach in designing the programme.
+Therefore, in order for social protection systems to comply with international human rights obligations, States should ensure the following:
+Recommendation 22
+To the greatest extent possible, States should refrain from imposing co-responsibilities or conditionalities on receipt of social protection, and instead
+should channel financial and human resources into improving the level of
+benefits provided and the quality and accessibility of social services available.
+Where conditionalities are imposed, they must be accompanied by measures
+to protect against abuses by those monitoring compliance with conditionalities, and by measures to ensure the capacity of the health and education
+services to meet increased demand.
+
+Recommendation 23
+Failure to satisfy imposed conditions should never result in the automatic
+exclusion of an individual or household from social protection programmes,
+but rather should be used as a facilitative tool to assist the State in identifying
+the most vulnerable families, providing supportive social work and/or community development, and addressing failures in public services.
+
+Recommendation 24
+Protections must be put in place to ensure that conditionalities do not create an unnecessary burden on women, expose them to abuse, or perpetuate
+traditional gender stereotypes within recipient households.
+
+53
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+54
+
+5. Ensuring transparency and access to information
+A human rights approach emphasises that transparency and access to information
+are critical safeguards against corruption, clientelism and wastage, and represent a
+vital tool to increase beneficiaries’ access to and participation in social protection
+programmes. Limited access to information by beneficiaries impedes their ability
+to claim their rights, and increases the likelihood that resources allocated to social
+protection programmes will be mismanaged or diverted. In order for social protection programmes to comply with human rights standards, therefore, they must be
+transparent and provide comprehensive, culturally appropriate access to information and communication.
+Transparency must not be limited to the financial management and administration of social protection systems. All social protection interventions must have the
+mechanisms in place to ensure transparency and access to information with respect to all core components of the programme – including targeting mechanisms,
+eligibility criteria, benefit levels, complaints and redress mechanisms. Without these
+mechanisms in place there is a higher risk that social protection schemes will reinforce and perpetuate unequal power relations, excluding those most in need of
+assistance.
+Corruption, abuse and maladministration are more likely to thrive in programmes
+which are not open to public scrutiny. Furthermore, a lack of transparency may lead
+to decreased public support for investment in social protection programmes, as any
+perception that such systems are not reaching their rightful beneficiaries, and any
+mistrust in the sustainability of social protection programmes, can be used to justify
+calls for limiting investment in social policies.
+From a human rights perspective, the right to freedom of expression includes the
+right to seek and receive information from the State.105 This means, for example,
+that States have an obligation to facilitate requests for information about a given
+programme, by taking steps to establish mechanisms for a) filing requests, b) ensuring that public officials are trained on how to process requests, and c) replying
+promptly and comprehensively to requests.
+105
+
+See, for example, iCCPR, Article 19; African Charter on Human and Peoples’ Rights, Article 9; American Convention on Human Rights,
+Article 13; and european Convention on Human Rights and Fundamental Freedoms, Article 10.
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+The right to seek and receive information
+Until recently, the right to freedom of expression was interpreted to
+mean that States should not obstruct the flow of information. Currently, it is understood as a right to seek and receive information.
+The African Human Rights Commission introduced this interpretation in 2002, and in 2006 the Inter-American Court of Human Rights
+(IACtHR) ruled unambiguously in favour of the right of access to
+public information, when it concluded that:
+[B]y expressly stipulating the right to “seek” and “receive”
+“information,” Article 13 of the Convention protects the
+right of all individuals to request access to State-held
+information, with the exceptions permitted by the restrictions established in the Convention. Consequently,
+this article protects the right of the individual to receive
+such information and the positive obligation of the State
+to provide it, so that the individual may have access to
+such information or receive an answer that includes a
+justification when, for any reason permitted by the Convention, the State is allowed to restrict access to the information in a specific case. The information should be
+provided without the need to prove direct interest or personal involvement in order to obtain it, except in cases
+in which a legitimate restriction is applied. The delivery
+of information to an individual can, in turn, permit it
+to circulate in society, so that the latter can become acquainted with it, have access to it, and assess it. In this
+way, the right to freedom of thought and expression includes the protection of the right of access to State-held
+information, which also clearly includes the two dimensions, individual and social, of the right to freedom of
+thought and expression that must be guaranteed simultaneously by the State. [Inter-American Court of Human
+Rights, Claude Reyes et al. v. Chile, Judgment of 19 September 2006, paragraph 77.]
+
+55
+
+56
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+Relevant elements of this decision:
+• The right to request information may not be hindered in any
+way and may not be refused on the grounds that the requesting party has no demonstrable interest in knowing the information in question.
+• A corresponding right exists to receive the information (subject
+to limited exemptions).
+• The State has an obligation to reply to every request, whether
+it provides the information requested or (in limited cases) refuses to do so.
+• The right to freedom of expression cannot be considered fully
+respected where the right to obtain information from the government is not recognised.
+• Governments have an obligation to take positive steps to ensure that the right to information can be enjoyed, including
+(in another part of the judgment) an obligation to establish
+mechanisms for filing requests (in other words, to adopt an
+access to information law) and to train public officials in how
+to process requests and respect the right.
+Source, Integrating Human Rights in the Anti-Corruption Agenda,
+Challenges, Possibilities and Opportunities, Magdalena Sepúlveda,
+ICHRP, 2010.
+
+Social protection systems should have built-in mechanisms for the disclosure of
+information about every step of their implementation. Both the beneficiaries and
+other members of the society must have access to information about the design
+of social protection, as well as on how the authorities are discharging their obligations. Information on the results of monitoring and evaluations should also be
+made available.
+Social protection programmes must ensure that the information about the programme is disseminated by culturally appropriate and accessible channels that respect cultural values and practices, and are adapted to the needs of vulnerable
+groups. Flexible and inclusive access to information mechanisms might include, for
+example, toll-free phone numbers and systems that seek and receive information to
+help overcome problems of poor literacy, low internet access and the cost of trans-
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+port. In Mexico, for example, the flagship CCT Oportunidades incorporates a Citizen
+Services System which receives and deals with complaints that can be submitted by
+mail, drop boxes, email, telephone, fax, in person and on the Internet.
+Gender inequality and discrimination patterns greatly affect the equal opportunities of women and men to seek, share, and receive information about social protection programmes, participate in decision-making processes and register complaints
+which can result in local authorities being held accountable. Therefore, gender
+sensitive mechanisms must be put in place.
+Ensuring the right to access public information should not prejudice the right to
+privacy, and beneficiaries’ information must not be shared with other authorities
+without their explicit consent. In New York City, for example, a new database of
+information about recipients of social protection and social services called Worker
+Connect can be accessed by a range of unrelated authorities, including employees
+from the Family Court, corrections, domestic violence prevention, legal services,
+child protection and public hospitals.106 This seriously undermines the ability of
+beneficiaries to enjoy their right to privacy and may additionally deter beneficiaries from claiming their rights to social protection out of fear that other authorities,
+such as police or immigration authorities, will be able to access their information.
+Therefore, in order for social protection systems to comply with international human rights obligations, States should ensure the following:
+Recommendation 25
+Laws should be put in place to ensure that individuals and organisations have
+the right to seek, receive and impart information about social protection programmes in a simple, accessible and rapid manner.
+
+Recommendation 26
+When collecting and processing information belonging to beneficiaries,
+States must ensure that they observe internationally accepted standards of
+privacy and confidentiality, and do not disseminate such information to other
+authorities or use it for other purposes without the consent of the beneficiary.
+
+106
+
+Anemona Hartocollis, “Concern for Vast Social Services Database on the City’s Neediest,” The New York Times, June 16, 2011, accessed
+April 26, 2012, http://www.chicagomanualofstyle.org/tools_citationguide.html.
+
+57
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+58
+
+6. Ensuring meaningful and effective participation
+Participation is a key element of the human rights framework: international human rights law sets out the right to participation in public life,107 and participation
+is also an essential prerequisite to the enjoyment of other rights. The participation
+in policies and programmes that affect them of persons living in extreme poverty
+is a vital part of ensuring that their rights are respected and promoted. In this context, beneficiaries of social protection programmes must have the right and ability
+to participate in the design, implementation and evaluation of social protection
+programmes.
+Effective participatory channels allow policy-makers and programme administrators to seek and receive feedback from beneficiaries and, in turn, to improve the
+effectiveness of social protection programmes. There are several programmes in
+which participatory mechanisms have been incorporated with varying degrees of
+success. Brazil’s Bolsa Familia, for example, requires municipal Governments to
+establish supervisory bodies composed of representatives of both local Government and civil society, who jointly make decisions on how best to implement the
+programme within their community.
+Without adequate mechanisms for beneficiaries to provide their input on the
+design and implementation of social protection programs there is a risk that the
+programmes will not be sustainable or may not achieve their intended objectives.
+Sustainability and effectiveness are further threatened when there is no sense of
+community ownership over the programme. Widespread consultation and cooperation with the communities in which social protection programmes are to be implemented is thus essential both to ensuring social cohesion and to increasing political
+support for the programme.
+The design of participatory channels must take into account the existing asymmetries of power within the community, or risk perpetuating, rather than eliminating, abuses of power by local elites, and continuing the exclusion of marginalised
+groups in the participation process, especially women. Particular attention must
+be paid to mitigating gendered power relations and addressing unequal decisionmaking powers and roles, within both the household and the community. Women
+may be present at a community meeting but gender roles may prevent them from
+expressing their concerns. For example, while Argentina’s Plan Jefes y Jefas de Hogar Desocupados (Program for Unemployed Male and Female Heads of Households)
+established Municipal Advisory Councils (Consejos Consultivos) as participatory
+107
+
+See iCCPR, Article 25, and the Human Rights Committee, General Comment No. 25 (1996).
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+mechanisms for the beneficiaries of the programme, the Councils were co-opted
+by men representing the political interests of the local governments, which caused
+the self-exclusion of the majority of the women enrolled in the programme. As a
+consequence, a programme that mainly benefited women was socially controlled
+by men.108 States should also ensure the effective participation of women in the
+governance structure of the programmes by ensuring access to childcare for women wanting to participate, and by establishing sex quotas in participatory events.
+Specific measures must also be taken to actively encourage and enable the participation of groups who suffer from structural discrimination, such as persons
+with disabilities, indigenous peoples, ethnic minorities, and older persons. In some
+cases, for example, younger generations may be prioritised, and social protection schemes might also reflect this focus unless specific attention is given to the
+concerns of older persons when defining collective priorities. Participatory mechanisms should be tailored to ensure the broadest participation possible by vulnerable
+and disadvantaged groups, and must be reinforced by protections to ensure that
+mechanisms are not captured by the elites or co-opted by State officials.
+Participatory strategies will not be meaningful if they are reduced to mere consultation that does not allow for real input in the decision-making process on the
+part of participants in the programme. To this end it is crucial that programme
+administrators actively take steps to ensure that groups can organise themselves
+to express their views, and that they have access to relevant information that is
+complete, up to date, true and comprehensible (i.e. is not unduly formalistic). Participatory mechanisms should include not only beneficiaries, but also civil society
+organisations that can play a role in advocating the rights of the beneficiaries and
+compensate for the asymmetry of power.
+Therefore, in order for social protection systems to comply with international human rights obligations, States should ensure the following:
+Recommendation 27
+States must put in place adequate mechanisms for beneficiaries to participate
+in the design, implementation, monitoring and evaluation of social protection
+programmes.
+
+108
+
+Christian Gruenberg and Victoria Pereyra, Manual de estudios de caso: Transparencia, participación, y rendición de cuentas en programas
+sociales focalizados (Santiago: Fundación Tinker, 2009).
+
+59
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+60
+
+Recommendation 28
+Participatory mechanisms must ensure that participation is authentic, takes
+into account the existing asymmetries of power within the community and
+is tailored to ensure the broadest participation possible by vulnerable and
+disadvantage groups.
+
+7. Ensuring access to accountability mechanisms and
+effective remedies
+Considering that accountability is one of the central pillars of the human rights
+approach, a rights-based social protection system requires that policy makers, programme administrators and others whose actions have an impact on the social
+protection schemes are held accountable when their decisions and actions impact
+negatively on the right to social security, and that their decisions are judicially reviewable. This is in line with human rights standards that emphasise that everyone
+has the right to an effective remedy when his or her rights have been violated.109
+Effective accountability mechanisms not only enhance protection for beneficiaries, they also improve the efficiency of social programmes, minimise wastage and
+mismanagement, and strengthen the public support of social protection schemes.
+When social protection systems are not accompanied by accountability and redress
+mechanisms, they are less likely to be understood in term of entitlements and rights.
+Rather, social protection may be viewed as an instrument of clientelism which can
+be manipulated by political actors or local elites.
+The prevalence of corruption clearly poses a severe challenge to poverty reduction efforts and the enjoyment of human rights, in addition to the proper functioning of social protection programmes. Corruption and clientelism allow political
+parties and governments to manipulate the provision of social services on a discriminatory basis, thereby reinforcing exploitation patterns and entrenching social
+exclusion. Patron-client relationships and favourable relationships with local elites
+who are connected to ward and union-level elected representatives become crucial
+factors in accessing social benefits. Corruption and clientelism mean that the poorest and most vulnerable lose out while more powerful individuals maintain their
+position of power.
+109
+
+See, for example, UDHR, Article 8 and iCCPR, Article 2.
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+Independent and effective mechanisms to monitor the administration of programmes, as well as the establishment of built-in mechanisms to collect and process
+complaints are thus essential to prevent the abuse of authority. Such mechanisms
+are crucial, in particular, for the review of three key elements: eligibility for the programme, the maintenance of the programme (to report instances of demands for
+inappropriate work, political support, and/or money, threats, or sexual harassment)
+and the supervision of payment procedures. Complaint mechanisms should also be
+put in place to monitor the level of social service delivery, particularly when access
+to a programme is conditional upon the use of social services.
+Complaints procedures should include an appeal process that is independent, accessible, simple, fair and effective. Appeal mechanisms are especially crucial when
+targeting methods are used, as it is likely that many eligible poor households have
+been excluded from the programme. In this case, those people that are entitled to
+benefits but who have been excluded must have a final recourse to a judicial body.
+The complaints and appeal processes must be an integral part of the social protection programme.
+States should take positive steps to empower beneficiaries to use accountability
+mechanisms and claim their rights. Experience shows that in many cases community promotion committees can be effective in ensuring the poorest communities are
+able to participate in accountability mechanisms. Examples of such structures can be
+found Brazil, where Bolsa Familia integrates around 5,500 social control committees
+at the local levels. These committees can consider a range of issues related to the
+social protection programme, from inclusion and exclusion errors to the existence of
+adequate health and education services for the fulfilment of conditionalities.110
+In order to reduce power imbalances and protect complainants from being victimized by the officials responsible for investigating complaints, complaints mechanisms should provide some guarantees. Such guarantees should include: multiple
+channels for presenting complaints; provision for anonymous complaints (or the
+option to submit the complaint other than by personal, face to face submission);
+protections for the confidentiality of the complainant; and provisions for low levels
+of literacy or alternative languages of the complainants. Experiences of cash transfer programmes in Argentina, Brazil and Mexico, for example, provide evidence
+which shows that both the protection of anonymity and the use of toll-free hotlines
+have created positive incentives and facilitated the exposure of corrupt practices
+and clientelism.111
+Simone Cecchini and Aldo Madariaga, Conditional Cash Transfer Programmes: The Recent experience in Latin America and the Caribbean
+(Santiago: eCLAC, 2011), 162.
+111
+Christian Gruenberg and Victoria Pereyra, Manual de estudios de caso: Transparencia, participación, y rendición de cuentas en programas
+sociales focalizados (Santiago: Fundación Tinker, 2009).
+110
+
+61
+
+The human RighTs-based FRamewoRk
+FoR social pRoTecTion
+
+62
+
+The design of accountability mechanisms must take into account the gender
+dynamics within the community and the household that may prevent women from
+voicing or lodging a complaint. Such mechanisms must also take account of the
+reality of gender-based violence and sexual harassment, as women might be reluctant to access programmes or claim rights and entitlements if they fear violence or
+abuse from male community members, or that they might be sexually harassed by
+a male programme implementer.112
+National human rights institutions could contribute significantly to empowering
+potential beneficiaries in their relationship with the programme’s authorities, and
+in promoting transparency and accountability. To this end, national human rights
+institutions should be able to monitor the general formulation and implementation
+of social policies, providing a further form of accountability.
+Therefore, in order for social protection systems to comply with international human rights obligations, States should ensure the following:
+Recommendation 29
+Social protection programmes must incorporate accessible and effective complaints mechanisms which guarantee anonymity, allow for individual and
+collective complaints, and are sufficiently resourced and culturally appropriate. Complaints procedures should include an appeal process that is independent, accessible, simple, fair and effective.
+
+Recommendation 30
+Social protection programmes must periodically review decisions taken on at
+least three key elements: (a) the procedures utilised to register beneficiaries
+(in particular to identify the possible wrongful exclusion of beneficiaries), (b)
+the implementation of the programme (to monitor all sorts of possible abuses
+occurring when assistance is provided at the local level, e.g. sexual harassment) and (c) the overall payment procedures (to monitor misappropriation
+of financial resources throughout the different stages of implementation).
+
+112
+
+Rebecca Holmes and Nicola Jones, Rethinking Social Protection Using a Gender Lens: Synthesis Paper (London: Overseas Development
+institute, 2010). Accessed April 26, 2012, http://www.odi.org.uk/resources/docs/6273.pdf.
+
+conclusion – The FuTuRe oF social pRoTecTion
+
+conclusIon – The FuTure oF socIal
+proTecTIon
+Today, the need for a human rights-based approach to social protection is greater
+than ever. Since the global economic and financial crises in the financial markets
+arose in 2007, they have had a devastating impact on the prevalence and severity
+of poverty and presented a serious threat to the lives and livelihoods of hundreds
+of millions of people across the globe. Their disastrous impact has been amplified
+by the fact that only 20 per cent of the world’s working-age population and their
+families had effective access to social protection at that time.113 The onset of the
+crises therefore exacerbated deprivations and resulted in inequality and poverty
+becoming not only more widespread, but more deeply entrenched. According to
+World Bank estimates, as a result of the crises, an additional 50 million people fell
+into income poverty (less than $1.25 a day) during 2009 and an estimated 64 million more were living in income poverty by the end of 2010. Furthermore, around
+71 million additional people will remain in extreme poverty until 2020.114 Because
+ingrained discrimination and structural disadvantage restrict the access of vulnerable groups to services and social protection, they have endured, and continue to
+endure, the gravest effects of the crises.
+In those countries in which social protection programmes were already in place,
+protected by legislative or constitutional measures and constructed in accordance
+with a human rights framework, individuals and households most at risk of economic hardship enjoyed stronger protection of their rights and were thus able
+to rely on social protection mechanisms to mitigate the social and economic effects of the crises. This was the case in a number of Latin American countries that
+have well-developed and adequately supported social protection systems. Where
+no pre-existing human rights-based social protection mechanisms were in place,
+States’ investments in social protection were less able to respond to the effects of
+the economic downturn, although they still provided an important form of support
+to those most affected by the crises. The importance of social protection systems in
+mitigating the effects of the economic downturn on the poorest and most vulnerable was recognised in many multilateral fora during the crises,115 and endorsed by
+the United Nations Chief Executive Board for Coordination as one of nine initiatives
+necessary to stem detrimental effects.
+World Social Security Report 2010–2011 (Geneva: international Labour Organisation), 33.
+The World Bank Group’s Response to the Global Economic Crisis (Washington, D.C: The World Bank, 2010), 11.
+115
+See, for example, General Assembly Resolution 65/1, paras. 23(f), 51 and 70(g); the G20 Seoul Summit Leaders’ Declaration (2010):
+para. 5. Accessed April 26, 2012, http://online.wsj.com/public/resources/documents/G20COMMUN1110.pdf; and the G20 Seoul Summit
+Document (2010): para. 51(f)c. Accessed April 26, 2012, http://www.interaction.org/sites/default/files/Seoul%20Declaration%2011-1210.pdf.
+113
+114
+
+63
+
+64
+
+conclusion – The FuTuRe oF social pRoTecTion
+
+The critical role played by social protection systems in helping States respond
+to the crises gives further weight to the claim that social protection could be a key
+strategy to reinvigorate efforts to achieve the Millennium Development Goals by
+2015, and the ideal successor to the MDG agenda. In the Outcome Document of
+the 2010 Millennium Summit, States first acknowledged that social protection was
+one of the more successful approaches which could contribute to consolidating
+and achieving further gains towards the MDGs, and then strengthened their political commitment to replicating and scaling up social protection initiatives.116 It is
+hoped that, as 2015 approaches, social protection will continue to gain prominence
+and political support, enough that it can provide the framework for the post-2015
+development agenda. The Bachelet Report is an important step in this regard, as
+will be the Recommendation of the International Labour Conference (June 2012).
+As we navigate these uncertain times, with inequality steadily rising and official
+development assistance budgets shrinking, the imperative to adopt social protection is increasingly clear. However, unless a human rights framework is applied to
+the design, implementation, monitoring and evaluation of social protection programmes, the impact and outcomes of social protection will not be equitable or
+sustainable, and the poorest and most vulnerable will be left behind. The objective
+of this publication, therefore, is to launch a dialogue between development and human rights practitioners to explore how the framework of social protection can be
+evolved, strengthened and enriched by the integration of human rights principles.
+This is an opportunity for practitioners from a diverse range of backgrounds, too
+long separated by perceived conceptual differences, to cooperate on a mutually
+beneficial agenda – the human rights approach to social protection.
+116
+
+A/ReS/65/1, para. 23.
+
+The human RighTs appRoach To social pRoTecTion
+
+is the United Nations Special Rapporteur on Extreme Poverty and Human Rights. Ms. Sepulveda is a
+Chilean lawyer who holds a Ph.D in International Human Rights Law
+from Utrecht University in the Netherlands, an LL.M in Human Rights
+Law from the University of Essex in the United Kingdom, and a postgraduate Diploma in Comparative Law from the Pontificia Universidad Catolica de Chile. Ms. Sepulveda has worked as a researcher at
+the Netherlands Institute for Human Rights, as a staff attorney at the
+Inter-American Court of Human Rights, and as the Co-Director of the
+Department of International Law and Human Rights of the United Nations mandated University for Peace in San Jose, Costa Rica. She has
+also served as a consultant to the Division of International Protection
+of UNHCR, and to the Norwegian Refugee Council in Colombia. More
+recently she has been Research Director at the International Council on
+Human Rights Policy in Geneva, and Associate Research Fellow at the
+Norwegian Centre for Human Rights.
+m a g d a l e n a s e p ú lv e d a c a R m o n a
+
+c a R l y n y s T is Legal Adviser to the United Nations Special Rapporteur
+on Extreme Poverty and Human Rights, and Visiting Scholar at the
+Columbia Law School Human Rights Institute. She is an Australian human rights lawyer with a Masters of Science in International Relations
+(Hons) from the London School of Economics, and a Bachelors degree
+in Law and Arts (International Relations) (Hons) from the University of
+Queensland, Australia. Ms. Nyst has worked in human rights law and
+advocacy at both the national and international levels, specialising in
+economic, social and cultural rights; access to justice and rule of law,
+and international justice issues. As Legal Adviser to the Special Rapporteur, Ms. Nyst’s research encompasses the human rights approach to
+social protection and social welfare; stigmatisation and discrimination
+against people living in poverty, and access to justice by the poor, with
+a particular focus on the gender dimension of poverty.
+
+65
+
+66
+
+The human RighTs appRoach To social pRoTecTion
+
+notes
+
+The human RighTs appRoach To social pRoTecTion
+
+notes
+
+67
+
+68
+
+The human RighTs appRoach To social pRoTecTion
+
+Dr. Magdalena Sepúlveda of Chile has worked for the past
+four years for the United Nations Human Rights Council as
+Special Rapporteur on Extreme Poverty and Human Rights.
+In its resolution 8/11 (2008), the UN Human Rights Council
+requested that she examine the relationship between extreme
+poverty and the enjoyment of human rights, paying particular
+attention to the situation of vulnerable groups and the impact
+of discrimination.
+The Special Rapporteur set out to elaborate and promote
+a human rights framework for social protection, identifying
+best practices and disseminating lessons learned. Her
+approach involves the application of the central human rights
+principles of the human rights framework - equality and nondiscrimination (including accessibility, acceptability, affordability and the incorporation of the gender perspective), participation,
+transparency and accountability - to the design, implementation, monitoring and evaluation of social protection systems.
+In this publication Dr. Sepúlveda and her assistant Ms. Carly Nyst have synthesised the key findings and recommendations
+from the following reports of the Special Rapporteur to the UN Human Rights Council and General Assembly:
+1) Human rights and cash transfer programmes;
+2) The role of social protection in the face of the global financial crisis;
+3) A human rights framework for non-contributory pensions;
+4) The importance of social protection measures in achieving the MDGs, with a particular
+focus on gender-related concerns; and
+5) The human rights approach to recovery from the global economic and financial crises.
+The publication also draws from the Special Rapporteur's country reports on Ecuador, Zambia, Bangladesh, Vietnam, Ireland,
+Timor-Leste and Paraguay. The publication contains a Foreword by Finland's Minister for International Development,
+Ms. Heidi Hautala.
+
+Unit for Development Communications
+PO BOX 456
+FI-00023 GOVERNMENT, FINLAND
+internet: formin.finland.fi
+E-mail:keoinfo@formin.fi
+
+

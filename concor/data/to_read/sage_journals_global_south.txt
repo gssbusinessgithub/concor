@@ -1,0 +1,818 @@
+1009899
+research-article2021
+
+CSP0010.1177/02610183211009899Critical Social PolicyHujo
+
+Article
+
+Social protection and inequality
+in the global South: Politics,
+actors and institutions
+Katja Hujo
+United Nations Research Institute for Social Development, Switzerland
+
+Abstract
+In this themed section, we explore the links between contemporary
+social protection approaches and inequality in developing countries,
+focusing on political economy drivers and the role of actors and institutions in recent reform and implementation processes. This introduction
+article establishes some common ground by introducing context, concepts and questions. Reducing inequality is identified as a key condition for achieving inclusive and sustainable development as aspired in
+the Sustainable Development Goals governments committed to in 2015.
+The introduction situates the three articles in this issue, two studies of
+pro-poor cash transfers in the Philippines and Kenya, and an analysis
+of the new national minimum wage policy in South Africa, in a context
+of contested globalisation, increasing inequality and the social turn, a
+come-back of social policy as a key development instrument. After identifying the limitations and opportunities of this social turn, the article
+discusses the three social protection reforms and their impact on equality and social change in the different country contexts through a lens of
+contestation, institutions and transformative change.
+Key words
+cash transfers, minimum wage policy, political economy, Sustainable
+Development Goals, transformative change
+Corresponding author:
+Katja Hujo, United Nations Research Institute for Social Development, Geneva, 1211, Switzerland.
+Email: katja.hujo@un.org
+Critical Social Policy 2021, Vol. 41(3): 343–363
+© 2021 United Nations Research Institute for Social Development Article reuse guidelines: sagepub.com/journals-permissions
+https://doi.org/10.1177/02610183211009899
+DOI: 10.1177/02610183211009899 journals.sagepub.com/home/csp
+
+344
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+Introduction
+Inequality, a topic which was largely neglected during three decades of
+neoliberal globalisation, has finally made its way back into public debates.
+Numerous people across the globe are protesting inequalities, while a significant body of scientific evidence shows that income and wealth is increasingly concentrated in the hands of the few (Credit Suisse, 2019; Oxfam, 2018;
+World Inequality Lab, 2018). The negative effects of this process have been
+widely demonstrated: high inequality and the associated concentration of
+power results in policies and laws biased in the interest of elites, undermining democratic governance, development, poverty reduction, environment,
+social cohesion and wellbeing (Bartels, 2008; Chancel, 2017; Gilens, 2012;
+Stiglitz, 2012; Therborn, 2013; UNDP, 2019; UNRISD, 2010; Wilkinson
+and Pickett, 2009).
+Inequalities between rich and poor, men and women, rural and urban
+populations, migrants and citizens, or those related to ethnicity, caste, religion, sexuality, disability and other markers of difference, are constituting
+high barriers for human rights and sustainable development everywhere.
+While inequalities can be particularly extreme in developing countries (and
+more often in middle-income countries), their governments dispose of less
+resources for equalising post-market distribution (Palma, 2019), often reverting to regressive fiscal policies implying that costs for the poor are higher than
+the benefits they receive (Lustig, 2018). This panorama has not significantly
+changed during the 15-year implementation of the Millennium Development
+Goals (MDGs), and despite some achievements, progress was at best uneven
+or proved to be unsustainable. Aid actors insisted on interventions targeted at
+the poor, while mounting evidence showed that poverty cannot be eliminated
+without addressing inequality simultaneously (e.g. UNRISD, 2010).
+The 2030 Agenda for Sustainable Development adopted in 2015 set out
+to revert these trends and to finally do away with business as usual, seeking innovative and transformative ways to achieve development that is more
+inclusive and sustainable. The agenda which lists 17 Sustainable Development
+Goals (SDGs) and 169 targets, reflects a broader and more holistic understanding of development compared to its predecessor. Most importantly, it
+includes two inequality goals, SDG 5 on gender equality and SDG 10 on
+reducing inequality within and among countries (UN, 2015).
+In the run-up to the SDGs and since the covenant was agreed, inequality has also increasingly shaped public debates at the national level. Rising
+public awareness, advocacy campaigns and social movements (Koehler, 2020)
+ushered in new equality-enhancing legislation and policies in several countries. Finally, inequality has recently occupied centre-stage with actors that
+had hitherto been less interested in the issue, e.g. the Davos World Economic
+Forum and the International Financial Institutions (IFIs) (Lakner et al., 2019;
+Ostry et al., 2018; Zattler, 2020).
+
+Hujo
+
+345
+
+While these are positive developments, the prospects for more egalitarian and inclusive policies and outcomes remain uncertain, not only in view
+of the current global Covid-19 pandemic and its economic fallout, but also
+because of continuing political polarisation and political backlash (EU, 2018;
+McIntyre, 1993), hard-wired ideological beliefs and interests underpinning
+current aid policies and development strategies, as well as structural drivers in
+politics and economics reproducing and further increasing inequalities (e.g.
+Milanovic, 2016; UNRISD, 2019; UNCTAD, 2020).
+Against this backdrop the question arises how to design and implement
+effective policies to reduce inequalities, and which political factors may facilitate their adoption. Another question is whether mainstream development
+approaches such as poverty targeting are conducive or detrimental for equality
+goals and transformative change.
+One of the key instruments to address inequality, poverty and social
+exclusion is social protection. Social protection policies, broadly understood
+as social insurance, social assistance and labour market policies, protect people
+from adverse market effects and lifecycle contingencies while playing important roles for production, reproduction and redistribution (Mkandawire,
+2004; UNRISD, 2010, 2016). According to the Universal Declaration of
+Human Rights (1948) social protection is a fundamental human right for all
+people. Universal and adequate social protection schemes which are progressively financed redistribute risks, income and resources in ways which favour
+groups with lower income, status, or other disadvantages, leading to more
+equitable social outcomes and empowerment while also fostering cross-class
+coalitions. However, depending on their objectives, design and implementation, social programmes can reinforce inequalities and exclusions or lack
+transformative impact.
+In this themed journal section, we are presenting three case studies of
+contemporary social protection policies, analysing what role they play in
+addressing inequalities in the global South, a term that is increasingly used to
+designate the diverse group of low- and middle-income countries which have
+formally been labelled as developing, emerging, peripheral or Third World
+countries. Authors explore which political economy factors have shaped the
+decision-making and implementation process of these reforms, providing
+critical reflections and corrective narratives on so-called best practices of cash
+transfer programmes and how they are operationalised in the Philippines and
+in Kenya, questioning assumptions and measures of success, and shedding
+light on the sometimes ambiguous if not deceptive use of concepts and terms
+in current donor parlance. The third article analyses a policy that receives
+less attention from the donor community compared to social assistance minimum wage policy. The South Africa case study in this issue explores
+the political process that resulted in the successful introduction of a national
+minimum wage in one of the most unequal countries of the world, unpacking
+
+346
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+the role of various institutions and actors and their particular alliances in the
+making of this reform.
+This introduction aims to establish some common ground for the themed
+section by introducing key concepts and questions. It situates the three case
+studies in a context of contested but unfettered neoliberal and financialised
+globalisation or hyper-globalisation (UNCTAD, 2020), marked by increasing power of elite actors and rising inequalities at multiple levels. The article
+highlights contradictions between ambitious global development visions as
+embodied in the SDGs or enshrined in donor narratives of pro-poor policies,
+and actual policy reforms at the national level; between reform objectives,
+consequences and implementation challenges; and between international and
+national political economy factors versus institutional legacies in shaping
+reform outcomes. Finally, we asked if the social protection reforms studied
+have any transformative potential for addressing root causes of poverty and
+inequality. The article is divided into six sections; the second section provides a brief historical account of the changing relationship between inequality, social policy and development. The third section explains how inequality
+entered the 2030 Agenda for Sustainable Development, a culmination of the
+contemporary social turn, while the fourth section discusses the limitations
+and opportunities of the social turn. The fifth section analyses the three case
+studies in the themed section through the lens of contestations, institutions
+and transformative change. The sixth section concludes.
+
+Inequality, social policy and development
+There are many reasons why the fight for greater equality was silenced in the
+economic discourse for more than three decades. Whereas during the cold war
+period, Western welfare states aimed for some equalisation of living standards
+through fiscal policy and social bargaining (Esping-Anderson, 1990; Huber
+and Stephens, 2014), this social contract started to unravel in the 1980s, and
+in an accelerated pace after the fall of the Berlin Wall, giving way to marketoriented reforms in economic and social domains premised on growth and
+efficiency objectives.
+Developing countries were even harder hit by the systemic overhaul in
+the 1980s. State-led development strategies promoting full employment and
+public social services adopted by developmentalist governments concerned
+with catching-up (typically represented by Latin America and East Asia), as
+well as by newly independent states striving to overcome the legacies of colonialism (typically represented by sub-Saharan Africa), were replaced with stabilisation and structural adjustment policies (SAP), what was later called the
+Washington Consensus with reference to the powerful US institutions and
+international organisations shaping and funding development policy located
+
+Hujo
+
+347
+
+in the city (Williamson, 1990). Donor-led liberalisation, deregulation, privatisation and austerity policies were justified on the grounds of severe debt and
+balance of payments crises, but most importantly, legitimised by a general
+ideological shift towards market-liberal approaches gaining strength since the
+late 1960s.
+In this process, the fundamental role of social policy for production, stabilisation and redistribution which had been central in post-war Keynesian economic policy and to a certain extent in post-colonial and late-industrialising
+contexts was more and more reduced to a residual function (Mkandawire,
+2004). At the same time, the UN’s visionary and humanistic founding remit
+based on the UN Charter and the Universal Declaration of Human Rights was
+less and less influential in shaping policy approaches and donor interventions
+(Koehler, 2015).
+The failure of the Washington Consensus and the repressive nature of
+structural adjustment has been widely documented in the scholarly and policy
+literature (e.g. Beckman, 1992; Cornia et al., 1987; Mkandawire and Soludo,
+1998). Its impact on economic and social systems in the global South was
+nothing less than devastating, as were the social and political consequences.
+It became quickly clear that measures enforced by the international creditor community would increase poverty, exclusion and fragmentation, as few
+had the monetary means to pay for commercialized social services and user
+fees charged for deteriorating public services (Mackintosh and Koivusalo,
+2005; Chachage, 2007). Identification of the neediest and most deserving
+poor through targeting remained inefficient and ineffective in societies where
+poverty was not a problem of the few, but of the many (Mkandawire, 2005).
+While this compelling critique of the Washington Consensus’ recipes,
+and the lessons learned, did not result in immediate changes in donor practice, it prepared the ground for a comeback of alternative approaches and
+social policy into the development discourse, the so-called social turn, as we
+lay out in the following section.
+
+The social turn and the 2030 Agenda for
+Sustainable Development
+The social turn can be described as a gradual shift in ideas and policies
+which reasserted social issues in development agendas around and after the
+UN Social Summit convened in Copenhagen in 1995 (UNRISD, 2016). It
+marked a critical juncture in global development debates, opening spaces for
+questioning market fundamentalism and bringing back the social dimensions
+of development. The United Nations reclaimed the terrain of social policy
+from the International Financial Institutions, which led to some reconfigurations of ideational forces in the broader system (see also Koehler, 2015;
+
+348
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+Emmerij et al., 2001). Criticising the dominant residual and market-driven
+approach, the Copenhagen Action Agenda called for an integrated approach
+linking poverty reduction with social integration and employment creation
+(UN, 1995). Further milestones in the building of a new development vision
+were the Earth Summit in Rio de Janeiro in 1992 and the World Conference
+on Women in Beijing in 1995, and finally the MDGs, which despite their
+narrow focus on aid interventions, helped to direct national and international
+funding towards poverty reduction and investments in social sectors.
+At the international level, the 2030 Agenda for Sustainable Development
+can be seen as the most recent culmination of this social (and ecological) turn.
+Its progressive remit was also the result of a more inclusive agenda-setting
+and negotiation process that allowed civil society, academics and other stakeholders to voice their views on the most pressing global challenges and to
+formulate goals for the world as a whole, breaking up the former North-South
+divide (e.g. Alonso et al., 2014; Esquivel and Sweetman, 2016; Koehler,
+2015). Next to the prominence of environmental goals, bringing the fight
+against inequality into the 2030 Agenda for Sustainable Development was
+considered one of the big achievements in these negotiations (Koehler, 2015).
+The SDGs include goals on vertical and horizontal inequality, with SDG
+10 calling for reducing income inequalities within and between countries
+(explicitly mentioning both equality of opportunity and outcome in target
+10.3), and SDG 5 for reducing gender inequality. Further, SDG 1 on poverty reduction stipulates equal rights to economic resources, basic services,
+property, and land (target 1.4), and includes a target to implement social
+protection systems and floors (target 1.3), while SDG 16 on peaceful and
+inclusive societies mentions equal access to justice for all (16.3) (UN, 2015).
+Group-based inequalities and discrimination related to age, ethnicity, race or
+religion, location, migrant or refugee status, disability or ill-health, sexual
+orientation etc. are addressed in several other goals and targets, making the
+agenda the most comprehensive in terms of equality goals in the UN history
+(Freistein and Mahlert, 2016).
+Social policies are deemed a key instrument for combatting inequalities,
+with Goal 10 explicitly mentioning fiscal, wage, and social protection policies for achieving greater equality (target 10.4) and target 5.4 on unpaid care
+work referring to public services, infrastructure and social protection policies
+as means of implementation. Implementation of the agenda, which relies on a
+combination of national budget allocations and international donor commitments for its funding (specified in Goal 17 on Means of Implementation and
+the Addis Ababa Action Agenda on Financing for Development) is closely
+monitored, with the High-Level Political Forum convened annually in New
+York functioning as the apex of a global network of review processes, including thematic reviews and voluntary national reviews, and with participation
+of a diverse group of stakeholders.
+
+Hujo
+
+349
+
+While the voluntary nature of the SDGs as well as challenges related to
+resource mobilization for its implementation are well recognized, a major
+additional gap in the agenda is that it is not explicit about the concrete design
+and scope of policies or what a transformative policy approach entails, or
+under which political and economic conditions they are likely to materialize,
+a lacuna this themed section aims to address (Esquivel and Sweetman, 2016;
+Koehler, 2015; UNRISD, 2016).
+
+Inequality and social protection: Limitations and
+opportunities of the contemporary social turn
+The new development consensus that was crafted in 2015 reflects a context
+characterized by contradictory dynamics (UNRISD, 2016): on the one hand
+the ongoing dominance of market imperatives and fiscal pressures influencing social policy design and undermining its effectiveness, a phenomenon
+that has been cast into sharp relief during the current Covid-19 pandemic; on
+the other hand democratization, active citizenship and alternative development approaches resurfacing in academic debates (see also Alonso et al., 2014;
+Koehler 2015). This meant that the social turn did not imply automatically
+transformative change for more democratic, inclusive, equitable and sustainable development.
+An important impediment for a transformative social turn was the context of liberalisation and deregulation of trade, financial and capital markets
+that gained further ground in the 1990s, preventing countries from adopting
+developmental strategies which were more in line with the (social) development histories of today’s advanced economies (Chang, 2003; Mkandawire,
+2006), a trend that continued after the 2008 financial crisis and has now
+ushered in what UNCTAD calls ‘hyper-globalisation’ (UNCTAD, 2020): the
+dominance of private finance and large corporations engaging in rent-seeking activities, and an ideology motivated by neoliberalism, leading to rising
+inequalities, extreme levels of debt, heightened insecurity and stalling levels
+of investment and structural change.
+While the features of this hyper-globalisation process and its skewed
+distributional effects were becoming more pronounced over time, their
+implications for the global South were rarely addressed in the international
+development discourse. The social turn in the mid-1990s coincided with the
+promotion of a growth-cum-poverty-reduction model, largely ignoring questions of drivers of growth and structural transformation as well as of employment and social integration which were central in debates at the Copenhagen
+Summit. This model shaped development policy and the new global UN
+agenda at the turn of the millennium, well exemplified in the MDGs and the
+Poverty Reduction Strategy Papers (PRSPs) of the International Monetary
+
+350
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+Fund (IMF) and World Bank. While the World Bank focused on social sectors, infrastructure and poverty (calling for public-private-partnerships where
+state capacity was deemed insufficient, see Van Waeyenberge and Bayliss,
+2017), the IMF continued with a business as usual approach in economic
+policy, applying macroeconomic orthodoxy and a rejection of substantial
+fiscal redistribution in their loan conditionality and country programming,
+with detrimental effects for growth, structural change and social development
+(Gottschalk, 2015; Mkandawire, 2006; UNRISD, 2016).
+This three-tiered approach of growth, efficiency and poverty reduction
+has dominated aid interventions and donor practice until today, leading to
+a siloed approach regarding the three pillars of sustainable development, the
+economic, social and environmental, where the latter two are rather conceived
+as add-ons to mainstream economic approaches (UNRISD, 2016). The model
+reflects the belief of neoclassical economics that a trade-off between growth
+and redistribution exists, arguing for state retrenchment and market-oriented
+reforms to spur growth and efficiency even if they negatively affect distributional outcomes. This argument is persistently put forward even by authors
+who have emphasized the importance of inequality issues within the Fund, as
+can be seen in a recent IMF publication by Ostry et al. (2018: 4): ‘Our (. . .)
+message is that distributional consequences of reform do not justify rolling
+back the clock and re-regulating economies or scaling down ambitious structural reform agendas’.
+Despite widespread criticism, by Keynesian and other heterodox economists, not the least in the aftermath of the 2008 financial meltdown and in
+the run-up to the SDGs, this model is astonishingly persistent in contemporary policy thinking and practice, with a real danger that it could also shape
+the post-pandemic recovery (see also Kennett and Dukelow, 2018 and UNCTAD, 2020).
+The growth-cum-poverty-reduction model based on free-market ideology was, however, not adopted by all countries in the global South: Where
+governments decided to venture on to more transformative pathways they
+often benefitted from new political constellations and favourable economic
+conditions, allowing them to pursue alternative economic strategies and more
+inclusive social policies. When progressive governments assumed power in
+countries like Argentina, Bolivia, Brazil and Uruguay in the early 2000s, they
+could harvest windfalls from the commodity price boom in international markets, which created the necessary fiscal space and growth dynamics to overcome elite resistance and hold interventions of external creditors at bay. Based
+on broad political support over several electoral terms, these governments
+implemented fundamental structural reforms, such as the renationalisation of
+the hydrocarbon sector in Bolivia (Paz Arauco, 2020), the renationalisation of
+the pension system in Argentina (Hujo, 2014), the implementation of progressive tax reforms in Argentina and Uruguay (UNRISD, 2016), the creation
+
+Hujo
+
+351
+
+of a national care system in Uruguay (UNRISD, 2016), and the implementation of universal child benefits in Argentina and of universal social pensions
+in Bolivia. Brazil, a country that is often portrayed as the international role
+model for conditional cash transfers (CCT) with reference to its celebrated
+Bolsa Familia programme, is less recognised for other reforms implemented
+by the PT (Partido dos Trabalhadores) governments: coverage extension and
+wage indexation of various other cash transfer programmes such as social pensions, universalisation of access to education and health services, labour market policies such as minimum wage policy, as well as participatory governance
+models and effective social registries (UNRISD, 2016; for a critique of the
+Brazilian model see Lavinas et al., 2017).
+Thanks to these policies one of the most unequal continents in the world
+displayed decreasing vertical and horizontal inequalities and poverty since
+2002, though the pace of reduction slowed down after 2014 (the Gini coefficient in Latin America decreased from 0.538 in 2002 to 0.465 in 2018 in
+15 countries: ECLAC, 2019; see also Cornia, 2012). However, transformative approaches could not be sustained in all cases. In Brazil and Bolivia, for
+example, transformative social policy programmes have proved unsustainable
+in the wake of shifts in political power, despite improvements in social outcomes, a development that was certainly influenced by a deteriorating economic situation after the commodity boom ran out of steam post 2011, but
+which also reflected unsolved internal contradictions and mounting external
+pressures.
+Forces unleashed by neoliberal hyper-globalisation, the assumption of a
+growth-redistribution trade-off as described above, and the effects of austerity policies regularly adopted in response to the ‘business cycles’ and credit
+crunches of the global economy go a long way in explaining the general context
+in which the social turn occurred, and why more comprehensive social policy
+approaches remained the exception rather than the rule. Indeed, as Ginsburg
+et al., (2012) state in the introduction to a themed issue on social policy in the
+age of austerity, 'the notion of austerity has been mobilized to legitimate the
+roll-out of a further wave of neoliberal social policy' (2012: 297).
+An interesting set of political economy literature tries to identify the
+structural drivers, ideas, actors, and institutions that account for specific social
+policy choices in the global South against this backdrop. While we have mentioned some of the more transformative approaches above, we are interested in
+better understanding when and why reforms are reproducing a residual social
+policy approach and what the impacts are (Hickey et al., 2018; Mkandawire,
+2005, 2006; Ouma and Adésínà, 2019; UNRISD, 2010; Hujo, 2014).
+This literature finds for example that power relations play a key role in
+the adoption of residual social protection approaches in developing countries.
+External actors, such as donors, control policy agendas by inserting experts,
+who provide narratives, problem definitions and solutions; by excluding
+
+352
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+political actors or domestic civil society through processes of depoliticisation
+whereby policy-making is defined as a technical exercise; and by influencing
+preferences of domestic actors through social learning such as training courses,
+study tours or conferences (Ouma and Adésínà, 2019). Hickey et al. (2018)
+find that the social protection agenda in most African countries has been
+strongly influenced by Northern agencies, promoting a culture of individual
+rights and specific instruments such as targeted social assistance. Mkandawire
+(2006) coined the term of ‘choiceless democracies’ to describe how globalisation and its accompanying ideological predilections and the imposition
+and binding nature of economic constraints led to the observed convergence
+in economic and institutional reforms, which also conditioned social policy
+approaches to a large degree. Nevertheless, in addition to external factors,
+domestic politics plays an important role in mediating and redefining donorled policy preferences (Cherrier, 2020; Hickey et al., 2018), whereas in some
+cases donor influence is negligible, as this themed section shows.
+
+A political economy approach to social
+protection and inequality: Contestation,
+institutions, and transformative change in
+Kenya, the Philippines and South Africa
+The three case studies selected for this themed section are specific illustrations
+of the social turn, its opportunities and pitfalls, and highlight both local realities and global interdependencies. Authors apply a political economy lens and
+speak to three framing issues – the importance of politics, the role of actors
+and institutions, and the transformative impact of reforms.
+South Africa, the most advanced country in the sample, is also a country
+which tops global rankings in income and wealth inequality (the Gini coefficient was 0.68 in 2017, see also Palma, 2019), has half of its population living
+below the national poverty line and a legacy of entrenched racial and genderbased inequalities the post-apartheid ANC (African National Congress) governments have struggled to overcome (Plagerson et al., 2017). South Africa,
+similar to Brazil, combines a relatively strong state role in social policy with
+a liberal economic approach: while it further expanded and institutionalized
+social policies in the democratic transition in line with new constitutional
+social rights, it adopted mainstream economic policies biased towards big
+capital, financial services and extractive industries. Promoting the country as
+a developmental state, rather than a welfare state, policy-making elites proclaim a conservative discourse against redistribution, rooted in assumptions
+about a supposed dependency culture that might result from social handouts
+(Seekings, 2018). With an expressed preference for work over transfers to
+
+Hujo
+
+353
+
+combat poverty, policymakers have nevertheless failed to tackle persistently
+high unemployment rates and labour market segregation.
+Kenya, a less unequal country than South Africa (Gini coefficient 0.42 in
+2017), was ‘one of the early adopters of cash transfers in the current wave of
+social protection uptake on the African continent’ (Ouma and Adésínà, 2019:
+377), and has since developed a National Social Protection Policy to operationalise social security rights stipulated in the new Constitution of 2010
+(Republic of Kenya, 2011). The Cash Transfer programme for Orphans and
+Vulnerable Children (CT-OVC) analysed in this issue was started in 2004 in
+response to challenges associated with the HIV/AIDs pandemic, with funding from UNICEF and DFID, covering around 350’000 households by the
+end of 2017 and by then financed domestically (Ouma and Adésínà, 2019).
+With three other cash transfers subsequently implemented it constitutes the
+country’s National Safety Net Programme, reaching approximately 5 million
+persons in 2019, around 10 per cent of the population (World Bank, 2019).
+Poverty is still high, with 36.1 per cent of the population living below the
+global poverty line in 2015/16, but has declined 10 per cent over ten years,
+which is associated with the rapid expansion of the new social protection programmes and high average growth rates exceeding 5 per cent annually until
+2019 (World Bank, 2020).
+The launch of the CCT programme Pantawid in the Philippines in 2008
+occurred in a broader context of low economic growth and efforts to reduce
+poverty over several decades (Nem Singh et al., 2016). The Pantawid was first
+introduced to tackle the overall decline in social expenditure in a context of
+high debt service and the international food price crisis, as well as concerns
+over the failure to make social progress consistent with the MDGs, while also
+establishing institutional patterns of governance independent of votes, political allegiances and clientelism (Nem Singh et al., 2016). Funded by external donors (mainly World Bank and Asian Development Bank), the CCT is
+focused on increasing the income and social capital of the poor and to prevent
+the intergenerational transmission of poverty by stipulating conditionalities
+regarding education and health care service utilisation but did not address
+overall inequalities. Critical observers stated early on that a palliative instrument like a CCT was not a substitute for structural reforms: in the context
+of highly unequal societies such as the Philippines, reducing poverty also
+required changing macroeconomic policies, notably ‘reversing of trade liberalisation, a moratorium on foreign debt payments, and an effective agrarian
+reform’ (Bello, 2010).
+Several issues and analytical perspectives cut across the three country
+studies. Authors hold that revealing the politics of social protection reform
+challenges the current donor narrative that social policy is a technical problem-solving device. Instead, it constitutes an arena of contestation and bargaining between different actors characterised by different power resources,
+
+354
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+interests and ideologies. These contestation and bargaining processes are
+shaped by specific contexts as described above regarding global agendas and
+ideologies, economic trends and crises, and take place between state actors,
+business, organised labour or civil society actors, and a variety of external
+actors, for example experts, international organisations or donors.
+Dadap-Cantal et al. in this issue show that in the Philippine case, the
+Pantawid CCT has evolved from an ad-hoc poverty measure into one of the
+biggest CCT programmes in the world with 4.3 million households covered
+in 2019, and promoted as a best practice in terms of targeting and poverty
+reduction. The authors argue, however, that the impact of Pantawid expansion on the broader social protection system has been an increase in fragmentation and stratification, while its primary purpose, identifying the poor and
+providing them social protection, remains elusive. The article analyses what
+rationales among key domestic and external actors explain the advancement
+of a success narrative of the programme, and how external donors and experts
+influenced its design and expansion through technical assistance and funding. Authors show how a different narrative was created in which fragmentation of multiple social assistance programmes is seen to be addressed through
+improved poverty targeting, leading to better coordination and convergence
+among these programmes. This is in contrast to critical analysis which sees
+the fragmentation of provisioning across social groups or classes as being exacerbated by targeting compared to universal public provision, or convergence
+as the greater integration of social assistance with social security systems, or
+as unification in the quality of social provisioning provided across groups.
+Francis and Valodia in this issue analyse the political process leading to
+the recent introduction of a national South African minimum wage through
+the lens of social dialogue, a terminology used by the International Labour
+Organisation for a decision-making process which involves organized state,
+labour and business actors. The labour market in South Africa is at the heart
+of a structural problem of constant production and reproduction of inequalities (62 per cent of persons in the lowest income quintile are unemployed),
+a dynamic that one of the most comprehensive social grant systems that has
+been established in the global South (around 45 per cent of South African
+households are beneficiaries of a social grant) fails to address. The political
+economy analysis shows that the wage policy, while incorporating evidencebased advice provided by an advisory panel of experts, was far from being
+a technical exercise. Not only was the reform field highly ideologised and
+academically contested, but the reform process was also shaped by an increasingly divided labour movement and its changing relationship with government leaders in a context of recurrent violent and protracted strikes.
+A second entry point for analysis of the relationship between inequality and social protection in the three case studies is the role of institutions.
+Unequal power relations and inequalities are maintained and reinforced
+
+Hujo
+
+355
+
+through formal and informal institutions, including those tasked with social
+provisioning and social governance, as well as social norms and practices.
+Which kinds of institutional structures and practices are most effective in
+moving countries towards greater equality and which ones further entrench
+divisions? What is the impact of external models and interventions on social
+provisioning systems and institution-building in the global South?
+The article by Rohregger et al. in this issue is a case study on the role of
+traditional authorities in the delivery of the Kenyan cash transfer CT-OVC.
+Authors identify the local political economy as an important mediating arena
+for implementing social policies, with informal institutions such as chiefs,
+assistant-chiefs and community elders playing an important role in the delivery of the programme, particularly regarding targeting, enrolment, delivery,
+monitoring, awareness and information, data collection or grievance and
+redress mechanisms. While the involvement of traditional authorities, which
+is not stipulated in formal programme regulations, fills in administrative
+gaps and reduces transaction costs, they also act as gatekeepers, at times misusing their role for personal benefits and undermining programme objectives.
+In the case of the Pantawid cash transfer programme analysed by DadapCantal et al., the national targeting system through the Listahanan social registry, an institution that has received much praise from the donor community
+for its efficiency and effectiveness, is scrutinised. A system which was meant
+to lead to depoliticisation in benefit allocation and administrative streamlining, has in fact resulted in a quasi-permanent beneficiary base established in
+household assessments conducted in 2009, neglecting poverty dynamics in
+the country and augmenting inclusion and exclusion errors associated with
+targeting. According to the authors, Pantawid and Listahanan have conditioned and structured the policy architecture and institutional modalities of
+social protection in the country, increasing promotion and use of povertytargeting systems across the broader social policy systems of the Philippines,
+from health and education subsidies to nutrition programmes.
+A particular institution of social dialogue, the South African National
+Economic Development and Labour Council (Nedlac) in South Africa, is analysed in the article by Francis and Valodia. Authors find that the combination
+and interaction of institutional social dialogue under Nedlac with the role of
+outside actors and institutions such as an advisory panel established in 2016
+was an important condition for the reform to succeed. The article provides an
+in-depth analysis of the two key institutions which in combination overcome
+a reform impasse: Nedlac, a long-standing institution which reflects the role
+of trade unions and of social dialogue in South Africa’s economic strategy
+and democratic transition, and the ad-hoc institution of a temporary advisory
+panel, which brought key academics and experts into the reform process and
+turned it to a certain extent into ‘a text-book case of evidence-based policy’.
+The reform also created new institutions such as the National Minimum
+
+356
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+Wage Commission established in January 2019 to monitor implementation
+and impact of the policy and to recommend adjustments.
+The third entry point for the analysis is to explore the transformative
+potential of the reform cases presented in this themed section. Looking at the
+South African case study, the question arises whether the recent minimum
+wage can be regarded as a first step to attack causal drivers of inequality
+emerging from the labour market, which according to the authors is the case.
+As intended, wages at the lower end of the wage distribution have increased,
+compressing the wage gap without increasing unemployment in 2019. It has
+thus provided a wage floor for the most vulnerable workers including women
+and black South Africans, reducing vertical and horizontal inequalities which
+often cluster in highly unfavourable ways.
+In the case of the Philippines, the article argues that the modalities of the
+targeted expansion of the Pantawid have undermined its protective functioning, as the system is not able to adapt to changing conditions of poverty. Furthermore, the political reform process reflects a considerable amount of policy
+transfer and donor influence in programme design, funding, and implementation, which raises questions about policy autonomy and the shortcomings of
+global policy blueprints. The most worrisome finding of the study is probably
+that the Pantawid CCT reinforces a residual and fragmented social protection
+system with bleak prospects for transforming the structures which reproduce
+inequality and poverty in the country, including factors undermining democratic governance and inclusive economic development.
+Similar conclusions can be drawn from the analysis of the cash transfer
+programme in Kenya, where technocratic administrative approaches towards
+programme implementation largely oversaw local realities and institutional
+constraints. In order to implement donor-driven targeting mechanisms,
+national bureaucracies have to count on the traditional chief system. While
+this may enhance programme delivery on the one hand, it may also produce
+the opposite effect where local power structures, patronage and rent-seeking
+increase inequality and social exclusion. In view of these hybrid institutional
+contexts, authors suggest to not discard informal institutions as dysfunctional
+from the outset, but to ask the question on how to improve their transformative potential for outcomes which benefit the poor.
+
+Conclusion
+The articles in this themed section analyse social protection as a key instrument to address inequality, poverty and social exclusion as part of countries’
+national and global development commitments.
+A discussion of the general development context and mainstream donor
+approaches have shed light on the context in which to understand recent social
+
+Hujo
+
+357
+
+protection reforms. Despite the global commitment to a rights-based, holistic, integrated, and transformative sustainable development agenda, actual
+policies and aid practices are all too often reflecting business as usual: marketled growth as a development strategy, residual and targeted social protection measures as social policy, and equality of opportunity instead of equality
+of outcomes as social justice policy. Buzzwords such as shared prosperity,
+inclusive growth, or growth with equity may reflect a changing discourse,
+but assumptions of free and competitive markets rewarding individual effort
+and talent, trickle-down growth and a reduced state role loom large. Indeed,
+addressing inequalities and promoting inclusion through decent work, universal public social services and social security has dropped out of this development equation, with adverse consequences for social development and the
+realization of human rights, in particular substantive economic and social
+rights (Hujo and Behrendt, 2017; ILO, 2017; UN Women, 2015).
+We have shown that a promising social turn happened around the mid1990s, whereas contradictory developments accompanied this process which
+culminated in the SDGs – a visionary and comprehensive agenda, but as
+most UN agreements lacking teeth due to its voluntary nature, financing
+challenges, as well as entrenched donor practices and path dependencies of
+existing policies and legislations at country level. Controversial debates have
+emerged in this context, especially around the very limited vision or potential
+for transformative change that is embodied in current social protection agendas, if not their possible conservative and even regressive tendencies. Contested issues include the role of the state in social policies; their scope, design,
+and financing; and the fundamental values that should underpin them. In
+addition, macroeconomic policies and global power asymmetries were not
+called into question, which reduced the possibility of social policy playing
+a truly transformative role within a reformed economic and political system.
+The key findings from the different studies show different possible pathways in an increasingly challenging global environment:
+The newly introduced minimum wage law in South Africa bears transformative potential, seeking to address structural labour market inequalities which are identified as one of the factors that reproduce inequalities in
+the country. Nevertheless, other economic and social drivers of inequality
+are more hard-wired and would require deeper transformative change, for
+example high unemployment rates, which are approaching a staggering rate
+of 50 per cent during the Covid-19 crisis, and gender-based stereotypes and
+discriminations. Cash transfer programmes in Kenya and the Philippines,
+introduced in contexts of crisis and the MDG agenda focused on poverty
+reduction, suffer from a range of shortcomings undermining their transformative potential, in particular the artificially set cap on beneficiaries, either
+through the social registry applied in the Philippines or financing constraints
+and targeting mechanisms deployed in Kenya. A second shortcoming is
+
+358
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+longer-term fiscal sustainability, especially as donors are pushing for a gradual
+scaling up of the domestic share of funding CCTs in a current environment
+with mounting fiscal and debt pressures. A third one is the adverse impact of
+CCTs based on poverty targeting on empowerment, social cohesion and the
+potential for cross-class and inter-generational alliances (see also Moore and
+Seekings, 2019): indeed, one of the implications of the Philippines and Kenya
+examples is that whatever institutions are implied in identifying beneficiaries
+for pro-poor social programmes, formal or informal, information-technology
+based centralized social registries or local authorities, the result is disempowerment and stigmatization of the target population which instead of being
+granted universal and unconditional rights for social protection in times of
+need remains at the mercy of being identified by someone as deserving of
+assistance.
+The set of articles presented in this themed section provide a snapshot of
+contemporary social protection approaches and their political economy drivers
+in a context of heightened inequalities which have become the hallmark of the
+current hyper-globalisation era. While the SDGs aim to address broader and
+inter-connected development challenges such as poverty, inequality, employment, growth and climate change, development practice continues with
+siloed and compensatory approaches from the past. In the current conjuncture
+of great uncertainty and crisis unleashed by the Covid-19 pandemic, much
+of the residual social turn is exposing its weaknesses, resulting in immense
+socio-economic costs and human sufferings. The SDGs were already off track
+on many goals and targets before the pandemic, e.g. on eradicating extreme
+poverty by 2030, but due to the pandemic and its policy response 71 million
+people are projected to fall into poverty in 2020, reversing decades of progress, while inequalities within and between countries are further exacerbated
+(UN, 2020). The UN Secretary General Guterres calls to 'hold firm in our
+convictions and not let the crisis derail our hopes and ambitions' (UN, 2020:
+3). To avoid another lost decade (UNCTAD, 2020) and to succeed with the
+project of a better recovery, these hopes and ambitions need to be grounded in
+a shared understanding of why current approaches have failed and which policies and structural conditions are at the heart of our problems, an endeavour
+to which this themed section aims to contribute.
+Funding
+The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: The Open Access for
+this article was funded by the European Research Council under the European
+Union’s Horizon 2020 research and innovation programme, under the AIDSOCPRO research project (Aiding Social Protection: the Political Economy of
+Externally Financing Social Policy in Developing Countries; grant agreement
+No 638647).
+
+Hujo
+
+359
+
+Note
+Earlier versions of the contributions in this themed section were presented
+at the UNRISD conference: Overcoming inequalities in a fractured world:
+Between elite power and social mobilization (Geneva, November 2018).
+References
+Alonso JA, Cornia GA and Vos R (2014) Alternative Development Strategies for the Post2015 Era. New York: Bloomsbury.
+Bartels LM (2008) Unequal Democracy: The Political Economy of the New Gilded Age.
+New York: Russel Sage Foundation and Princeton University Press.
+Beckman B (1992) Empowerment or repression? The World Bank and the politics
+of adjustment. In: Gibbon P, Bangura Y and Ofstad A (eds), Authoritarianism,
+Democracy and Adjustment. The Politics of Economic Reform in Africa. Uppsala: Scandinavian Institute of African Studies, pp. 83–105.
+Bello W (2010) The CCT debate and the coalition against the poor. Philippine Daily
+Inquirer, 11 April 2010. Available at https://focusweb.org/the-conditional-cashtransfer-debate-and-the-coalition-against-the-poor/, accessed 30.09.2016.
+Chachage CSL (2007) Social policy and development in East Africa: The case of education and labour market policies. In: Adésínà J (ed.) Social Policy in Sub-Saharan
+African Context. In Search of Inclusive Development. Basingstoke: Palgrave Macmillan and UNRISD, pp. 87–111.
+Chancel L (2017) Insoutenables inégalités: pour une justice sociale et environnementale. Paris:
+Les Petits Matins.
+Chang HJ (2003) Kicking Away the Ladder: Development Strategies in Historical Perspective. London: Anthem Press.
+Cherrier C (2020) Domestic resource mobilization for social transfers in sub-Saharan
+Africa: Can foreign aid act as a catalyst? In: Hujo K (ed.) The Politics of Domestic
+Resource Mobilization for Social Development. Basingstoke: Palgrave MacMillan and
+UNRISD.
+Cornia GA (2012) Inequality trends and their determinants. Latin America over
+1990–2010. UNU-WIDER Working Paper No. 2012/9. Helsinki: UNUWIDER.
+Cornia GA, Jolly R and Stewart F (1987) Adjustment with a Human Face: Protecting the
+Vulnerable and Promoting Growth. Vol. 1: A Study by UNICEF. Oxford: Oxford
+University Press.
+Credit Suisse (2019) Global Wealth Report 2019. Zurich: Credit Suisse AG, Research
+Institute.
+Dadap-Cantal E, Ramos C and Fischer A (2021) Targeting versus social protection in
+Cash Transfers in the Philippines: Reassessing a celebrated case of social protection. Critical Social Policy 41(3).
+ECLAC (2019) Social Panorama of Latin America. (LC/PUB.2019/22-P/Rev.1), Santiago: Economic Commission for Latin America and the Caribbean.
+
+360
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+Emmerij L, Jolly R and Weiss TG (2001) Ahead of the Curve? UN Ideas and Global
+Challenges. Bloomington: Indiana University Press.
+Esping-Andersen G (1990) The Three Worlds of Welfare Capitalism. Cambridge: Polity
+Press.
+Esquivel V and Sweetman C (2016) Gender and the Sustainable Development Goals.
+Gender & Development 24(1): 1–8.
+EU (2018). Backlash in Gender Equality and Women’s and Girls’ Rights. Women’s rights
+and gender equality policy. Commissioned by the European Parliament’s Policy
+Department for Citizens’ Rights and Constitutional Affairs. Brussels: European
+Union.
+Francis D and Valodia I (2021) Inequality in the South African labour market: The
+political economy of the national minimum wage. Critical Social Policy 41(3).
+Freistein K and Mahlert B (2016) The potential for tackling inequality in the Sustainable Development Goals. Third World Quarterly 37(12): 2139–2155.
+Gilens M (2012) Affluence and Influence: Economic Inequality and Political Power in America. New York: Russel Sage Foundation and Princeton University Press.
+Ginsburg N, Jeffers S and Mooney G (2012) Editorial introduction to themed issue:
+Social policy in an age of austerity. Critical Social Policy 32(3): 297–298.
+Gottschalk R (2015) The effectiveness of IMF/World Bank-funded poverty reduction
+strategy papers. In: Bangura Y (ed.) Developmental Pathways to Poverty Reduction.
+Basingstoke: Palgrave Macmillan and UNRISD, pp. 74–97.
+Hickey S, Lavers T, Niño-Zarazúa M and Seekings J (2018) The negotiated politics
+of social protection in sub-Saharan Africa. WIDER Working Paper 34, Helsinki: United Nations University World Institute for Development Economics
+Research.
+Huber E and Stephens JD (2014) Income inequality and redistribution in post-industrial democracies: Demographic, economic, and political determinants. Socio-Economic Review 12: 245–267.
+Hujo K and Behrendt C (guest editors) (2017) Special issue: The human right to
+social security. International Social Security Review 70(4).
+Hujo K (ed.) (2014) Reforming Pensions in Developing and Transition Countries. Basingstoke: Palgrave MacMillan and UNRISD.
+ILO (2017) Building Social Protection Systems: International Standards and Human Rights
+Instruments. Geneva: International Labour Office.
+Kennett P and Dukelow F (2018) Introduction to themed section. Neoliberalism’s
+afterlives: States of neoliberalism, power and resistance in post-crisis societies.
+Critical Social Policy 38(3): 453–460.
+Koehler G (2015) Seven decades of 'development’. And now what? Journal of International Development 27: 733–751.
+Koehler G (2020) Creative coalitions in a fractured world: An opportunity for transformative change? UNRISD Occasional Paper No. 4. Geneva: UNRISD.
+Lakner C, Mahler DG, Negre M and Prydz EB (2019) How much does reducing
+inequality matter for global poverty? Policy Research Working Paper No. 8869,
+Washington DC: World Bank.
+
+Hujo
+
+361
+
+Lavinas L, Gentil D and Cobo B (2017) The controversial Brazilian welfare regime.
+UNRISD Working Paper 2017–10. Geneva: UNRISD.
+Lustig N (ed) (2018). Commitment to Equity Handbook: Estimating the Impact of Fiscal
+Policy on Inequality and Poverty. Washington DC: Brookings Institution Press.
+Mackintosh M and Koivusalo M (eds) (2005) Commercialization of Health Care: Global
+and Local Dynamics and Policy Responses. Basingstoke: Palgrave Macmillan and
+UNRISD.
+McIntyre S (1993) Backlash against equality: The 'tyranny' of the 'politically correct'.
+McGill Law Journal 38(1): 1–63.
+Milanovic B (2016) Global Inequality: A New Approach for the Age of Globalisation.
+Cambridge, MA: The Belknap Press of Harvard University Press.
+Mkandawire T and Soludo C (eds) (1998) Our Continent, Our Future: African Perspectives on Structural Adjustment. Dakar: International Development Research Centre, Council for the Development of Social Science Research in Africa, Africa
+World Press.
+Mkandawire T (2004) Social policy in a development context: Introduction. In:
+Mkandawire T (ed.) Social Policy in a Development Context. Basingstoke: Palgrave
+Macmillan and UNRISD, pp. 1–33.
+Mkandawire T (2005) Targeting and universalism in poverty reduction. Programme on
+Social Policy and Development. Paper 23. Geneva: UNRISD.
+Mkandawire T (2006) Disempowering new democracies and the persistence of poverty. Programme on Democracy, Governance and Human Rights. Paper 21. Geneva:
+UNRISD.
+Moore E and Seekings J (2019) Consequences of social protection on intergenerational
+relationships in South Africa: Introduction. Critical Social Policy 39(4): 513–524.
+Nem Singh JT, Grugel JB and Hatcher P (2016) The political economy of financing children’s rights through extractive industries in the Philippines. UNRISD
+Working Paper 2016-2. Geneva: UNRISD.
+Ouma M and Adésínà J (2019) Solutions, exclusion and influence: Exploring power
+relations in the adoption of social protection policies in Kenya. Critical Social
+Policy 39(3): 376–395.
+Ostry JD, Berg A and Kothari S (2018) Growth-equity trade-offs in structural
+reforms. IMF Working Paper 18/05. Washington DC: International Monetary
+Fund.
+Oxfam (2018) Reward work, not wealth. Available at: https://www.oxfam.org/sites/
+www.oxfam.org/files/file_attachments/bp-reward-work-not-wealth-220118-en.
+pdf (accessed 25 January 2018).
+Palma JG (2019) Behind the seven veils of inequality. What if it's all about the
+struggle within just one half of the population over just one half of the national
+income? Development and Change Distinguished Lecture 2018. Development and
+Change 50(5): 1133–1213.
+Paz Arauco V (2020) Domestic resource mobilization for social development in
+Bolivia (1985–2014): Protests, hydrocarbons and a new state project. In: Hujo
+
+362
+
+C r i t i c a l S o c i a l P o l i c y 41(3)
+
+K (ed.) The Politics of Domestic Resource Mobilization for Social Development. Basingstoke: Palgrave Macmillan and UNRISD, pp. 269–303.
+Republic of Kenya (2011) National Social Protection Strategy. Nairobi: Ministry of
+Gender, Children, and Social Development.
+Plagerson S, Hochfeld T and Stuart L (2017) Moving towards redistributive and
+transformative social security? Gendered social and economic outcomes in South
+Africa. UNRISD Working Paper 2017-11. Geneva: UNRISD.
+Rohregger B et al. (2021) The politics of implementation: The role of traditional
+authorities in delivering social policies to poor people in Kenya. Critical Social
+Policy 41(3).
+Seekings J (2018) Inequality, popular attitudes and elite ideology in Africa: The case
+of social protection. Paper prepared for the UNRISD Conference: Overcoming
+inequalities in a fractured world: Between elite power and social mobilization.
+8–9 November 2018, Geneva, Switzerland.
+Stiglitz J (2012) The Price of Inequality: The Avoidable Causes and Invisible Costs of
+Inequality. New York: Norton.
+Therborn G (2013) The Killing Fields of Inequality. Malden, MA: The Polity Press.
+UNCTAD (2020) Trade and Development Report 2020: From Global Pandemic to Prosperity for All: Avoiding Another Lost Decade. Geneva: United Nations Conference on
+Trade and Development.
+UNDP (2019) Beyond Income, Beyond Averages, Beyond Today: Inequalities in Human
+Development in the 21st Century. Human Development Report. New York: United
+Nations Development Programme.
+UNRISD (2010) Combating Poverty and Inequality: Structural Change, Social Policy and
+Politics. Geneva: United Nations Research Institute for Social Development.
+UNRISD (2016) Policy Innovations for Transformative Change. Implementing the 2030
+Agenda for Sustainable Development. Geneva: United Nations Research Institute
+for Social Development.
+UNRISD (2019) Overcoming inequalities in the context of the 2030 agenda for sustainable development. Issue Brief 10. Geneva: United Nations Research Institute
+for Social Development.
+UN Women (2015) Progress of the World’s Women 2015–2016: Transforming Economies,
+Realizing Rights. New York: UN Women.
+UN (1995) Report of the World Summit for Social Development. A/CONF. 166/9. New
+York: United Nations.
+UN (2015) Transforming Our World: The 2030 Agenda for Sustainable Development. New
+York: United Nations.
+UN (2020) The Sustainable Development Goals Report 2020. New York: United Nations.
+Van Waeyenberge E and Bayliss K (2017) Unpacking the public private partnership
+revival. Journal of Development Studies (54)4: 577–593.
+Wilkinson R and Pickett K (2009) The Spirit Level: Why Greater Equality Makes Societies Stronger. New York: Bloomsbury Press.
+
+Hujo
+
+363
+
+Williamson J (1990) What Washington means by policy reform. In: Williamson J
+(ed.) Latin American Readjustment: How Much has Happened. Washington: Peterson
+Institute for International Economics.
+World Bank (2019) In Kenya, uplifting the poor and vulnerable through a harmonized national safety net system. Results Briefs, 18 April 2019. Washington DC:
+World Bank.
+World Bank (2020) Macro Poverty Outlook for Sub-Saharan Africa. April 2020. Washington DC.: World Bank.
+World Inequality Lab (2018) World Inequality Report. Available at: http://wir2018.
+wid.world/files/download/wir2018-summary-english.pdf (accessed 25 January
+2018).
+Zattler J (2020) Rising Inequality: What are the Implications for Policymaking at the World
+Bank? New York: Friedrich-Ebert-Stiftung.
+
+Author biography
+Katja Hujo is Senior Research Coordinator in the Transformative Social Policy Programme at
+UNRISD. She studied economics and political science at Eberhard-Karls- University Tübingen, Freie Universität Berlin (FUB) and National University of Córdoba, Argentina, and holds
+a doctoral degree in economics from FUB. Katja’s academic work focuses on social policy,
+poverty and inequality, South-South Migration as well as sustainable development and public
+finance. She has published recently an edited volume on The Politics of Domestic Resource Mobilisation for Social Development (Palgrave Macmillan, 2020) and in the journal Global Social Policy.
+
+

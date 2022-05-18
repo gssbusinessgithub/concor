@@ -1,0 +1,614 @@
+18. Gender and social protection
+Nicola Jones
+
+18.1
+
+INTRODUCTION
+
+Social protection programmes seek to reduce vulnerability and poverty and promote individual, household and community resilience to shocks and stresses by improving household
+income and access to services. Cash and asset transfers and public works programmes have
+spread rapidly across low- and middle-income countries since the mid-1990s (ILO 2017),
+reaching millions of people (Barrientos et al. 2010; Molyneux et al. 2016). However, feminist
+analysts have highlighted that social protection has paid inadequate attention to the gendered
+patterning of risks and vulnerabilities throughout the life cycle, so it is ‘yet to fully realise
+its potential to address the underlying causes of vulnerability and the drivers of inequality to
+achieve social justice and socially equitable outcomes’ (Holmes and Jones 2013, 2). There is
+growing consensus that for social protection to evolve beyond safety net provision and have
+a more transformative impact, it must go beyond a narrow focus on women in their capacity
+as mothers and instead support women’s and girls’ empowerment and gender equality more
+explicitly and strategically across the life cycle (Molyneux 2007; Holmes and Jones 2013;
+Cookson 2018; Holmes et al. 2019).
+This chapter focuses on the gender dimensions of social protection design and implementation in lower- and middle-income countries. It summarizes available evidence on the extent to
+which social protection – from cash and asset transfers to public works programmes and social
+insurance schemes – is promoting girls’ and women’s empowerment and gender equality.
+Section 18.2 provides an overview of gender-specific risks and vulnerabilities facing girls
+and boys, and men and women, over the life cycle, and the gendered coping strategies they
+employ. Section 18.3 discusses the extent to which gender-specific risks and vulnerabilities
+are typically embedded within programme design. Section 18.4 focuses on the gender dimensions of programme implementation and impacts on people’s lives, also discussing the role of
+the politics of gender-responsive social protection in shaping programmatic outcomes in specific contexts. Section 18.5 concludes the chapter by reflecting on priorities for strengthening
+gender-responsive social protection programming.
+
+18.2
+
+GENDER-SPECIFIC RISKS, VULNERABILITIES AND
+COPING PATTERNS ACROSS THE LIFE CYCLE
+
+Poverty and deprivation are experienced differently by different social groups across the life
+cycle – as are options for building resilience (Holmes and Jones 2013). This section briefly
+reviews the evidence on gender-specific risks and vulnerabilities during adolescence – a time
+when gender norms become increasingly salient – as well as during adulthood and older
+age. It is important to highlight that gender risks and vulnerabilities may also intersect with
+other forms of discrimination (e.g. based on disability, ethnicity or refugee status), and these
+337
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+338
+
+Handbook on social protection systems
+
+multiple and overlapping sources of disadvantage should be taken into account in programme
+design and implementation (see Jones and Presler-Marshall 2019; Jawad et al. 2019).
+18.2.1
+
+Adolescence
+
+Given the immense changes and vulnerability experienced during the second decade of life,
+adolescence has increasingly been recognized as a window of opportunity in terms of offsetting childhood disadvantage and altering life trajectories (GAGE Consortium 2019). There is
+also growing recognition that gendered social norms become increasingly salient during adolescence, as girls and boys are propelled along feminine and masculine pathways to adulthood
+(Harper et al. 2018).
+A wide body of evidence highlights how gender norms shape adolescents’ experiences of
+schooling, with boys generally prioritized over girls in terms of educational spending and time
+for study, and girls at risk of dropping out due to marriage (Marcus and Page 2016; UNESCO
+2013). Although highly age- and context-dependent, gender norms generally put adolescent
+boys at risk of child labour, while girls either risk exclusion from education, skills-building
+opportunities and paid employment (due to their domestic and care work burdens) or become
+vulnerable to exploitative forms of employment (such as domestic work or engagement in the
+commercial sex industry). In terms of health, adolescent girls are at high risk of poor sexual
+and reproductive health outcomes, while boys are at high risk of accidental injuries. Gender
+norms also increasingly shape girls’ and boys’ psychosocial well-being during adolescence,
+with masculine ideals pushing boys to be stoic and independent, while many girls face strong
+restrictions on their mobility and become isolated socially. This in turn is closely linked to
+threats that young people face to their bodily integrity, with girls at greater risk of sexual violence and child marriage, and boys at greater risk of physical violence (especially from peers).
+18.2.2
+
+Adulthood
+
+In adulthood, differential gender risks and vulnerabilities (social and economic) continue.
+In terms of economic vulnerabilities, women face multiple barriers to income generation.
+They are less likely to participate in the wage-based labour market than men (49 versus 75
+per cent as of 2018) (ILO 2018a) and less likely to have access to formal employment. They
+are also often excluded from the most lucrative positions and paid less than men for the same
+work (OECD 2019). Women disproportionately shoulder domestic and care responsibilities,
+which leaves less time for paid employment and restricts how far they can travel for work
+(ILO 2018b). Furthermore, women are more likely to have limited human capital, financial
+resources and social ties that would facilitate waged employment, and therefore ‘tend to
+engage more in informal activities operated from home, require low capital investments, and
+build on skills they already have’ (Eriksen and Silva 2009, cited in Cunguara et al. 2011, 704).
+As primary caregivers, women also face disproportionate healthcare costs. Sen and Östlin
+(2007, 3) observe that ‘up to 80 percent of healthcare and 90 percent of HIV/AIDS related
+illness care is provided in the home’ – almost exclusively by girls and women – at significant
+cost either through direct medical expenses or foregone income-generating opportunities.
+In terms of social vulnerabilities, women’s care burdens and time poverty play a key role.
+Samman et al. (2016) report that across 66 countries covering two-thirds of the world’s population, women take on an extra 10 or more weeks per year of unpaid care work compared to
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+Gender and social protection 339
+men. Social norms that see women taking on an average of 75 per cent of childcare responsibilities across 37 countries are compounded by limited state recognition and support for the
+time poverty women typically face as a result of unpaid care work. Globally, only 41.1 per cent
+of mothers with newborns receive maternity benefits, while 83 million new mothers receive
+no state support (ILO 2017).
+Gender-based violence is also a critical source of (gendered) vulnerability. Women face
+high rates of sexual and intimate partner violence (WHO 2017b), whereas men are at much
+greater risk of homicide (accounting for 81 per cent of all homicide victims globally) (United
+Nations Office on Drugs and Crime 2019) and suicide (13.7 versus 7.5 per 100,000) (WHO
+2017a). It is estimated that at least one in three women worldwide experience physical or
+sexual abuse at some point in their life (UN News 2019). Economic disadvantage, vulnerability to violence and conservative gender norms all contribute to unequal intra-household
+decision making (Mader and Schneebaum 2013). Women’s limited access to and control over
+productive assets (such as land, credit and livestock) is one of the main reasons for their lack
+of decision-making power (World Bank 2017; Laddey et al. 2011).
+18.2.3
+
+Third Age
+
+There is increasing recognition of gender-differentiated experiences in older age (Jones and
+Stavropoulou 2015), with older women in low-income countries likely to have slightly higher
+healthy life expectancy than older men (GBD 2017 DALYs and HALE Collaborators 2018).
+Women not only live longer than men but are also less likely to enjoy income security and
+economic independence in older age. Because of accumulated economic disadvantage over
+the life course, older women typically have lower incomes and less access to land, housing
+and other assets, and thus an inadequate standard of living. Older women are also more likely
+than their male peers to be involved in providing unpaid care, to grandchildren and sick family
+members, and in domestic work (Rost 2018). These disadvantages are often compounded by
+pension systems that do not provide equal outcomes for women. In most countries, women
+are less likely than men to receive a pension; the largest gaps were in Egypt and Jordan, with
+men seven–eight times more likely to receive a pension than women (UN Women 2015).
+Elsewhere, women receive lower benefits largely because non-contributory pensions are less
+generous and often insufficient to support older persons in escaping poverty (ILO 2017).
+Gendered labour markets and interrupted employment trajectories due to care responsibilities
+underpin women’s disadvantage in old age, but these impacts are also shaped by pension
+system design. UN Women (2015) argues that strong links between labour market contributions and pension entitlements mean that women fare poorly due to lower average contributions (exacerbated by earlier mandatory retirement ages for women in some contexts). Women
+are also disproportionately affected by the depreciation of pension benefits over time as they
+have higher average life expectancy than men.
+18.2.4
+
+Gendered Patterns of Resilience and Coping Strategies
+
+Resilience to vulnerability and risk is gendered, with men and women, boys and girls having
+differential access to coping strategies and resources (e.g. Antonopolous and Floro 2005;
+Meinzen-Dick et al. 2011; GAGE Consortium 2019). Holmes and Jones (2013) discuss how
+women and men use positive coping strategies (such as reliance on social capital, traditional
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+340
+
+Handbook on social protection systems
+
+reciprocity mechanisms, faith and remittances) in different ways to mitigate risk and vulnerability. For example, very poor women may not have the time or resources to build and maintain
+the relationships and associations required for social capital to function as part of a coping
+repertoire in times of stress (Bebbington 2007), and may also face discrimination from the
+community, especially when other forms of disadvantage such as ethnic minority or refugee
+status intersect with gender (Woolcock and Narayan 2000).
+Adverse coping strategies such as distress migration and sale of assets, declining consumption patterns, reliance on low-risk but poorly remunerated work and risky behaviours such
+as transactional sex also have distinct gendered patterning, with women often shouldering
+these negative outcomes disproportionately (Holmes and Jones 2013). Similarly, the GAGE
+Consortium (2019) notes that adolescent girls and boys often adopt gender-specific coping
+strategies, with girls more likely to opt into child marriage, for example, and boys more likely
+to do risky or degrading work to address economic deprivations and/or escape dysfunctional
+family dynamics.
+
+18.3
+
+INTEGRATING A GENDER LENS INTO SOCIAL
+PROTECTION PROGRAMME DESIGN
+
+Given the gender-specific risks and approaches to resilience discussed above, a key question
+is how far this evidence is factored into the design of vulnerability assessments and social protection programming. As programmes have become more gender responsive, some key features have been developed to support gender equality and women’s and girls’ empowerment,
+ranging from increased cash transfer amounts to incentivizing adolescent girls’ education to
+social protection programme linkages to gender-based violence prevention initiatives.
+18.3.1
+
+Targeting Women and Girls to Promote Education and Reproductive Health
+
+A key approach by many programme designers has been to explicitly target females. Many
+programmes (especially cash transfers and subsidies) have targeted women and girls to
+enhance their access to education and healthcare, based on evidence of the barriers they face
+in accessing school and reproductive health services. For example, Bangladesh’s Female
+Secondary Stipend Programme, introduced in 1994 to improve girls’ access to education,
+included direct payment of secondary fees for enrolled girls contingent on attendance and
+exam scores, as well as biannual deposits into savings accounts for girls (Sayed 2016; Hahn
+et al. 2018). India’s national conditional cash transfer programme, Janani Suraksha Yojana,
+used cash to incentivize women to give birth in public health facilities as a means of reducing
+maternal and neonatal mortality (Samuels and Jones 2011). Such programmes have had some
+positive impacts in improving access to these services and, in some cases, human capital
+outcomes. The Female Secondary Stipend Programme in Bangladesh has not only delayed
+girls marrying, but also reduced the age disparity between girls and their husbands (Hahn et al.
+2018). In the case of Janani Suraksha Yojana, evidence suggests that impacts are more mixed:
+while cash incentives were associated with increased uptake of maternity services, there was
+no strong evidence that the programme was associated with a reduction in neonatal mortality
+(Powell-Jackson et al. 2015).
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+Gender and social protection 341
+In some contexts, targeting of women and girls has been linked to programme conditionalities. Mexico’s Oportunidades or Peru’s Juntos conditional cash transfers have provided
+vulnerable households with regular cash transfers on the condition that the cash is paid in the
+woman’s name. However, while these programmes have gained popularity because of gains
+in access to basic education, health and nutrition services for the most vulnerable people, they
+have focused on women in their role as caregivers of children rather than in seeking to transform unequal gendered labour markets or the intra-household balance of power (Molyneux
+2007; Jones et al. 2008).
+18.3.2
+
+Tackling Structural Gender Inequality
+
+To a lesser extent, programme design has, in some cases, been informed by an appreciation of
+(and a desire to tackle) the existing discriminatory socio-cultural environment, which hinders
+poverty reduction and prevents poor households exiting poverty. These programmes have
+coupled economic activities with opportunities to enhance women’s and girls’ bargaining
+power and position in the household, as well as the wider community. For example, recognizing that in working to address gender-based violence, cash transfers alone cannot overcome
+gender-based norms (Cross et al. 2018, 22), the International Rescue Committee in Jordan is
+taking a cash-plus approach. It is combining an unconditional cash transfer with a variety of
+women- and girl-centred services – including psychosocial support and life skills sessions,
+economic development activities, awareness raising, parenting classes and health services
+– to mitigate the risk of gender-based violence and holistically meet the needs of survivors
+(Yoshikawa 2015). The author notes that cash is in high demand and has helped attract more
+people to access the psychosocial services that directly address the root causes of gender-based
+violence. This cash-plus design also attracts men to parenting classes and gender discussion
+groups – both of which aim to shift gender norms.
+Similarly, some programmes are using cash as a platform to advance more progressive masculinities. In Brazil, the Bolsa Família Companion Programme, run by the non-governmental
+organization Promundo, was among the first to use a conditional cash transfer to directly tackle
+masculinities, by twinning awareness-raising classes with support groups to change men’s
+beliefs about their responsibilities for childcare, cooking and domestic chores (Promundo
+2016).
+18.3.3
+
+Embedding Support for Women’s and Girls’ Care Burden within Programme
+Design
+
+Other initiatives have recognized the importance of supporting women’s and girls’ care work so
+as to allow them to participate on more equitable terms in the labour force. Gender-responsive
+public works initiatives, including Ethiopia’s Productive Safety Net Programme (PSNP) and
+India’s Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS), have
+explicitly sought to involve both men and women. They have attempted to break the historic
+bias of such initiatives towards men (due to the hard physical nature of the work) and to challenge perceptions about what is appropriate work for women, while providing free childcare
+on site to enable women with young children to attend. In Ethiopia, the PSNP also allows
+more flexible attendance hours for women in recognition of their care responsibilities and they
+receive direct cash support (rather than cash for work) for up to 10 months during pregnancy
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+342
+
+Handbook on social protection systems
+
+and breastfeeding. In India, to address unequal power relations within the household, the
+MGNREGS has also supported women to set up bank accounts in their own name, so that they
+can become more financially independent and access the money they earn through participating in the programme (Jones et al. 2017).
+In terms of design, these public works programmes also go beyond the micro-household
+level to encourage investments in community-level assets. Such programmes provide individuals and/or families with cash and/or food for work that typically involves developing
+necessary but underfunded community infrastructure (e.g. water harvesting, roads and terracing, school buildings and health clinics) (Antonopoulos 2007). The choice of assets is not
+typically made through a gender lens (Holmes and Jones 2013); however, in Ethiopia, donor
+pressure to mainstream gender in the PSNP and promote women’s empowerment led (at least
+in the design documents) to provisioning for water points and wood fuel sources (to reduce
+women’s and girls’ time poverty). The programme also allows for public works labour to
+support female-headed households with ploughing (a proscribed task for women). Moreover,
+there have also been more recent efforts within the programme to define community assets not
+just as tangible assets but also investments in community knowledge and behavioural change.
+Examples include the provision of community education on nutritional practices and dietary
+diversity, coupled with training in basic gardening and animal husbandry, awareness raising
+around HIV and protective measures, as well as around maternal and child health (Irenso and
+Atomsa 2018; Welteji et al. 2017).
+Finally, some initiatives, although still relatively rare, explicitly recognize women’s care
+burden and redefine this as public work in order for women to be eligible for state support.
+South Africa’s Zibambele Poverty Alleviation Programme, which recognizes women’s care
+burden especially around HIV and care responsibilities for older persons as part of women’s
+rights under the constitution, provides a direct grant to women-headed households previously
+excluded from the labour market as payment for their time spent on caring. It also supports
+skills training, with the longer-term aim of supporting women’s economic empowerment. The
+recently discontinued Estancias programme in Mexico provided subsidized childcare allowances to poor urban women to attend crèches run by local female entrepreneurs. This initiative
+not only supported women to seek paid employment by ensuring affordable and locally available childcare, but also provided employment opportunities for local women to set up their
+own businesses and to provide a much needed public service (Pereznieto and Campos 2010).
+To overcome the gender gap in pensions (which as discussed above are linked to women’s
+greater lifetime care responsibilities), there have been considerable efforts to promote universal pension coverage through non-contributory or ‘social’ pensions, typically paid to people
+aged 65 and above. While non-contributory pensions usually offer smaller benefits, they
+ensure basic income security in old age for women and men who have either worked in the
+informal economy or done unpaid work, rendering them ineligible for formal sector benefits
+(Holmes et al. 2019). In South Africa, the Older Person’s Grant, for example, which has
+a relatively high transfer value, has helped reduce poverty and improve the status of women in
+rural households. It has also benefited granddaughters through improved health and nutrition
+(Duflo 2003; Arza 2015).
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+Gender and social protection 343
+
+18.4
+
+PROGRAMME IMPLEMENTATION EFFECTS ON GIRLS’
+AND WOMEN’S EMPOWERMENT AND GENDER
+EQUALITY
+
+Despite evidence and advocacy around the developmental importance of gender equality,
+girls’ and women’s rights and women’s empowerment over the past few decades, social protection programming has had limited effects on girls’ and women’s empowerment and gender
+equality. Why?
+18.4.1
+
+Programme Design Considerations
+
+The answer is complex and shaped by multiple factors, including underinvestment in the
+institutions and structures that promote gender mainstreaming, and an institutional disconnect
+between these and social protection institutions. These factors are compounded by differential
+stakeholder interests and influence in promoting social protection, and diverse ideologies that
+underpin not just our understanding of poverty and its causes, but also the purpose of social
+protection and the role of the state in shaping gender relations. For example, in Ghana the
+Livelihoods Empowerment Against Poverty cash transfer programme has been framed in
+terms of supporting all citizens to ultimately contribute to national economic development
+goals but not in terms of directly promoting broader equality and well-being, and thus linkages
+to complementary services have been largely limited to free access to social health insurance
+for cash beneficiaries. Support for a more comprehensive approach to tackling gender-specific
+vulnerabilities is still too often dismissed by policy actors nationally and internationally
+as ‘beyond the mandate’ of social protection (Holmes et al. 2019). There are some partial
+exceptions, however. One example is Pakistan’s Benazir Income Support Programme, which
+is more explicitly focused on eradicating poverty and elevating the status of the most marginalized segments of society, especially women. The programme not only targets women, but
+has also established complementary links to a small-scale enterprise loan scheme, a vocational
+training programme for women, investments in increasing primary school enrolment with
+a focus on girls’ enrolment and the establishment of local beneficiary committees aimed at
+discussing nutrition, family planning, literacy and women’s empowerment (Bilal 2018).
+Although inclusion of women and girls is an important first step, there is a growing consensus that social protection programmes need to go beyond a targeting approach to address
+deeply entrenched unequal power relations within and outside the household – not just to
+reduce poverty but to increase women’s and girls’ voice, social status and agency. Poverty and
+vulnerability assessments are increasingly being undertaken to inform national development
+plans and social protection strategies, but too often the gender dimensions of vulnerability
+are reflected only weakly in programme design (at best), despite strong evidence of both the
+distinct ways in which poor women, men, girls and boys experience poverty and their differential capacities to deal with risks and vulnerability. For example, Hamad et al. (2019) found
+that while the vulnerability assessment underpinning the United Nations High Commissioner
+for Refugees and UNICEF cash transfer programme in Jordan for Syrian refugees explores
+multidimensional vulnerabilities and includes provision for different types of households (for
+example, inclusion of female or child-led households), in practice the programme has not been
+implemented in a tailored way to account for differential needs and vulnerabilities. Married
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+344
+
+Handbook on social protection systems
+
+adolescents are often excluded once they set up a new household or invisible in multigeneration households and not counted in the per capita allocation of the transfer (Hamad et al. 2019).
+18.4.2
+
+Programme Implementation Considerations
+
+To maximize programme impacts, effective implementation and delivery are vital. Where
+capacity is weak, it is necessary to invest in building and strengthening institutional capacity
+in terms of coordination, monitoring and evaluation across sectors and allocating financial
+resources to gender-sensitive programme features. The forging of strong and well-coordinated
+institutional linkages with complementary programmes and services is critical given the
+multidimensional nature of poverty and vulnerability. The evidence base indicates that integrated services within programme design or strategic linkages to complementary services and
+programmes can be valuable and reinforce programme gains. Roelen et al. (2017), in their
+discussion of cash-plus programming, reinforce this point by calling for interventions that
+combine cash with complimentary access to services, including psychosocial support, asset
+transfers and information sensitization. In this regard, Ghana’s labelled child protection cash
+transfer, the Livelihoods Empowerment Against Poverty programme, is a good example in so
+far as it provided beneficiaries with not only cash but access to free health insurance, including
+maternity care cover, and awareness raising about the risks of child labour and child trafficking as they affect girls and boys.
+Although affordability and financing debates have important implications for the design and
+implementation of gender-sensitive social protection programmes, there has so far been little
+gender analysis of these. Gender budgeting tools that track and monitor the level of resources
+allocated to the implementation of gender-related programme provisions have been applied
+to sectors such as health and education, but this knowledge has not as yet been transferred
+to the social protection sector. Attention to accountability mechanisms and ensuring that
+programme participants know their rights – and can claim them – are also critical (Samuels
+and Jones 2013). Jones et al. (2016) argue that in the case of Palestine’s national cash transfer
+programme, the establishment of local social protection beneficiary fora with quotas for men
+and women facilitated the airing of grievances and helped to strengthen programme targeting
+towards the most vulnerable and socially excluded.
+18.4.3
+
+Political Considerations
+
+At a more macro-political level, Holmes et al. (2019), drawing on a ‘three Is’ conceptual
+framing, shows that institutional arenas and networks (formal and informal), the interests of
+various actors and the ideas framing social protection strategies and programmes all represent
+sites for contestation regarding legal change, and policy and resource allocation decisions
+shape how social protection addresses (or fails to address) gender. The authors emphasize that
+applying a political economy analysis to understand how these policy decisions are shaped
+is essential, as technocratic design programming features (while important) are nevertheless
+inadequate to address the broader political processes that hinder a more gender-responsive
+approach. They underscore that institutional spaces tend to mirror the nature of the underlying
+political context in terms of how inclusive they are, and whether they offer opportunities
+for activists to drive more gender-responsive social protection agendas. The evidence base
+suggests that sub-national institutions may provide more conducive entry points for cham-
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+Gender and social protection 345
+pions of gender-responsive social protection programming to bring about change and hold
+leaders accountable for commitments, as has been seen in parts of India, for example, with the
+Self-Employed Women’s Association which provides social insurance protection for informal
+workers.
+The authors further argue that the extent to which gender-responsive social protection is
+promoted also depends on the interests and strategies of a wide range of actors across diverse
+institutions. Even where interests are aligned, gender equality activists may not be able to
+influence social protection policy if they lack resources and have limited influencing power.
+There are few political incentives to promote a more transformative agenda and to address
+social protection within wider debates about social justice, inclusion and the redistribution of
+resources. This is largely because gender-responsive social protection has not provided a solution to urgent threats to political legitimacy, nor has the social protection agenda proved to be
+a policy tool that political elites can mobilize around at critical junctures to promote gender
+equality.
+Prevailing ideas about poverty, vulnerability and the role of social protection in promoting
+a more gender-transformative agenda further shape programme design and implementation.
+Indeed, although internationally the notion of a ‘social protection floor’ has gained considerable traction, rights-based approaches have faltered and, in many contexts, there has been
+a backlash against long-held entitlements (see ILO 2011; Miller and Redhead 2019).
+
+18.5
+
+CONCLUSIONS AND POLICY IMPLICATIONS
+
+Social protection programmes are increasingly integrating gender-responsive features and
+there is emerging evidence on improved outcomes as a result. However, such features are still
+not routinely integrated into policy and programme design. Few programmes aim to transform
+gender relations within the household and community or have equality or empowerment as
+their core objectives (Holmes et al. 2019). Most interventions continue to overlook the gender
+dynamics that underpin how men and women and boys and girls experience and respond to
+poverty and vulnerability, and the discrimination and disadvantage that women and girls face
+throughout the life course. This means that social protection largely continues to neglect the
+important effects of intra-household power relations, resource allocation, gendered social
+norms and girls’ and women’s unequal access to resources.
+To harness potential opportunities to promote a more transformative social protection agenda
+across the life course, it is essential to develop more politically savvy efforts to improve the
+design and impact of gender-responsive social protection programming. Vulnerability assessments which underpin social protection programme design need to consider not only gendered
+vulnerabilities at the household, community and service access levels, but also women’s and
+gender equality champions’ access to and opportunities for engagement in key institutional
+spaces so as to adequately mitigate against micro-, meso- and macro-level disadvantages in
+design considerations. Second, given a substantial body of evidence around the disconnect
+between gender-responsive design features and practice, there is an urgent need to invest in
+capacity building with programme implementers to promote buy-in around the rationale for
+and potential dividends of rolling out gender-responsive programme components. Third, the
+influencing potential of gender-focused civil society organizations has yet to be realized in
+social protection dialogue fora and thus it is essential to support gender-focused civil society
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+346
+
+Handbook on social protection systems
+
+organizations to engage in national and local social protection dialogues – and amplify their
+voices. Finally, donors and commissioners of evaluations of social protection programmes
+need to routinely adopt a gender and life-cycle lens to identify gaps and gains, measuring not
+just transformative impacts but also transformative intent.
+
+REFERENCES
+Antonopoulos, R. (2007). The right to a job, the right types of projects: Employment guarantee policies from a gender perspective. Working Paper 516. Annandale-on-Hudson, NY: Levy Economics
+Institute of Bard College.
+Antonopoulos, R. and M.S. Floro (2005). Asset ownership along gender lines: Evidence from Thailand.
+Working Paper 418. Annandale-on-Hudson, NY: Levy Economics Institute of Bard College.
+Arza, C. (2015). The gender dimensions of pension systems: Policies and constraints for the protection of
+older women. Discussion Paper produced for the UN Women flagship report Progress of the World’s
+Women 2015–2016. New York: UN Women.
+Barrientos, S., G. Gereffi and A. Rossi (2010). Economic and social upgrading in global production
+networks: Developing a framework for analysis. Working Paper. Manchester: Capturing the Gains.
+Bebbington, A. (2007). Social movements and the politicization of chronic poverty. Development and
+Change 38 (5), 793–818.
+Bilal, A. (2018). Empowering women in Pakistan through the Benazir Income Support Programme.
+Blog, socialprotection.org, 10 August. https://​socialprotection​.org/​discover/​blog/​empowering​-women​
+-pakistan​-through​-benazir​-income​-support​-programme
+Cookson, T. (2018). Unjust Conditions: Women’s Work and the Hidden Cost of Cash Transfer Programs.
+Berkeley, CA: University of California Press.
+Cross, A., T. Manell and M. Megevand (2018). Humanitarian cash transfer programming and
+gender-based violence outcomes: Evidence and further research priorities. Collected Papers on
+Gender and Cash Transfer Programmes in Humanitarian Contexts. New York: IRC.
+Cunguara, B., A. Langyintuo and I. Darnhofer (2011). The role of nonfarm income in coping with the
+effects of drought in southern Mozambique. Agricultural Economics 42 (6), 701–13.
+Duflo, E. (2003). Grandmothers and granddaughters: Old age pension and intra-household allocations in
+South Africa. World Bank Economic Review 17 (1), 1–25.
+GAGE Consortium (2019). Gender and Adolescence: Why Understanding Adolescent Capabilities,
+Change Strategies and Contexts Matters, 2nd edition. London: Gender and Adolescence: Global
+Evidence.
+GBD 2017 DALYs and HALE Collaborators (2018). Global, regional, and national disability-adjusted
+life-years (DALYs) for 359 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, 1990–2017: A systematic analysis for the Global Burden of Disease Study 2017.
+Lancet, 1859–1922. https://​doi​.org/​10​.1016/​S0140​-6736(18)32335​-3
+Hahn, Y., A. Islam, K. Nuzhat, R. Smyth and H.-S. Yang (2018). Education, marriage, and fertility:
+Long-term evidence from a Female Stipend Program in Bangladesh. Economic Development and
+Cultural Change 66 (2), 383–415.
+Hamad, B., N. Jones, E. Presler-Marshall, F. Samuels and I. Gercama (2019). Interrogating the potential
+of a ‘cash plus’ approach to tackle multidimensional vulnerability in humanitarian contexts: The
+case of Syrian refugees in Jordan. In R. Jawad, N. Jones and M. Mahmoud (eds), Social Policy in
+the Middle East and North Africa: The New Social Protection Paradigm and Universal Coverage.
+Cheltenham, UK and Northampton, MA, USA: Edward Elgar Publishing, 134‑56.
+Harper, C., N. Jones, G. Banteyba, A. Ghimirie and R. Marcus (2018). Empowering Adolescent Girls in
+Developing Countries: Gender Justice and Norm Change. London: Routledge.
+Holmes, R. and N. Jones (2013). Gender and Social Protection in the Developing World: Beyond
+Mothers and Safety Nets. London: Zed Books.
+Holmes, R., N. Jones and P. Domingo (2019). The Politics of Gender-Responsive Social Protection.
+London: Overseas Development Institute.
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+Gender and social protection 347
+ILO (International Labour Office) (2011). Social protection floor for a fair and inclusive globalisation.
+Report. Geneva: ILO.
+ILO (International Labour Office) (2017). World social protection report 2017–19: Universal social
+protection to achieve the Sustainable Development Goals. Report. Geneva: ILO.
+ILO (International Labour Office) (2018a). The gender gap in employment: What’s holding women
+back? www​.ilo​.org/​infostories/​en​-GB/​Stories/​Employment/​barriers​-women​#intro
+ILO (International Labour Office) (2018b). Care work and care jobs for the future of decent work.
+Report. Geneva: ILO.
+Irenso, A. and G. Atomsa (2018). Implications of Ethiopia Productive Safety Net Program on household dietary diversity and women’s body mass index: A cross-sectional study. Food and Nutrition
+Research 62, 1–11.
+Jawad, R., N. Jones and M. Mahmoud (2019). Social Policy in the Middle East and North Africa: The
+New Social Protection Paradigm and Universal Coverage. Cheltenham, UK and Northampton, MA,
+USA: Edward Elgar Publishing.
+Jones, N. and E. Presler-Marshall (2019). Social protection and adolescent capabilities: What does
+a gender norms lens add to the debate? Briefing Paper. London: ALIGN and GAGE.
+Jones, N. and M. Stavropoulou, with E. Presler-Marshall (2015). Resilience for all? Towards
+gender-responsive social protection in South-East Asia. Report. Bangkok: UN Women.
+Jones, N., R. Vargas and E. Villar (2008). Cash transfers to tackle childhood poverty and vulnerability:
+An analysis of Peru’s Juntos programme. Environment and Urbanization 20 (1), 255–73.
+Jones, N., B. Abu-Hamad, P. Pereznieto and K. Sylvester (2016). Transforming cash transfers: Citizens’
+perspectives on the politics of programme implementation. Journal of Development Studies 52 (8),
+1207–24.
+Jones, N., R. Holmes, E. Presler-Marshall and M. Stavropoulou (2017). Transforming gender constraints
+in the agricultural sector: The potential of social protection programmes. Global Food Security 12,
+89–95.
+Laddey, R., M. Kumamoto and P. Treichel (2011). Gender and climate change: Enhancing development
+through an integrated gender perspective. Discussion Paper. New York: UNDP.
+Mader, K. and A. Schneebaum (2013). The gendered nature of intra-household decision making in and
+across Europe. Department of Economics Working Papers. Vienna: Vienna University of Economics
+and Business.
+Marcus, R. and E. Page (2016). Girls’ Learning and Empowerment: The Role of School Environments.
+London: Overseas Development Institute.
+Meinzen-Dick, R., N. Johnson, A. Quisumbing, J. Njuki, J. Behrman, D. Rubin, A. Peterman and E.
+Waithanji (2011). Gender, assets, and agricultural development programs: A conceptual framework.
+CAPRi Working Paper No. 99. Washington, DC: International Food Policy Research Institute.
+Miller, H. and R. Redhead (2019). Beyond ‘rights-based approaches’? Employing a process and outcomes framework. International Journal of Human Rights 23 (5), 699–718.
+Molyneux, M. (2007). Change and continuity in social protection in Latin America: Mothers at the
+service of the state? Gender and Development Programme Paper No. 1. Geneva: UN Research
+Institute for Social Development.
+Molyneux, M., N. Jones and F. Samuels (2016). Can cash transfer programmes have ‘transformative’
+effects? Journal of Development Studies 52 (8), 1087–98.
+OECD (Organisation for Economic Co-operation and Development) (2019). OECD employment outlook
+2019: The future of work. Paris: OECD Publishing. https://​doi​.org/​10​.1787/​9ee00155​-en
+Pereznieto, P. and M. Campos (2010). Gendered risks, poverty and vulnerability in Mexico: Contributions
+of the Estancias Infantiles para Apoyar a Madres Trabajadoras programme. Report. London: Overseas
+Development Institute.
+Powell-Jackson, T., S. Mazumdar and A. Mills (2015). Financial incentives in health: New evidence
+from India’s Janani Suraksha Yojana. Journal of Health Economics 43, 154–69.
+Promundo (2016). Promundo pilots gender transformative toolkit for Brazilian professionals working
+on conditional cash transfer programs. 18 April. https://​promundoglobal​.org/​promundo​-pilots​-gender​
+-transformative​-toolkit​-brazilian​-professionals​-working​-conditional​-cash​-transfer​-programs/​
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+348
+
+Handbook on social protection systems
+
+Roelen, K., S. Devereux, A. Abdulai, B. Martorano, T. Palermo and L.P. Ragno (2017). How to make
+‘cash plus’ work: Linking cash transfers to services and sectors. Office of Research and Innocenti
+Working Paper. Florence: UNICEF Office of Research and Innocenti.
+Rost, L., with A. Hunt, E. Samman and F. Samuels (2018). Older women’s economic empowerment:
+A review of the literature. Working Paper 540. London: Overseas Development Institute.
+Samman, E., E. Presler-Marshall, N. Jones, with T. Bhatkal, C. Melamed, M. Stavropoulou and J.
+Wallace (2016). Women’s work: Mothers, children and the global childcare crisis. Report. London:
+Overseas Development Institute.
+Samuels, F. and N. Jones (2011). Cash transfers for maternal health: Design opportunities and challenges
+in low-resource settings. Project briefing No. 68. London: Overseas Development Institute.
+Samuels, F. and N. Jones (2013). Cash transfers: Good governance and accountability in short supply.
+The Guardian, 8 August. www​.theguardian​.com/​global​-development​-professionals​-network/​2013/​
+aug/​08/​cash​-transfer​-citizen​-engagement
+Sayed, Y. (2016). Effect of girls’ secondary school stipend on completed schooling, age of marriage,
+and age of first birth: Evidence from Bangladesh. WIDER Working Paper 110/2016. Helsinki:
+UNU-WIDER.
+Sen, G. and P. Östlin (2007). Unequal, unfair, ineffective and inefficient: Gender in equity and health:
+Why it exists and how we can change it. Final report to the WHO Commission on Social Determinants
+of Health, Women and Gender Equity Knowledge Network. Geneva: WHO.
+UN News (2019). A staggering one-in-three women experience physical, sexual abuse. https://​news​.un​
+.org/​en/​story/​2019/​11/​1052041
+UN Women (2015). Protecting women’s income security in old age: Toward gender-responsive pension
+systems. UN Women Policy Brief Number 3. New York: UN Women.
+UNESCO (United Nations Educational, Scientific and Cultural Organization) (2013). Gender equality in
+education: Education sector technical notes. Paris: UNESCO.
+United Nations Office on Drugs and Crime (2019). 2019 global study on homicide. Vienna: UNODC.
+Welteji, D., K. Mohammed and K. Hussein (2017). The contribution of Productive Safety Net Program
+for food security of the rural households in the case of Bale Zone, Southeast Ethiopia. Agriculture and
+Food Security 6 (53), 2–11.
+WHO (World Health Organization) (2017a). Mental health atlas 2017. Report. Geneva: WHO.
+WHO (World Health Organization) (2017b). Violence against women: Key facts. www​.who​.int/​news​
+-room/​fact​-sheets/​detail/​violence​-against​-women
+Woolcock, M. and D. Narayan (2000). Social capital: Implications for development theory, research, and
+policy. World Bank Research Observer 15 (2), 225–49.
+World Bank (2017). Measuring women’s agency. Policy Research Working Paper 8148. Washington,
+DC: World Bank.
+Yoshikawa, L. (2015). Integrating cash transfers into gender-based violence programs in Jordan:
+Benefits, risks and challenges. Report. New York and Geneva: International Rescue Committee and
+UNHCR.
+
+Nicola Jones - 9781839109119
+Downloaded from Elgar Online at 11/11/2021 01:30:38AM
+via William and Mary School of Law
+
+

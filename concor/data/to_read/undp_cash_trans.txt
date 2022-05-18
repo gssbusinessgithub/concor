@@ -1,0 +1,1799 @@
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+UNDP LAC C19 PDS No. 24
+
+Policy Responses to the Pandemic for
+COVID-19 in Latin America and the
+Caribbean: The Use of Cash Transfer
+Programs and Social Protection
+Information Systems
+Guillermo M. Cejudo, Cynthia L. Michel, Pablo de los Cobos
+Center for Research and Teaching in Economics, CIDE
+Abstract
+The COVID-19 pandemic has made evident the unfulfilled promise of social protection in Latin America and the Caribbean
+(LAC). Governments in LAC have used cash transfer programs (CTPs) to cushion the social and economic effects of the
+pandemic. In this document we describe how these programs have served as a vehicle to reach vulnerable populations.
+We show that LAC countries have used their existing social protection information systems to reach new populations,
+as well as to deliver cash benefits. Governments’ responses were conditioned by the programs’ current coverage and
+the registries’ interoperability with other sources of information. Specifically, we analyze the responses to the pandemic
+distinguishing the ways in which countries innovated with their programs, along with the benefits’ coverage and size.
+Additionally, we study social information systems: reviewing the characteristics of both social registries and single
+beneficiary registries (existence, coverage, and interoperability).
+We found that 64 CTPs were used in the region (in 24 out of 33 countries), 37 of which were emergency bonuses
+(implemented in 21 countries). However, more than half of the interventions were directed at a small proportion of the
+population (directly benefiting less than 10% of it) and consisted of total additional benefits lower than a minimum
+monthly wage. We show that most CTPs in response to the pandemic used pre-existing information, both to register and
+select the beneficiaries (81% of the programs) and to route the payments (73%).
+Based on this analysis, we suggest three tasks for the coming years: to consolidate social protection information systems,
+to foster the use of this information for the design, implementation and evaluation of public interventions, and to rethink
+the role of CTPs as part of social protection systems.
+
+www.latinamerica.undp.org
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+UNDP LAC C19 PDS N°. 1
+
+A Conceptual Framework for Analyzing the Economic Impact of COVID-19 and its Policy Implications
+By Constantino Hevia and Andy Neumeyer
+
+UNDP LAC C19 PDS N°. 2
+
+Suggestions for the emergency
+By Santiago Levy
+
+UNDP LAC C19 PDS N°. 3
+
+The economic impact of COVID-19 on Venezuela: the urgency of external financing
+
+By Daniel Barráez and Ana María Chirinos-Leañez
+UNDP LAC C19 PDS N°. 4
+
+Social and economic impact of the COVID-19 and policy options in Honduras
+By Andrés Ham
+
+UNDP LAC C19 PDS N°. 5
+
+COVID-19 and external shock: Economic impacts and policy options in Peru
+By Miguel Jaramillo and Hugo Ñopo
+
+UNDP LAC C19 PDS N°. 6
+
+Social and Economic Impact of COVID-19 and Policy Options in Argentina
+By María Laura Alzúa and Paula Gosis
+
+UNDP LAC C19 PDS N°. 7
+
+International financial cooperation in the face of Latin America’s economic crisis
+By José Antonio Ocampo
+
+UNDP LAC C19 PDS N°. 8
+
+COVID-19 and social protection of poor and vulnerable groups in Latin America: a conceptual framework.
+By Nora Lustig and Mariano Tommasi
+
+UNDP LAC C19 PDS N°. 9
+
+Social and economic impact of the COVID-19 and policy options in Jamaica
+By Manuel Mera
+
+UNDP LAC C19 PDS N°. 10
+
+Social and economic impact of COVID-19 and policy options in Uruguay
+By Alfonso Capurro, Germán Deagosto, Sebastián Ithurralde and Gabriel Oddone
+
+UNDP LAC C19 PDS N°. 11
+
+Coronavirus in Colombia: vulnerability and policy options
+By Andres Alvarez, Diana León, María Medellín, Andres Zambrano and Hernando Zuleta
+
+UNDP LAC C19 PDS N°. 12
+
+COVID-19 and vulnerability: a multidimensional poverty perspective in El Salvador
+By Rodrigo Barraza, Rafael Barrientos, Xenia Díaz, Rafael Pleitez and Víctor Tablas.
+UNDP country office El Salvador
+
+UNDP LAC C19 PDS Nº. 13
+
+Development challenges in the face of COVID-19 in Mexico. Socio-economic overview
+UNDP country office Mexico
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+2
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+UNDP LAC C19 PDS Nº. 14 A
+
+Lessons from COVID-19 for a Sustainability Agenda in Latin America and the Caribbean
+By Diana Carolina León and Juan Camilo Cárdenas
+
+UNDP LAC C19 PDS Nº. 14 B
+
+Latin America and the Caribbean: Natural Wealth and Environmental Degradation in the XXI Century
+By Diana Carolina León and Juan Camilo Cárdenas
+
+UNDP LAC C19 PDS Nº. 15
+
+Social and Economic Impacts of the COVID-19 and Policy Option in the Dominican Republic
+By Sócrates Barinas and Mariana Viollaz
+
+UNDP LAC C19 PDS Nº. 16
+
+The Bahamas Country Note: Impact of COVID-19 and policy options
+By Manuel Mera
+
+UNDP LAC C19 PDS Nº. 17
+
+Promoting socio-economic recovery in Paraguay Report – Economic Reactivation strategies during
+COVID-19
+
+UNDP country office Paraguay
+UNDP LAC C19 PDS Nº. 18
+
+The Coronavirus and the challenges for women’s work in Latin America
+By Diana Gutiérrez, Guillermina Martin, Hugo Ñopo
+
+UNDP LAC C19 PDS Nº. 19
+
+COVID-19 and primary and secondary education: the impact of the crisis and public policy implications for
+Latin America and the Caribbean
+By Sandra García Jaramillo
+
+UNDP LAC C19 PDS Nº. 20
+
+Challenges posed by the COVID-19 pandemic in the health of women, children, and adolescents in Latin America
+and the Caribbean
+By Arachu Castro
+
+UNDP LAC C19 PDS Nº. 21
+
+Planning a Sustainable Post-Pandemic Recovery in Latin America and the Caribbean
+By Mauricio Cárdenas and Juan José Guzmán Ayala
+
+UNDP LAC C19 PDS Nº. 22
+
+COVID-19 in Bolivia: On the path to recovering development
+UNDP Bolivia Office
+
+UNDP LAC C19 PDS Nº. 23
+
+Do we Need to Rethink Debt Policy in Latam?
+By Federico Sturzenegger
+
+UNDP LAC C19 PDS Nº. 24
+
+Policy Responses to the Pandemic for COVID-19 in Latin America and the Caribbean: The Use of Cash Transfer
+Programs and Social Protection Information Systems
+By Guillermo M. Cejudo, Cynthia L. Michel, Pablo de los Cobos
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+3
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Disclaimer:
+Policy Responses to the Pandemic for COVID-19 in Latin America and the Caribbean: The Use of Cash Transfer
+Programs and Social Protection Information Systems
+UNDP partners with people at all levels of society to help build nations that can withstand crisis, and drive and
+sustain the kind of growth that improves the quality of life for everyone. On the ground in nearly 170 countries and
+territories, we offer a global perspective and local insight to help empower lives and build resilient nations.
+Copyright © UNDP 2020
+All rights reserved Published in the United States of America | United Nations Development Programme | One
+United Nations Plaza, New York, NY 10017, USA
+The views, designations, and recommendations that are presented in this report do not necessarily reflect the
+official position of UNDP.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+4
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Introduction to the series:
+
+Evidence, Experience, and Pertinence in Search for Effective Policy
+Alternatives
+The COVID-19 pandemic is one of the most serious
+challenges the world has faced in recent times. The total
+cost in terms of human lives is yet to unfold. Alongside
+the cost of lives and deep health crisis, the world is witnessing an economic downfold that will severely impact
+the wellbeing of large parts of the population in the years
+to come. Some of the measures that are currently being
+used to counteract the pandemic may impact our future
+lives in non-trivial ways. Understanding the association
+between different elements of the problem to broaden
+the policy space, with full awareness of the economic and
+social effects that they may bring, is the purpose of this
+series.
+Thus far, the impossibility of targeted isolation of infected individuals and groups has led to policies of social distancing that impose a disproportionately high
+economic and social cost around the world. The combination of policies such as social distancing, lockdowns,
+and quarantines, imply a slowdown or even a complete
+stop in production and consumption activities for an uncertain period of time, crashing markets and potentially leading to the closure of businesses, sending millions
+of workers home. Labor, a key factor of production, has
+been quarantined in most sectors in the economy, borders have been closed and global value chains have been
+disrupted. Most estimates show a contraction of the level
+of output globally. For the Latin America and Caribbean
+region, the consensus forecasts are at -3 to -4%, and it
+is not until 2022 that the region is expected to go back
+to its pre-crisis output levels in scenarios that foresee a
+U-shaped crisis pattern. According to ECLAC, more than
+30 million people could fall into poverty in the absence
+of active policies to protect or substitute income flows to
+vulnerable groups.
+We face a crisis that requires unconventional responses. We are concerned about the level-effect: the impact
+of the crisis on the size of the economies and their capacity to recover growth after the shock. But we are equally
+concerned about the distributional impact of the shock.
+The crisis interacts with pre-existing heterogeneity in
+asset holdings, income-generation capacity, labor conditions, access to public services, and many other aspects
+
+that make some individuals and households particularly vulnerable to an economic freeze of this kind. People
+in the informal markets, small and micro entrepreneurs,
+women in precarious employment conditions, historically excluded groups, such as indigenous and afro-descendants, must be at the center of the policy response.
+UNDP, as the development agency of the United Nations, has a long tradition of accompanying policymaking in its design, implementation, monitoring and
+evaluation. It has a mandate to respond to changing
+circumstances, deploying its assets to support our member states in their pursuit of integrated solutions to complex problems. This series aims at drawing from UNDPs
+own experience and knowledge globally and from the
+expertise and capacity of our partner think tanks and
+academic institutions in Latin America and the Caribbean. It is an attempt to promote a collective reflection on
+the response to the COVID-19 health crisis and its economic and social effects on our societies. Timeliness is a
+must. Solutions that rely on evidence, experience, and
+reasoned policy intuition –coming from our rich history
+of policy engagement– are essential to guide this effort.
+This series also contributes to the integrated approach
+established by the UN reform and aspires to become an
+important input into the coherent response of the United
+Nations development system at the global, regional, and
+national levels.
+Ben Bernanke, former Governor of the US Federal Reserve, reminds us in his book The Courage to Act that
+during crises, people are distinguished by those who
+act and those who fear to act. We hope this policy documents series will contribute to the public debate by providing timely and technically solid proposals to support
+the many who are taking decisive actions to protect the
+most vulnerable in our region.
+
+Luis F. Lopez-Calva
+United Nations Development Programme
+Regional Director, Latin America and the Caribbean
+New York, March 2020
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+5
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+1.
+
+Introduction
+
+The COVID-19 pandemic has made evident the unfulfilled promise of social protection in Latin America and
+the Caribbean (LAC).1 In this region, the right to health is not secured for everyone, many households’ income is
+especially vulnerable to a decline in economic activity, and losing a formal job means an immediate loss of income
+and contributory social security benefits. In this context, LAC governments have responded to the pandemic with
+interventions that seek to reduce its economic and social effects, particularly on people living in poverty or who have
+seen their income drop (Lustig et al., 2020). Some interventions are social benefits activated in case of an unforeseen
+event (such as illness, or the loss of a job), that depend on contributory payments and membership to a social security
+institution: for example, unemployment insurance. Others have consisted of measures for people to keep their jobs –
+such as wage subsidies, reductions on social security contributions, or loans to businesses. Finally, the most frequent
+intervention has been the use of existing or new cash transfer programs (CTPs) to reach the most vulnerable or
+unprotected population, which are seldom covered by contributory social security schemes (Rubio et al., 2020).
+Although the benefits and impact of CTPs are not equivalent to those of social protection systems, they are
+instruments already in place in these countries. Through them, it was possible to reach the population almost
+immediately, addressing one of the most generalized consequences of the pandemic: loss of income. While these
+programs have been devised as secondary to securing social protection, the large number of workers in the informal
+economy of the region (53%) has made CTPs a type of intervention frequently used by governments (Cecchini et al.,
+2015). More importantly, these programs already had information systems and channels to deliver payments, with
+which governments were able to reach and deliver social benefits to a especially vulnerable sector of the population.
+At the same time, these virtues reveal the main shortcoming of CTPs: they exclude informal workers who were not
+living in poverty, or those who had a formal job but lost it during the pandemic.
+The extent to which governments have used CTPs has depended on their political preferences and their fiscal
+capacity. Nevertheless, the scope of these measures has also depended on governments’ capacity to identify
+populations and deliver social benefits. This capacity is associated with the information they have about people.
+In this document, we analyze how CTPs have been used to address the COVID-19 pandemic’s economic and social
+consequences. Specifically, we focus on how governments created or adapted this type of programs, as well as on
+how they used social protection information systems for those purposes.
+We argue that, although the effectiveness of these interventions to compensate for people’s income drop is
+determined by each program’s design attributes (e.g., payments’ amount, frequency of delivery, and coverage), they
+are predetermined by governments’ capacity for identifying the population in need. We explain how existing CTPs
+served as a vehicle to identify and provide social benefits to the most vulnerable population, with greater or lesser
+success depending on these programs’ coverage prior to the pandemic and on their records’ interoperability with
+other sources of existing information.
+We found that 24 out of 33 countries innovated in their CTPs with new programs (emergency bonuses), vertical
+expansions (increasing social benefits’ size), horizontal expansions (incorporating new beneficiaries into existing
+programs), or adaptations (bringing forward payments or changing its modality). Creating new programs was the most
+frequent type of intervention: 21 countries implemented 37 new emergency bonuses (57 percent of innovations). For
+countries with available information, we found that more than half of their interventions were directed at a small
+proportion of the population (directly benefiting less than 10% of it) and consisted of additional total benefits lower
+1 Social protection implies guaranteeing welfare for everyone. Sometimes, this occurs through contributory social security –with programs usually tied to
+
+employment– and, other times, through social assistance —with non-contributory and generally targeted programs– (United Nations, 2018).
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+6
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+than a monthly minimum wage. Finally, the analysis shows that most of the CTPs that respond to the pandemic
+also used existing information, both to register and select the beneficiaries (81% of the programs) and to route the
+payments (73%).
+In the next section, we explain social protection information systems and their main attributes. Then, we describe
+the different scenarios that people faced to get access to extraordinary cash benefits by their governments,
+according to the pandemic’s impact on their income and the social protection regime to which they belong given
+their employment status. After that, we explain our methodology for analyzing how governments used CTPs and
+information systems during the pandemic. Later, we show the results of this analysis, distinguishing the ways in which
+countries innovated with their programs, the coverage and size of the benefits provided and the quality of their social
+protection information systems. Finally, we summarize the findings and suggest three agendas to consolidate the role
+of CTPs and social information systems as part of social protection systems in LAC.
+
+Social protection information systems
+The decline in households’ income caused by the pandemic has resulted in the deployment of different policy
+instruments, particularly CTPs, by governments around the world (ECLAC, 2020a; Gentilini et al., 2020; Rubio et al.,
+2020). Their effectiveness in counteracting the consequences on households, however, has varied among countries.
+Even if there were economic resources and political will to support the population, the implementation of this type of
+programs requires extensive administrative capacity, which is different in each case (López-Calva, 2020).
+The administrative capacity is largely determined by governments’ ability for identifying and providing benefits to
+the population in need (Lodge & Wegrich, 2014; Wu et al., 2015). Therefore, social protection information systems have
+the potential to become powerful platforms for inclusion (Leite et al., 2017). This is especially true in countries where
+social benefits are provided by different sources, and not predominantly by an integrated social protection system.
+In these cases, information systems can help in responding more efficiently –by reducing administrative burdens for
+both citizens and bureaucracies– and more effectively –to reach the people to which they are seeking to provide
+social benefits–.
+When the provision of social benefits is fragmented, it is the citizens who –carrying out administrative procedures
+with different agencies– end up bearing the costs (of time and money) (Moynihan & Herd, 2010; Peeters & Nieto
+2020; Chudnovsky & Peeters, 2019). But updated information systems also allow bureaucracies to make processes
+more efficient: they facilitate the task of identifying the target population by having information about people’s
+socioeconomic characteristics, from which they can determine who is eligible to each social benefit and where they
+are located (Leite et al., 2017) (see Box 1).
+
+Box 1. What are social protection information systems?
+Social protection information systems are usually comprised of several sources of information: registries of contributory social security
+institutes, social registries —socioeconomic information on potential beneficiaries from social assistance programs–, and single beneficiary
+registries– information on those who are benefited by social programs (Beazley et al., 2019; Lindert et al., 2020)–.
+The more integrated the systems are, the better they will be at facilitating the provision of a wide range of goods and services to target
+populations. Integrated social protection information systems are more than a list of (potential) beneficiaries; they are registries that articulate
+three different processes: identification, intake and registry of possible beneficiaries, and assessment of needs and conditions to determine their
+eligibility.
+When these systems work, agencies responsible for social programs can make decisions about people’s eligibility, provide benefits to them,
+and know how their socioeconomic conditions are evolving (Leite et al., 2017). Although it is difficult to have information in real time, these
+systems tend to be updated with single beneficiary registries, which keep records of the population that receives social programs (Barca, 2017;
+Chirchir & Farooq, 2016).
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+7
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+A good information system is usually comprised of social registries, (single)2 beneficiary registries of social assistance
+programs, and administrative registries of contributory social security and health services. Social registries must have
+mechanisms to intake and assess the needs of potential beneficiaries to social assistance programs (Barca, 2017;
+Beazley et al., 2019; Chirchir & Farooq, 2016). There are two types of social registries (Leite et al., 2017; Lindert et al.,
+2020): those used by governments to actively gather information on the living conditions of households or individuals,
+through censuses or targeted searches in territories with greater poverty; and those that operate on demand, when
+people who require social assistance provide information to be registered with the possibility of being beneficiaries
+in the future. Most LAC countries have a combination of both.
+Single beneficiary registries, which systematize information about people who already receive (at least) one social
+program (Barca, 2018; Chirchir & Farooq, 2016), allow governments to identify which people receive social programs
+and enable coordination among various programs that seek to reach the same person and avoid duplication. They
+also have information on payment methods (which can be used by other programs), thereby reducing administrative
+burdens for both government and individuals. When they are interoperable with social registries, single beneficiary
+registries can better track people’s social needs.
+Social registries and single beneficiary registries may also have interoperability with other non-social registries or
+administrative records (Chirchir & Farooq, 2016; Lindert et al., 2020). They may be interoperable with single identification
+systems (identity cards), to identify individuals within a given population. They may also be interoperable with other
+administrative registries such as social security tax or civil records, which helps to avoid program’s duplications and to
+detect people that, given the changes in their income, have become eligible for social assistance. Finally, there could
+be interoperability with information collected through population censuses and surveys, which would enable the
+systematization of information about the conditions of specific territories and, during an emergency, complement
+the assessments made from social registries or single beneficiary registries. Of course, interoperability does not
+guarantee updating information in real time and, therefore, it does not guarantee timely responses.
+To be useful, information systems must have complete and updated information, with good coverage and
+mechanisms for validating and updating the information (Barca & O’Brien, 2017; Beazley et al., 2019). Similarly, it is
+important to know how this information is used: how many programs or institutions use or report into the system, as
+well as whether the information is mandatory or optional when designing and implementing social programs.
+The fragmentation of social protection systems in LAC implies that people’s social information is dispersed: for
+some people, their information is kept in contributory social security institutions’ registries and, for others, the
+information regarding their social conditions is available in the records of one or many non-contributory programs.
+In these cases, the need for coordination and exchange of information between government agencies and levels
+of government is essential to provide social benefits. In these cases, governments face greater difficulties when
+obtaining the specific socioeconomic characteristics of the general population: particularly when, due to a crisis,
+workers migrate from one system to another. Even in countries with (non-contributory) health systems that, for
+their operation, have registries of a vast proportion of its population, such as Colombia, Ecuador, Mexico or Peru,
+their usefulness for targeting new social benefits will depend on governments’ capacity to link such registries to
+other sources of information. The more fragmented the provision of social benefits, the greater the need for the
+information systems to be integrated.
+
+2 As mentioned by Leite et al. (2017), the literature on social protection information systems often uses interchangeably the terms single, unique, unified and
+
+integrated to talk about information systematization processes that are a common gateway for multiple programs or a collection of standardized information
+in the same database.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+8
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+People’s experiences in fragmented social protection systems
+In LAC countries, social protection is mainly guaranteed through a contributory social security system while others
+rely on non-contributory programs (universal and targeted), including CTPs. Although the number of these programs
+has significantly increased in the region, the importance they have as a component of social protection regimes varies
+among countries (see Graph 1).
+Graph 1. Percentage of people in Latin American and Caribbean countries living in a household that receives a
+cash transfer program, 2017–2018
+
+Note 1 (calculations): this calculation is the sum of the percentage of people living in a household that receives a national conditional transfer program, as well as the
+percentage of people receiving a non-contributory social pension.
+Note 2 (visualization): dotted lines indicate subregional averages (in colors) and overall (gray).
+Note 3 (dates): in general, the reporting year for the countries is the most up-to-date information for 2017 or 2018; however, in the case of Barbados and Bermuda is
+2014; for Saint Kitts and Nevis and Saint Vincent and the Grenadines is 2015; of the Bahamas, El Salvador (Apoyo a Comunidades Solidarias), Ecuador (Bono Joaquín
+Gallegos Lara y Complemento del Bono de Desarrollo Humano) and Venezuela is 2016. The information for Mexico is from 2019 and for Costa Rica (Crecemos) is from
+2020 because these countries have recently created programs.
+Source: authors’ elaboration with data from ECLAC (2020b y 2020c).
+
+These differences are relevant to understand the relative importance of each of the sources that make up the social
+protection information systems in LAC countries. For those with contributory social security systems with broad
+coverage, the importance of CTPs’ (single) beneficiary registries, for example, will be less than that of the contributory
+social security registries. Because contributory social security is tied to employment, in these cases governments
+could find out relatively quickly who has lost their job or who has had a reduction in their salary: both scenarios
+must be registered in the system of social security so employers stop paying their contributions. In contrast, when
+contributory social security coverage is narrow, guaranteeing social protection depends mainly on non-contributory
+social programs. When the latter have broad coverage, the relative importance of the single beneficiary registries, for
+example, will be greater than that of the registries of contributory social security institutions.
+Providing social protection requires governments with instruments capable not only to identify and deliver social
+benefits to the population they already have registered, but to react to changes in their working conditions, formality,
+and income. This provision demands for clear and efficient intake and registration processes, that allow for updating
+persons or households’ socioeconomic information. Reaction to changes in socioeconomic conditions is even more
+important in an emergency, when these changes occur for a vast number of people, almost simultaneously.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+9
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+The COVID-19 pandemic has triggered changes in socioeconomic conditions for many people (see Table 1). There
+are, for example, people who had a formal job and access to contributory social security and that, due to the crisis,
+lost their employment, (most or all of their) income and social security benefits. There are also those whose informal
+job allowed them to generate a certain level of income enough for being excluded from social assistance, but that
+lost their job and income with the pandemic, and lack social benefits –whom López-Calva (2020) refers to as the
+missing middle–. For those in these two groups, having social protection depends on governments’ capacity and
+flexibility to identify and incorporate them, since they are not automatically covered by a CTP. Third, there are people
+who were not covered neither by contributory social security nor by social assistance programs and who before and
+after the pandemic would need to be targeted by a public intervention –the hidden poor in terms of López-Calva
+(2020)–. Finally, there are people who did not have social protection, but whose living conditions do not depend,
+before or after the pandemic, directly on public interventions. Along with this group, there are people who already
+had contributory social security or social assistance and that, after the pandemic’s impact, maintain the same living
+conditions: either they are still entitled to contributory social security benefits because they keep their jobs or they
+continue receiving the benefits of a social program because their socioeconomic characteristics have not changed.
+Table 1. Population and different experiences before COVID-19
+Social protection of
+people before COVID-19
+
+Population without income
+change due to COVID-19
+
+Population with income decreased due to COVID-19
+
+Population before COVID-19
+
+Population in poverty before COVID-19
+
+With contributory social
+security coverage
+
+They maintain their formal
+employment and contributory
+social security benefits
+
+They lose their formal employment and
+They lose formal employment
+social security benefits. Their level of poverty and social security benefits.
+or vulnerability is worsened
+They can fall into poverty
+or vulnerability due to the
+pandemic
+
+Without contributory
+social security coverage,
+but with social
+assistance coverage
+
+They maintain their informal
+employment. They continue to
+receive social assistance
+
+They lose their informal employment. They
+continue to receive social assistance. Their
+level of poverty or vulnerability is worsened
+
+They lose their informal
+employment. They continue to
+receive social assistance. They can
+fall into poverty or vulnerability
+due to the pandemic
+
+Without contributory
+social security or social
+assistance coverage, but
+identified in the social
+registry
+
+They maintain their informal
+employment. They do not
+benefit from social assistance
+programs
+
+They lose their informal employment. They
+lack social protection, and the level of
+poverty or vulnerability is worsened. Easily
+identifiable to receive social assistance
+
+They lose their informal
+employment. They lack social
+protection and may fall into
+poverty due to the pandemic.
+Easily identifiable to receive
+social assistance (missing middle)
+
+Without contributory
+social security or social
+assistance coverage and
+without being identified
+in the social registry
+
+They maintain their informal
+employment. They do not
+benefit from social assistance
+programs (includes the hidden
+poor)
+
+They lose their informal employment.
+They do not benefit from social assistance
+programs. Their level of poverty or
+vulnerability is accentuated (hidden poor in
+worse conditions)
+
+They lose their informal
+employment. They do not
+benefit from social assistance
+programs. May fall into poverty
+or vulnerability to the pandemic
+(missing middle)
+
+Non-poor population before
+COVID-19
+
+Source: authors’ elaboration based on López-Calva (2020).
+
+In the following pages, we analyze how LAC countries responded through CTPs to the COVID-19 pandemic. We
+also explain the use they made of their social protection information systems to reach and provide benefits to the
+population.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+10
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Methodology
+The purpose of this analysis is to explain how countries have been able to respond to the COVID-19 pandemic in
+terms of social protection. We focus on CTPs and on the social information systems they have used to identify and
+deliver social benefits to the population. For that purpose, we analyze the responses made by LAC countries and the
+specific characteristics of the social information systems of each country to see how they shaped policy responses.
+The first section, regarding the CTPs implemented during the pandemic, is based on previous work that
+systematized these responses (Blofield et al., 2020; ECLAC, 2020a; Gentilini et al., 2020; Rubio et al., 2020) and the
+review of governments’ websites, information provided by the authorities through social media, and press releases.3
+The analysis focuses on the use of CTPs (conditional or unconditional), particularly on programs that are new or that
+modified some design attribute in response to the pandemic. So, we excluded already existing unmodified programs,
+as we assume that they were not used by governments as vehicles to serve the population affected by the pandemic.4
+Likewise, we excluded responses that required affiliation to a contributory social security system, those that –instead
+of delivering money or vouchers– delivered goods or food, or that guaranteed basic infrastructure services, as well as
+those granting credits or subsidies in order to preserve employment or prevent businesses from closing.
+To determine the different ways in which these programs were modified to respond to the pandemic, we
+categorized them based on the typology of social policy responses in emergency contexts developed by Oxford
+Policy Management (2015) (see Table 2).
+Table 2. Categorization of innovative responses to the pandemic
+Variable
+
+Definition
+
+Categories
+
+Innovation
+
+Innovative attribute of the CTPs
+
+- New program: intervention designed in response to the pandemic
+- Vertical expansion: increasing the payments’ size to all or some beneficiaries
+- Horizontal expansion: increasing coverage
+- Adaptation: CTPs’ payments brought forward or changes in the delivery
+mechanism5
+
+Information to identify
+and register
+
+Use of existing information to
+select beneficiaries
+
+Information to provide
+benefits
+
+Use of existing information of
+payment methods to deliver the
+transfer
+
+- Yes6
+- No
+
+Source: authors’ elaboration.
+
+Then, for the analysis of these countries’ social protection information systems, we use the analytical categories
+defined by Barca & O’Brien (2017) and Lindert et al. (2020): a) existence of a social registry, along with population
+coverage rates; b) existence of a single beneficiary registry; and c) interoperability with other information systems.7
+
+3 The characteristics of the studied programs are those reported by each country.
+4 The complete compilation of the programs and information systems –along with their code– is available at the online repository (github.com/pCobosAlcala/
+CashTransfers_COVID19).
+5 We do not consider as adaptation the decision in some existing programs to suspend the conditionality of transfers to school attendance, since it was due
+
+to the closure of educational centers (Blofield et al., 2020).
+
+6 As some programs had mixed approaches, that is, they used existing information while establishing new mechanisms to gather new information, the cate-
+
+gories can be understood in the following dichotomous way: programs that at some point used existing information or programs in which the entire selection
+or payment methods was completely new.
+7 The data collected corresponds to what is reported by the countries themselves in public documents or on their social information platforms.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+11
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Once policy responses and their respective information systems are analyzed, we compare them in order to
+identify both the alternatives and the limitations that each country had when designing and implementing their
+CTPs during the emergency.
+
+Cash transfers as an instrument against the pandemic
+To reduce the chain of contagion, LAC countries established measures to restrict mobility in public, work, or
+educational spaces. This decision implied a significant reduction in economic activity, which affected people’s income.
+To offset this effect and secure basic living conditions, governments implemented various policy responses: new
+programs, vertical expansions, horizontal expansions, and adaptations (see Table 3).
+Given the limited coverage of the contributory social security systems in most countries of the region,8 CTPs were
+the best available option to reach people. By early August 2020 (five months after the first cases were detected in the
+region), 24 out of 33 LAC countries had used 64 CTPs to respond to the COVID-19 pandemic.9 However, the number
+of programs is not the best indicator for assessing the magnitude of the response. The scope –in terms of coverage
+and size of the social benefits– of these interventions also matters. For this reason, in this section we study, first, how
+governments created and modified their CTPs. Then, we analyze their scope to put these efforts into perspective.
+
+Innovations in CTPs as response to the pandemic
+To face the pandemic, most countries responded with new CTPs. In total, 21 countries created 37 new programs. In
+general, these programs were extraordinary bonuses –by early August, most of them had transferred cash benefits
+one, two or three times– aimed at compensating for the temporary loss of income during the lockdown, as well as to
+facilitate people staying in their homes. Although these programs have new names, target populations and payments
+size, they were built on existing social information or payment methods.
+Besides creating new interventions, LAC governments also increased the payment size of existing CTPs: 17
+programs in 7 countries were vertically expanded. These responses implied increasing the size of the transfers
+for people who were already beneficiaries. For example, Jamaica increased the payment size of PATH, an existing
+CTP, to make up for the school meals that students stopped receiving when schools closed. This type of response
+is administratively simple because the programs already had information of their beneficiary population in their
+registries and had in place payment methods with which the population was used to.
+In other cases, governments expanded programs horizontally, that is, they increased the coverage of existing CTPs.
+This type of innovation was the least frequent (only three programs innovated in this way). The Bolsa Família program
+in Brazil extended transfers to people who were already on the social registry (Cadastro Único), but who were not
+yet beneficiaries as they were on the waiting list. Similarly, Guatemala doubled the number of older adults selected
+monthly to begin receiving non-contributory pensions with the potential effect of protecting a group especially at
+risk in the pandemic. Finally, Belize expanded the coverage of its CTP named Boost, by using the information of
+
+8 The need to respond to the pandemic has made it clear that countries with broad coverage in their contributory social security systems have fewer people
+
+in need and greater capacity to implement an intervention in response to the pandemic, and vice versa (Oxford Policy Management , 2015). The population
+with contributory social security has guaranteed a protection floor that makes them less vulnerable to a drop in income and to lack of access to health due to
+an emergency. In addition, this population has the possibility of being identified and targeted to receive new or better government social benefits, since they
+are already in social security registries. For this reason, countries with low levels of coverage have a narrower margin —in administrative terms— to respond
+quickly and effectively to the emergency, but a greater need to do so, since there is a greater proportion of their population whose income and general welfare are particularly vulnerable to the economic or sanitary crisis.
+
+9 As explained before, those CTPs that continued to operate regularly, without any modification, were excluded from the analysis, as they cannot be consid-
+
+ered part of the response to the pandemic.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+12
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+another program: their food assistance’s beneficiary registry. The three programs that expanded their coverage used
+pre-existing information to register and select new beneficiaries, although in the Brazilian case additional online
+mechanisms were adapted so those who were not in the social registry could also request the benefit.
+Finally, some countries made only minor adaptations. Costa Rica and Mexico brought forward the delivery of cash
+benefits of existing programs, without modifying coverage or payment size. Similarly, Trinidad and Tobago switched
+in kind benefits (food) for cash transfers. This type of intervention used information from their beneficiary registries
+and, except in the case of Trinidad and Tobago, used the same payment methods.
+Table 3. Number of cash transfer programs in Latin America and the Caribbean to respond to COVID-19, by form of
+innovation
+
+Source: authors’ estimation and elaboration. The complete list of programs is in Table 4 and the compilation with all the variables is available at the online repository
+(github.com/pCobosAlcala/CashTransfers_COVID19).
+
+Coverage and payment size of CTPs
+Beyond the number and type of innovation, to better understand policy responses, we need to assess coverage
+among the target population and the size of the transfers. With very few exceptions, most of the interventions were
+not very ambitious: they directly benefited less than 10% of the population with a total additional payment lower
+than each country’s monthly minimum wage.
+In Graphs 2 and 3, the horizontal axis represents coverage, understood as the number of direct beneficiaries
+(households or individuals) divided by the total population of a country (The World Bank, 2020a).10 The vertical axis
+shows the additional social benefits divided by the country’s monthly minimum wage in Graph 2 (International Labor
+Organization, 2020) and by monthly GDP per capita in Graph 3 (The World Bank, 2020b).11
+10 In the case of programs that had a horizontal expansion (that is, that expanded their coverage), only the number of people or households benefited due to
+the pandemic is considered.
+11 On the one hand, when programs were new, the amount reflected in the graph is equal to the total social benefit from April to early August. On the other
+hand, when the programs expanded the number of benefited people or households (horizontal expansion), the transfer considered in the graph reflects the
+social benefit received only by the new population. Finally, for the programs that increased the size of the transfers (vertical expansions), the graph only considers the amount added to the existing program. In all cases, when the social benefit depended on family composition or income level, the average transfer
+was considered for the graph. The adaptation programs do not appear in the graph because they do not represent increases in coverage nor amounts.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+13
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Some emergency bonuses (newly created programs) were the most ambitious responses. The Auxílio Emergencial
+program in Brazil is not only the intervention that in absolute terms had the largest number of direct beneficiaries
+(80 million [Rubio et al., 2020]), and in which the number of these beneficiaries as a proportion of the population
+represents a higher percentage (37%), but also in which the payment size was one of the highest (1.73 monthly
+minimum wages) in the region. In contrast, Bolsa Família enrolled new beneficiaries who were on the waiting list (1.2
+million families [Rubio et al., 2020]), but without modifying payment size (they paid the same amount of money that
+was regularly delivered, which is equivalent to one third of the monthly minimum wage). This was possible because
+Auxílio Emergencial is a temporary program, whereas Bolsa Família’s benefits to the newly enrolled population will
+continue after the pandemic.
+This situation is similar to what happened in Guatemala where –on the one hand– the government expanded
+horizontally its non-contributory pension program (to a relatively small number of people), but –on the other hand–
+implemented a new temporary program: an extraordinary bonus, higher than the monthly minimum wage, to a
+larger number of people.
+The programs with vertical expansions (those that increased the size of social benefits for people who were already
+beneficiaries) did so with relatively low additional amounts of money. For example, Argentina used its universal
+allowance programs (Asignación Universal por Embarazo and Asignación Universal por Hijo), which have broad
+joint coverage (26% of the population) to transfer an additional but relatively small social benefit ($46 dollars, the
+equivalent to 9.7% of the minimum wage [Rubio et al., 2020]). Conversely, Colombia and Suriname stand out for the
+magnitude by which they increased the size of their program’s cash transfers. In the case of Colombia’s Jóvenes en
+Acción it was of $98 additional dollars, delivered monthly during the state of emergency, and in Suriname’s children’s
+allowance program, a 6-month cash benefit of $134 extra dollars (monthly delivered). However, both programs had
+very limited coverage (296 thousand direct beneficiaries in Colombia and 45 thousand in Suriname (Directorate
+National Security, 2020; Gobierno de Colombia, 2020; Vishmohanie, 2019)).
+Finally, there were countries, like Mexico, Costa Rica and Trinidad and Tobago, that adapted their CTPs, but did
+not increase the payments nor expand their coverage. The objective, in these cases, was to give families disposable
+income during the pandemic.
+In Graph 3, we present information similar to that of Graph 2, but with monthly GDP per capita as a reference to
+compare the total additional payments’ size. In this graph, it is possible to include Caribbean countries (because there
+is not comparable information regarding their minimum wage). The trends are similar to those of Graph 2: programs
+are concentrated in the lower part of the graphs (transfer sizes are, for the most part, below 60% of monthly GDP per
+capita) and it is evident that new programs are the ones that had the greatest coverage.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+14
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Graph 2. Proportion of direct beneficiaries and total additional benefits divided by monthly minimum wage in the
+cash transfer programs in response to COVID-19
+
+Graph 3. Proportion of direct beneficiaries and total additional benefits divided by monthly GDP per capita in the
+cash transfer programs in response to COVID-19
+
+Note 1 (calculations): the additional social benefits are the vertical expansions or new average benefits during the time that they were provided, for the programs
+with information available for both axes. However, some programs mentioned that social benefits would be implemented for the duration of the state of emergency,
+so we considered them as if they had lasted three months (one benefit per month).
+Note 2 (calculations): coverage corresponds to the population benefited by the innovation.
+Note 3 (calculations): in the case of the Asignación Universal por Embarazo and Asignación Universal por Hijo programs in Argentina, coverage is the sum of both
+programs and they are represented as if they were a single program.
+Note 4 (calculations): in the case of horizontal expansions, the social benefit is the usual payment, but only for the new incorporated population for a period of three
+months.
+Note 5 (interpretation): it is important to mention that any interpretation of these data should consider that the programs have different designs, in some cases
+directed towards families and in others towards individuals, as well as universal or targeted approaches towards people who lost their income. The intention of Graphs
+2 and 3, then, is to show an overview of the programs using similar metrics with the intention to have an understandable idea of LAC
+​​
+responses, without considering
+the details of each one.
+Note 6 (dates): GDP per capita is from 2019 (The World Bank, 2020b). The minimum wage dates are 2011 for Haiti; 2012 for Belize; 2013 for Costa Rica, Ecuador*, Guatemala*, Jamaica, Mexico*, Panama*, and Trinidad and Tobago; 2015 for the Dominican Republic* and Paraguay*; 2017 for Argentina* and Colombia*; 2018 for Brazil,
+Chile*, Costa Rica*, El Salvador*, Peru* and Uruguay*; and 2019 for Bolivia* (International Labor Organization, 2020). The minimum wage information source for the
+countries with an asterisk contained information in local currency, so the payments were converted to dollars in mid-October 2020.
+Source: authors’ estimation and elaboration with data from the International Labour Organization (2020) and The World Bank Group (2020a, 2020b). The complete
+compilation of the programs and information systems is available at the online repository (github.com/pCobosAlcala/CashTransfers_COVID19).
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+15
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+The different characteristics of these responses, shown in Graphs 2 and 3, reflect previous policy decisions,
+regarding populations to be prioritized (as families in general, the poorest people or those who lost their job) and
+policy objectives to be pursued (e.g., to cushion drop of income or to guarantee a minimum income). These decisions
+respond to political priorities, but are also explained by the capacities of each country. For example, the decision on
+the magnitude of programs’ vertical expansions depended on budgetary capacity, but the extent to which countries
+expanded their programs and created new ones was facilitated by the information they already had to identify
+and target beneficiaries. In the following section we describe how the different LAC governments used their social
+information systems to respond to the pandemic.
+
+The use of existing information to respond to the pandemic
+Social protection information systems made it possible to quickly respond during an emergency where there
+were few alternatives. The region’s social registries already contained information on 227 million people. While these
+information systems did not guarantee effective responses, they did facilitate them. For example, those who have
+been affected by the pandemic and are covered by social protection systems could be identified to receive new or
+better social benefits, since they were already in the social information systems.
+These social information systems had differences in their coverage, in the quality of their information and in their
+interoperability with other registries, all of which affected their potential use. Based on available data and information
+reported by national governments, we analyze these systems by identifying which social protection information
+systems each country has and, then, how CTPs used them to respond to the pandemic (see Table 4).
+
+Information systems for CTPs
+We identified sixteen countries with social registries in LAC, twelve with single beneficiary registries and six with
+systems that are interoperable with other sources of information (other than identity cards). Although not all countries
+use their information systems for all their social assistance programs at all levels of government, they are common
+in the region, particularly in the operation of social assistance programs with the highest coverage. Likewise, seven
+social registries have a mixed mechanism for filling in the information: both active searches from the government and
+on demand applications from potential beneficiaries.
+Table 4. Ways in which CTPs used information systems to respond to COVID-19
+
+Country
+
+Argentina
+
+Social protection
+information system
+prior to COVID-19
+
+Social registry,
+single beneficiary
+registry and
+interoperability
+
+Program name
+
+Type of innovation
+
+Pre-existing information used for register, selection and transfer
+
+Asignación Universal por
+Embarazo
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Asignación Universal por
+Hijo
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Ingreso Familiar de
+Emergencia
+
+New
+
+Pre-existing information was not used
+
+Pensión No Contributiva
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Tarjeta Alimentaria
+
+New program
+
+Registries of beneficiaries for registration and
+selection
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+16
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Bahamas
+
+-
+
+Unemployment Assistance for COVID-19
+
+New program
+
+Pre-existing information was not used
+
+Unemployment Programme for Self-Employed
+
+New program
+
+Pre-existing information was not used
+
+Barbados
+
+-
+
+Vulnerable Family Survival
+Programme
+
+New program
+
+Pre-existing information was not used
+
+Belize
+
+-
+
+The Boost Programme
+
+Horizontal expansion
+
+Beneficiary registry for registration and selection
+
+Bono Canasta Familiar
+
+New program
+
+Beneficiary registries for registration and selection
+
+Bono Familia
+
+New program
+
+Social registry for register in the program and
+selection
+
+Bono Universal
+
+New program
+
+Financial and labor information for register, selection and payment
+
+Auxílio Emergencial
+
+New program
+
+Social registry and beneficiary registries for register in the program, selection and payment
+
+Bolsa Família
+
+Horizontal expansion
+
+Social registry for register in the program, selection and payment
+
+Bono de Apoyo a los
+Ingresos Familiares – Bono
+COVID
+
+New program
+
+Social registry and contributory social security
+information for register in the program, selection
+and payment
+
+Bono Independiente
+
+New program
+
+Fiscal information for selection and payment
+
+Ingreso Familiar de
+Emergencia (IFE)
+
+New program
+
+Social registry for selection and payment
+
+Colombia Mayor
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Compensación del
+Impuesto sobre las ventas
+(IVA)
+
+New program
+
+Social registry for selection and payment
+
+Familias en Acción
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Ingreso Solidario
+
+New program
+
+Social registry for register in the program,
+selection and payment
+
+Jóvenes en Acción
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Pensions’ payments
+brought forward
+
+Adaptation
+
+Beneficiary registry of the same program
+
+Bono Proteger
+
+New program
+
+Pre-existing information was not used
+
+IMAS
+
+New program
+
+Social registry for register in the program,
+selection and payment
+
+Programa Pa’ Ti
+
+New program
+
+Contributory social security information and
+beneficiary registries for register in the program,
+selection and payment
+
+Bolivia
+
+Brazil
+
+Chile
+
+Colombia
+
+Costa Rica
+
+Social registry and
+single beneficiary
+registry
+
+Social registry
+
+Social registry,
+single beneficiary
+registry and
+interoperability
+
+Social registry
+
+Social registry,
+single beneficiary
+registry and
+interoperability
+
+Dominican
+Republic
+
+Social registry and
+single beneficiary
+registry
+
+Programa Quédate en
+Casa
+
+New program
+
+Social registry for register in the program,
+selection and payment
+
+Ecuador
+
+Social registry and
+single beneficiary
+registry
+
+Bono de protección
+familiar
+
+New program
+
+Social security information for selection and
+payment
+
+El Salvador
+
+Social registry,
+single beneficiary
+registry and
+interoperability
+
+Programa de transferencias
+
+New program
+
+Pre-existing information was not used
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+17
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Guatemala
+
+Haiti
+Jamaica
+
+Mexico
+
+Panama
+
+Paraguay
+
+Peru
+
+Saint Kitts and
+Nevis
+
+Suriname
+
+-
+
+Social registry
+-
+
+Social registry and
+single beneficiary
+registry
+
+Social registry and
+single beneficiary
+registry
+
+Social registry
+
+Social registry,
+single beneficiary
+registry and
+interoperability
+
+-
+
+-
+
+Adulto Mayor
+
+Horizontal
+expansion
+
+Conventional mechanisms of register and
+payment
+
+Apoyo al Comercio
+Popular
+
+New program
+
+Municipal information of commerce for register
+and selection
+
+Bono Familia
+
+New program
+
+Electricity consumption information for selection
+
+Transferencias monetarias
+
+New program
+
+Social registry for register in the program,
+selection and payment
+
+CARE
+
+New program
+
+Pre-existing information was not used
+
+PATH
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Becas de Educación Básica
+Bienestar para las Familias
+
+Adaptation
+
+Beneficiary registry of the same program
+
+Beca Educación Media
+Superior Benito Juárez
+
+Adaptation
+
+Beneficiary registry of the same program
+
+Beca Educación Superior
+Jóvenes Escribiendo el
+Futuro
+
+Adaptation
+
+Beneficiary registry of the same program
+
+Pensión para el Bienestar
+de las Personas con
+Discapacidad
+
+Adaptation
+
+Beneficiary registry of the same program
+
+Pensión para el Bienestar
+de los Adultos Mayores
+
+Adaptation
+
+Beneficiary registry of the same program
+
+Panamá Solidario
+
+New program
+
+Labor and social security information for selection
+
+Ñangareko (Programa de
+Seguridad Alimentaria)
+
+New program
+
+Beneficiary registries, labor and social security
+information for selection
+
+Programa Pytyvõ
+(Subsidio de Emergencia
+Sanitaria)
+
+New program
+
+Beneficiary registries, labor and social security
+information for selection
+
+Tekoporã
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Bono Yo me quedo en
+casa (Bono 280)
+
+New program
+
+Social registry for register in the program,
+selection and payment
+
+Bono Familiar Universal
+
+New program
+
+Social registry and beneficiary registries for
+register in the program, selection and payment
+
+Bono Independiente
+
+New program
+
+Social registry and beneficiary registries for
+register in the program, selection and payment
+
+Bono rural
+
+New program
+
+Social registry and beneficiary registries for
+register in the program, selection and payment
+
+COVID-19 Relief Fund
+
+New program
+
+Pre-existing information was not used
+
+Financiële Bijstand
+Mensen Met Een
+Beperking
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Financiële Bijstand
+Zwakke Huishoudens
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Algemene Kinderbijslag
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Algemene
+Oudedagsvoorziening
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+18
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Trinidad and
+Tobago
+
+Uruguay
+
+Venezuela
+
+-
+
+Social registry,
+single beneficiary
+registry and
+interoperability
+
+-
+
+Disability Assistance
+Grants
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Food Support
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Public Assistance
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Rental Assistance Grant
+
+New program
+
+Pre-existing information was not used
+
+School Feeding
+Programme
+
+Adaptation
+
+Beneficiary registry of the same program
+
+Temporary Food Support
+Card
+
+New program
+
+Pre-existing information was not used
+
+Canasta de Emergencia
+
+New program
+
+Beneficiary registries and social security
+information for selection
+
+Plan de Equidad Social
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Uruguay Social
+
+Vertical expansion
+
+Beneficiary registry of the same program
+
+Bono Disciplina y
+Conciencia
+
+New program
+
+Social security information for selection and
+payment
+
+Bono Especial Quédate en
+Casa – Sistema Patria
+
+New program
+
+Social security information for selection and
+payment
+
+Note (-): the dash indicates that there is no information on the portals of the countries to determine the answer.
+Source: authors’ estimation and elaboration. The complete compilation of the programs and information systems is available at the online repository (github.com/
+pCobosAlcala/CashTransfers_COVID19).
+
+As shown in Table 2, LAC countries used social registries, (single) beneficiary registries, and other information
+systems to target vulnerable people (enrolling them based on certain socioeconomic characteristics) or to avoid
+duplications (reaching more people who were not receiving existing CTPs). Programs in Chile, Costa Rica, Ecuador,
+and Peru used them for the first purpose: they targeted vulnerable people, without necessarily excluding those
+who were already beneficiaries of some program. In some other cases, such as Colombia, the Dominican Republic,
+Peru, Panama and Paraguay, interventions used them to target beneficiaries, to avoid duplications and, except for
+Paraguay, to automatically enroll and notify people of their new benefit. Finally, in Bolivia and Brazil, the new programs
+used information from other beneficiary registries to generate a new registry of beneficiaries who were targeted to
+receive an extraordinary benefit during the pandemic. In this sense, Brazil stands out because, through the Auxílio
+Emergencial program, it had reached 59.3 million people by the end of May 2020, less than two months after being
+launched (Blofield et al., 2020).
+In other cases, existing registries had limited coverage, making it necessary for the programs to add new people
+to them. Thus, some LAC countries have innovated in their intake and registration processes for identifying new
+potentially eligible population. Caribbean countries such as the Bahamas, Barbados, Saint Kitts and Nevis, as well
+as Trinidad and Tobago, took advantage of electronic mechanisms, such as emails or platforms, to implement ondemand registration processes. In the same vein, Argentina, Brazil, Chile, Paraguay, Peru and Uruguay established
+online platforms so that people could request their enrollment into the programs (or by phone for people who did not
+have internet access). Once again, Brazil stands out: Auxílio Emergencial complemented the information from existing
+registers with on-demand applications via online, telephone and face-to-face mechanisms, with 96 million applicants
+registered by the end of May, of which 61% were accepted into the program (Blofield et al., 2020).
+Social information systems were also used to deliver social benefits. Countries that already had people’s banking
+information were able to transfer benefits more easily, through bank cards in which they already received some other
+social benefit, or the accounts they had in social registries. This was the case in Brazil, Chile, Colombia, Costa Rica,
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+19
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+the Dominican Republic, and Peru. Both Haiti and Uruguay used mobile apps to cash in benefits in certain places,12
+whereas Guatemala sent codes to mobile phones to withdraw money at ATMs. Finally, Panama and Paraguay designed
+mechanisms for cashing in the extraordinary social bonus in supermarkets through the information contained in their
+national identity cards.
+Social information systems have also been used to notify the beneficiaries of the transfer they would receive. Most
+of the countries set up online platforms so that people could find out if they had been selected to receive social
+benefits from a program, and even some, such as Colombia, Costa Rica and Paraguay, notify them by cell phone.
+Graph 4 shows that the use of existing information was frequent for responding to the pandemic: 52 out of 64
+programs used existing information to identify and select people, as well as to make payments (47 out of 64). All
+vertical expansions (17), horizontal expansions (3), and adaptations (7) used existing information to identify and select
+people and almost all programs used already existing payment methods (25 out of 27). This was administratively
+viable because they are programs with operating processes already at work. Similarly, most of the new programs used
+existing information to identify and determine who was eligible (25 out of 37), and pre-existing payment methods
+to deliver the benefit (22 out of 37). Thus, although these were programs with new target populations, objectives
+or structures, they built on previous efforts to systematize information and payment methods that facilitated their
+implementation.
+Graph 4. Use of existing information and payment methods by innovations in CTP
+
+Source: authors’ estimation and elaboration. The complete list of programs is in Table 4 and the compilation with all the variables is available at the online repository
+(github.com/pCobosAlcala/CashTransfers_COVID19).
+
+Information systems’ quality: coverage and interoperability
+In this section, we analyze the quality of information systems used by the CTPs implemented to respond to the
+pandemic. To do so, Graph 5 shows, on the horizontal axis, the proportion of people whose information is included
+in each country’s social registry –an indicator of the quality of social protection information systems–. The vertical
+axis represents the sum of people or households that directly received cash transfers in each program divided by
+each country’s population. This metric should not necessarily be interpreted as total program’s coverage because,
+12 Although with major differences in terms of coverage (both due to the population’s connectivity limitations and the existence of administrative records with
+people’s contact details), which allows a more limited scope in the case of Haiti.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+20
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+in some cases, people could be benefited from more than one program and, in others, programs were targeted to
+households rather than individuals. Finally, the colors of the graph indicate the existence of the components of the
+social protection information systems, while the type of figure (triangles or circles) shows whether a country used this
+information system.
+Graph 5. Use of information systems in response to COVID-19 and sum of direct beneficiaries divided by the
+population of each country
+
+Note 1 (countries without information): non-visualized LAC countries do not present information on CTPs with any new characteristics, their social benefits or coverage, nor the social protection information system. The information for Belize, Jamaica and Trinidad and Tobago only contains those of the programs with data in both
+axes.
+Note 2 (calculations): the vertical axis corresponds to the sum of direct beneficiaries for each program. If a program provided two or more payments, we only included
+one. Population data is for mid-2019.
+Note 3 (visualization): dotted lines represent the average for each axis.
+Note 4 (sources): the components and data correspond to those reported by each country.
+Note 5 (interpretation): any interpretation of these data must consider that the programs have different designs, in some cases directed towards families and in others
+towards individuals, as well as universal or focused approaches towards people who lost their income. The purpose of Graph 4, then, is to show an overview of the
+programs using similar metrics in order to have a basic understanding of LAC responses, without considering the details of each one.
+Source: authors’ estimation and elaboration with data from The World Bank Group (2020a). The complete compilation of the programs and information systems is
+available at the online repository (github.com/pCobosAlcala/CashTransfers_COVID19).
+
+As seen in Graph 5, in the upper-right quadrant there are countries with an above-average proportion of the
+population in the social registry and of direct beneficiaries divided by the population. Chile –with one of the best social
+protection information systems in the region– managed to reach a relatively high number of direct beneficiaries with
+information it already had about them. This was also the case in Brazil, Colombia, and Peru, that used social registries
+with good coverage for targeting or for vertically expanding the existing CTPs. Bolivia, with a social registry with an
+average coverage, reached the highest proportion of its population with three new programs. Moreover, its single
+beneficiary registry allowed it to use the information of people who already received a benefit to respond with the
+Bono Canasta Familiar program.
+Countries with below-average social registry coverage, but with above-average proportion of direct beneficiaries
+divided by the population are in the upper-left quadrant. Among them, two stand out –Argentina and Paraguay–,
+which have the three components of social protection information systems: a social registry, a single beneficiary
+registry and interoperability with other sources of information. These countries responded with both new programs
+and vertical expansions. In contrast, despite not having robust social protection information systems, Suriname
+responded with vertical expansion of existing programs, and Saint Kitts and Nevis with a relatively ambitious new
+program.13
+13 Saint Kitts and Nevis is the country with the smallest population among those studied in this article.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+21
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+In the lower left quadrant are the countries that had social registries with low coverage and a low proportion of
+direct beneficiaries. Most of these countries (mostly also in the Caribbean) do not have developed social protection
+information systems. However, some of them, such as Jamaica and Guatemala, reached a proportion of direct
+beneficiaries similar to El Salvador, a country with the three components of social protection information systems.
+In this quadrant, Mexico stands out because, despite having a single beneficiary registry and a social registry,14 it
+was one of the few LAC countries that did not expand or create a new CTP, limiting its response to bringing forward
+payments for five existing programs.
+Finally, the lower-right quadrant shows countries with above-average social registry coverage, but relatively fewer
+direct beneficiaries. There are two groups in this quadrant. The first, Honduras and Ecuador, had a limited response
+(without cash transfers in Honduras), despite having certain elements of their social protection information systems
+that would have facilitated this type of programs. The second group –Costa Rica, the Dominican Republic and
+Uruguay– has below-average direct beneficiaries with very good social protection information systems, although
+they are also countries with general good indicators of social protection, which may explain why they did not rely
+heavily on CTPs.
+Yet it is necessary to analyze these interventions in context; not only as part of each country’s budget, but also in
+how timely and sufficient the individual transfers were to compensate for the income losses caused by the pandemic
+(for a study that addresses this point for ten Latin American countries, see Blofield et al., 2020). Furthermore, it will be
+necessary to assess their effects on poverty, inequality, or social mobility. Although it is soon to determine such effects,
+it is expected that these variations will partly explain differences in their capacity to offset the drop of households’
+income (Lustig et al., 2020).
+Social protection information systems have facilitated rapid responses through monetary transfers, but there are
+other variables that limited how governments implemented extraordinary measures in the pandemic: fiscal capacity,
+digital divide or banking penetration and, in general, legal and administrative constraints for the expeditious
+execution of innovative measures. However, it is clear that any ambitious CTP in response to any emergency becomes
+more feasible when governments have integrated, up-to-date, and good quality social information systems.
+
+Conclusions
+Facing the unforeseen, massive, and diverse social and economic effects of the shock generated by COVID-19,
+governments around the world have built, adapted and scaled-up their policy interventions. Governments in LAC
+have used social protection instruments to cushion the social and economic effects of the pandemic: they have used
+CTPs as a vehicle to reach the vulnerable population, and for this they have used their social protection information
+systems to identify or enroll people who should be benefited. The quality and usefulness of these instruments varies
+between countries, as not all have complete and updated social information systems, nor were they able to deploy
+them to deal with the pandemic. As Blofield et al. (2020) explain, once governments decided to act, some of them
+faced delays due to not having updated information or agile enrollment mechanisms.
+Most countries showed innovation capacity to respond to the pandemic. Forms of innovation varied across LAC,
+but emergency bonuses were the most frequent measure: 21 countries responded with 37 new CTPs. However, the
+number of responses is not equivalent to the programs’ sufficiency: it is also important to know coverage rates and
+size of the payments to estimate whether they were adequate. In this regard, more than half of the programs for
+14 For this article, we consider the new social registry of the Government of Mexico (Censo del Bienestar) and the single beneficiary registry that reports in its
+official portal (Gobierno de México, n.d.-a, n.d.-b, n.d.-c).
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+22
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+which information is available did not directly benefit more than 10% of the population and did so with lower total
+additional benefits than a minimum wage (or less than 60% of the monthly GDP per capita for countries with noncomparable minimum wages).
+The pandemic has highlighted the importance of having information systems in place for implementing programs
+in a swift way: almost all vertical expansions, horizontal expansions and adaptations were supported by pre-existing
+information to identify, enroll or deliver social benefits to the population. The major finding, however, is that also the
+new programs used existing information: 25 out of 37 programs used it to identify and enroll people, while 22 of them
+used on-going payment methods. This pre-existing information, contained in social protection information systems,
+is a very useful tool: social registries in the region have socioeconomic information on 227 million people, which is a
+key input for any intervention.
+Social information systems and, in general, CTPs are relevant even beyond the pandemic. LAC countries have three
+tasks in this regard in the coming years. The first task is to consolidate good social protection information systems:
+with broader coverage, updating mechanisms, and more complete and interoperable information. In a context of
+social protection models based on a mix of contributory and non-contributory schemes, integrating information is
+the only way to track people, thus being able to protect them when they lose their jobs or migrate from a formal into
+an informal one, and vice versa.
+Furthermore, these systems must have more complete information about the population –including georeferenced
+data–, as this gives greater flexibility for program design and implementation. In some countries (such as Brazil or
+Chile) the already available information showed the enormous potential of information systems to enable decisionmaking, to identify populations, and to deliver payments. In others, as in many Caribbean countries, the pandemic
+forced decisions to be made with new information, which may become the starting point for the development of
+solid information systems in the coming years. In sum, the availability and quality of information systems will broaden
+governments’ capacities –both for the day-to-day operation of programs, and for innovations generated by new social
+protection policies or by unforeseen problems that require swift responses–.
+The second task is to promote that this information is effectively used to design, implement, and evaluate public
+policies. As more government programs and agencies value social information systems, their updating will be a
+shared task and more actors will collaborate and monitor their proper functioning. This is not up to a single ministry,
+agency or level of government; it is a shared responsibility for all those involved in the provision of social protection
+to achieve the interoperability of existing information to facilitate decision-making. Of course, it is not just a matter of
+making information available, but of taking advantage of it in policymaking.
+The use of these systems may be fostered by making compulsory their use for programs to select beneficiaries,
+as it may be a starting point for coordination processes for integral responses. These systems could also reduce
+administrative burdens for both bureaucracy and citizens by integrating information and preventing two agencies
+from requiring similar information from citizens. Ideally, these systems would also allow agencies to coordinate with
+each other to track beneficiaries through their life cycle, to complement efforts, or to use single payment methods.
+The third task refers to rethinking the role of CTPs as part of social protection systems. These programs have been
+crucial in cushioning the economic effects of the pandemic on the most vulnerable population. However, these
+programs should be more than instruments to deliver money to a certain population; the effectiveness of CTPs
+depends on their specific design attributes: therefore, specific decisions about the size of the benefits, periodicity
+of the transfers or payment methods, among others, will have differentiated effects on people (Bastagli et al., 2016).
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+23
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+It also implies placing cash transfers –conditional or not– as only one of the many possible social protection
+interventions to face risks on health and income. Indeed, CTPs should be understood as temporary responses to the
+crises derived from the pandemic, and not as substitutes for comprehensive social protection systems. Developing
+these systems remains a challenge in LAC countries. It will not be possible to build solid social protection systems
+in the region if they are based only on CTPs. The next unavoidable discussion will be the financing of these systems,
+since the ambitious CTPs promoted in some LAC countries are not financially viable for longer periods, unless there
+are significant fiscal reforms.
+The LAC region has been severely affected by the COVID-19 pandemic. This phenomenon has shown the diversity of
+progress among these countries in reducing poverty, inequalities, vulnerability, as well as the different administrative
+capacities to respond to new adversities. Although some of the responses and tools used by governments in the
+face of the pandemic make it possible to find elements that work –such as social registries and payment methods–
+and others that need to be improved –such as quality of information and scope of the responses–, the pandemic
+should also serve to reinvigorate the discussion on developing comprehensive social protection systems that have
+the capacity to benefit all people according to their specific conditions –regardless of their employment– and to react
+to changes in their life cycle and their employment status.
+
+References
+Barca, V. (2017). Integrating Data and Information Management for Social Protection: Social Registries and Integrated Beneficiary Registries.
+Department of Foreign Affairs and Trade, Commonwealth of Australia. www.dfat.gov.au/about-us/publications/Pages/integrating-datainformation-management-social-protection
+Barca, V. (2018). Information Systems for Social Protection: What Is All the Fuss? Social Protection. socialprotection.org/discover/blog/informationsystems-social-protection-what-all-fuss
+Barca, V., & O’Brien, C. (2017). Factors Affecting the Usefulness of Existing Social Protection Databases in Disaster Preparedness and Response.
+Shock Responsive Social Protection Research. assets.publishing.service.gov.uk/media/5a942c50ed915d57d4d0ef98/Policy-Brief-Factorsaffecting-usefulness-existing-social-protection-databases.pdf
+Bastagli, F., Hagen-Zanker, J., Harman, L., Barca, V., Sturge, G., & Pellerano, L. (2016) Cash transfers: what does the evidence say? A rigorous review
+of programme impact and of the role of design and implementation features. Overseas Development Institute, www.odi.org/sites/odi.org.uk/
+files/resource-documents/11316.pdf
+Beazley, R., Solórzano, A., & Barca, V. (2019). Protección social reactiva frente a emergencias en América Latina y el Caribe. Oxford Policy
+Management Limited. www.opml.co.uk/files/Publications/a1537-shock-responsive-social-protection-latin-america-caribbean/hallazgosprincipals-y-recomendaciones.pdf?noredirect=1
+Blofield, M., Giambruno, C., & Filgueira, F. (2020). Policy expansion in compressed time: Assessing the speed, breadth and sufficiency of postCOVID-19 social protection measures in 10 Latin American countries (N°.235; Social Policy). ECLAC.
+Cecchini, S., Filgueira, F., Martínez, R. & Rossel, C. (2015). Towards Universal Social Protection. Latin American Pathways and Policy Tools. ECLAC:
+Santiago, ssrn.com/abstract=2699403
+Chirchir, R., & Farooq, S. (2016). Single Registries and Social Registries: Clarifying the Terminological Confusion. Development Pathways, 23, 8.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+24
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Chudnovsky, M., & Peeters, R. (2019). Más allá de la focalización de la política pública: incidencia de factores extraorganizacionales en la falta
+de cobertura de ciudadanos elegibles en la asignación universal por hijo en Argentina. Estado, Gobierno y Gestión Pública, (33), pp. 5–37.
+doi:10.5354/0717-8980.2020.56465
+Directorate National Security. (2020). COVID-19 Noodfonds in uitvoering: Aanvang uitbetaling AKB, AOV, Financiële Bijstand en Pensioen. COVID
+SURINAME. covid-19.sr/covid-19-noodfonds-in-uitvoering-aanvang-uitbetaling-akb-aov-financiele-bijstand-en-pensioen/
+ECLAC (2020a). COVID-19 Observatory for Latin America and the Caribbean: Measures by Country. eclac.maps.arcgis.com/apps/MapSeries/index.
+html?appid=57c96de0159641b095bd1c213c320ab9
+ECLAC (2020b). Non-contributory Social Protection Programmes Database. Latin America and the Caribbean. United Nations. dds.cepal.org/
+bpsnc/ptc
+ECLAC (2020c). Non-contributory Social Protection Programmes Database. Latin America and the Caribbean. United Nations. dds.cepal.org/
+bpsnc/ps
+Gentilini, U., Almenfi, M., Orton, I., & Dale, P. (2020). Social Protection and Jobs Responses to COVID-19: A Real-Time Review of Country Measures.
+World Bank. openknowledge.worldbank.org/handle/10986/33635
+Gobierno de Colombia. (2020, May 17). Inició 2da entrega de ayudas sociales a Jóvenes en Acción. Prosperidad Social. prosperidadsocial.gov.co/Notic
+ias/%e2%80%8b%e2%80%8binicio-la-segunda-entrega-de-ayudas-sociales-a-jovenes-en-accion-en-el-marco-de-la-emergencia-por-covid-19
+Gobierno de México. (n.d.-a). Padrón Único de Beneficiarios. Retrieved September 6, 2020, from pub.bienestar.gob.mx/pub
+Gobierno de México. (n.d.-b). Estrategia y metodología: Censo del Bienestar. Retrieved September 6, 2020, from www.gob.mx/cms/uploads/
+attachment/file/552532/CENSO_DEL_BIENESTAR_19_05_2020_hapf.pdf
+Gobierno de México. (n.d.-c). Resultados del Censo del Bienestar. Retrieved September 6, 2020, from www.gob.mx/cms/uploads/attachment/
+file/552529/Resultados_del_Censo_del_Bienestar.pdf
+Leite, P., Karippacheril, T. G., Sun, C., Jones, T., & Lindert, K. (2017). Social Registries for Social Assistance and Beyond: A Guidance Note
+y Assessment Tool (Discussion Paper N.o 1704; Social Protection and Labor, p. 119). World Bank. documents1.worldbank.org/curated/
+en/698441502095248081/pdf/117971-REVISED-PUBLIC-Discussion-paper-1704.pdf#page=51
+Lindert, K., Karippacheril, T., Nishikawa, K., & Rodríguez, I. (2020). Sourcebook on the Foundations of Social Protection Delivery Systems (K. Lindert,
+T. G. Karippacheril, I. R. Caillava, y K. N. Chávez, Eds.). International Bank for Reconstruction and Development / The World Bank. openknowledge.
+worldbank.org/bitstream/handle/10986/34044/9781464815775.pdf?sequence=8yisAllowed=y
+Lodge, M., & K. Wegrich (eds.) (2014). The Problem-Solving Capacity of the Modern State: Governance Challenges and Administrative Capacities.
+Oxford University Press.
+López-Calva, L. F. (2020, september 3). Inclusion requires capacity: The role of social registries in expanding cash transfers in the wake of
+COVID-19. UNDP. www.latinamerica.undp.org/content/rblac/en/home/presscenter/director-s-graph-for-thought/inclusion-requires-capacity--the-role-of-social-registries-in-e.html
+Lustig, N., V. Martínez, F. Sanz, & S. Younger (2020). The impact of COVID-19 lockdowns and expanded social assistance on inequality, poverty and
+mobility in Argentina, Brazil, Colombia and Mexico. Tulane University, CEQ Institute.
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+25
+
+UNDP Latin America and the Caribbean
+
+#COVID19 | POLICY DOCUMENTS SERIES
+
+Moynihan, D. P., & Herd, P. (2010). Red Tape and Democracy: How Rules Affect Citizenship Rights. American Review of Public Administration. 40(6),
+654–70.
+Organización Internacional del Trabajo. (2014). La Estrategia de Desarrollo de los Sistemas de Seguridad Social de la OIT. El Papel de los Pisos de
+Protección Social en América Latina y el Caribe. Organización Internacional del Trabajo. www.ilo.org/americas/publicaciones/WCMS_317898/
+lang--es/index.htm
+Oxford Policy Management. (2015). Shock-Responsive Social Protection Systems Research. Working Paper 1: Conceptualising Shock-Responsive
+Social Protection. Oxford Policy Management. www.opml.co.uk/files/Publications/a0408-shock-responsive-social-protection-systems/wp1-srspconcept-note.pdf?noredirect=1
+Rubio, M., Escaroz, G., Machado, A., Palomo, N., & Sato, L. (2020). Protección social y respuesta al COVID-19 en América Latina y el Caribe. II Edición:
+Asistencia social. Social Protection, 53.
+The World Bank Group. (2020a). Population, total | Data. data.worldbank.org/indicator/SP.POP.TOTL?locations=
+The World Bank Group. (2020b). GDP per capita (current US$) | Data. data.worldbank.org/indicator/NY.GDP.PCAP.CD
+United Nations. (2018). Promoting Inclusion Through Social Protection. Report on the World Social Situation 2018. www.un.org/development/
+desa/dspd/wp-content/uploads/sites/22/2018/06/rwss2018-full-advanced-copy.pdf
+Vishmohanie, T. (2020, may 13). COVID-19 steun is geen permanente verhoging. Suriname Herald. www.srherald.com/suriname/2020/05/13/
+covid-19-steun-is-geen-permanente-verhoging/
+
+www.latinamerica.undp.org | United Nations Development Programme | 2020
+
+26
+
+UNDP Latin America and the Caribbean
+COVID 19 | POLICY DOCUMENTS SERIES
+
+www.latinamerica.undp.org
+
+We acknowledge the kind support of the Spanish Cooperation.
+
+

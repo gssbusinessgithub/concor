@@ -1,0 +1,1723 @@
+No. 0302
+
+Social Protection Discussion Paper Series
+
+Systemic Shocks and Social Protection: Role and Effectiveness of Public
+Works Programs
+
+Kalanidhi Subbarao
+
+January 2003
+
+Social Protection Unit
+Human Development Network
+The World Bank
+
+Social Protection Discussion Papers are not formal publications of the World Bank. They present preliminary and
+unpolished results of analysis that are circulated to encourage discussion and comment; citation and the use of such a
+paper should take account of its provisional character. The findings, interpretations, and conclusions expressed in this
+paper are entirely those of the author(s) and should not be attributed in any manner to the World Bank, to its affiliated
+organizations or to members of its Board of Executive Directors or the countries they represent.
+For free copies of this paper, please contact the Social Protection Advisory Service, The World Bank, 1818 H Street,
+N.W., MSN G8-802, Washington, D.C. 20433 USA. Telephone: (202) 458-5267, Fax: (202) 614-0471, E-mail:
+socialprotection@worldbank.org. Or visit the Social Protection website at http://www.worldbank.org/sp.
+
+Social Safety Net Primer Series
+
+Systemic Shocks and Social Protection:
+Role and Effectiveness of Public Works
+Programs
+Kalanidhi Subbarao
+
+January 2003
+
+The findings, interpretations, and conclusions expressed in this paper are entirely those of
+the author(s) and should not be attributed in any manner to the World Bank, to its
+affiliated organizations or to members of its Board of Executive Directors or the
+countries they represent.
+
+Social Safety Net Primer Series
+The World Bank Social Safety Nets Primer is intended to provide a practical resource for those engaged in
+the design and implementation of safety net programs around the world. Readers will find information on
+good practices for a variety of types of interventions, country contexts, themes and target groups, as well as
+current thinking of specialists and practitioners on the role of social safety nets in the broader development
+agenda. Primer papers are designed to reflect a high standard of quality as well as a degree of consensus
+among the World Bank safety nets team and general practitioners on good practice and policy. Primer
+topics are initially reviewed by a steering committee composed of both World Bank and outside specialists,
+and draft papers are subject to peer review for quality control. Yet the format of the series is flexible
+enough to reflect important developments in the field in a timely fashion.
+The primer series contributes to the teaching materials covered in the annual Social Safety Nets
+course offered in Washington DC as well as various other Bank-sponsored courses. The Social Safety Nets
+Primer and the annual course are jointly supported by the Social Protection unit of the Human
+Development Network and by the World Bank Institute. The World Bank Institute also offers customized
+regional courses through Distance Learning on a regular basis.
+For more information on the primer paper series and papers on other safety nets topics, please contact
+the Social Protection Advisory Service; telephone (202) 458-5267; fax (202) 614-0471; email:
+socialprotection@worldbank.org. Copies of related safety nets papers, including the Social Safety Nets
+Primer series, are available in electronic form at www.worldbank.org/safetynets. The website also contains
+translated versions of the papers as they become available. An ambitious translation plan is underway
+(especially for Spanish and French, some in Russian). For more information about WBI courses on social
+safety nets, please visit the website www.worldbank.org/wbi/socialsafetynets .
+
+Recent and Forthcoming Papers in the Safety Nets Primer as of August 2002 1
+Theme
+Program Interventions
+Cash transfers
+Food related programs
+Price and tax subsidies
+Fee waivers in health
+Fee waivers in housing
+Public works
+Micro credit and informal insurance
+Cross-cutting Issues
+Overview
+Institutions
+Targeting
+Evaluation
+Political Economy
+Gender
+Community Based Targeting
+Country Setting/Target Group
+Very Low Income Countries
+Transition Economies
+Non-contributory pensions
+
+Author
+Tabor
+Rogers and Coates
+Alderman
+Bitran and Giedion
+Katsura and Romanik
+Subbarao
+Sharma and Morduch
+Grosh, Blomquist and Ouerghi
+de Neubourg
+Coady, Grosh and Hoddinott
+Blomquist
+Graham
+Ezemenari, Chaudhury and Owens
+Conning and Kevane
+Smith and Subbarao
+Fox
+Grosh and Schwarz
+
+1. Papers may be added or deleted from the series from time to time.
+
+Abstract
+Public workfare programs have been important counter-cyclical program interventions in
+both developed and developing countries. In the developing world generally and in
+Africa and Asia particularly, public works programs have been significant policy
+instruments for mitigating the negative effects of climatic and systemic risks on poor
+farmers and unskilled and semi-skilled workers. The paper first discusses the rationale
+behind workfare programs in the context of social risk management and goes on to give
+an overview of workfare programs in Africa and Asia with respect to such design features
+as wage rates and labor intensity and to how they were selected and implemented. Using
+available estimates and evaluations, the evidence on whether these programs have
+achieved their goals and are cost-effective is presented. Finally, the paper concludes with
+summary lessons from experience.
+
+Table of Contents
+I. Introduction ................................................................................................................... 1
+II. Rationale ....................................................................................................................... 3
+III. Conceptual Issues....................................................................................................... 4
+IV. Design Features: Cross-Country Evidence .............................................................. 5
+Design Features that Maximize Program Benefits to the Poor ......................................6
+Cost-effectiveness ........................................................................................................14
+Implementation Issues..................................................................................................17
+V. Evaluation of Public Works Programs: Impacts on Poverty and Welfare .......... 21
+Targeting Performance.................................................................................................21
+Social Gains .................................................................................................................22
+VI. How to Plan, Implement, and Evaluate Public Works Programs: A Synthesis . 23
+References........................................................................................................................ 25
+Boxes
+Box 1: What are the Key Design Features of a Good Public Works Program? ............... 14
+Figures
+Figure 1: MEGS Labor Attendance .................................................................................... 8
+Figure 2: The Seasonality of MEGS Employment ........................................................... 12
+Figure 3: Designing and Implementing Public Works ..................................................... 23
+Tables
+Table 1a: Scale of Operations of Public Works Programs in Selected Countries: National
+Programs ..................................................................................................................... 2
+Table 1b: Scale of Operations of Public Works Programs in Selected Countries:
+Programs Implemented under Social Investment Funds (mid1980s to early 1990s) . 2
+Table 2: The Program Wage (PW), Minimum Wage (MNW),and Market Wage (MW) in
+Selected Countries....................................................................................................... 7
+Table 3: Public Works Projects in Western Cape, South Africa: Project Wages for
+Unskilled Labor........................................................................................................... 9
+Table 4: Cost-effectiveness of Two Hypothetical Workfare Programs under Base Case
+Assumptions.............................................................................................................. 16
+Table 5: Marginal Odds of Participation in India’ Main Antipoverty Program in Rural
+Areas ......................................................................................................................... 22
+
+Executive Summary
+Public works programs have been important counter-cyclical program interventions in
+developed as well as developing countries for many years. In the developing world
+generally and in Asia and Africa particularly, public works programs have significantly
+mitigated the negative effects of climatic risks on poor farmers and farm laborers. These
+programs typically provide unskilled manual workers with short-term employment on
+projects such as road construction and maintenance, irrigation infrastructure,
+reforestation, and soil conservation. This type of program has been used to counter
+climatic risks in several countries (for example, Bangladesh, India, Ethiopia, Kenya,
+Zimbabwe, South Africa, Tanzania, and Ghana); it was recently used as the main
+instrument to counter the financial risk- induced unemployment in Korea in 1997.
+Although known as “public” works programs, in several countries the actual
+implementation of these programs is being handled by small-scale private contractors,
+NGOs, or social funds.
+The rationale for public works programs rests on six considerations. First, the
+programs provide income transfers to poor households during critical times. Second,
+depending upon their timing, the programs also allow households to meet any
+consumption shortfalls they may experience during slack agricultural seasons or years.
+Third, well-designed workfare programs construct much-needed infrastructure and thus
+minimize the trade-off between public spending on income transfers versus public
+spending on development. Fourth, the durable assets that these programs create have the
+potential to generate second-round employment benefits as needed infrastructure is
+developed. Fifth, the programs can easily be targeted to specific geographic areas that
+have high unemployment and poverty rates. Finally, in many countries, this type of
+program has helped many small-scale private contractors to emerge and grow.
+The success of each program depends very much on its design features. The level of
+the wage rate is a critical design feature. Self-selection can be encouraged if the wage
+paid by the public works program is set at slightly below the market wage for unskilled
+labor. Cross-count ry experience reviewed in this chapter suggests that, although
+governments vary widely in their ability to set a wage rate that is consistent with selfselection, several countries have adopted innovative ways to set wages that promote selfselection. The way in which the wage is paid also influences the degree to which the
+program is targeted to the poor generally and to women in particular. In some African
+countries, women favored task-based wage payments because this enabled them to
+dovetail household chores with their income-generating activities.
+An important determinant of the cost-effectiveness of the program is the share of the
+wage bill in the total cost of the program. Experience reviewed in this chapter suggests
+that achieving high labor intensity is not easy in practice, even when common laborbased methods of production are available. Careful attention to detail is needed to achieve
+
+high labor intensity without compromising the quality of the assets to be created.
+Evidence about the cost-effectiveness of public works programs suggests that programs
+are worthwhile only if planners give careful attention to the quality of the assets to be
+created and to the potential of such assets to create second-round employment benefits.
+Future benefits from public works can be substantial if the program is well designed and
+implemented; the program will then be cost-effective.
+A word of caution is needed in interpreting the cost-effectiveness calculations cited
+in this paper. These calculations take into account only the transfer benefits given to the
+poor. The risk benefits of the program—the benefits of reduced risks due to consumption
+smoothing—are rarely factored into the calculations of cost-effectiveness. This is one of
+the reasons why the cost-effectiveness calculations often do not appear very favorable.
+Another limitation of cost-effectiveness calculations is that only they only take account of
+direct transfer benefits. The indirect benefits (such as the short- and medium-term effects
+of the program on the rural market wage rate, and the socially beneficial effects of female
+empowerment) have not been taken into account in the available estimates of benefits and
+costs of workfare programs. Also, when comparing the cost-effective calculations of
+workfare programs with other transfer programs, it is important to bear in mind the
+savings in administrative costs afforded by self-selection in addition to other factors.
+The main constraint in implementing public works programs in much of Africa is a
+lack of capacity. This constraint can be eased if donors coordinate their activities and
+provide assistance to build private contracting capacity. In all countries and in SubSaharan African countries particularly, assured funding, community participation, sound
+technical assistance, and proper understanding of the social structures and communities
+where the projects are located can vastly increase the effectiveness of workfare programs.
+
+Systemic Shocks and Social Protection:
+Role and Effectiveness of Public Works
+Programs
+Kalanidhi Subbarao, Lead Economist (Social Protection),
+Africa Human Development1
+
+I. Introduction
+Public works programs 2 have been important counter-cyclical interventions in both
+developed and developing countries during the last century. In England, workhouse relief, to
+which the able-bodied poor were restricted after England’s 1834 Poor Law Amendment Act,
+explicitly self- targeted the poor by aiming to “provide pay and conditions less eligible than
+the meanest available alternative” (Himmelfarb, 1984). Several Western countries adopted
+different types of public works programs during the depression years (1931-36) and again
+during milder recessions. In much of South Asia, public works programs began in the 1950s
+as “food-for-work” programs in which workers were paid for their labor with food aid from
+Western countries. These programs are now operated by the governments of the region as
+“cash-for-work” programs that provide short-term employment at low wage rates. In Korea,
+the public workfare program constituted a core safety net during the financial crisis of 199798.
+Public works programs typically provide short-term employment at low wages for
+unskilled and semi-skilled workers on labor- intensive projects such as road construction and
+maintenance, irrigation infrastructure, reforestation, and soil conservation. Public works
+programs are now viewed as a means of providing income support to the poor in critical times
+rather than as a way of getting the unemployed back into the labor market. The lessons to be
+learned from public workfare programs are relevant for all risk-prone countries and for the
+countries of Sub-Saharan Africa and Asia particularly because of the programs’ considerable
+potential for helping the poor to cope with the co-variate risks associated with climatic and
+systemic shocks. In some countries, the programs have been implemented on a national scale,
+whereas in other countries, the programs have been only one component of a multi-sectoral
+intervention, for example, in Social Investment Funds. Table 1 provides information on the
+scale of operation of public works programs for selected developing countries.
+
+1
+
+I would like to thank John Blomquist, Polly Jones, and Julie Van Domelen for helpful suggestions. The paper
+also benefited from my informal discussions with Alan Gelb.
+2
+The terms “public works programs” and “workfare programs” are used interchangeably throughout this paper.
+Both refer to programs in which participants must work to obtain benefits. These programs offer temporary
+employment at a low wage rate and have been widely used for fighting poverty.
+1
+
+Table 1a: Scale of Operations of Public Works Programs in Selected Countries: National
+Programs
+Country
+
+Person Days
+
+Botswana (1992-93)
+
+7 million person days
+
+Ghana (1988-91)
+
+0.5 person days
+
+Kenya (1992-93)
+
+0.6 person days
+
+India National (1994)
+
+800-900 person days
+
+Chile (1987)
+
+40-45 person days
+
+Egypt
+
+27-30 person days
+
+Argentina (1998-2000)
+
+400,000 persons
+
+Source: World Bank (1994) and Subbarao (1997).
+
+Table 1b: Scale of Operations of Public Works Programs in Selected Countries: Programs
+Implemented under Social Investment Funds (mid1980s to early 1990s)
+Country and Program
+
+Employment Generated
+
+Bolivia: FSE
+
+731,000 person-months
+
+Honduras: ZIF
+
+140,000 person-months
+
+El Salvador: FIS
+
+55,400 person-months
+
+Peru: FONCODES
+
+24,500 person-months
+
+Panama: FES
+
+28,000 person-months
+
+Nicaragua: FISE
+
+73,000 person-months
+
+Source: World Bank (1994) and Subbarao (1997).
+
+There is much variation in the meaning and scope of public works programs (also
+known as workfare programs) across countries. The term “public works” often creates the
+impression that the program is a government-run program to “create” jobs. This was indeed
+the case in much of the former Soviet Union and Eastern Europe where public works
+programs were understood to imply a “wage subsidy” program, in other words, that the
+government paid the entire wage bill to encourage private entrepreneurs and state enterprises
+to hire more workers and thus “solve” the unemployment problem. This view is slowly
+changing inasmuch as attempts are being made in some Central Asian republics to introduce
+public works at low wages as a short-term income transfer program for the poor along the
+lines of programs in South Asia.
+In recent years, because the implementation arrangements for public works programs
+have changed, the word “public” in “public works” has become somewhat inaccurate. In the
+“old style” public works programs, typically the public works departments of central
+governments financed and implemented these programs. As a result, they tended to suffer
+from the drawbacks of other centralized programs, including the creation of large
+bureaucratic structures, a lack of accountability, and little consultation with local
+communities and governments in the selection and execution of projects. In recent years, in
+some countries, the “provider” or “financier” of the program (usually the government but
+2
+
+also NGOs or international aid agencies such as the World Food Program) has often been a
+different entity from the program’s “implementor” who may be either the line ministries of
+the government, a private contractor, an NGO, or a Social Investment Fund.
+The paper is organized into six main sections. The next section provides a brief
+overview of the rationale for workfare programs in the developing world. The third section
+provides an overview of conceptual issues. The fourth section discusses the design features
+of public workfare programs, reviewing relevant country experiences. The fifth section gives
+a brief overview of the available evaluations with reference to benefits and costs and the
+distributional outcomes of workfare programs. The last section provides a synthesis of how
+to plan, implement, and evaluate a public workfare program.
+
+II. Rationale
+The argument for public works in 19th Century England was centered on the ethic of work,
+which usually meant dirty and nasty menial labor. The justification for such public works
+during the Depression years was largely the macro need to restore aggregate demand. In many
+low-income countries today, however, the rationale for launching a public works program is
+vastly different from the motivations behind the launch of past programs in the West.
+In low- income countries, public workfare programs are undertaken with four objectives
+in mind:
+•
+
+•
+
+•
+
+•
+
+First, these programs provide transfer benefits to the poor. The transfer benefit is
+equal to the wage rate minus any costs of participation incurred by the worker. In
+countries with high unemployment rates, transfer benefits from a good workfare
+program can prevent poverty from worsening, especially during periods of
+adjustment or transition.
+Second, the programs, depending on their timing, may also confer cons umptionsmoothing or stabilization benefits on program recipients. These stabilization
+benefits arise mainly from the reduction of the risk that poor households will face a
+decrease in their consumption during slack agricultural seasons. For example, if a
+program is implemented during these slack agricultural seasons when the market
+demand for labor is low, workers employed by the program will benefit from the
+resulting injection of income and consequential consumption smoothing. Any
+policy intervention that lessens the risks of starvation for those surviving on the
+edge of poverty should be valued highly.
+Third, these programs, if well designed, can help to build much- needed physical
+infrastructure. For example, the famous Maharashtra Employment Guarantee
+Scheme in India, which has been in operation for over three decades, has created
+considerable irrigation infrastructure and rural roads in the state of Maharashtra.
+Some of the durable assets created by the program have generated (or can generate)
+additional second-round employment benefits.
+Fourth, these programs can be targeted to specific geographic areas that have high
+unemployment and poverty rates. Poor areas and communities can directly benefit from
+the program (in terms of transfer benefits) and ind irectly benefit in terms of the
+physical assets that the program creates and/or maintains. To this extent, well-designed
+workfare programs can enhance the growth potential of less endowed regions.
+3
+
+In addition there can be other (often unintended) spin offs from public works programs.
+For example, workfare programs can build the capacity of communities to manage their own
+affairs by strengthening local governments and other institutions. If the program’s design
+features are carefully thought through (see section four), it can encourage the participation
+and empowerment of women. Also, in many countries, this type of program has helped many
+small-scale private contractors to emerge and grow, and in some countries, the private sector
+and NGOs have been involved in the implementation of public works programs. Finally, the
+link between workfare programs and household food security needs to be mentioned. In
+much of Africa and South Asia, public works programs originated as “food- for-work”
+programs that paid wages in food, usually provided by donors. Even now, some donor-driven
+programs (for example, those of the World Food Program) run public works programs in
+many African countries providing food as wages, the motivation being to ensure the food
+security of poor households.
+Thus, in low- income countries, public works programs are undertaken with multiple
+objectives including providing temporary income transfer benefits to the poor, smoothing
+consumption, ensuring household food security, creating assets, and developing poor areas.
+These programs are often regarded as vital in helping populations cope with the climatic risks
+that are pervasive in much of Africa and Asia.
+
+III. Conceptual Issues
+The transfer benefit to a worker amounts to the wage he/she gets from the scheme, minus
+any costs of participation (such as the cost of transport) and any earnings lost from
+alternative employment. If the costs of participation and income from alternative sources are
+negligible and if the program has no effect on the labor market and the structure of market
+wages, the transfer benefit should be approximately the same as the program wage times the
+duration of employment. In reality, these assumptions are unlikely to hold. For example, the
+costs of participation and foregone earnings are rarely zero. Most workers have to walk long
+distances to the program’s work sites or incur transport costs. In the absence of the scheme,
+workers typically work for a few days in alternative jobs, which they give up when slightly
+longer-term employment is offered by a public works project. Moreover, unless the scale of
+the public works program is very limited, the program is likely to put an upward pressure on
+the market wage rate, in which case the net transfer benefit (the direct program wage benefit
+and the indirect benefit of an increment in market wage resulting from the program) may be
+higher than the program wage. Thus, depending upon what impact the scheme has on the
+wage rate, on workers’ foregone earnings, and on their costs of participation, the net transfer
+benefit may be higher or lower than the program wage.
+In order to enable workers to self-select themselves into the program, it is desirable to
+keep the wage paid by the program low, in other words, somewhat lower than the prevailing
+market wage for unskilled labor. A low wage is likely to make the program unattractive to the
+non-poor. A low wage will keep the overall participation rate low and at the same time ensure
+that a disproportionate number of poor workers will participate in the program, a higher
+proportion than would be the case if the program wage were higher. Given a strictly defined
+budget, a low wage would avoid job rationing. Thus, a low program wage has several merits.
+However, a low wage rate will also result in low transfer earnings to each (poor) participant.
+
+4
+
+Finally, in some situations, the poor may incur transaction costs that may further reduce
+their transfer benefit. For example, if the program’s implementing agencies and institutional
+framework are affected by corruption and leakage, the poor who participate in the program
+may have to pay a part of their wage to scheme organizers to ensure continued participation,
+which may further reduce the transfer benefit of the program. The particular implementation
+arrangements, the institutional framework, and the overall efficiency of scheme administration
+also greatly effect the total amount of transfer benefits that accrue to participants.
+The sum of total transfer earnings going to all participants will be larger as the duration
+of workers’ employment and the share of wages in the total cost of the program increase.
+These last two parameters—the share of wages and the duration of employment—vary
+depending on the nature of the project selected for implementation. As will be mentioned in
+later sections, there is much cross-country variation in both the share of wages in total
+program cost and the duration of employment.
+The potential welfare gains from a public works program also depend on the source of
+financing. If a public works program is entirely aid- financed, the transfer benefits to workers
+are a net addition to all other benefits flowing from programs funded out of general tax
+revenues. However, if the program is funded out of general tax revenues, it is important to
+look at the counterfactual situation—in other words, what would have been the benefits
+accruing to participants from alternative ways of spending the same amount of budgetary
+resources. Also, it is useful to know if a public works program has been introduc ed or
+extended at the expense of other activities that give non- labor benefits, such as education or
+hospital services, to poor participants. It is rarely possible to evaluate this counterfactual
+empirically, but it is important to bear in mind the source of the financing for a public works
+program in trying to estimate the true benefits of the program.
+The stabilization benefit of the program reflects the program’s “insurance” function.
+This depends on the timing of the program. In predominantly agricultur al societies,
+household incomes increase or decrease depending upon seasonal activities. Poor households
+often suffer from precipitous shortfalls in consumption and nutritional status in slack seasons
+and during periods or years of drought. A workfare program targeted to those regions most
+affected by monsoon failures or by seasonal drops in economic activity can enable poor
+participants to smooth their consumption, thus significantly reducing their exposure to risk.
+Stabilizing their income can prevent acute distress and prevent poor households from having
+to sell off their assets during years or seasons of crop failure. In other words, the risk-coping
+benefits of a public works program can be as important as the transfer benefit to poor
+households who lack options or who cannot afford to insure themselves. However, it is not
+always possible to implement a program precisely at those times when the poor are most
+likely to sustain consumption shortfalls. For example, during periods of heavy rainfall when
+all economic activities come to a halt, logistics may not permit the implementation of a
+public works program especially in remote villages, so a workfare program may not be the
+most appropriate instrument to protect the poor during the “hungry” season.
+
+IV. Design Features: Cross-Country Evidence
+This section considers the design features of public works programs using three broad
+criteria: (i) how to enhance the benefits accruing to participants; (ii) how to increase the costeffectiveness of a workfare program; and (iii) how to implement such a program. The first
+5
+
+two sub-sections cover only major, national- level programs, whereas the third sub-section
+also looks at small-scale workfare programs implemented under the rubric of Social
+Investment Funds. 3
+Design Features that Maximize Program Benefits to the Poor
+There are four important features of workfare programs that must be carefully designed to
+maximize the amount of program benefits that accrue to the poor: the level of the wage rate,
+the mode of wage payment, the duration and timing of the public works themselves, and the
+labor intensity of the program.
+The level of the wage rate. The wage rate is a key element in determining the degree to
+which the poor self- select themselves into the program and, therefore, in determining the
+distributional outcomes of the program. In order to promote self-selection, it is best if a
+public works program offers a wage slightly below the market wage, in other words, if the
+program maintains the level of its wage at a rate low enough so that only the poor would be
+attracted to the program. Experience in setting a wage below the prevailing market wage
+varies across countries. Some governments have been unable to set a wage lower than the
+minimum wage, and often the official minimum wage is higher than the market wage in the
+informal sector and in rural farm activities in which the poorest tend to be engaged. If the
+minimum wage is set at a level higher than the market-clearing wage and is strictly enforced,
+then there is only limited scope for a public works program to set its wage at a level lower
+than the minimum wage and foster self- targeting to the poor.
+As can be seen from Table 2, there is much cross-country variation in the level of the
+program wage rate relative to the market and minimum wages rates. In Chile, the program
+wage rate was maintained at about 70 percent of the minimum wage, which encouraged the
+poor to self-target themselves into the program. Almost a quarter of the participants were
+women. In Kenya, the program wage was equal to the minimum wage, which was typically
+much higher than the prevailing market wage. In the Philippines too, the program wage was
+25 percent higher than the agricultural market wage. The Philippines case is particularly
+interesting from a design perspective. In the Philippines, the program cash wage was equal to
+the minimum wage. However, in addition to the cash wage, an additional in-kind wage in the
+form of a certain quantity of food was also given to every participant, so that total
+compensation (cash plus food) turned out to be much higher than the ruling market wage for
+unskilled labor. Not surprisingly, substantial numbers of the non-poor were attracted to the
+program (Subbarao et al, 1995).
+The targeting effectiveness achieved by setting the public works wage below the
+minimum wage depends on whether or not that minimum wage rate is really the market
+minimum. This is clearly illustrated by the case of the Employment Guarantee Scheme
+(MEGS) in the Indian state of Maharashtra. In this program, every registered participant is
+“guaranteed” employment at the minimum wage rate within a radius of five kilometers from
+his or her home. The program was enormously successful in drawing vast numbers of the
+poor, especially women, to work sites. Right from its inception in 1973, the program wage
+was equal to the minimum wage, which was low enough to promote the self-selection of the
+
+3
+
+The main reason is that no detailed information on the design features or cost-effectiveness of those workfare
+programs implemented under the rubric of Social Investment Funds is available.
+6
+
+poor into the program. In 1988, the minimum wage was doubled so the program wage also
+had to be doubled. The consequence has been a significant drop in the number of person days
+of employment generated (Figure 1; see also Subbarao 1993 and 1997). Research by Datt and
+Ravallion (1994) has confirmed that the upward revision of the wage rate in 1988 contributed
+to job rationing and eroded the “guarantee” of employment expected of the program. Gaiha
+(2000) also noted that targeting efficiency had been eroded following the wage hike in 1988.
+The relatively more affluent have joined the program, whereas some poor participants were
+rationed out of the program. In Tanzania and Botswana too, because the program wage was
+maintained at a level higher than the market wage for comparable unskilled activities, jobs
+had to be rationed, particularly during droughts when the need of the poor to participate in
+public works was greatest (Teklu, 1994). In Burkina Faso, Senegal, and Sri Lanka, the
+program wages were lower than the market wage rates in those countries for unskilled labor.
+Table 2: The Program Wage (PW), Minimum Wage (MNW),and Market Wage (MW) in
+Selected Countries
+Country/Program
+
+PW in Relation to MNW and/or MW
+
+1.
+
+Bangladesh: Cash For Work, 1991-92
+
+PW<MW
+
+2.
+
+India: (a) Cash For Work, JRY, 1991-92
+
+PW=MNW>MW
+
+(b 1 ) MEGS: up to 1988
+
+PW=MNW<MW
+
+(b 2 ) After 1988
+
+PW=MNW>MW
+
+3.
+
+Pakistan: IGPRA* III, 1992
+
+PW<MW
+
+4.
+
+Philippines: Cash For Work 1990
+
+PW>MW
+
+Food For Work 1987
+
+PW**>MW
+
+5.
+
+Botswana: Cash For Work
+
+PW<MNW, but >MW
+
+6.
+
+Kenya: Cash For Work 1992-93
+
+PW=MNW>MW
+
+7.
+
+Chile: Cash For Work 1987
+
+PW<MNW=MW
+
+8.
+
+Argentina (a) 1997-2000
+
+PW = MNW<MW
+
+(b) 2000
+
+PW<MNW<MW
+
+9.
+
+Korea: 1998
+
+PW=MNW<MW
+
+10.
+
+Thailand 1998
+
+PW=MNW
+
+11.
+
+Indonesia (Reformed Program, 1999)
+
+PW<MW
+
+Source: Subbarao (1997 and 1999); Ravallion (2000)
+
+In Argentina in 1996, the government responded to high levels of unemployment by
+starting the Trabajar program, a public workfare program designed to provide temporary
+employment benefits to poor participants. The main targeting mechanism adopted was the low
+wage rate, supplemented by a sub-project selection process that geographically targeted poor
+areas to receive projects. Over 400,000 people participated in this program in 16,000 projects,
+many of which were located in poor communities. In 2000, the setting and maintaining a low
+wage rate became an issue in Argentina. To promote self-selection, the wage rate was further
+lowered from 200 pesos per month to 160 pesos per month, which is below the minimum
+wage. There was no legal impediment, since the labor relationship between the worker and the
+implementing agency was not typical. For example, the payment to a worker is not called a
+7
+
+“wage,” rather it is termed “subsistence” or “economic assistance.” Moreover, some skilled
+and semi-skilled workers were also needed to execute the projects. Skilled workers were hired
+as “foremen” in each project at a somewhat higher wage rate. Clearly, Trabajar represents a
+case in which the low wage rate enabled the poor to self-select into the program and
+geographic targeting gave poor households significant benefits to the extent that selected
+projects were located in poor areas.
+Figure 1: MEGS Labor Attendance
+
+8000
+7000
+6000
+5000
+4000
+3000
+2000
+1000
+0
+80/81
+
+81/82
+
+82/83
+
+83/84
+
+84/85
+
+85/86
+
+86/87
+
+87/88
+
+88/89
+
+89/90
+
+90/91
+
+Source: Subbarao (1993).
+
+South Africa’s recent experience is also worth noting. Evidence from 101 Western Cape
+public works projects shows that fewer than 36 percent of the public works projects managed
+to offer a wage lower than the prevailing market wage for unskilled labor (Table 3). Some
+projects in some districts were more successful than others in setting a low wage. For
+example, greening and vegetation projects offered a wage less than the market wage, but
+construction projects did not. The reasons for this difference are not entirely clear, but it is
+likely that there is more wage bargaining in the construction industry and/or construction
+projects could attract labor only if they offered a higher wage. Research by Adato et. al.
+(1999) confirms that the wage setting process in South Africa is extremely complex and
+varies a great deal by district and by project. In general, the researchers concluded that
+sharing information on the broader goals of public works projects with the community helped
+workers to understand why the wages that were offered were so low.
+Korea has introduced public workfare programs on two occasions, once prior to the
+boom period and again in the wake of the financial crisis of 1997. In the 1970s, the first of
+these programs offered temporary employment at the going market wage for unskilled labor.
+The program executed a number of infrastructure projects, especially in road construction. As
+the economy entered the boom period in the late 1970s and early 1980s, the market wage for
+8
+
+labor soared. As a result, the program began to attract only the very old and less active
+workers. The program’s productivity suffered as a consequence, and its usefulness in creating
+useful assets diminished as well. The program was then abandoned; the elderly among the
+population began to be supported largely by their extended families and by a small-scale cash
+transfer program. In terms of the introduction and abandonment of the program, the Korean
+government’s timing was perfect.
+Table 3: Public Works Projects in Western Cape, South Africa: Project Wages for Unskilled
+Labor
+Program
+
+Proportion of Projects Setting Wages Below District
+Market Wage
+
+Number of Projects
+
+All projects
+
+0.356
+
+101
+
+Cleaning and Greening
+
+0.800
+
+10
+
+Comm-Based PWP
+
+0.389
+
+18
+
+Comm-based PWP-/CEP
+
+0.091
+
+22
+
+FWCP-Working for Water
+
+0.357
+
+14
+
+PILOT-Nat Dept PW
+
+0.000
+
+2
+
+Transport-RDP
+
+0.167
+
+6
+
+WCEDF-NEF
+
+0.448
+
+29
+
+Source: Adato et. al. (1999).
+
+Equally appropriate was the government’s re- introduction of a low-wage public works
+program in early 1998 following the onset of the financial crisis to cushion the impact of the
+sharp increase in unemployment and poverty. The Koreans took considerable care to get the
+design of the program right. The program wage was set at a level slightly lower than the
+prevailing market wage for unskilled labor. During the crisis, the market wage rate fell. The
+government took measures to adjust the pub lic works wage rate downwards as the market
+wage fell. Why was Korea able to do so?
+The minimum wage in Korea, set in the early 1980s, was never revised upwards.
+Following the economic boom, the market wage in Korea rose dramatically and was several
+times higher than the legislated minimum wage. In fact, few workers really bothered much
+about the level of the minimum wage, which remained very low. With the onset of the crisis,
+market wages for all categories of labor fell; nonetheless the market wage for unskilled labor
+during the period of the crisis was still slightly higher than the (low) minimum wage. As
+such, the government found no difficulty in adjusting the public works program wage
+downwards with the fall in the market wage, since the program wage was still slightly above
+the legislated minimum wage (Subbarao, 1999).
+Thailand’s experience differed from Korea’s. During the boom period, Thailand had
+continuously raised the minimum wage in order to attract labor from the depressed North
+East to Bangkok to work in the construction industry. When the crisis set in during late 1997,
+the market wage could not adjust downward due to the prevailing high minimum wage rate.
+For the same reason, the public works program wage too was implemented at a relatively
+9
+
+high minimum wage. The targeting efficiency of the program and its impact on poverty are
+not known.
+This brief overview of country experience suggests that while setting the public works
+wage at a level lower than the unskilled market wage may be difficult, several countries have
+managed to get around the problem. At different points in time, several countries, including
+India, Argentina, Chile, Korea, and South Africa, managed to set the program wage at a level
+conducive to promoting self-selection (thus enabling the poor to benefit disproportionately)
+and at the same time to hire skilled workers as needed at a slightly higher wage. Much
+depends on country circumstances, but there appears to be considerable scope for innovative
+solutions. In general, the probability of setting the program wage at the right level depends
+on the response of the communities where the projects are located and on the political
+economy at the national level. This can again be illustrated by Argentina’s experience where
+localities were given the authority to set a lower wage rate than the national program wage if
+they wished to do so. Several provinces in Argentina took advantage of this ability to pay a
+lower wage to expand the possible participation of the poor in the program, as it reflected
+their own local labor conditions. Flexibility clearly increases the chances of setting an
+appropriate wage rate.
+In some countries, however, the political economy at the national level may be a binding
+constraint to setting the wage rate at a low enough level to promote self-selection. Often the
+past history of countries can make it very difficult to set a low wage in workfare programs.
+(as, for example, in the countries of Eastern Europe and Central Asia where there was a past
+emphasis on workers rights, strong trade unionism, and the generally hostile attitude towards
+a downward adjustment of wages even when economies are in a downturn). On the other
+hand, in some economies where the decentralization process is proceeding rapidly, an
+appropria tely low wage may be set when community members are fully informed about the
+goals of the program and when decisions are taken by communities themselves so that
+workers (who live in communities) actually see the merits of a low wage (Adato et al, 1999).
+In all circumstances, the wage setting process needs to be transparent if it is to be acceptable
+to workers, scheme providers, and the implementing agencies.
+One question often comes up in the design of workforce programs, how low should the
+program wage be? There is really no theoretical optimum, but in practice any level slightly
+lower than the prevailing market wage for unskilled labor may be appropriate. However, it is
+important bear in mind that the program wage should not be set at such a low level tha t it
+stigmatizes the work, thus leading the “poor but proud” people to go hungry rather than take
+part in public works. That was one of the problems with the English Poor Law workhouses
+after 1834 (Lipton, 1996).
+Mode of wage payment. Wages can either be paid in cash or in kind, and wage rates can
+be set on a daily basis or on a piece-rate basis. Ideally, the best form of payment is cash since
+it gives participants the freedom to spend their meager earnings in the most optimal way.
+However, the availability of food aid sometimes makes paying wages in kind preferable.
+Payment in the early public works programs in India and Bangladesh was largely in-kind,
+usually food staples that had been made available through donors. Wage payments in the
+form of food staples continues in some countries, especially those in Sub-Saharan Africa.
+The problem with paying wages in the form of food staples is obvious: food is messy to
+transport, it is costly (handling charges), and requires considerable overall supervision. The
+10
+
+advantages in terms of “self-targeting” or better targeting are mixed. In Lesotho and Zambia,
+payment of 50 percent of the wage in kind (food) attracted more women than men to project
+sites (Subbarao et al, 1997). Given the role that women play in household food security, this
+may have great indirect benefits in Africa. On the other hand, in several other countries, both
+men and women demanded that their wages be paid in cash.
+Piece-rates and task-based payments seem especially to attract women (Dev, 1996 and
+Subbarao et al, 1997). Under time-rate systems in which payment is based in part on the time
+taken to produce output, small people and others who may require or prefer extra time per-unit
+of output are often excluded or feel compelled to exclude themselves. Piece-rates may also
+have the advantage that several members of a large, poor family can share the work. Taskbased payment methods give women the flexibility to do the multiple tasks that are often
+required of them in poor countries. In theory, task-based systems reward and encourage high
+labor productivity. In some African countries, women favored task-based payments because
+they enabled them to dovetail their household chores with their income-earning opportunities.
+However, experience suggests that task-based payments can have disadvantages too. In
+South Africa, workers did not understand how the task was calculated, were constantly
+confused by their paychecks, and thought they were paid less than they expected (Adato et.
+al., 1999). One major problem was that workers did a lot of preparatory work that was not
+considered part of the task. Participatory surveys in South Africa showed that there was real
+confusion about the meaning of task-based wage payment. In summary, there may be
+considerable administrative difficulties in task-based wage payment systems.
+The above discussion underscores the need to adapt the mode of payment to local
+situations and demands and to allow for temporal flexibility. Local organizations that
+represent the poor may help program planners to understand poor people’s perceptions of
+their own needs and thus help determine a wage payment system that maximizes the
+participation of the poor in general and of women in particular.
+Duration and Timing of Public Works Activity. How many person days of employment
+per household should a workfare program provide? This depends on: (a) the duration and
+frequency of climatic (or systemic) risk in a given region; (b) the degree of uninsured risk
+confronted by the poor; and (c) the size of the poverty gap. Experience in various countries
+suggests that workfare programs have a significant role to play in regions or countries that
+suffer from periodic monsoon failures. Since a workfare program can be geographically
+targeted, the poor living in any specific region subject to drought conditions could benefit
+from such a program. The poor find it hard to insure themselves against risks, both natural
+and idiosyncratic. For example, in very few countries can poor farmers and landless laborers
+insure themselves against monsoon failures and other natural risks, so the degree of
+“uninsured risk” tends to be very high for most poor households. In countries and in regions
+within countries where the degree of uninsured risk is high and the poverty gap is wide, the
+poor may be very reliant on a public workfare program to the extent that the program confers
+significant “risk coping” benefits on poor households.
+Evidence on how much employment has been provided per person per year by previous
+and existing public works programs is hard to come by. Most available data provide the total
+number of person days of employment created, but from this information it is not possible to
+derive numbers for employment per person or per household. Nor do we have evidence
+11
+
+(based on household data sets) on the extent to which a poor person’s or household’s
+consumption has been met by benefits from a public works program. The admittedly limited
+evidence reviewed below is only for two countries, India and Argentina.
+In India’s nationwide program of Jawahar Rojgar Yojnna (JRY), total employment of
+over 800 million person days is generated annually. The employment provided per person per
+year varies across the country, ranging from 15 to 30 days. The annual “transfer” benefit
+from the program may not have been as high as in Argentina (see below). However, the
+program operated intensively during agricultural off-peak seasons; annually as many as 55
+million people were employed through this program during the off-season. In other words,
+the JRY conferred significant stabilization (consumption-smoothing) benefits even if it did
+not provide adequate transfer benefits. In the Maharashtra Employment Guarantee Scheme
+(MEGS), the transfer benefit has been substantially higher (at about 100 person days per
+year) than under the national program (JRY). The transfer benefit may have declined
+following the wage hike in 1988, since fewer person days of employment per person were
+generated. However, Walker and Ryan (1990) showed that the risk (stabilization) benefits
+conferred by the scheme remained significant and continued to be so even after 1988 because
+the scheme continued to operate intensively in off-peak agricultural seasons (Subbarao,
+1997). Figure 2 shows the percentage distribution of MEGS employment in 1980-81, before
+the wage hike, and in 1990-91, after the wage hike, confirming the continued seasonality of
+program participation in both periods.
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+1980-81
+
+Feb
+.
+Mar
+ch
+
+Jan.
+
+Dec
+.
+
+Nov
+.
+
+Octo
+.
+
+Sep
+t.
+
+Aug
+.
+
+July
+
+Jun
+e
+
+1990-91
+
+May
+
+Apr
+il
+
+Participation Rates (%)
+
+Figure 2: The Seasonality of MEGS Employment
+
+Source: Subbarao (1993 and 1997).
+
+In Argentina’s Trabajar program, the income gained by participants from working in the
+program accounted for about 60 percent of household income. Unlike in India, on average,
+workers in Argentina participated in a project for about five months. After finishing one
+project, about one-third of workers are able to get a Trabajar job in another project. The data
+for 1997-98 showed that about 400,000 workers obtained temporary jobs in the program,
+12
+
+each worker receiving a transfer benefit of about $1,300 on average per year. The number of
+beneficiaries represented about one- fifth of the target population of the unemployed poor.
+Evidence from Kenya and Tanzania (Teklu 1994) shows not only that the program wage
+rate was higher than the prevailing market wage for unskilled labor but that the timing of the
+public works program was synchronized with the busy agricultural season, thereby
+significantly diminishing both the transfer and stabilization benefits to the poor. In
+Bangladesh too, the workfare program’s timing coincided with the busy agricultural season.
+In sum, the transfer benefit is important for the poor especially if the level of seasonal
+unemployment is high. For some segments of the very poor, the stabilization (risk reduction)
+benefits may be as important as transfer benefits. Careful timing of the program can enhance
+such benefits.
+Labor Intensity of Public Works Programs. An important determinant of the costeffectiveness of a workfare program is how big a share the wage bill constitutes of the total
+cost. Many factors determine the share of wages in total cost, particularly the nature of the
+asset created and the availability of technically and economically feasible labor-based
+methods of production. In most road construction projects, the cost of labor ranged from 40
+to 50 percent of total cost, whereas in road or drainage maintenance projects and in soil
+conservation and reforestation projects, it ranged from 70 to 80 percent. In the MEGS, the
+wage bill represented 60 to 70 percent of total cost. Similar ratios were realized in the
+Bangladesh Food for Works Programs.
+In Argentina’s Trabajar program, depending on the type of project that was being built,
+the share of labor costs ranged from 30 to 70 percent. The average share of labor costs for the
+program as a whole was 40-50 percent of total project costs. In Korea too, labor costs
+amounted to close to 70 percent.
+Achieving high labor intensity is not easy in practice, even when known labor-based
+methods of production are available. Case studies of 101 South African projects showed that
+most construction engineers were averse to adopting labor-based methods, largely due to a
+lack of familiarity with labor-based methods of production and the need for extra supervision
+(and expenses) as the size of labor gangs increased (Adato et al, 1999). Where the work has
+been entrusted to private contractors, the outcome with respect to labor intensity is
+unpredictable. Evidence from Ghana suggests that the timely availability of project funds is
+important for encouraging the adoption of labor-based methods. Where a program was
+financed by donor funds and payments were quick and guaranteed, contractors would resort
+to labor-based methods. Where the program was funded by government funds that were
+uncertain and were often enormously delayed, contractors did not favor labor-based methods
+as they feared strikes for delayed wage payments (Subbarao et al, 1997). The incentives
+worked exactly in the opposite way in Argentina. If priva te contractors are in charge and
+have to meet contract standards, they are unlikely to choose labor- intensive methods. In
+Argentina, the federal government paid only the wage cost. The payments to workers were
+generally on time and were not subject to any significant problems. The key issue was a lack
+of materials (non-wage inputs). So municipalities, particularly the poor ones, had an
+incentive to go for more labor-intensive projects because of difficulties in obtaining nonwage inputs. The issue for project management was to get workers to work on projects that
+had a reasonable value for communities.
+13
+
+The development and dissemination of labor- intensive designs for workfare programs,
+coupled with quick payments, can encourage implementing agencies to adopt labor-based
+methods. Where works are entrusted to private contractors, innovative incentive systems
+need to be evolved to encourage them to adopt labor-intensive methods.
+This experience with respect to the design features of previous and existing workfare
+programs suggest that some countries did manage to incorporate as many of the “ideal”
+design features (see Box 1) of a public workfare program as possible. Much can be
+accomplished if countries planning to introduce a workfare program are aware of these ideal
+design features prior to launching a workfare program.
+Box 1: What are the Key Design Features of a Good Public Works Program?
+To realize the full potential of a workfare program as a poverty-reducing and risk-coping instrument:
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+•
+
+The wage rate should be set at a level which is no higher than the prevailing market wage for unskilled
+manual labor in the setting in which the scheme is introduced.
+Restrictions on eligibility should be avoided; the fact that one wants work at this wage rate should ideally
+be the only requirement for eligibility.
+If rationing is required (because demand for work exceeds the budget available at the wage set) then the
+program should be targeted to poor areas, as indicated by a credible "poverty map". However, flexibility
+should be allowed in future budget allocations across areas, to reflect differences in demand for the scheme.
+The labor intensity (share of wage bill in total cost) should be as high as possible. The level of labor
+intensity will depend on the relative importance attached to immediate income gains versus (income and
+other) gains to the poor from the assets created. This will vary from setting to setting.
+The projects should be targeted to poor areas, and try to assure that the assets created are of maximum
+value to poor people in those areas. Any exceptions—in which the assets largely benefit the non-poor—
+should require co-financing from the beneficiaries, and this money should go back into the budget of the
+scheme.
+Public works should be synchronized to the timing of agricultural slack seasons.
+In order to encourage female participation, the appropriate form of wages is important—for example,
+women can benefit from piece rates or task-based wages; sometimes wage in the form of food has attracted
+more women to work sites. Also, provision of childcare or preschool services can improve participation by
+women.
+Transaction costs to the poor are kept low—one important means to accomplish this is through locating
+project sites close to villages. It is also necessary to ensure appropriate mediation of NGOs for protecting
+the rights of the poor vis -a-vis program managers.
+The program should include an asset maintenance component.
+Source: Ravallion (1999 and 2000) and Subbarao (1997).
+
+Cost-effectiveness
+Four variables determine the cost-effectiveness of public works programs. These are: labor
+intensity (in other words, the proportion of the total wage bill going to poor workers);
+targeting performance; net wage gain (in other words, gross wages minus all costs of
+participation incurred by workers); and the indirect benefits flowing from the assets created.
+In some countries, governments require co- financing from non-poor communities for
+implementing subprojects that benefit those neighborhoods. In such instances, the budget
+leverage or the share of the government’s outlay that actually benefits the poor, can be an
+additional determinant of the cost-effectiveness of the program. Ravallion (1999) defined
+these five variables as follows:
+14
+
+•
+
+•
+•
+•
+
+•
+
+Budget leverage. The government can require co-financing from non-poor
+neighborhoods for subprojects that will benefit them. Let government (central plus
+local) spending be G, and let this spending be leveraged up to result in a total
+budget of G + C, including private co- financing (C).
+Labor intensity. Some of the participants may not be poor, so let the share of all
+wages paid in total operating cost be (W+ L)/(G + C), where W is the wage
+received by the poor and L denotes leakage to the non-poor.
+Targeted labor earnings. This is the proportion of the wages paid out to poor
+workers, W/(W + L).
+Net wage gain. This is the share of the gross wage received by the poor after
+subtracting all costs of participation, including income that they may forgo from
+other work. The net wage gain is NW/W, where NW stands for wages net of
+forgone income or other costs of participation.
+Indirect benefit. Let IB denote the indirect benefits to the poor, such as when the
+assets created are local public goods in poor neighborhoods.
+
+Ravallion’s simulations shown in Table 4, illustrate the costs of transferring $1 of income
+to the poor in a typical middle- income country with a poverty rate of 20 percent and a typical
+low-income country with a poverty rate of 50 percent. If only current benefits are considered,
+the cost to transfer $1 of income to the poor is estimated to be $5.00 for middle-income
+countries and $3.60 for low-income countries. However, if future gains from the assets created
+are also included in the benefits, the cost of transferring $1 to the poor drops to $2.50 for both
+middle- and low- income countries. Nevertheless, at first sight, it appears that a public works
+program is an expensive way to transfer income and consumption-smoothing benefits to the
+poor.
+It is important to bear in mind some of the limitations of the cost-effectiveness
+calculations and associated simulations. First, it may be helpful to generate similar numbers
+for other programs and to compare the cost-effectiveness ratios across programs and
+countries. When public workfare programs are compared with other transfer programs, an
+important limitation of the cost-effectiveness calculations of workfare programs such as in
+Ravallion (1999) will become evident. To the extent that a well-designed public works
+program is self-targeted and, therefore, does not incur administrative costs for targeting, the
+“cost savings” in public works may make the program more cost-efficient than other targeted
+programs. Second, other targeted programs implemented via administrative targeting may
+also have high leakage costs. Subbarao et al (1997) estimated the leakage to the non-poor
+from targeted food programs for several developing countries and suggested that the
+proportion of total transfer benefits to the poor range from 19 to 93 percent across countries.
+For food subsidy programs in India, Radhakrishna and Subbarao (1997) estimated the share
+of expenditure that reaches the poor to be 16 to 19 percent. For housing subsidies in various
+countries, Radhakrishna and Subbarao estimated the share accruing to households below the
+median income to be between 10 to 50 percent, implying very high levels of leakage of
+benefits to the non-poor. Thus, available estimates of leakage and administrative costs
+suggests that, after a careful comparison, one may find that other programs do a lot worse
+than public works programs in terms of cost-effectiveness.
+
+15
+
+Table 4: Cost-effectiveness of Two Hypothetical Workfare Programs under Base Case
+Assumptions
+Middle-Income Country
+(poverty rate=20%)
+
+Low-Income Country
+(poverty rate=50%)
+
+Budget leverage: (G+C)/G
+
+1.0
+
+1.0
+
+Labor intensity: (W+L)/(G+C)
+
+0.33
+
+0.5
+
+Targeting: W/(W+L)
+
+1.0
+
+0.75
+
+Net wage gain: NW/W
+
+0.6
+
+0.75
+
+Poor peoples’ share of total benefits: IB/SB
+
+0.2
+
+0.25
+
+Benefit/cost ratio: SB/(G+C)
+
+1.0
+
+0.5
+
+Current + future gains to the poor per $ of
+spending: B/G
+Cost of $1 gain to the poor
+Current earnings gain per $ of program
+spending: CB/G
+Cost of $1 extra current earnings
+
+0.40
+
+0.41
+
+$2.50
+
+$2.50
+
+0.20
+
+0.28
+
+$5.00
+
+$3.60
+
+Source: Ravallion (1999).
+
+A third limitation of cost-effectiveness calculations as shown in Table 4 is that the
+benefit estimates consider only the transfer benefits. The risk benefits, that is, the benefits of
+reduced risks due to consumption smoothing, are rarely factored into calculations of costeffectiveness. We have noted that these risk benefits may be extremely important for poor
+people who lack access to risk-coping instruments or who cannot afford to insure themselves
+against potential risks of income/consumption shortfalls. If work is easily obtained at sites
+close to the homes of participants, workfare programs can respond to risks of sudden
+shortfalls in consumption of poor households better than most other safety net programs.
+Fourth, the cost-effectiveness calculations shown in Table 4 take into account only the
+direct transfer benefits. Indirect benefits in terms of the program’s short- and medium-term
+impact on the rural market wage rate is rarely evaluated. If public works programs offer a
+near-guarantee of employment during off-peak seasons, it is possible that the market wage
+rate for unskilled labor may increase as a result of the higher reservation wage induced by the
+public works program. One study does estimate these indirect gains, in the case of the
+Maharahstra Employment Guarantee Scheme (Gaiha, 2000). With an analytical model, Gaiha
+tracked the interdependence between the agricultural market wage, the MEGS wage, and
+non- farm wages. The study found that the program has had substantive indirect benefits; for
+example, if MEGS wages were to rise by Rs.1, rural farm wages would increase by Rs.0.17
+in the short run and by Rs.0.28 in the long run.
+Finally, the future benefits of a public works program can be substantial. Gaiha (2000)
+noted that the benefits to the rural economy of Maharashtra of the assets created by the
+MEGS program have been considerable.
+To sum up, cost-effectiveness calculations are important, but the numbers need to be
+interpreted with caution. In particular, it is important to bear in mind, on the costs side, the
+16
+
+implicit savings in costs induced by self-selection. Both direct and opportunity costs need to
+be factored into the calculations. On the benefits side, failing to recognize both direct and
+indirect benefits or second-round benefits may underestimate the total benefits of a workfare
+program and may yield apparently unfavorable cost-benefit ratios. Thus, while a simple costeffectiveness calculation that fails to take into account the above factors might show a
+workfare program to be expensive, it may actually be cost-effective when both direct and
+indirect benefits are taken into account and when compared with other transfer programs.
+Implementation Issues
+Although labor-intensive public works programs have the potential for creating short-term
+employment and for improved risk management by poor households, several implementation
+issues may arise. Different countries have very different institutional capacity for designing
+and implementing public works programs. Countries such as India and Bangladesh have
+gradually built their in-country capacity to implement public works programs, especially
+during periods of crop failures. However, this capacity to implement workfare programs is
+somewhat limited in African countries. Although international agencies (such as the WFP,
+the ILO, and bilateral agencies) have been active in public works programs in many African
+countries, “the record on efficiency and effectiveness appears to be mixed” (von Braun,
+Teklu, and Web, 1992). The major implementation issues are: how do funds flow; how are
+projects selected, how much self- selection is practiced by participants, and how well is the
+program monitored.
+Among the world’s largest and best known rural and urban public works programs are
+India’s nationwide Jawahar Rojgar Yojana (JRY) and the Employment Assurance Scheme
+(EAS), both designed to help to ensure gainful employment for poor households and to create
+rural and urban infrastructure. The two programs are administered very differently.
+According to the World Bank: “The JRY is administratively complex. Of the total funds
+made available, 75 percent is earmarked for various rural infrastructure schemes; and the rest
+goes to social forestry projects. All, however, are allocated to the states according to a set
+formula based on the proportion of poor persons residing in each one. States in turn allocate
+JRY funds to districts based on population shares and an index of backwardness. From there
+JRY funds pass down to block and village level strictly according to population shares.
+Unique in its decentralization—work plans and contracts are administered by the village
+panchayats (elected local bodies), subject to the basic program guidelines and overall
+clearance of the work program by the District Rural Development Authority (DRDA)—the
+JRY generates an estimated 1 billion person days of employment each year, an achievement,
+which translates into the likely participation of some 30 to 40 percent of potential
+beneficiaries” (World Bank, 1998). Thus the program is largely supply-driven, implemented
+by local bodies but subject to pre-determined centrally devised guidelines. In contrast, the
+EAS is demand-driven. District authorities apply directly to central administration for
+funding, and allocations are made based on the size and backwardness of geographic blocks
+included in each district. Unlike in JRY, the District Collector has overall responsibility for
+coordinating the work and allocating funds among blocks within a district.
+Participatory assessments of both programs in India’s largest state of Uttar Pradesh
+have pointed to poor implementation. Decisions as to who participates in the program are
+taken by the elected officials at the village level, who often exclude members of some of
+the socially deprived communities in some provinces. The poor have a different perception
+17
+
+of the main objective of public works programs from the professed objectives. For
+example, most poor participants perceived the JRY and EAS as infrastructure projects to
+build roads and bridges and not as programs intended to provide employment and income
+support to the poor to prevent off- seasonal shortfalls in consumption. These findings from
+the participatory evaluation suggest that, regardless of the differences in the flow of funds
+and the differing approaches of the two programs (supply-driven versus demand-driven),
+implementation problems still persist even in the country with the longest experience of
+implementing such programs.
+The experience of implementing the Trajabar workfare program in Argentina has been
+positive. As in India, it is a large-scale program, but unlike in India, several factors enabled
+the Argentine program to be implemented more effectively than the Indian program. In
+Argentina, there were very clear and transparent guidelines from the central government,
+leaving local and municipal authorities to manage the details of implementation. The
+project’s staff were highly committed, funds were distributed across municipalities following
+transparent and objective criteria (according to the distribution of the poor and unemployed),
+and there was a focus on monitoring and evaluation so problems could be identified early and
+dealt with. Proven project evaluation and supervision procedures were adapted from social
+funds and successfully implemented. To further enhance transparency, details of the selected
+projects were published, as were lists of selected project beneficiaries.
+In some Latin and Central American countries, small-scale public works projects have
+been implemented under the aegis of Social Investme nt Funds (for example, in Bolivia,
+Honduras, El Salvador, Peru, Panama, and Nicaragua). Communities submit ideas for potential
+projects to the Social Investment Funds (SIFs), which then screen these ideas for viability after
+doing a quick cost-benefit analysis. Unlike in India’s JRY and EAS programs, the projects are
+submitted by the communities and so are demand-driven. Local communities implement the
+approved projects themselves, albeit by hiring private contractors. Many have focused on
+building or repairing social infrastructure such as schools and hospital buildings. Most projects
+have created temporary jobs lasting five to six months. In Bolivia, the oldest of the SIF
+interventions, the implementation and targeting performance has been good; 77 percent of the
+participants came from the poorest 40 percent of the population. After the intervention, the
+average worker increased his income by 67 percent (Jorgenson, Grosh, and Schachter, 1992).
+However, regional targeting in the initial stages was not pro-poor, largely because the poorest
+regions lacked the capacity to “demand” projects, but this deficiency was corrected as the
+program improved its geographic targeting. The Bolivian program (the ESF) won praise for
+speedy and efficient implementation and for significant benefits to the economy; each ESF job
+created an additional 1.1 jobs in the economy, and the projected rates of return to approved
+projects was 22 percent. Following the successful launch of the ESF in Bolivia, a number of
+other Latin American countries introduced SIFs (Honduras, El Salvador, Peru, Panama, and
+Nicaragua). Financing infrastructure through small-scale public works has been one of the
+main components of SIFs in all countries. Although generating employment was not the main
+motivation behind the SIFs, many infrastructure projects did generate temporary employment
+lasting five to six months in some of the poorest communities. Nonetheless, all SIFs had to
+confront one major implementation problem. The SIFs were not responsible for the execution
+of the projects; the choice and implementation were left entirely to the communities. Since very
+poor communities lacked the capacity to develop projects, these communities received fewer
+project benefits than the relatively richer communities in most SIF projects. However, the SIFs
+did provide an opportunity for communities to register their demands and to influence project
+18
+
+selection; moreover, the recent generation of SIFs has begun to address the issue of building
+capacity in poor communities.
+In Africa too, quite a few public works projects were financed and sponsored by Social
+Investment Funds. By 1998, 19 public works projects were being implemented through the
+medium of SIFs in 12 African countries including Senegal, Guinea Bissau, Madagascar,
+Mauritania, and Ghana (Frigenti and Harth, 1998). Over half of these projects were supported
+by several donors in addition to the World Bank. The principles governing these projects
+were the same as in Latin America; project proposals were prepared by communities and
+submitted to the SIF for financing and approval. In Mauritania, for example, neighborhood
+and town meetings determine priorities and select projects. Because one goal of these
+programs is to use small-scale private construction contractors, the autonomous status of the
+implementing agencies has proved to be important for processing bids rapidly, awarding
+contracts expeditiously and without political interference, and accelerating payments to
+contractors. In general, the preparation of SIF- led projects has been very transparent and free
+from cumbersome government procedures, though there are some cross-country differences.
+In Senegal, AGETIP’s success in implementing public works was largely because of its
+insulation from clientelistic politics (Marc et al, 1995). By contrast, Ghana’s public works
+program was integrated into various government ministries and consequently experienced
+delays in implementation.
+It is worth stressing that public works activities under SIFs have always been typically
+small-scale; hence the implementation experience of these projects is not strictly comparable
+with national programs in Chile, India, Korea, Indonesia, or Argentina.
+Various ministries or government departments in some African countries have
+implemented public works projects on a large scale, albeit with donor funds. The main
+motivation of these projects is to provide food security during periods of crop failure (for
+example, in Ethiopia). In implementing such projects, however, evidence suggests that the
+public works departments of governments typically favor equipment-based methods because
+they are perceived to be superior and to complete the works faster than labor- intensive
+methods. It is possible that in some countries equipment- intensive projects ma y offer greater
+opportunities for rent-seeking (Stock and de Veen, 1996).
+In some countries (such as Ghana) the task of implementing public works was entrusted
+to private contractors. Evidence suggests that contractors have also been reluctant to adopt
+labor- intensive public works, largely because of the complexities involved in managing large
+labor gangs. (Stock and de Veen, 1996). In addition, in projects financed by the government,
+delays in payments have often discouraged private contractors from adopting labor- intensive
+methods because they fear that workers will strike in the event of delayed wage payments
+due to delays in the receipt by the contractors of funds from the government. Labor- intensive
+methods were more likely to be adopted in donor- funded projects where contractors received
+prompt payments. This contrasts with the experience of Argentina where no such constraints
+were allowed to emerge.
+In Zimbabwe, two major programs operated. The Food- for-Works program replaced the
+free distribution of food in 1989. Villagers selected the projects themselves. Local food
+security was the primary goal, so other aspects of the program such as quality and
+maintenance suffered. A second program of public works began a few years later with the
+19
+
+primary objective of development. Projects began to be implemented by technically qualified
+people, and the government provided materials and tools. In Zimbabwe, there has been much
+greater community participation than is often the case, and the demand-driven nature of
+projects should be commended.
+Experience gained thus far suggests that financing arrangements and the flow of funds
+do influence the programs’ critical design features, including their labor intensity. The
+financing arrangements in African countries are very different from those found in South
+Asia and Latin America. First, in much of Africa, public projects are donor funded, with
+domestic contributions being negligible. Thus in Tanzania, the labor-intensive public works
+(road construction and maintenance) program was jointly supported by the UNDP and the
+ILO, with contributions from Netherlands, Germany, and Denmark. The contribution of the
+Government of Tanzania was 11 percent of the total cost. The early programs in Kenya and
+Botswana were also heavily dono r-funded. The second major difference is that in Africa, the
+provision of capital budgets by donors was often tied to technical assistance. The third
+difference is that in Africa, responsibility for implementing the programs largely rested with
+government departments (the Ministry of Public Works in Kenya, the Ministry of Local
+Government and Lands in Botswana, and the Prime Minister’s office in Tanzania). Because
+programs were implemented largely by government agencies as part of their “routine” work
+program, little attention was paid to such details as the timing of the program or the
+monitoring and quality of the infrastructure that was built. For example, in Tanzania, the
+timing of the works program was not synchronized with the agricultural slack seasons. In all
+programs, a uniform wage was set, regardless of the type of work done, the location of the
+work site, or variations among workers in terms of their age, sex, education, and experience
+(Teklu, 1994). “The restrictive structure of pan-territorial wage rates limited the flexibility of
+the road programs to adjust wage rates in accordance with local labor supply conditions”
+(Teklu, 1994). Teklu also noted that the long-term benefits of public works projects were
+much diminished in Tanzania due to the poor maintenance of assets.
+One question that often arises in the implementation of a workfare program is who should
+be considered eligible to participate in the program. Some countries have laid down specific
+criteria. For example, in Korea, only one member per household, the head of household
+(usually a male), can participate. When the household head is receiving an unemployment
+benefit, the spouse (usually a female member of the household) is not allowed to participate. In
+other words, although the low wage rate could have promoted self-selection, the system was
+not allowed to operate because of additional restrictions on participation that were imposed.
+After the wage rate is fixed low enough to promote self-selection, the decision whether or not
+to participate and who should participate (a male or female member of the household or both)
+should be left to the household, but few countries seem to follow this principle.
+Another problem is a lack of capacity in many Africa countries. When programs are
+donor-funded and last only a short time (typically three or four months following a drought),
+domestic capacity is unlikely to be built. In this respect, the experience of India and
+Bangladesh are worth contrasting with the experience of African countries. In both Bangladesh
+and India, most public works projects operate throughout the year, albeit with seasonal ups and
+downs in coverage, and as a result, much domestic capacity is created over time. When
+capacity is unknown, which is often the case in some countries, the designers of public works
+programs may find it useful to initiate a pilot phase during which the capacity of the
+implementing agency can be tested and lessons drawn. Projects that rely chiefly on government
+20
+
+agencies and ministries to propose and implement sub-projects are most likely to suffer from
+delays and limited technical, administrative, financial, and participatory capacities.
+When many donors are implementing different public works programs in the same
+country, a lack of coordination can unduly stretch scarce administrative capacity, and this
+often means that the coverage of these programs is neither extensive nor deep. Most public
+works projects in Africa do not have clear criteria for initiation, expansion, contraction, or
+dissolution. Far from being a guarantee of being there when needed, public works have
+operated in much of Africa when donor funding was available regardless of need.
+Fragmented coverage and weak capacity to respond in times of need undermines the
+credibility of public works programs to perform their insurance function for the poor of
+Africa. In all countries generally and in Sub-Saharan African countries in particular, assured
+funding, community participation, sound technical assistance, and proper understanding of
+the communities and social structures where the projects are located can vastly increase the
+effectiveness of workfare programs as a risk-mitigating intervention.
+
+V. Evaluation of Public Works Programs: Impacts on Poverty and Welfare
+There are few rigorous evaluations of the impacts of public works programs in developing
+countries, however the evidence available suggests that well-designed public works can be
+successful in both targeting benefits and conferring social gains to the most needy.
+Targeting Performance
+Evaluations of workfare programs in general and of MEGS in particular suggest that it is
+possible for governments to use this kind of program to confer significant transfer and
+stabilization benefits on poor households. As for targeting outcomes, 60 to 70 percent of
+households participating in India’s nationwide program, the MEGS, and in Argentina’s
+Trabajar program and almost 100 percent in Chile’s public works program belonged to poor
+households. India’s National Sample Survey data for 1993-94 contained data about
+household participation in three key safety net programs: public works schemes, the
+Integrated Rural Development Program (IRDP), a micro finance program), and the Public
+Distribution System (PDS), a food subsidy program. Considering the data on program
+participation along with the data on total consumption expenditure per person at the
+household level makes it possible to determine the current distribution of benefits from
+public spending across income groups for these three important safety net programs.
+Research by Lanjouw and Ravallion (1998) shows that the poorest quintile is well served by
+public works programs, with the credit program (IRDP) in second place, and the food
+subsidy program (PDS) doing least well in reaching the poor (Table 5).
+Even in middle-income countries such as Argentina, workfare programs have served as
+useful safety nets during macro economic crises. Jalan and Ravallion (1999) used surveybased impact evaluation methods to assess the gains made by participating workers and their
+families from the Trabajar program in Argentina. They used propensity-score matching
+methods to construct a comparison group to Trabajar participants from an identical national
+sample survey implemented at the same time. They then estimated income gains by
+comparing the incomes of the Trabajar participants with those of the matched comparison
+group. Their results indicated that the Trabajar jobs were well targeted to the poor; for
+example, 80 percent of participating workers came from families with a per capita income
+21
+
+that places them among the poorest 20 percent of Argentineans nationally, while 60 percent
+came from the poorest decile.
+Table 5: Marginal Odds of Participation in India’ Main Antipoverty Program in Rural Areas
+Quintile
+
+Public work s programs
+
+Integrated Rural
+Development Program
+
+Public Distribution
+System
+
+1
+
+1.16
+
+1.11
+
+1.06
+
+(poorest)
+
+(3.27)
+
+(15.49)
+
+(8.14)
+
+2
+
+0.93
+
+1.28
+
+0.99
+
+(3.64)
+
+(17.73)
+
+(7.26)
+
+0.80
+
+1.21
+
+0.91
+
+(2.98)
+
+(23.52)
+
+(6.88)
+
+0.92
+
+0.96
+
+0.86
+
+(4.32)
+
+(19.09)
+
+(7.16)
+
+0.55
+
+0.39
+
+0.81
+
+(3.29)
+
+(8.06)
+
+(6.27)
+
+3
+4
+5
+
+Note: The table gives the instrumental estimates of the regression coefficients of the quintile -specific
+program participation rates across regions on the average rate by state for that program. The leave-out mean
+participation rate is the instrument for the actual mean. The numbers in parentheses are t-ratios.
+Source: Lanjouw and Ravallion (1999); calculations based on the 1993-94 National Sample Survey.
+
+An evaluation of the experience of public works in South Africa is now available (Adato
+et al, 1999). With respect to targeting performance, the outcomes appear to be somewhat
+mixed. Using socioeconomic data at the district level, the study found that some districts with
+very high levels of poverty and unemployment had no projects, while some with low levels
+of poverty had benefited from several. Although women were among the main target groups,
+only 23 percent of the employment generated by the programs actually went to women.
+In the Philippines, largely because of a relatively high wage rate (cash plus in kind
+wages), participants in public works programs appeared to come from marginally poor and
+non-poor families rather than from ultra-poor families (Subbarao et al, 1997).
+Social Gains
+It appears that well-designed workfare programs do have the potential to confer significant
+social gains. For example, India’s Maharastra Employment Guarantee Scheme was designed
+to encourage the participation of women. Employment was provided within 5 km from their
+places of residence, creche facilities were provided, and male- female wage discrimination
+was eliminated. As a result, close to half of all participants were women. Datt and Ravallion
+(1992) have quantified the impact of the program and found that the severity of poverty has
+fallen from 5.0 percent to 3.2 percent owing to participation in the MEGS. In addition to
+economic (transfer) gains, Dev (1996) notes that there have been social gains: “The MEGS
+also discourages sexual barriers and inequality… Women now dress better and their
+economic power has given them a better status in their families.”
+
+22
+
+VI. How to Plan, Implement, and Evaluate Public Works Programs: A
+Synthesis
+Figure 3 provides a schematic view of the considerations that should be borne in mind a
+priori at different stages in the planning of public workfare programs.
+Figure 3: Designing and Implementing Public Works
+
+Stages
+
+What You Should Consider
+
+What you need:
+Capital
+Food/Cash
+Implementing Agencies,
+Institutions
+
+Source of financing: If out of general tax revenues,
+Consider competing demands from other public goods
+Consider other demands on scarce institutional and
+administrative resources
+
+Public Works Projects
+
+Immediate Impacts:
+Employment
+
+Medium-term impacts: Assets
+
+Other Spin Offs
+
+→ Choice of projects; community involvement
+→ Technical feasibility, labor intensity
+→ Level of the wage rate; mode of payment
+→
+→
+→
+→
+→
+
+Targeting effectiveness
+Labor market effects
+Transfer gains
+Stabilization Gains; improved risk management
+Cost-effectiveness
+
+→ Distributional impacts of assets created
+→ Second round employment effects
+→ Quality of assets; Asset maintenance
+→ Gender impacts, women’s empowerment
+→ Food Security; improved nutrition
+→ Community mobilization
+
+Source: Author.
+
+First, it is important to begin with the sources and adequacy of financing. If the program
+is to be financed out of general tax revenues, it is useful to consider competing demands for
+money to generate public goods vital for the welfare of poor households. Second, program
+planners need to consider technical feasibility, the level of the wage rate and the mode of
+payment, the choice of projects, and community involvement. Third, the implications of the
+choice of projects and the wage rate on targeting effectiveness in particular and the
+program’s labor market impact in general need to be considered. Fourth, the potential of the
+program to make stabilize the incomes and reduce the risks faced by poor households needs
+to be borne in mind. Finally, in terms of impact, it is important to consider the program’s
+effects on income distribution, any second-round employment effects it may have, any
+effects on the gender gap, and its cost effectiveness. Other spin-offs such as community
+mobilization, women’s empowerment, and other social gains also need to be considered.
+23
+
+In designing and implementing the program, four general conclusions from experiences
+I have reviewed above need to be borne in mind:
+(a) The level of the wage rate is critical for determining the distributio n of benefits
+from the program, as well as its targeting effectiveness.
+(b) The timing and duration of employment often determine the stabilization gains from
+the program. It is important to remember that, even if transfer benefits are small, the
+program’s stabilization (risk) benefits may be large, especially in economies subject
+to periodic natural disasters.
+(c) The program can be designed to attract the participation of women, a high degree of
+involvement of the private sector or non-governmental agenc ies, and low
+transaction costs of participation for the poor.
+(d) In order to achieve an acceptable level of cost-effectiveness, it is very important to
+be concerned not only about the level of the wage rate but also the degree of labor
+intensity, the quality of the assets created and the extent to which the poor actually
+benefit from the assets that are created, and the second-round employment benefits
+arising out of those assets.
+
+24
+
+References
+The word processed describes informally reproduced works that may not be commonly
+available through libraries.
+Adato M., L. Haddad, D. Horner, N. Ravjee, and R. Haywood. 1999. “From Works to Public
+Works: The Performance of Labor-Intensive Public Works in Western Cape
+Province, South Africa.” International Food Policy Research Institute, Washington,
+D.C. Processed.
+Datt, G., and M. Ravallion. 1992. “Behavioral Responses to Workfare Programs: Evidence
+for Rural India.” LSMS (Living Standards Measurement Study) Working Paper,
+World Bank, Washington, D.C.
+_____. 1994. “Transfer Benefits from Public Works Employment: Evidence for Rural India,”
+Economic Journal 104: 1346-69.
+Dev, S. M. 1996. “India’s MEGS: Lessons from Long Experience.” Indira Gandhi Institute
+of Development Research, Bombay. Processed.
+Frigenti, L., and A. Harth. 1998. “Local Solutions to Regional Problems: The Growth of
+Social Funds and Public Works and Employment Projects in Sub-Saharan Africa.”
+World Bank, Africa Region, Washington, D.C. Processed.
+Gaiha, R. 2000. “Rural Public Works and the Poor: A Re view of the Employment Guarantee
+Scheme in Maharashtra.” Faculty of Management Studies, University of Delhi.
+Processed.
+Himmelfarb, G. 1984. The Idea of Poverty. London: Faber.
+Jalan J., and M. Ravallion. 1999. “Income Gains to the Poor from Workfare: Es timates for
+Argentina’s Trabajar Program.” Policy Research Working Paper 2149, Development
+Research Group, World Bank, Washington, D.C.
+Jorgensen, S., M. Grosh, and M. Schacter. 1992. “Easing the Poor Through Economic
+Adjustment: The Story of Bolivia’s Emergency Social Fund.” World Bank Regional
+Studies Program, World Bank, Washington, D.C.
+Lanjouw, P. and M. Ravallion. 1999. “Benefit Incidence and the Timing of Program
+Capture.” The World Bank Economic Review: May, pp. 257-273.
+Lipton, M. 1996. “Successes in Anti-Poverty.” Discussion Paper 8, International Labor
+Office, Geneva.
+Radhakrishna, R. and K. Subbarao. 1997. India’s Public Distribution System: A National and
+International Perspective. World Bank Discussion Paper No. 380. Washington, D.C.
+Ravallion, M. 1999. “Appraising Workfare.” The World Bank Research Observer 14(1): 3148.
+25
+
+_____. 2000. “Monitoring Targeting Performance when Decentralized Allocations to the
+Poor are Unobserved.” The World Bank Economic Review: May, pp. 331-45.
+Stock, E., and J. de Veen. 1996. “Expanding Labor-Based Methods in Road Programs.”
+Africa Technical Department, World Bank, Washington, D.C. Processed.
+Subbarao, K. 1993. “Interventions to Fill Nutrition Gaps at the Household- Level: A Review
+of India’s Experience.” In B. Harriss, S. Guhan, and R.H. Cassen, eds., Poverty in
+India: Research and Policy. Bombay: Oxford University Press.
+_____. 1997. “Public Works as an Anti-Poverty Program: An Overview of Cross-Country
+Experience.” American Journal of Agricultural Economics 79 (May): 678-683.
+_____. 1999. “Financial Crises and Safety Nets: Old and the New Poor in Korea.” World
+Bank, ,Washington, D.C. Processed.
+Subbarao, K., A. Ahmed, and T. Teklu. 1995. Philippines: Social Safety Net Programs:
+Targeting, Cost-Effectiveness and Options for Reform. World Bank Discussion Paper
+No. 317. Washington, D.C.
+Subbarao, K., A. Bonnerjee, J. Braithwaite, S. Carvalho, K. Ezemenari, C. Graham, and A.
+Thompson. 1997. Safety Net Programs and Poverty Reduction: Lessons from CrossCountry Experience. Directions in Development, World Bank: Washington D.C.
+Teklu, T. 1994. “Labor-Intensive Rural Roads in Kenya, Tanzania and Botswana: Some
+Evidence on Design and Practice” International Food Policy Research Institute,
+Washington, D.C. Processed.
+Von Braun, J., T. Teklu, and P. Web. 1992. “Labor-Intensive Public Works for Food Security
+in Africa: Past Experience and Future Potential.” International Labor Review 131(1):
+19-33.
+Walker, T., and J. Ryan. 1990. Village and Household Economies in India’s Semi-Arid
+Tropics. Baltimore: The Johns Hopkins University Press.
+World Bank. 1994. “Poverty Alleviation and Social Investment Funds: The Latin American
+Experience.” Latin America Human Development Department, Washington, D.C.
+Processed.
+_____. 1998. Reducing Poverty in India: Options for More Executive Public Services.
+Washington, D.C.
+
+26
+
+
